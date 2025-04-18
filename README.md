@@ -106,3 +106,23 @@ Creemos que los usuarios apreciarán la diferencia que hace el agregar items a t
 |  | What’s the most important thing we need to learn first?  | What’s the least amount of work we need to learn the next most important thing?    |
 |  | Crear colecciones personalizadas Agregar items a las colecciones Compartir colecciones mediante generación de QR Etiquetas o categorías de colecciones | Diseñar de entrevista con preguntas concretas a una estadística Formulario de interés de la plataforma a usuarios  |
 ## 1.3. Segmentos objetivo
+
+### 1.3.1 Segmento 1: Diseñadores  
+     
+Los diseñadores diariamente necesitan recopilar referencias visuales e ideas que los ayude a mejorar sus trabajos, estas ideas se pueden encontrar esparcidas por todo el internet y necesitan poder tener un lugar para guardarlas todas e incluso presentarlas como un moodboard para sus clientes.  
+     
+   **Caracteristicas:**  
+   - **Edad:** Mayor a 18 años  
+   - **Ubicación:** Lima, Peru  
+   - **Nivel Socioeconomico:** Medio a alto
+
+   
+
+### 1.3.2 Segmento 2: Compradores  
+        
+Los compradores buscan un lugar en el cual puedan guardar todos los objetos de interés que tienen de distintos marketplace en un solo lugar, ya sea para compararlos o usarlo como una lista de compra entre plataformas marketplace o e-commerce.  
+        
+  **Caracteristicas:**  
+  - **Edad:** Mayor a 18 años  
+  - **Ubicación:** Lima, Peru  
+  - **Nivel Socioeconomico:** Medio a alto
