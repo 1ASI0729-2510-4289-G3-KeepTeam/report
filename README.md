@@ -80,7 +80,11 @@ Hemos notado que las plataformas que usan los usuarios para guardar contenido, n
 ¿Cómo podemos diseñar una aplicación que sea intuitiva y fácil de usar?
 
 #### 1.2.2.2. Lean UX Assumptions
-
+Los usuarios desean guardar cosas distintas del internet en un solo lugar
+Los usuarios valoran un sistema de organización personalizada, donde tengan el control de cómo se ordenan las cosas
+Los usuarios estan familiriaziados con el uso de links y QR’s
+Los usuarios constantemente están encontrando nuevos items en internet
+Los usuarios están dispuestos a pagar por un servicio que les ayude a organizar sus ideas e items
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 #### 1.2.2.4. Lean UX Canvas
