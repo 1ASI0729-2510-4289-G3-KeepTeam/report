@@ -86,6 +86,16 @@ Los usuarios estan familiriaziados con el uso de links y QR’s
 Los usuarios constantemente están encontrando nuevos items en internet
 Los usuarios están dispuestos a pagar por un servicio que les ayude a organizar sus ideas e items
 #### 1.2.2.3. Lean UX Hypothesis Statements
+##### Hypothesis 1
+Creemos que los usuarios necesitan de una plataforma para guardar y organizar diversos ítems de internet que requieran usar en un futuro, puesto que sus actuales métodos de organización están dispersos a través de diferentes aplicaciones. Sabremos que estamos en lo correcto cuando más usuarios usen más la aplicación diariamente en un 30% y tengamos reseñas positivas.
+##### Hypothesis 2
+Creemos que aumentará la organización de los usuarios sobre sus ítems guardados porque tendrán acceso a una estructura adecuada y fácil de usar, por ende mejorando el orden de sus colecciones. Sabremos que estamos en lo correcto cuando el tiempo de búsqueda de un ítem en específico disminuya en un 40%.
+##### Hypothesis 3
+Creemos  que los usuarios valorarán la forma rápida y eficiente que ofrece la plataforma al momento de compartir sus colecciones con otros usuarios o personas externas a través de un QR pues es una forma mas rapida y limpia que copiar un enlace. Sabremos que estamos en lo correcto cuando la cantidad de usuarios que comparten sus colecciones aumentarán en un 30%
+##### Hypothesis 4
+Creemos que al ofrecer un filtro a través de palabras claves o etiquetas mejorará la organización y la búsqueda de los usuarios hacia sus ítems puesto que podrán clasificar colecciones entre sí. Sabremos que estamos en lo correcto cuando alrededor de un 40% de nuestros usuarios usen las etiquetas para clasificar sus colecciones.
+##### Hypothesis 5
+Creemos que los usuarios apreciarán la diferencia que hace el agregar items a través de elementos como el asistente de voz de Alexa o Google. Sabemos que estamos en lo correcto cuando un 70% de los usuarios use esta funcionalidad por lo menos una vez para añadir objetos a sus colecciones
 
 #### 1.2.2.4. Lean UX Canvas
 
