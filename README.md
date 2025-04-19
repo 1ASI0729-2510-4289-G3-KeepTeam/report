@@ -74,6 +74,28 @@ Soy estudiante en la Universidad Peruana de Ciencias Aplicadas y soy de la carre
 
 ### 1.2.1. Antecedentes y problemática
 
+### What (¿Qué?)
+La forma en que los usuarios guardan ideas o productos de interés está fragmentada entre notas del celular, capturas de pantalla y apps de tiendas específicas. Esta dispersión complica la organización y el seguimiento de deseos personales o futuros planes de compra. La incorporación de funcionalidades como listas de deseos digitales mejora significativamente la experiencia del usuario al permitirle guardar lo que le interesa para revisarlo más adelante, sin repetir búsquedas ni perder tiempo navegando (Sell Emprendepyme, 2023).
+
+### Who (¿Quién?)
+Este problema afecta principalmente a personas jóvenes y adultas que utilizan tecnología de manera cotidiana, en especial usuarios activos en redes sociales y plataformas de comercio electrónico. También impacta a quienes valoran la productividad y desean integrar herramientas como asistentes virtuales (Alexa, Google Assistant) para facilitar la gestión de sus intereses y decisiones de compra.
+
+### Where (¿Dónde?)
+La problemática se manifiesta sobre todo en contextos urbanos y digitalizados, donde existe un alto acceso a smartphones e internet. En estas zonas, los usuarios están expuestos a gran cantidad de información y productos, lo que aumenta la necesidad de herramientas eficientes que les permitan organizar y retomar decisiones en cualquier momento.
+
+### When (¿Cuándo?)
+Esta necesidad se ha intensificado desde la pandemia de COVID-19, momento en el que muchas personas empezaron a digitalizar sus rutinas y a depender más de herramientas móviles para planificar, comprar y tomar decisiones. La cantidad de estímulos visuales, ofertas y opciones en línea ha hecho más difícil la toma de decisiones rápida y eficaz.
+
+### Why (¿Por qué?)
+La falta de plataformas integradas que permitan agregar ítems desde diferentes canales, personalizar colecciones y utilizar herramientas modernas como escaneo QR o comandos de voz, limita la funcionalidad de las apps actuales. Además, tecnologías como el Internet de las Cosas (IoT) ofrecen posibilidades para conectar dispositivos y facilitar tareas cotidianas, pero su integración en este tipo de soluciones aún es limitada. Estas tecnologías, al ser bien implementadas, pueden mejorar significativamente la calidad de vida del usuario al automatizar procesos y facilitar la interacción con su entorno digital (Salinas Anaya et al., 2022).
+
+### How (¿Cómo?)
+Actualmente, los usuarios deben utilizar múltiples medios para guardar lo que desean: apps de notas, listas en papel o mensajes a sí mismos. Esta falta de unificación no solo reduce la eficiencia, sino que también impide compartir fácilmente listas con otras personas o retomarlas desde diferentes dispositivos. La ausencia de funcionalidades modernas como el agregado por voz o la organización inteligente limita el potencial de las herramientas existentes.
+
+### How much (¿Cuánto?)
+El impacto es funcional, emocional y económico. Los usuarios pierden tiempo y energía reubicando información o tomando decisiones de compra repetidas veces. Desde una perspectiva de negocio, esta brecha representa una oportunidad clara para monetizar a través de modelos freemium, mejorar la fidelización y aumentar el tiempo de navegación en plataformas digitales.
+
+
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
