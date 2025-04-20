@@ -196,6 +196,47 @@ Los compradores buscan un lugar en el cual puedan guardar todos los objetos de i
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+**Preguntas a realizar:**
+
+**Diseñadores:**
+
+  - ¿Cómo guardas tus inspiraciones de diferentes sitios actualmente?
+
+  - ¿Con qué frecuencia recolectas este tipo de información?
+
+  - ¿Qué tan buena es tu organización actual sobre tus ideas?
+
+  - ¿Cuánto tiempo aproximadamente demoras buscando cierto link que ayudará a tu trabajo?
+
+  - ¿Qué tan seguido estás frustrado/a de no encontrar una idea guardada en específico?
+
+  - Si estas trabajando, como presentas tus moodboards o esquemas de proyecto a clientes?
+
+  - Si estás estudiando, ¿de qué forma compartes una colección de ideas a tus demás compañeros?
+
+  - ¿Crees que una plataforma que reúna todas las ideas de diferentes sitios te ayude a mejorar tu productividad? ¿Cómo?
+
+  - ¿Crees que a través de la funcionalidad de compartir una colección de ideas mediante QR disminuiría el tiempo que un grupo demoraría en entender un concepto o idea de una colección?
+
+**Compradores:**
+
+  - ¿Qué tan seguido sueles realizar compras por internet?
+
+  - ¿Guardas productos antes de decidir si comprarlos o no?
+
+  - ¿Cómo guardas tus intereses de compra de diferentes plataformas actualmente?
+
+  - ¿Qué tan buena es tu organización actual sobre tus ítems de interés?
+
+  - ¿Cuánto tiempo aproximadamente demoras buscando cierto ítem en específico?
+
+  - ¿Qué tan seguido estás frustrado/a de no encontrar un item guardado?
+
+  - ¿Crees que una plataforma que reúna todas los items de diferentes sitios te ayude a mejorar la eficiencia en tus compras? ¿Cómo?
+
+  - ¿Crees que a través de la funcionalidad de compartir una colección de ideas mediante QR disminuiría el tiempo que un grupo demoraría en visualizar todos los ítems de la misma?
+
+  - ¿Te gustaría que se puedan agrupar tus items de interés a través de categorías (Cumpleanos, muebles, necesidades etc.)?
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 
