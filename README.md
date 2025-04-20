@@ -250,6 +250,26 @@ Los compradores buscan un lugar en el cual puedan guardar todos los objetos de i
 ![User Persona Diseñador Jenny Ruiz](assets/user-personas/Marco%20Villena.png)
 [Link a User Persona Diseñador](https://uxpressia.com/w/uKRya/p/K2kx6)
 ### 2.3.2. User Task Matrix
+**Diseñadores:**
+
+| Actividades | Frecuencia | Importancia |
+| ----- | ----- | ----- |
+| Guardar imágenes o enlaces de referencia de diferentes plataformas | Alta | Alta |
+| Organizar ideas en diferentes carpetas | Baja | Media |
+| Compartir sus ideas a usuarios externos | Alta | Alta |
+| Volver a buscar un contenido previamente visto | Media | Media |
+| Preparar contenido para presentar a otros | Baja | Baja |
+
+**Comprador:**
+
+| Actividades | Frecuencia | Importancia |
+| ----- | ----- | ----- |
+| Guardar enlaces de referencia a productos de diferentes plataformas | Alta | Alta |
+| Organizar productos en diferentes carpetas | Baja | Media |
+| Compartir su lista productos a usuarios externos | Alta | Alta |
+| Volver a buscar un contenido previamente visto | Media | Media |
+| Comparar productos con otros | Media | Baja |
+| Anotar detalles sobre lo guardado | Baja | Baja |
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
