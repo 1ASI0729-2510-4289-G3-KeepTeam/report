@@ -198,6 +198,14 @@ Los compradores buscan un lugar en el cual puedan guardar todos los objetos de i
 ### 2.2.1. Diseño de entrevistas
 **Preguntas a realizar:**
 
+**Generales:**
+
+  - ¿Cuál es tu nombre y apellidos?
+
+  - ¿Cuántos años tienes?
+
+  - ¿En qué distrito de Lima metropolitana resides actualmente?
+
 **Diseñadores:**
 
   - ¿Cómo guardas tus inspiraciones de diferentes sitios actualmente?
