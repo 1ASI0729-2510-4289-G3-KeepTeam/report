@@ -242,6 +242,13 @@ Los compradores buscan un lugar en el cual puedan guardar todos los objetos de i
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+**Diseñadores**
+![User Persona Diseñador Jenny Ruiz](assets/user-personas/Jenny%20Ruiz.png)
+[Link a User Persona Diseñador](https://uxpressia.com/w/2JtXc/p/Qlp9Z)
+
+**Compradores**
+![User Persona Diseñador Jenny Ruiz](assets/user-personas/Marco%20Villena.png)
+[Link a User Persona Diseñador](https://uxpressia.com/w/uKRya/p/K2kx6)
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
