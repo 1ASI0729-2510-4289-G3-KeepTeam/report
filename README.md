@@ -58,6 +58,12 @@
     - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
+[Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+- [3.2. User Stories](#32-user-stories)
+- [3.3. Impact Mapping](#33-impact-mapping)
+- [3.4. Product Backlog](#34-product-backlog)
+
 
 # Capítulo I: Introducción   
 ## 1.1. Startup Profile
@@ -173,3 +179,13 @@ Los compradores buscan un lugar en el cual puedan guardar todos los objetos de i
   - **Edad:** Mayor a 18 años  
   - **Ubicación:** Lima, Peru  
   - **Nivel Socioeconomico:** Medio a alto
+
+# Capítulo III: Requirements Specification
+
+## 3.1. To-Be Scenario Mapping
+
+## 3.2. User Stories
+
+## 3.3. Impact Mapping
+
+## 3.4. Product Backlog
