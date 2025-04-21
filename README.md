@@ -367,7 +367,9 @@ Para el desarrollo del diseño web hemos optado por usar la misma paleta de colo
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
+![Figma prototype screenshor](/assets/PrototypeFigma.png)
 
+[Link a prototipo de Figma](https://www.figma.com/proto/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=135-228&t=4qndhMek0CzRLY0i-1&scaling=min-zoom&content-scaling=fixed&page-id=13%3A501&starting-point-node-id=58%3A23&show-proto-sidebar=1)
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 ### 4.6.2. Software Architecture Container Diagrams
