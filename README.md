@@ -338,6 +338,23 @@ Para el desarrollo del diseño web hemos optado por usar la misma paleta de colo
 
 ### 4.4.3. Web Applications Mock-ups
 
+<img src="/assets/webappmockup/Dashboard%20-%20Colecction%20EditWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/Dashboard%20-%20ItemWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/Dashboard%20-%20Items%20-%20EmptyWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/Dashboard%20-%20ItemsWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/Dashboard%20-%20product%20pageWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/DashboardWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/Edit%20profileWebApplicationMock-Up-1.png" width="500"/>
+<img src="/assets/webappmockup/Edit%20profileWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/Link%20generatedWebApplicationMock-Up-1.png" width="500"/>
+<img src="/assets/webappmockup/Link%20generatedWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/PerfilWebApplicationMock-Up-1.png" width="500"/>
+<img src="/assets/webappmockup/PerfilWebApplicationMock-Up-2.png" width="500"/>
+<img src="/assets/webappmockup/PerfilWebApplicationMock-Up-3.png" width="500"/>
+<img src="/assets/webappmockup/PerfilWebApplicationMock-Up-4.png" width="500"/>
+<img src="/assets/webappmockup/PerfilWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/QR%20generatedWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/TarifasWebApplicationMock-Up.png" width="500"/>
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
