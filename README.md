@@ -250,7 +250,6 @@ Para asegurar que nuestro logo sea visible desde cualquier situación con su nom
 Para el desarrollo del diseño web hemos optado por usar la misma paleta de colores puesto que una buena consistencia dentro de los colores es algo que nos representa y logra que el usuario pueda ver una continuidad entre las pantallas. Por otro lado, y siguiendo el concepto de consistencia visual, usaremos bordes redondeados, todos con 10px, para poder lograr un estilo más amigable a la vista. En cuanto al texto, estaremos usando diferentes tamaños de letra y restricciones de entrada de caracteres, variaciones de colores con el fin de evitar cualquier sobrecarga de pantalla por texto y por último aseguraremos que nuestras pantallas cuenten con un descanso visual adecuado, logrando que los diferentes elementos que se encuentren sean fáciles de entender.
 
 #### 4.1.2.1 Paleta de colores
-
 <img src="/assets/keeplo-styles/Colores%20Claro.png" width="400"/>
 <img src="/assets/keeplo-styles/Colores%20Oscuro.png" width="400"/>
 
@@ -273,6 +272,7 @@ Para el desarrollo del diseño web hemos optado por usar la misma paleta de colo
 
 #### 4.1.2.2 Botones
 <img src="/assets/keeplo-styles/Botones%20-%20Asset%20Funcionales.png" width="800"/>
+
 #### 4.1.2.3 Caja de texto
 
 <img src="/assets/keeplo-styles/Cajas%20de%20Texto%20Blanco.png" width="400"/>
@@ -282,7 +282,6 @@ Para el desarrollo del diseño web hemos optado por usar la misma paleta de colo
 <img src="/assets/keeplo-styles/Ventana%20Desplegable.png" width="400"/>
 
 #### 4.1.2.5  Ventanas Emergentes
-
 <img src="/assets/keeplo-styles/Ventana%20Emergente%20Claro.png" width="800"/>
 
 ## 4.2. Information Architecture
@@ -294,11 +293,33 @@ Para el desarrollo del diseño web hemos optado por usar la misma paleta de colo
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+**Mobile:**
+
+<img src="/assets/landingpageWireMockUp/Wireframe%20Landing%20PageLandingPage.png" height="1000"/>
+
+**Desktop:**
+
+<img src="/assets/landingpageWireMockUp/WireFrame%20Landing%20PageLandingPage(1).png" height="1000"/>
+
 ### 4.3.2. Landing Page Mock-up
+**Mobile:**
+
+<img src="/assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage-1.png" height="1000"/>
+
+**Desktop:**
+
+<img src="/assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage.png" height="1000"/>
 
 ## 4.4. Web Applications UX/UI Design
+
+<img src="/assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage.png" height="1000"/>
+
 ### 4.4.1. Web Applications Wireframes
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
 
