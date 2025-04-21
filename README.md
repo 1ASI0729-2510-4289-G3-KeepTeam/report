@@ -206,7 +206,84 @@ Los compradores buscan un lugar en el cual puedan guardar todos los objetos de i
 
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
-### 4.1.2. Web Style Guidelines
+Los “Style Guidelines” se refieren al conjunto de reglas y parámetros que se debe seguir al desarrollar una plataforma a través de todas sus pantallas
+#### 4.1.1.1  Colores
+![Paleta de colores en fondo claro de Keeplio](/assets/keeplo-styles/Colores%20Claro.png)
+![Paleta de colores en fondo oscuro de Keeplio](/assets/keeplo-styles/Colores%20Oscuro.png)
+
+Para el desarrollo de “Keeplo” elegimos cuidadosamente los colores que nos representarían puesto que éstos crearían la paleta principal de colores que nuestro usuario visualizará al ingresar a la plataforma. Tomando esto en cuenta optamos por una paleta conformada por colores amarillos y naranjas. La eleccion de los colores fue importante puesto que cada color transmitia un sentimiento hacia el usuario, por ejemplo, decidimos elegir el amarillo pues este transmite una serenidad y alegria a nuestra solucion, logrando que sea mas amigable a la vista. Por otro lado, otro color que se presenta bastante dentro de nuestra solución es el naranja puesto que este refleja el entusiasmo, confianza y creatividad.
+
+
+#### 4.1.1.2 Tipografía
+
+La fuente que estamos empleando para el texto es Overpass. Esta cuenta con un aspecto limpio y medianamente curvo, logrando una interfaz estética al usuario mientras mantiene la profesionalidad del sitio. Asimismo, consideramos que su diseño amigable hace que los usuarios estén más dispuestos a leer lo que se encuentra dentro de la página. Para lograr un diseño organizado y fácil de distinguir, haremos ajustes al tamaño y grosor del texto.
+
+##### 4.1.1.2.1 Escala  
+<img src="/assets/keeplo-styles/Font%20Style%201.png" width="400"/>
+
+##### 4.1.1.2.2 Weights  
+<img src="/assets/keeplo-styles/Font%20Style%202.png" width="400"/>
+
+##### 4.1.1.2.3 Nomenclatura  
+<img src="/assets/keeplo-styles/Font%20Style%203.png" width="400"/>
+
+##### 4.1.1.2.4 Ejemplos  
+<img src="/assets/keeplo-styles/Font%20Style%204.png" width="400"/>
+
+#### 4.1.1.3 Branding
+    
+
+Para el logo que representará a la plataforma optamos por utilizar sus característicos colores para formarlo, y por otro lado vectores para formar una imagen amigable para el usuario y fácil de recordar.
+
+Para asegurar que nuestro logo sea visible desde cualquier situación con su nombre incluimos una versión con fondo claro y oscuro. De forma que podamos asegurar que el logotipo iba a generar un buen contraste y visibilidad independientemente de la base.
+
+##### 4.1.1.3.1 Claro
+<img src="/assets/keeplo-styles/Logo.png" width="400"/>
+<img src="/assets/keeplo-styles/Logo-2.png" width="400"/>
+
+##### 4.1.1.3.2 Oscuro:
+<img src="/assets/keeplo-styles/Logo-1.png" width="400"/>
+<img src="/assets/keeplo-styles/Logo-3.png" width="400"/>
+
+### 4.1.2 Web Style Guidelines
+
+Para el desarrollo del diseño web hemos optado por usar la misma paleta de colores puesto que una buena consistencia dentro de los colores es algo que nos representa y logra que el usuario pueda ver una continuidad entre las pantallas. Por otro lado, y siguiendo el concepto de consistencia visual, usaremos bordes redondeados, todos con 10px, para poder lograr un estilo más amigable a la vista. En cuanto al texto, estaremos usando diferentes tamaños de letra y restricciones de entrada de caracteres, variaciones de colores con el fin de evitar cualquier sobrecarga de pantalla por texto y por último aseguraremos que nuestras pantallas cuenten con un descanso visual adecuado, logrando que los diferentes elementos que se encuentren sean fáciles de entender.
+
+#### 4.1.2.1 Paleta de colores
+
+<img src="/assets/keeplo-styles/Colores%20Claro.png" width="400"/>
+<img src="/assets/keeplo-styles/Colores%20Oscuro.png" width="400"/>
+
+#### 4.1.2.1 Estilos de letra
+
+##### 4.1.2.1.1 Headings
+<img src="/assets/keeplo-styles/Headings.png" width="400"/>
+
+##### 4.1.2.1.2 Body Text
+<img src="/assets/keeplo-styles/BodyText.png" width="400"/>
+
+##### 4.1.2.1.3 Captions
+<img src="/assets/keeplo-styles/Captions.png" width="400"/>
+
+##### 4.1.2.1.4 Forms
+<img src="/assets/keeplo-styles/BodyText-1.png" width="400"/>
+
+##### 4.1.2.1.5 Buttons
+<img src="/assets/keeplo-styles/Botones.png" width="400"/>
+
+#### 4.1.2.2 Botones
+<img src="/assets/keeplo-styles/Botones%20-%20Asset%20Funcionales.png" width="800"/>
+#### 4.1.2.3 Caja de texto
+
+<img src="/assets/keeplo-styles/Cajas%20de%20Texto%20Blanco.png" width="400"/>
+<img src="/assets/keeplo-styles/Cajas%20de%20Texto%20Oscuro.png" width="400"/>
+
+#### 4.1.2.4  Ventanas desplegables: 
+<img src="/assets/keeplo-styles/Ventana%20Desplegable.png" width="400"/>
+
+#### 4.1.2.5  Ventanas Emergentes
+
+<img src="/assets/keeplo-styles/Ventana%20Emergente%20Claro.png" width="800"/>
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
