@@ -44,7 +44,7 @@
 <p align="center">Abril 2025</p>
 
 # Contenido
-[Capítulo I: Introducción](Capitulo-I-Introduccion)
+[Capítulo I: Introducción](#Capitulo-I-Introduccion)
 - [1.1. Startup Profile](#11-startup-profile)
   - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
   - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
