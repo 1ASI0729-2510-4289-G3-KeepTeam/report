@@ -316,11 +316,29 @@ Para el desarrollo del diseño web hemos optado por usar la misma paleta de colo
 
 ### 4.4.1. Web Applications Wireframes
 
+<img src="/assets/webappwireframe/Dashboard%20-%20Colecction%20EditWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/Dashboard%20-%20ItemWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/Dashboard%20-%20Items%20-%20EmptyWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/Dashboard%20-%20ItemsWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/Dashboard%20-%20product%20pageWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/DashboardWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/Edit%20profileWebApplicationWireFrame-1.png" width="500"/>
+<img src="/assets/webappwireframe/Edit%20profileWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/Link%20generatedWebApplicationWireFrame-1.png" width="500"/>
+<img src="/assets/webappwireframe/Link%20generatedWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame-1.png" width="500"/>
+<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame-2.png" width="500"/>
+<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame-3.png" width="500"/>
+<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame-4.png" width="500"/>
+<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/QR%20generatedWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/TarifasWebApplicationWireFrame.png" width="500"/>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-
 ### 4.4.3. Web Applications Mock-ups
+
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
