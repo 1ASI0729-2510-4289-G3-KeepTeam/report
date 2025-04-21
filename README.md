@@ -336,6 +336,14 @@ Para el desarrollo del diseño web hemos optado por usar la misma paleta de colo
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+<img src="/assets/KeeploWireFlow/Añadir%20y%20Editar%20Colecciones%20.png" width="800"/>
+<img src="/assets/KeeploWireFlow/Añadir%20y%20editar%20un%20ítem.png" width="800"/>
+<img src="/assets/KeeploWireFlow/Compartir%20contenido.png" width="800"/>
+<img src="/assets/KeeploWireFlow/Editar%20Perfil%20y%20Contraseña.png" width="800"/>
+<img src="/assets/KeeploWireFlow/Ingresar%20-%20Editar%20Información%20de%20pago.png" width="800"/>
+<img src="/assets/KeeploWireFlow/Ingresar%20a%20papelera.png" width="800"/>
+<img src="/assets/KeeploWireFlow/Registro%20e%20Inicio%20de%20sesión.png" width="800"/>
+
 ### 4.4.3. Web Applications Mock-ups
 
 <img src="/assets/webappmockup/Dashboard%20-%20Colecction%20EditWebApplicationMock-Up.png" width="500"/>
