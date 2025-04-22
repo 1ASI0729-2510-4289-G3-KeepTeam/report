@@ -282,6 +282,52 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 |User Story ID |Título | Descripción |Criterio de aceptación| EPIC |
 |---|---|---|---|---|
 | US01 |Crear colecciones personalizadas. | Como comprador, quiero crear colecciones con nombre y descripción, para organizar mis intereses por categorías. |Escenario 1: Creación de colección exitosa. Dado que el usuario ha iniciado sesión, cuando accede a la sección de 'Mis Colecciones' y crea una nueva colección con nombre y descripción, entonces el sistema debe guardar y mostrar la colección en su dashboard|EP01|
+| US02 | Añadir ítems a una colección.| Como comprador, quiero añadir ítems con nombre, imagen, enlace y descripción dentro de una colección, para organizar elementos de interés.| Escenario 1: Agregado exitoso de ítem. Dado que el usuario tiene una colección creada, cuando agrega un ítem con los campos completos, entonces el ítem se visualizará correctamente dentro de la colección seleccionada. |EP01|
+| US03 | Editar ítems existentes. | Como comprador, quiero poder editar los detalles de un ítem ya guardado, para mantener actualizada mi colección. | Escenario 1: Edición efectiva de ítem. Dado que el usuario visualiza sus ítems en una colección, cuando selecciona uno y actualiza la información, entonces los cambios deben reflejarse al instante. |EP01|
+| US04 | Compartir colección mediante código QR. | Como comprador, quiero compartir una colección a través de un código QR, para distribuir rápidamente ideas o recursos con otros. | Escenario 1: Generación y escaneo de QR. Dado que el usuario visualiza una colección, cuando selecciona la opción 'Compartir', entonces el sistema debe generar un código QR que permita a otros visualizar la colección sin necesidad de iniciar sesión. |EP01|
+| US05 | Compartir colección mediante link. | Como comprador, quiero compartir una colección a través de un link, para distribuir rápidamente ideas o recursos con otros. |Escenario 1: Generación y envío de link. Dado que el usuario visualiza una colección, cuando selecciona la opción 'Compartir', entonces el sistema debe generar un link que permita a otros visualizar la colección sin necesidad de iniciar sesión. |EP01|
+| US06 | Acceso público a colecciones compartidas. | Como usuario, quiero ver el contenido de una colección compartida, para conocer los elementos de interés sin crear una cuenta. | Escenario 1: Acceso directo mediante QR. Dado que el usuario puede escanear un QR o ingresar a un enlace compartido, cuando carga la página, entonces visualizará la colección. |EP01|
+| US07 | |Navegación entre mis colecciones. | Como diseñador, quiero una interfaz que me permita navegar fácilmente entre mis colecciones, para acceder a mis ideas con rapidez. |Escenario 1:. Menú lateral Dado
+que el usuario está en su dashboard Cuando accede a la sección 'Mis Colecciones' Entonces podrá cambiar de una colección a otra en un solo clic mediante un menú intuitivo. |EP01|
+| US08 | Visualización de mis colecciones. | Como diseñador, quiero que los ítems dentro de mis colecciones se vean de manera ordenada y visualmente atractiva, para encontrar fácilmente lo que necesito.| Escenario 1: Vista tipo grid. Dado que el usuario accede a una colección Cuando visualiza los ítems Entonces puede ver la vista de cuadrícula y ver claramente los detalles principales (imagen, título, enlace).|
+EP01|
+| US09 | Visualización de mis colecciones.| Como diseñador, quiero que los ítems dentro de mis colecciones se vean de manera ordenada y visualmente atractiva, para encontrar fácilmente lo que necesito.|Escenario 1: Vista tipo lista. Dado que el usuario accede a una colecciónCuando visualiza los ítems Entonces puede elegir el formato lista y ver claramente los detalles principales (título, enlace, etc). |EP01|
+| US10 | Subcarpetas en mis colecciones. | Como diseñador, quiero crear subcarpetas dentro de mis colecciones, para organizar referencias por proyectos o categorías específicas.| Escenario 1: Creación de subcarpeta. Dado que el diseñador se encuentra dentro de una colección específica Cuando el diseñador haga clic en el botón "Nueva subcarpeta" Entonces podrá ingresar un nombre para la subcarpeta y crearla dentro de la colección actual. Escenario 2: Herencia de permisos. Dado que una colección tiene configurados permisos específicos (por ejemplo, compartida con otro usuario) Cuando el diseñador cree una nueva subcarpeta dentro de esa colección Entonces la subcarpeta heredará automáticamente los mismos permisos que la colección principal.|EP01|
+| US11 | Búsqueda semántica. | Como comprador, quiero buscar ítems por palabras clave, tags o tipo de contenido, para encontrar rápidamente lo que necesito.| Escenario 1. Búsqueda por tag. Dado que el usuario escribe "#diseño" en la barra de búsqueda, entonces el sistema muestra todos los ítems etiquetados. Escenario 2: Búsqueda por keywords. El usuario utiliza palabras claves y el sistema le muestra items relacionados. |EP03|
+| US12 | Diseñar una API de gestión de perfiles.| Como desarrollador, debo crear endpoints para manejar perfiles de usuarios (compradores/diseñadores).|Escenario 1:Diferenciación de roles en BD. Dado que existen distintos tipos de usuarios (compradores y diseñadores) Cuando se registre un nuevo usuario a través del endpoint correspondiente Entonces el sistema deberá almacenar el rol asociado en la base de datos para permitir comportamientos diferenciados Escenario 2: Validación de campos obligatorios Dado que un usuario está creando o actualizando su perfil mediante la API Cuando no complete todos los campos obligatorios (como nombre, correo electrónico, rol, etc.) Entonces el sistema deberá rechazar la solicitud y devolver un mensaje de error indicando los campos faltantes. |EP04|
+| US13 | Compartir con permisos granulares. | Como comprador, quiero definir quién puede editar o solo ver mis colecciones compartidas, para controlar el acceso.| Escenario 1: Permisos de lectura. Dado que el usuario comparte un link Cuando selecciona "Solo lectura" Entonces los usuarios pueden visualizar los ítems, pero no pueden modificarlos. Escenario 2: Permisos de edición. Dado que el usuario comparte un link Cuando selecciona "Solo lectura" Entonces los usuarios no pueden modificar los ítems.	|EP02|
+| US14 | Vista previa de colecciones compartidas. |Como usuario, quiero ver una miniatura de la colección antes de acceder, para decidir si me interesa. |Escenario 1: Preview en QR link Dado que el usuario recibe un link |Cuando pasa el cursor sobre él Entonces ve las primeras 3 imágenes de la colección. |EP02|
+| US15 | Modo oscuro/accesibilidad.| Como diseñador, quiero cambiar el tema de la interfaz a modo oscuro y ajustar el tamaño de texto, para mayor comodidad visual. |Escenario 1: Activación de modo oscuro. 
+Dado que el usuario accede a Configuración Cuando selecciona "Modo Oscuro" Entonces la interfaz cambia inmediatamente. |EP02|
+| US16 | Sincronización multiplataforma. | Como comprador, quiero acceder a mis colecciones desde cualquier dispositivo, para tener flexibilidad. |Escenario 1: Sincronización en tiempo real. Dado que el usuario añade un ítem en su celular Cuando abre la app en su laptop Entonces el ítem ya está disponible. |EP01|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
