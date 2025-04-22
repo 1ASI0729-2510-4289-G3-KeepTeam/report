@@ -281,8 +281,7 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 
 |User Story ID |Título | Descripción |Criterio de aceptación| EPIC |
 |---|---|---|---|---|
-| US01 |Crear colecciones personalizadas. | Como comprador, quiero crear colecciones con nombre y descripción, para organizar mis intereses por categorías. |Escenario 1: Creación de colección exitosa. Dado que el usuario ha iniciado sesión, | cuando accede a la sección de 'Mis Colecciones' y crea una nueva colección con nombre y descripción, entonces el sistema debe guardar y mostrar la colección en su dashboard|
-EP01 |
+| US01 |Crear colecciones personalizadas. | Como comprador, quiero crear colecciones con nombre y descripción, para organizar mis intereses por categorías. |Escenario 1: Creación de colección exitosa. Dado que el usuario ha iniciado sesión, cuando accede a la sección de 'Mis Colecciones' y crea una nueva colección con nombre y descripción, entonces el sistema debe guardar y mostrar la colección en su dashboard|EP01|
 
 
 
