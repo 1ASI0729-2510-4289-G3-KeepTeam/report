@@ -183,6 +183,11 @@ Los compradores buscan un lugar en el cual puedan guardar todos los objetos de i
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para visualizar los procesos deseados en Keeplo. Esta práctica nos permite definir cómo los usuarios interactúan con la plataforma para guardar, organizar y compartir contenido digital, identificando oportunidades para optimizar su experiencia. Al tener una visión clara del flujo ideal, podemos priorizar funciones que resuelvan problemas clave como la pérdida de referencias, la desorganización de archivos y la dificultad para colaborar. Este enfoque asegurará que Keeplo ofrezca una solución intuitiva y poderosa, impulsando la productividad de nuestros usuarios y diferenciándose de alternativas fragmentadas como Pinterest o Notion.
+
+[![Imagen-de-Whats-App-2025-04-21-a-las-22-52-18-c3f1db27.jpg](https://i.postimg.cc/909ZN4WR/Imagen-de-Whats-App-2025-04-21-a-las-22-52-18-c3f1db27.jpg)](https://postimg.cc/MfWnnpfq)
+
+[![Imagen-de-Whats-App-2025-04-21-a-las-22-52-18-f27b42ba.jpg](https://i.postimg.cc/x1fNLpbb/Imagen-de-Whats-App-2025-04-21-a-las-22-52-18-f27b42ba.jpg)](https://postimg.cc/Why4vn82)
 
 ## 3.2. User Stories
 
