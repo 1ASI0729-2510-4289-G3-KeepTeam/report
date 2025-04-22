@@ -192,9 +192,10 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 ## 3.2. User Stories
 ### 3.2.1 Epics
 
-| EP01: Gestión de colecciones. |
-|----|----|
+ EP01: Gestión de colecciones. 
+
 |User Story ID | Título |
+|----|----|
 | US01 |Crear colecciones personalizadas.|
 | US02 | Añadir ítems a una colección.|
 | US03 | Editar ítems existentes.|
@@ -214,9 +215,10 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 | US33 |Cambiar el tema de colores del fondo de las colecciones.|
 | US34 |Restaurar colecciones eliminadas.|
 
-| EP02: Compartir colecciones. |
-|----|----|
+ EP02: Compartir colecciones. 
+
 |User Story ID | Título |
+|----|----|
 | US13 |Compartir con permisos granulares.|
 | US14 | Vista previa de colecciones compartidas.|
 | US17 | Exportar Colecciones a PDF.|
@@ -225,22 +227,25 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 | US40 | Encriptación de colecciones compartidas.|
 | US41 | Encriptación de ítems compartidos. |
 
-| EP03: Sistema de búsqueda |
-|----|----|
+ EP03: Sistema de búsqueda 
+
 |User Story ID | Título |
+|----|----|
 | US11 | Búsqueda semántica. |
 | US23 | Desarrollar una API que devuelva colecciones en base a una query.|
 
-| EP04: Registro y autenticación |
-|----|----|
+ EP04: Registro y autenticación 
+
 |User Story ID | Título |
+|----|----|
 | US12 |Diseñar una API de gestión de perfiles.|
 | US32 | Registrar Cuenta.|
 | US42 | Iniciar sesión en Cuenta.|
 
-| EP05: Experiencia e interacción con la landing page. |
-|----|----|
+ EP05: Experiencia e interacción con la landing page. 
+
 |User Story ID | Título |
+|----|----|
 | US26 |Ver el nombre, logo  y eslogan de la aplicación.|
 | US27 | Visualizar principales funciones.|
 | US28 | Visualizar botón destacado “Empieza ahora” en la sección principal del landing.|
@@ -257,17 +262,19 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 | US50 |Cambio de lenguaje a ingles y español.|
 | US51 |Atributos Aria.|
 
-| EP06: Actualizaciones del sistema. |
-|----|----|
+ EP06: Actualizaciones del sistema. 
+
 |User Story ID | Título |
+|----|----|
 | US35 |Actualizar foto de perfil.|
 | US36 | Modificar información personal (nombre, correo, etc.).|
 | US37 | Cambiar contraseña.|
 | US39 | Actualizar tarjeta de crédito asociada.|
 
-| EP07: Planes de suscripción. |
-|----|----|
+ EP07: Planes de suscripción. 
+
 |User Story ID | Título |
+|----|----|
 | US38 |Acceder al plan de suscripción premium.|
 
 
