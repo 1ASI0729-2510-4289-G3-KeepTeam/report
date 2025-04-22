@@ -190,6 +190,31 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 [![Imagen-de-Whats-App-2025-04-21-a-las-22-52-18-f27b42ba.jpg](https://i.postimg.cc/x1fNLpbb/Imagen-de-Whats-App-2025-04-21-a-las-22-52-18-f27b42ba.jpg)](https://postimg.cc/Why4vn82)
 
 ## 3.2. User Stories
+### 3.2.1 Epics
+| EP01: Gestión de colecciones. |
+|User Story ID | Título |
+|----|----|
+| US01 |Crear colecciones personalizadas.|
+| US02 | Añadir ítems a una colección.|
+| US03 | Editar ítems existentes.|
+| US04 | Compartir colección mediante código QR.|
+| US05 | Compartir colección mediante link.|
+| US06 | Acceso público a colecciones compartidas.|
+| US07 | Navegación entre mis colecciones.
+| US08 | Visualización de mis colecciones.
+| US09 |Visualización de mis colecciones.
+| US10 |Subcarpetas en mis colecciones.
+| US16 |Sincronización multiplataforma. |US18 |Eliminar colecciones.
+| US19 |Etiquetado manual de ítems.
+| US20 |Desarrollar una API de cruds de colecciones
+| US21 |Desarrollar una API cruds de ítems.
+| US22 |Descripción de ítems.
+| US33 |Cambiar el tema de colores del fondo de las colecciones.
+| US34 |Restaurar colecciones eliminadas.
+
+
+
+
 
 ## 3.3. Impact Mapping
 
