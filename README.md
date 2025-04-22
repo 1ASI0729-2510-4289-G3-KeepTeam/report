@@ -191,28 +191,84 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 
 ## 3.2. User Stories
 ### 3.2.1 Epics
+
 | EP01: Gestión de colecciones. |
-|User Story ID | Título |
 |----|----|
+|User Story ID | Título |
 | US01 |Crear colecciones personalizadas.|
 | US02 | Añadir ítems a una colección.|
 | US03 | Editar ítems existentes.|
 | US04 | Compartir colección mediante código QR.|
 | US05 | Compartir colección mediante link.|
 | US06 | Acceso público a colecciones compartidas.|
-| US07 | Navegación entre mis colecciones.
-| US08 | Visualización de mis colecciones.
-| US09 |Visualización de mis colecciones.
-| US10 |Subcarpetas en mis colecciones.
-| US16 |Sincronización multiplataforma. |US18 |Eliminar colecciones.
-| US19 |Etiquetado manual de ítems.
-| US20 |Desarrollar una API de cruds de colecciones
-| US21 |Desarrollar una API cruds de ítems.
-| US22 |Descripción de ítems.
-| US33 |Cambiar el tema de colores del fondo de las colecciones.
-| US34 |Restaurar colecciones eliminadas.
+| US07 | Navegación entre mis colecciones.|
+| US08 | Visualización de mis colecciones.|
+| US09 |Visualización de mis colecciones.|
+| US10 |Subcarpetas en mis colecciones.|
+| US16 |Sincronización multiplataforma. |
+| US18 |Eliminar colecciones.|
+| US19 |Etiquetado manual de ítems.|
+| US20 |Desarrollar una API de cruds de colecciones|
+| US21 |Desarrollar una API cruds de ítems.|
+| US22 |Descripción de ítems.|
+| US33 |Cambiar el tema de colores del fondo de las colecciones.|
+| US34 |Restaurar colecciones eliminadas.|
 
+| EP02: Compartir colecciones. |
+|----|----|
+|User Story ID | Título |
+| US13 |Compartir con permisos granulares.|
+| US14 | Vista previa de colecciones compartidas.|
+| US17 | Exportar Colecciones a PDF.|
+| US24 | Compartir ítems individuales.|
+| US25 | Límite de acceso temporal.|
+| US40 | Encriptación de colecciones compartidas.|
+| US41 | Encriptación de ítems compartidos. |
 
+| EP03: Sistema de búsqueda |
+|----|----|
+|User Story ID | Título |
+| US11 | Búsqueda semántica. |
+| US23 | Desarrollar una API que devuelva colecciones en base a una query.|
+
+| EP04: Registro y autenticación |
+|----|----|
+|User Story ID | Título |
+| US12 |Diseñar una API de gestión de perfiles.|
+| US32 | Registrar Cuenta.|
+| US42 | Iniciar sesión en Cuenta.|
+
+| EP05: Experiencia e interacción con la landing page. |
+|----|----|
+|User Story ID | Título |
+| US26 |Ver el nombre, logo  y eslogan de la aplicación.|
+| US27 | Visualizar principales funciones.|
+| US28 | Visualizar botón destacado “Empieza ahora” en la sección principal del landing.|
+| US29 | Acceder a la página inicio de sesión desde el botón “Iniciar sesión”.|
+| US30 | Acceder a la página de registro de diseñador a través de botón “Empezar como diseñador”.|
+| US31 |Acceder a la página de registro de comprador a través de botón “Empezar como comprador”.|
+| US43 | Navigation Bar.|
+| US44 | Seccion Hero.|
+| US45 |Seccion Estadisticas.|
+| US46 |Sección Ofrecemos.|
+| US47 |Seccion Planes. |
+| US48 |Seccion Porque Nosotros.|
+| US49 |Footer.|
+| US50 |Cambio de lenguaje a ingles y español.|
+| US51 |Atributos Aria.|
+
+| EP06: Actualizaciones del sistema. |
+|----|----|
+|User Story ID | Título |
+| US35 |Actualizar foto de perfil.|
+| US36 | Modificar información personal (nombre, correo, etc.).|
+| US37 | Cambiar contraseña.|
+| US39 | Actualizar tarjeta de crédito asociada.|
+
+| EP07: Planes de suscripción. |
+|----|----|
+|User Story ID | Título |
+| US38 |Acceder al plan de suscripción premium.|
 
 
 
