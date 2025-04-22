@@ -330,7 +330,8 @@ Link: Entrevista 6.mp4
 
 
 ### 2.2.3. Análisis de entrevistas
-
+| Nombre del entrevistado | Análisis de la entrevista |
+|--------------------------|---------------------------|
 | Maria Angeles | Nuestra invitada María Ángeles revela una problemática recurrente en profesionales creativos la cual es la fragmentación de herramientas digitales y la ausencia de sistemas de organización. Su|                  | uso de herramientas como Pinterest para inspiración y WhatsApp para compartir evidencia es una brecha en su sistema Su analogía con "playlists de Spotify" es particularmente reveladora, pues|                    | señala la necesidad de estructuras jerárquicas personalizables como subcarpetas y contexto colaborativo como notas grupales, son elementos ausentes en soluciones actuales.|
 
 |Eunice Blas  |El caso de Eunice ejemplifica un desafío crítico en la gestión de inspiración creativa: la desconexión entre herramientas de recopilación y presentación es notoria. Su flujo de trabajo actual que|                |combina Pinterest, Google Drive y WhatsApp genera un costo oculto de productividad al obligarla a recontextualizar contenido que puede considerarse desordenado. La práctica de enviar links por|                   |WhatsApp muestra una solución rápida pero poco efectiva, La frustración de Eunice muestra un punto clave el cual es no solo se busca guardar contenido, sino preservar ese contenido.|
