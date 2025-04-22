@@ -256,6 +256,8 @@ Distrito: Pueblo Libre
 Duración: 12:14
 Link: Entrevista 1 .mp4
 
+[![Imagen-de-Whats-App-2025-04-21-a-las-21-47-47-3b53496a.jpg](https://i.postimg.cc/Rhpz3FrF/Imagen-de-Whats-App-2025-04-21-a-las-21-47-47-3b53496a.jpg)](https://postimg.cc/4Hc0qXxk)
+
 Resumen de la entrevista: Nuestra primera invitada es María Ángeles, una diseñadora gráfica y estudiante que utiliza principalmente Pinterest y Cosmos para guardar inspiración, pero enfrenta problemas como la pérdida de referencias y la búsqueda tediosa de imágenes específicas debido a las limitaciones de organización en estas plataformas. Destaca su necesidad de organización detallada similar a "playlists de Spotify" podríamos decir, algo que Pinterest no ofrece, como subcarpetas o notas grupales, lo que la obliga a complementar con WhatsApp para discutir ideas. Valora la propuesta de Keeplo como una solución unificada para guardar enlaces, imágenes y videos en un solo lugar, con funciones avanzadas como carpetas anidadas y la opción de compartir mediante QR o links, aunque sugiere mantener ambas alternativas por comodidad (especialmente al trabajar en computadora). Su principal frustración es el tiempo perdido migrando contenido entre apps, por lo que una plataforma integrada y flexible mejoraría significativamente su productividad.
 
 Entrevista 2:
@@ -267,6 +269,8 @@ Edad: 22
 Distrito: Pueblo Libre
 Duración: 07:29
 Link: Entrevista 2 .mp4
+
+[![Imagen-de-Whats-App-2025-04-21-a-las-21-47-55-1f6ffaf5.jpg](https://i.postimg.cc/SQg41ZXh/Imagen-de-Whats-App-2025-04-21-a-las-21-47-55-1f6ffaf5.jpg)](https://postimg.cc/MXfgvmbP)
 
 Resumen de la entrevista: Eunice, una diseñadora gráfica que utiliza principalmente Pinterest y google drive para guardar contenido que sean de su agrado y luego pueda usar de inspiración, pero enfrenta problemas de organización dispersa al guardar contenido en múltiples plataformas. Destaca la dificultad de gestionar los links, estos los suele enviar por su WhatsApp y luego olvidar que los ha guardado ahí, lo que le genera frustración o pérdida de tiempo al intentar encontrarlo. Para presentar proyectos a clientes, recurre a PDFs con moodboards (Canva o figma), pero señala limitaciones al incluir links en formatos estáticos. Valora la propuesta que ofrece Keeplo como una solución centralizada para guardar imágenes, links y videos en un solo lugar, con funciones como tableros por categorías y compartir mediante QR. En resumen su mayor necesidad es ahorrar tiempo evitando migrar entre apps, por lo que una plataforma colaborativa y multifuncional mejoraría su flujo de trabajo y estudio.
 
@@ -280,6 +284,8 @@ Distrito: Surco
 Duración: 6:01
 Link: Entrevista 3 .mp4
 
+[![Imagen-de-Whats-App-2025-04-21-a-las-21-48-23-ac0c223b.jpg](https://i.postimg.cc/bvffSW5Q/Imagen-de-Whats-App-2025-04-21-a-las-21-48-23-ac0c223b.jpg)](https://postimg.cc/dh6xzHw1)
+
 Resumen de la entrevista: como tercer invitado en este segmento tenemos a José, él utiliza principalmente Google Drive y Pinterest para guardar inspiración, pero recurre a WhatsApp para enviar links a sí mismo, lo que a veces genera pérdida de información. Organiza sus archivos en carpetas nombradas en su computadora y Drive, pero reconoce que el método actual es frágil, especialmente con el tema de los links. José actualmente desempeña labores en proyectos universitarios y freelance, comparte contenido casi exclusivamente por WhatsApp (para trabajos grupales) o envía carpetas de Drive a clientes, aunque admite que los chats pueden saturarse y perder información. Valora la propuesta de Keeplo como una solución para centralizar imágenes, links y videos, destacando el potencial del QR para compartir colecciones. Destacando un punto que sería incluir un sistema de búsqueda eficiente para proyectos antiguos. Su principal dolor es la pérdida de links y la fragmentación de herramientas, por lo que una plataforma unificada que evite migrar entre apps mejoraría su productividad.
 
 
@@ -292,6 +298,7 @@ Distrito: Barranco
 Duración: 08:29
 Link: Entrevista 4 .mp4
 
+[![Imagen-de-Whats-App-2025-04-21-a-las-21-48-24-468b11cd.jpg](https://i.postimg.cc/6QVJrzsF/Imagen-de-Whats-App-2025-04-21-a-las-21-48-24-468b11cd.jpg)](https://postimg.cc/FfKBmyHx)
 
 Resumen de la entrevista: la entrevistada para este segmento de compradores en línea es Dayana, estudiante universitaria y compradora frecuente (3-4 veces/mes), enfrenta problemas de organización dispersa al guardar productos de interés: recurre a capturas de pantalla y links pegados en WhatsApp, lo que le genera frustración al perder el contexto de los ítems o incluso generando dudas como : ¿Era este el esmalte o la base?". Valora especialmente la propuesta de Keeplo para centralizar y categorizar sus hallazgos (ej: pestañas como "Maquillaje" o "Regalo Mamá"), destacando la utilidad del QR para compartir listas de forma inmediata. Su principal dolor es el tiempo perdido revisando links sin clasificar, por lo que una plataforma con búsqueda por categorías visuales y previsualización de productos mejoraría significativamente su eficiencia en compras. Como sugerencia, resalta la importancia de que las categorías sean personalizables y simples (no requieren subniveles complejos como los diseñadores), adaptándose a su flujo espontáneo de descubrimiento y compra.
 
@@ -304,6 +311,8 @@ Distrito: Breña
 Duración: 07:46
 Link: Entrevista 5 .mp4
 
+[![Imagen-de-Whats-App-2025-04-21-a-las-21-48-24-6278a75b.jpg](https://i.postimg.cc/3RKMnpYN/Imagen-de-Whats-App-2025-04-21-a-las-21-48-24-6278a75b.jpg)](https://postimg.cc/DWYYzSW3)
+
 Resumen de la entrevista: nuestro siguiente invitado es Leonardo el  cual realiza compras online 2 veces/mes (principalmente en ropa y productos tangibles) y actualmente organiza sus intereses de compras usando Notion, donde guarda links y capturas de pantalla en un portapapeles personalizado. Aunque considera su método "regularmente organizado", admite que a veces olvida guardar capturas en Notion o las borra accidentalmente, lo que le genera frustración al perder productos de interés. Valora la propuesta de Keeplo para centralizar ítems, pero se muestra escéptico ante el QR para compartir colecciones, resalta el hecho de "personas mayores podrían no entenderlo, prefiriendo links simples. Su principal necesidad es categorizar productos (ej: "Ropa") y sugiere una función innovadora: comparar precios del mismo ítem en distintas plataformas automáticamente. Destaca que, pese a su organización actual, una app dedicada a la organización le ahorraría tiempo en recuperar productos guardados y evitaría pérdidas.
 
 Entrevista 6:
@@ -315,30 +324,29 @@ Distrito: Jesus Maria
 Duración: 08:00
 Link: Entrevista 6.mp4
 
+[![Imagen-de-Whats-App-2025-04-21-a-las-21-48-25-a8dc1ce1.jpg](https://i.postimg.cc/NMb3VMj4/Imagen-de-Whats-App-2025-04-21-a-las-21-48-25-a8dc1ce1.jpg)](https://postimg.cc/dkkNZJdk)
 
  Resumen de la entrevista: Zayuri una estudiante de Ingeniería Industrial que le gusta realizar compras online 1-2 veces al mes y actualmente gestiona sus productos de interés mediante capturas de pantalla y el carrito de Temu, aunque enfrenta problemas frecuentes como lo son: productos agotados que desaparecen de su carrito y dificultad para reencontrar capturas en su galería, tendiendo a perder sus productos deseados. Valora la propuesta de Keeplo como solución para centralizar ítems de múltiples plataformas en categorías personalizadas, lo que reduciría su tiempo de búsqueda y ayudaría su organización. Sin embargo, muestra escepticismo ante el QR para compartir, prefiriendo links directos por practicidad al compartir con otras personas de manera virtual. Su principal frustración es la falta de organización entre tiendas online, lo que la lleva a perder productos deseados. Como sugerencia, destaca la necesidad de que Keeplo permita acceder directamente a la página original del producto desde la app, incluso si este se agota en una plataforma, pero está disponible en otra.
 
 
 ### 2.2.3. Análisis de entrevistas
-
- Maria Angeles
-Nuestra invitada María Ángeles revela una problemática recurrente en profesionales creativos la cual es la fragmentación de herramientas digitales y la ausencia de sistemas de organización. Su uso de herramientas como Pinterest para inspiración y WhatsApp para compartir evidencia es una brecha en su sistema Su analogía con "playlists de Spotify" es particularmente reveladora, pues señala la necesidad de estructuras jerárquicas personalizables como subcarpetas y contexto colaborativo como notas grupales, son elementos ausentes en soluciones actuales.
-
-Eunice Blas
-El caso de Eunice ejemplifica un desafío crítico en la gestión de inspiración creativa: la desconexión entre herramientas de recopilación y presentación es notoria. Su flujo de trabajo actual que combina Pinterest, Google Drive y WhatsApp genera un costo oculto de productividad al obligarla a recontextualizar contenido que puede considerarse desordenado. La práctica de enviar links por WhatsApp muestra una solución rápida pero poco efectiva, La frustración de Eunice muestra un punto clave el cual es no solo se busca guardar contenido, sino preservar ese contenido. 
-
-Jose Villegas
-El testimonio de José revela una contradicción fundamental en usuarios técnicos: aunque domina herramientas de organización como Google Drive o Notion, su flujo de trabajo sigue dependiendo mucho de soluciones improvisadas como links por WhatsApp. Este comportamiento refleja una brecha en las plataformas actuales. Su mención al "sistema de búsqueda eficiente para proyectos antiguos" es particularmente valiosa. Este dolor sería un principio destacado en  los usuarios técnicos los cuales buscan compatibilidad con otros sistemas.
-
-Dayana Chavarria
-El caso de Dayana nos muestra un patrón recurrente en compradores online ocasionales este sería la separación entre la intención de compra y la gestión efectiva de referencias. Su dependencia de capturas de pantalla y links por WhatsApp refleja un intento fallido de replicar el concepto de "wishlist" con herramientas que no están diseñadas para este fin. La valoración positiva del QR sugiere que su utilidad va mucho de la mano del contexto de uso. Como recomendación nos dejó su punto de ofrecer plantillas prediseñadas para compradores.
-
-Leonardo Roca
-Leonardo representa un perfil dividido en el aspecto de usuarios que  aunque adoptan herramientas avanzadas como Notion para organizar sus compras, su flujo de trabajo sigue presentando puntos débiles. Su caso revela tres puntos claves para el desarrollo de Keeplo: uno sería la organización digital, explicando un poco más seria tomar capturas automáticas de productos para que el usuario no olvide guardarlo. En otro punto se muestra algo escepticismo con respecto al Qr y se ve favorable al uso del link. Y por último la capacidad de comparar precios entre páginas.
-
-Zayuri Navarro
-En esta entrevista nuestra invitada Zayuri una compradora ocasional que evidencia tres problemas clave los cuales son la pérdida de productos al depender de un carrito de compras y capturas sin contexto alguno, como segundo punto la fragmentación entre plataformas sin historial de disponibilidad, y por último herramientas improvisadas como screenshots que no permiten acción posterior. Valora la propuesta de Keeplo como solución centralizada, pero rechaza el QR por poco práctico en entornos digitales, prefiriendo links directos. Su principal aporte es la necesidad de "persistencia de productos": que los ítems guardados mantengan acceso aunque se agoten en una tienda, buscándolos automáticamente en otras plataformas. Refleja que los compradores ocasionales priorizan la recuperabilidad sobre funciones complejas.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Maria Angeles | Nuestra invitada María Ángeles revela una problemática recurrente en profesionales creativos la cual es la fragmentación de herramientas digitales y la ausencia de sistemas de organización. Su                  | uso de herramientas como Pinterest para inspiración y WhatsApp para compartir evidencia es una brecha en su sistema Su analogía con "playlists de Spotify" es particularmente reveladora, pues                    | señala la necesidad de estructuras jerárquicas personalizables como subcarpetas y contexto colaborativo como notas grupales, son elementos ausentes en soluciones actuales.
+---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Eunice Blas    |El caso de Eunice ejemplifica un desafío crítico en la gestión de inspiración creativa: la desconexión entre herramientas de recopilación y presentación es notoria. Su flujo de trabajo actual que                |combina Pinterest, Google Drive y WhatsApp genera un costo oculto de productividad al obligarla a recontextualizar contenido que puede considerarse desordenado. La práctica de enviar links por                   |WhatsApp muestra una solución rápida pero poco efectiva, La frustración de Eunice muestra un punto clave el cual es no solo se busca guardar contenido, sino preservar ese contenido.
+---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Jose Villegas  |El testimonio de José revela una contradicción fundamental en usuarios técnicos: aunque domina herramientas de organización como Google Drive o Notion, su flujo de trabajo sigue dependiendo mucho 
+               |de soluciones improvisadas como links por WhatsApp. Este comportamiento refleja una brecha en las plataformas actuales. Su mención al "sistema de búsqueda eficiente para proyectos antiguos" es 
+               |particularmente valiosa. Este dolor sería un principio destacado en  los usuarios técnicos los cuales buscan compatibilidad con otros sistemas.
+---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dayana         |El caso de Dayana nos muestra un patrón recurrente en compradores online ocasionales este sería la separación entre la intención de compra y la gestión efectiva de referencias. Su dependencia de 
+Chavarria      |capturas de pantalla y links por WhatsApp refleja un intento fallido de replicar el concepto de "wishlist" con herramientas que no están diseñadas para este fin. La valoración positiva del QR 
+               |sugiere que su utilidad va mucho de la mano del contexto de uso. Como recomendación nos dejó su punto de ofrecer plantillas prediseñadas para compradores.
+---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Leonardo Roca  |Leonardo representa un perfil dividido en el aspecto de usuarios que  aunque adoptan herramientas avanzadas como Notion para organizar sus compras, su flujo de trabajo sigue presentando puntos                   |débiles. Su caso revela tres puntos claves para el desarrollo de Keeplo: uno sería la organización digital, explicando un poco más seria tomar capturas automáticas de productos para que el                       |usuario no olvide guardarlo. En otro punto se muestra algo escepticismo con respecto al Qr y se ve favorable al uso del link. Y por último la capacidad de comparar precios entre páginas.           --------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  Zayuri Navarro |En esta entrevista nuestra invitada Zayuri una compradora ocasional que evidencia tres problemas clave los cuales son la pérdida de productos al depender de un carrito de compras y capturas sin                  |contexto alguno, como segundo punto la fragmentación entre plataformas sin historial de disponibilidad, y por último herramientas improvisadas como screenshots que no permiten acción posterior. 
+               |Valora la propuesta de Keeplo como solución centralizada, pero rechaza el QR por poco práctico en entornos digitales, prefiriendo links directos. Su principal aporte es la necesidad de           
+               |"persistencia de productos": que los ítems guardados mantengan acceso aunque se agoten en una tienda, buscándolos automáticamente en otras plataformas. Refleja que los compradores ocasionales 
+               |priorizan la recuperabilidad sobre funciones complejas.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------               
 
 
 ## 2.3. Needfinding
