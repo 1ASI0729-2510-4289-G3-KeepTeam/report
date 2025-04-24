@@ -385,6 +385,16 @@ Mediante los User Journey Maps, se representa la situación (AS-IS) de la experi
 ![User Journey 2](https://i.ibb.co/zV7h3x3T/userjou.png)
 
 ### 2.3.4. Empathy Mapping
+
+**Diseñadores:**
+
+![Empathy Map](https://i.postimg.cc/13V0T8br/empathy1.png)
+
+**Compradores**
+
+![Empathy Map 2](https://i.postimg.cc/sgWSmtZn/empathy2.png)
+
+
 ### 2.3.5. As-is Scenario Mapping
 
 ## 2.4. Ubiquitous Language
