@@ -76,6 +76,8 @@ Soy estudiante en la Universidad Peruana de Ciencias Aplicadas (UPC) cursando el
 #### 1.1.2.2 Aliaga Pimentel George Arturo
 Soy estudiante en la Universidad Peruana de Ciencias Aplicadas y soy de la carrera de Ingeniería de Software. Me considero una persona cooperativa y responsable, lo cual es requerido para un proyecto grupal. Junto a mis compañeros de grupo espero desarrollar un buen proyecto con las tecnologías que se aprenderán dentro del curso
 
+<img src="https://i.ibb.co/JWbFrqLt/image.png" width="200" />
+
 #### 1.1.2.3 Martinez Ramos Bryan Felix
 Soy estudiante de la la Universidad Peruana de Ciencias aplicadas, UPC, de la carrera de ingeniería de Software, actualmente estoy en el quinto ciclo de carrera, soy una persona muy proactiva, además de colaborativa, soy responsable con los trabajos y tiempos de entrega durante los proyectos, me emociona mucho el curso y la realización de manera exitosa del proyecto Keeplo
 
