@@ -340,7 +340,6 @@ Link: Entrevista 6.mp4
 |Zayuri Navarro |En esta entrevista nuestra invitada Zayuri una compradora ocasional que evidencia tres problemas clave los cuales son la pérdida de productos al depender de un carrito de compras y capturas sin contexto alguno, como segundo punto la fragmentación entre plataformas sin historial de disponibilidad, y por último herramientas improvisadas como screenshots que no permiten acción posterior. Valora la propuesta de Keeplo como solución centralizada, pero rechaza el QR por poco práctico en entornos digitales, prefiriendo links directos. Su principal aporte es la necesidad de "persistencia de productos": que los ítems guardados mantengan acceso aunque se agoten en una tienda, buscándolos automáticamente en otras plataformas. Refleja que los compradores ocasionales priorizan la recuperabilidad sobre funciones complejas.|
                
 
-
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 **Diseñadores**
@@ -350,6 +349,7 @@ Link: Entrevista 6.mp4
 **Compradores**
 ![User Persona Diseñador Jenny Ruiz](assets/user-personas/Marco%20Villena.png)
 [Link a User Persona Diseñador](https://uxpressia.com/w/uKRya/p/K2kx6)
+
 ### 2.3.2. User Task Matrix
 **Diseñadores:**
 
@@ -371,7 +371,19 @@ Link: Entrevista 6.mp4
 | Volver a buscar un contenido previamente visto | Media | Media |
 | Comparar productos con otros | Media | Baja |
 | Anotar detalles sobre lo guardado | Baja | Baja |
+
 ### 2.3.3. User Journey Mapping
+
+Mediante los User Journey Maps, se representa la situación (AS-IS) de la experiencia de los usuarios al interactuar con la plataforma desde el momento de exploración inicial hasta la curación y organización de su wishlist o lista de ideas visuales. Estos mapas permiten visualizar los puntos de contacto, emociones y acciones de los usuarios a lo largo de su recorrido, identificando oportunidades de mejora en la experiencia, usabilidad y valor de la plataforma tanto para compradores como para diseñadores.
+
+**Diseñadores:**
+
+![User Journey](https://i.postimg.cc/BQs0YFy2/userjou1.png)
+
+**Compradores**
+
+![User Journey 2](https://i.ibb.co/zV7h3x3T/userjou.png)
+
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
 
