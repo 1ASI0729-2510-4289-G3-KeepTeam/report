@@ -303,45 +303,15 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 | US20 | Desarrollar una API de cruds de colecciones | Como desarrollador quiero diseñar una API que se enfoque en la gestión de las colecciones para obtener información sobre estas rápidamente.| Escenario 1: Crear una colección Dado que el usuario cuenta con un perfil activo en la plataforma Cuando envíe una solicitud a la API para crear una nueva colección con nombre y descripción Entonces la API registrará la colección y devolverá una respuesta con los datos creados Escenario 2: Editar una colección. Dado que el usuario desea modificar una colección existente Cuando envíe una solicitud a la API con los nuevos datos de la colección Entonces la API actualizará la colección correspondiente y devolverá la información actualizada Escenario 3: Eliminar una colección. Dado que el usuario ya no necesita una colección Cuando envíe una solicitud a la API para eliminarla Entonces la API marcará la colección como eliminada y dejará de estar disponible para el usuario. |EP01|
 
 
+## **3.3. Impact Mapping**
 
+**Diseñadores:**
 
+![ImpactMap1](https://i.postimg.cc/1X92ckR2/Impact-map-Dise-adores-1.png)
 
+**Compradores:** 
 
+![ImpactMap2](https://i.postimg.cc/KYfn3wVR/Impact-map-Compradores.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 3.3. Impact Mapping
 
 ## 3.4. Product Backlog
