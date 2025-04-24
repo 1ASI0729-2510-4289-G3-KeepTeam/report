@@ -361,7 +361,7 @@ Link: Entrevista 6.mp4
 | Volver a buscar un contenido previamente visto | Media | Media |
 | Preparar contenido para presentar a otros | Baja | Baja |
 
-**Comprador:**
+**Compradores:**
 
 | Actividades | Frecuencia | Importancia |
 | ----- | ----- | ----- |
@@ -390,11 +390,19 @@ Mediante los User Journey Maps, se representa la situación (AS-IS) de la experi
 
 ![Empathy Map](https://i.postimg.cc/13V0T8br/empathy1.png)
 
-**Compradores**
+**Compradores:**
 
 ![Empathy Map 2](https://i.postimg.cc/sgWSmtZn/empathy2.png)
 
 
 ### 2.3.5. As-is Scenario Mapping
+
+**Diseñadores:**
+
+![AsIs1](https://i.postimg.cc/qByZzMwR/as-is1.png)
+
+**Compradores:**
+
+![AsIs2](https://i.postimg.cc/K4hF2qm5/as-is2.png)
 
 ## 2.4. Ubiquitous Language
