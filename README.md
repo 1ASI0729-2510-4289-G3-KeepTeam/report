@@ -295,6 +295,7 @@ En cuanto a la categorización, aplicamos la **organización por tópicos** para
 
 
 ### 4.2.2. Labeling Systems
+En esta sección, buscamos representar la información de manera clara, utilizando etiquetas concisas que guíen al usuario sin generar ambigüedades. Estas etiquetas mantienen un estilo consistente y, cuando es necesario, se acompañan de íconos para reforzar su significado. Para el sistema de etiquetado se hace uso de un lenguaje claro y directo, manteniendo entre una y tres palabras por etiqueta y cuidando las asociaciones visuales, como el uso de colores específicos para diferenciar planes o destacar botones de acción. Algunos ejemplos de las etiquetas utilizadas en la interfaz son: Home, New, Trending, Plans para la navegación principal; Dog Things y Accessories como nombres de categorías o colecciones de listas; Add to cart, Buy Now y See More como botones de acción; Starter Free, Plus e Infinite para los planes de suscripción; y finalmente, etiquetas como Change Password, Payment Information e History, dentro del perfil del usuario. Estas etiquetas permiten una experiencia más simple y fluida, evitando la sobrecarga y facilitando la navegación dentro de la aplicación web.
 
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
