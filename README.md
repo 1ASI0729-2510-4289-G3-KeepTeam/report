@@ -93,7 +93,7 @@ Soy estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC) y soy de la
 #### 1.1.2.4 Rojas Piñero Luis Miguel
 Soy estudiante de la Universidad Peruana de Ciencias Aplicadas de la carrera de Ingeniería de Software, actualmente estoy cursando mi 5to ciclo de la carrera y tengo expectativas de los cursos que llevo y lo que puedo lograr con mi esfuerzo. Me considero una persona que se desenvuelve bien trabajando en grupos ya que soy muy comunicativo con mis compañeros, de igual forma me motivan los proyectos actuales relacionados con el desarrollo de tecnologías útiles para el futuro. Junto a mi equipo estoy seguro de que lograremos realizar un gran proyecto este ciclo.
 
-
+<img src="/assets/profiles/IMG_4998(1).jpg" atl="Foto perfil Luis"  width=200>
 
 
 ## 1.2. Solution Profile
