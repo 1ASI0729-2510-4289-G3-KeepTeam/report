@@ -418,3 +418,20 @@ Mediante los User Journey Maps, se representa la situación (AS-IS) de la experi
 ![AsIs2](https://i.postimg.cc/K4hF2qm5/as-is2.png)
 
 ## 2.4. Ubiquitous Language
+
+* **Usuario**: Persona que utiliza la plataforma para organizar y acceder a contenido digital.  
+* **Ítem**: Elemento individual guardado por el usuario (producto, enlace, idea, imagen, etc.).  
+* **Colección**: Conjunto personalizado de ítems agrupados según temática o propósito.  
+* **Descripción**: Texto opcional que proporciona contexto o información sobre un ítem.  
+* **Imagen**: Representación visual asociada a un ítem guardado.  
+* **Enlace Web**: Dirección URL vinculada a un ítem.  
+* **Código QR**: Medio visual para compartir colecciones o ítems de forma rápida.  
+* **Guardar**: Acción de registrar un ítem dentro de una colección.  
+* **Compartir**: Función que permite distribuir ítems o colecciones mediante enlaces o códigos.  
+* **Organización**: Proceso de clasificar, agrupar o reordenar ítems.  
+* **Favoritos**: Ítems destacados por el usuario para un acceso rápido.  
+* **Recuperabilidad**: Capacidad del sistema para mantener acceso a ítems sin depender del estado original del contenido.  
+* **Historial**: Registro de actividad reciente o ítems agregados por el usuario.  
+* **Interfaz**: Espacio visual donde el usuario interactúa con las funciones del sistema.
+
+
