@@ -286,7 +286,16 @@ Para el desarrollo del diseño web hemos optado por usar la misma paleta de colo
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
+
+En nuestra plataforma Keeplo, organizamos la información para que los usuarios puedan explorar, comparar y añadir productos a su respectiva wishlist. A continuación, explicamos los sistemas de organización que utilizamos en distintas secciones de la aplicación:
+Utilizamos la **organización jerárquica** principalmente en la pantalla de inicio, donde destacamos secciones como colecciones principales, productos recomendados y botones de acción como “Ver más” o “Suscribirse”. Asimismo, también está presente en las fichas de producto, donde el título y la imagen tienen mayor relevancia visual que las descripciones secundarias.
+Por otro lado, aplicamos la **organización secuencial** en pantallas como la de suscripciones, en el flujo de pago y en el cambio de contraseña, donde el usuario debe seguir pasos consecutivos: seleccionar una opción, ingresar sus datos y finalmente confirmar.
+Además, para la presentación de productos se utiliza una **organización matricial**, que permite a los usuarios visualizar y comparar varios elementos simultáneamente en una cuadrícula.
+En cuanto a la categorización, aplicamos la **organización por tópicos** para agrupar los productos según características o temáticas, mejorando así la navegación y el aspecto visual. También implementamos la **organización alfabética** para facilitar la búsqueda de wishlists guardadas o elementos dentro de cada lista. Asmismo, usamos la **organización cronológica** para permitir a los usuarios ordenar sus listas según la fecha de creación, desde las más recientes hasta las más antiguas. Finalmente, algunas secciones como la gestión de cuenta, suscripción o historial están enfocadas al usuario registrado siguiendo una **categorización por audiencia**, mientras que la navegación general de productos está disponible para todos los visitantes.
+
+
 ### 4.2.2. Labeling Systems
+
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
