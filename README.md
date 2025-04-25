@@ -197,6 +197,21 @@ Los compradores buscan un lugar en el cual puedan guardar todos los objetos de i
 
 ### 5.1.1. Software Development Environment Configuration
 
+Esta sección aborda la configuración de las herramientas necesarias para el desarrollo del software, organizadas de acuerdo con las distintas fases y actividades del proyecto.
+
+| Categoría                   | Herramienta                  | Propósito                                                                                                            | Enlace                                                                                           |
+|----------------------------|------------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Gestión de Proyectos       | Trello                       | Organización de tareas, seguimiento ágil y coordinación del equipo en tiempo real.                                 |                                                                                                  |
+| Diseño UX/UI               | Figma                        | Diseño colaborativo de interfaces de usuario y prototipos funcionales.                                              | [https://www.figma.com/design/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo](https://www.figma.com/design/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=0-1&t=mgNe6ddw6WXnW3yI-1) |
+|                            | IntelliJ IDEA (PlantUML)     | Creación de diagramas UML directamente desde el entorno de desarrollo.                                              |                                                                                                  |
+|                            | UXPressia                    | Desarrollo de User Personas, Empathy Maps, Journey Maps e Impact Maps para entender al usuario.                    |                                                                                                  |
+| Desarrollo de Software     | IntelliJ IDEA                | IDE para programación en Java, depuración, testing y control de versiones.                                         |                                                                                                  |
+|                            | Visual Studio Code           | Editor de código para el desarrollo frontend de la landing page (HTML, CSS, JS).                                   |                                 |
+|                            | GitHub                       | Alojamiento del repositorio, control de versiones, colaboración y seguimiento de cambios.                          |  |
+| Documentación de Software  | Markdown + GitHub            | Redacción clara y estructurada de documentación técnica accesible desde el repositorio.                            | [https://github.com/1ASI0729-2510-4289-G3-KeepTeam/report](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/report)                                                                                                 |
+
+
+
 ### 5.1.2. Source Code Management
 
 ### 5.1.3. Source Code Style Guide & Conventions
