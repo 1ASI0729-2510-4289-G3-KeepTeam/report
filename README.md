@@ -313,7 +313,6 @@ Meta tags que pueden ser implementados:
 
 El sistema de búsqueda presente en el diseño se basa en una única barra de búsqueda visible en la interfaz principal, bajo el título “Search Collection”. Esta funcionalidad permite al usuario encontrar rápidamente una colección específica escribiendo un término clave y presionando “Enter”.
 
-```html
 <!-- Barra de búsqueda simple para colecciones -->
 <form action="/search" method="GET">
     <input
@@ -323,7 +322,6 @@ El sistema de búsqueda presente en el diseño se basa en una única barra de b�
         aria-label="Search collection"
         style="width: 100%; padding: 10px; font-size: 16px;" />
 </form>
-
 
 ### 4.2.5. Navigation Systems
 
