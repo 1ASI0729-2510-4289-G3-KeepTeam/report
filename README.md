@@ -274,3 +274,11 @@ Los compradores buscan un lugar en el cual puedan guardar todos los objetos de i
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+| Alumno                        | Actividad                                                               | 
+|-------------------------------|-------------------------------------------------------------------------|
+| George Arturo Aliaga Pimentel | Implementación de la sección hero y plans                               | 
+| Bryan Felix Martinez Ramos    | Implementación de la sección statistics                                 | 
+| Maria Elena Muñoz Machuca     | Implementación de la sección characteristics y why us de la landing page | 
+| Luis Miguel Rojas Piñero      | Implementación de la sección header de la landing page                  |
+| Gabriel Sanchez Gonzales      | Implementación de la sección Who Should Use This? y footer                       |
