@@ -214,6 +214,72 @@ Esta sección aborda la configuración de las herramientas necesarias para el de
 
 ### 5.1.2. Source Code Management
 
+En los próximos sprints, aplicaremos **Git Flow** para manejar el desarrollo, correcciones y lanzamientos. Esta metodología brinda un flujo de trabajo claro y ordenado, lo que mejora la colaboración del equipo y asegura una integración eficiente de los cambios, contribuyendo a la calidad del producto final.
+
+---
+
+### Repositorios GitHub
+
+- **Landing Page:** [https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page)  
+- **Documentación:** [https://github.com/1ASI0729-2510-4289-G3-KeepTeam/report](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/report)
+
+---
+
+### Implementación de Git Flow
+
+**Git Flow** se implementará como el workflow principal de control de versiones para gestionar eficientemente el desarrollo del software.
+
+#### Estructura de ramas:
+
+##### Ramas Principales:
+- `main`: Contiene el código estable y listo para producción.
+- `develop`: Rama de integración donde se consolidan nuevas funcionalidades.
+
+##### Ramas de Soporte:
+
+- **Feature branches**: Para nuevas funcionalidades.  
+  - Convención: `feature/[nombre-de-la-característica]`
+  - Ejemplo:
+    ```bash
+    git checkout -b feature/autenticacion-usuario
+    git add .
+    git commit -m "feat: Implementa autenticación de usuario"
+    git push -u origin feature/autenticacion-usuario
+    ```
+
+- **Release branches**: Para preparar una nueva versión antes del lanzamiento.  
+  - Convención: `release/[version]`
+  - Ejemplo:
+    ```bash
+    git checkout -b release/1.0.0
+    ```
+
+- **Hotfix branches**: Para corregir errores críticos directamente en `main`.  
+  - Convención: `hotfix/[version-fix]`
+  - Ejemplo:
+    ```bash
+    git checkout -b hotfix/1.0.1
+    git add .
+    git commit -m "fix: Corrige error crítico en autenticación"
+    git push -u origin hotfix/1.0.1
+    ```
+
+---
+
+### Flujo de Trabajo en Git Flow
+
+1. **Desarrollo de Características (Feature):**
+   - Se crean ramas desde `develop`.
+   - Al finalizar, se fusionan de nuevo en `develop`.
+
+   Ejemplo:
+   ```bash
+   git checkout -b feature/[nombre-de-la-caracteristica]
+   git add .
+   git commit -m "feat: [descripcion-de-la-caracteristica]"
+   git push -u origin feature/[nombre-de-la-característica]
+
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
 ### 5.1.4. Software Deployment Configuration
