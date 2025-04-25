@@ -201,6 +201,8 @@ Los compradores buscan un lugar en el cual puedan guardar todos los objetos de i
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+Keeplo aplicará una estrategia de diferenciación centrada en la organización personalizada de contenido digital, permitiendo a los usuarios guardar y clasificar elementos como productos, ideas o lugares en colecciones visuales, intuitivas y fáciles de compartir mediante códigos QR. Frente a plataformas más robustas o generalistas como Notion o Pinterest, Keeplo se posiciona como una alternativa ligera, práctica y enfocada en la simplicidad. Su valor está en ofrecer una experiencia de uso directa, rápida y sin complicaciones, ideal para estudiantes, creativos y usuarios que valoran la agilidad. Aprovechará las debilidades de sus competidores como la 
+
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 **Preguntas a realizar:**
