@@ -313,17 +313,29 @@ Meta tags que pueden ser implementados:
 
 El sistema de búsqueda presente en el diseño se basa en una única barra de búsqueda visible en la interfaz principal, bajo el título “Search Collection”. Esta funcionalidad permite al usuario encontrar rápidamente una colección específica escribiendo un término clave y presionando “Enter”.
 
-<!-- Barra de búsqueda simple para colecciones -->
-<form action="/search" method="GET">
-    <input
-        type="text"
-        name="query"
-        placeholder="Search collection"
-        aria-label="Search collection"
-        style="width: 100%; padding: 10px; font-size: 16px;" />
-</form>
+\<\!-- Barra de búsqueda simple para colecciones →  
+\<form action="/search" method="GET"\>  
+ 			 \<input  
+    			type="text"  
+    			name="query"  
+    			placeholder="Search collection"  
+    			aria-label="Search collection"  
+    			style="width: 100%; padding: 10px; font-size: 16px;"/\>  
+\</form\>
 
 ### 4.2.5. Navigation Systems
+
+**Navegación superior (Tabs principales):**  
+ El prototipo incluye una barra de navegación ubicada en la parte superior con pestañas para acceder a las secciones clave: **Dashboard**, **Discover** y **Plans**. Esta estructura permite cambiar fácilmente entre funcionalidades centrales de la aplicación, manteniendo el contexto del usuario.
+
+**Sección de navegación interna (My Collections):**  
+ Dentro del dashboard, la sección **My Collection** organiza el contenido en listas como **`Dog` Things, Cat Things, References**, entre otros. Cada ítem funciona como entrada navegable a una colección específica, facilitando el acceso rápido a contenidos previamente guardados.
+
+**Navegación por etiquetas (Tags):**  
+ Adicionalmente, se incluyen etiquetas temáticas como **Mascot, Inspo y Furniture**, que actúan como filtros o categorías para refinar la visualización del contenido según el interés del usuario.
+
+**Flujo de navegación esperado:**  
+ El flujo previsto parte del login o acceso, seguido por la llegada al **`Dashboard`** principal. Desde allí, el usuario puede explorar nuevas ideas (**`Discover`**), gestionar colecciones (**`My Collection`**) o revisar los planes de pago (`Plans`), generando una experiencia lógica e intuitiva.
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
