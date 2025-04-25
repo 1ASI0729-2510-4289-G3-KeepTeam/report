@@ -208,6 +208,58 @@ Los compradores buscan un lugar en el cual puedan guardar todos los objetos de i
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1
+<table>
+  <tr>
+    <th colspan="3">Sprint #1 - Sprint Planning Background</th>
+  </tr>
+<tr>
+    <td colspan="2"><strong>Date</strong></td>
+    <td>20/04/2025</td>
+  </tr>
+<tr>
+    <td colspan="2"><strong>Time</strong></td>
+    <td>8:00 PM</td>
+  </tr>
+<tr>
+    <td colspan="2"><strong>Location</strong></td>
+    <td>Discord</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Prepared by:</strong></td>
+    <td>George Aliaga</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Attendees(to planning meeting)</strong></td>
+    <td>George Aliaga, Gabriel Sanchez, Bryan Martinez, Luis Rojas, Maria Muñoz</td>
+  </tr>
+ <tr>
+    <td colspan="2"><strong>Sprint 1-1 Retrospective Summary</strong></td>
+    <td>- Buena coordinación del equipo a través de Discord <br> 
+    - Mejor organización en la creación de carpetas para evitar conflictos al clonar el repositorio
+    </td>
+  </tr>
+<tr>
+    <td colspan="2"><strong>Sprint 1-1 Review Summary</strong></td>
+    <td>Se completó el diseño y desarrollo inicial de la landing page de Keeplo</td>
+  </tr>
+<tr>
+    <th colspan="3">Sprint Goal & User Stories</th>
+  </tr>
+<tr>
+    <td colspan="2"><strong>Sprint 1 Goal</strong></td>
+    <td>Desarrollar una landing page innovadora e informativa para la aplicación Keeplo</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint 1 Velocity</strong></td>
+    <td>39</td>
+  </tr>
+ <tr>
+    <td colspan="2"><strong>Sum of Story Points</strong></td>
+    <td>39</td>
+  </tr>
+<tr>
+</table>
+
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
