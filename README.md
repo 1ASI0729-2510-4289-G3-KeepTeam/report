@@ -350,6 +350,9 @@ Link: Entrevista 6.mp4
                
 
 ## 2.3. Needfinding
+
+En esta sección se presentan los resultados del análisis de las necesidades del público objetivo. Se identificó una demanda por una herramienta sencilla y visual para guardar, organizar y compartir contenidos diversos de forma rápida y personalizada.
+
 ### 2.3.1. User Personas
 **Diseñadores**
 ![User Persona Diseñador Jenny Ruiz](assets/user-personas/Jenny%20Ruiz.png)
