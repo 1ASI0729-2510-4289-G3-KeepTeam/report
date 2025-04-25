@@ -268,7 +268,7 @@ En los próximos sprints, aplicaremos **Git Flow** para manejar el desarrollo, c
 
 ### Flujo de Trabajo en Git Flow
 
-1. **Desarrollo de Características (Feature):**
+**Desarrollo de Características (Feature):**
    - Se crean ramas desde `develop`.
    - Al finalizar, se fusionan de nuevo en `develop`.
 
@@ -278,9 +278,117 @@ En los próximos sprints, aplicaremos **Git Flow** para manejar el desarrollo, c
    git add .
    git commit -m "feat: [descripcion-de-la-caracteristica]"
    git push -u origin feature/[nombre-de-la-característica]
+   ```
+
+---
+
+**Convenciones de Commits**
+
+Para los nombres de los commits, usamos el estándar Conventional Commits, que proporciona una estructura clara para los mensajes en los commits, facilitando la colaboración y el seguimiento de cambios:
+
+- feat: Nueva característica
+
+```
+git commit -m "feat: [descripcion de la caracteristica]"
+```
+
+- fix: Corrección de errores
+
+```
+git commit -m "fix: [descripcion del error]"
+```
+
+- docs: Cambios en la documentación
+
+```
+git commit -m "docs: [descripcion de los cambios en la documentacion]"
+```
+
+- style: Cambios en el estilo
+
+```
+git commit -m "style: [descripcion de los cambios en el estilo que no afectan a la logica del codigo]"
+```
+
+- refactor: Refactorización del código
+
+```
+git commit -m "refactor: [descripcion de la refactorizacion]"
+```
+
+- test: Cambios en las pruebas
+
+```
+git commit -m "test: [descripcion de los cambios en las pruebas]"
+```
+
+- chore: Cambios en la configuración
+
+```
+git commit -m "chore: [descripcion de los cambios en la configuracion]"
+```
+
+Este modelo proporciona una estructura organizada que ayuda a los desarrolladores a entender el flujo de trabajo y colaborar de manera efectiva.
 
 
 ### 5.1.3. Source Code Style Guide & Conventions
+
+En el desarrollo del proyecto utilizaremos los siguientes lenguajes y tecnologías: **HTML**, **CSS**, **JavaScript** y **Angular**. A continuación se detallan las convenciones y guías de estilo:
+
+---
+
+## HTML
+
+Utilizado para diseñar páginas web mediante etiquetas que definen el contenido de la página, como texto, imágenes, vídeos, etc.
+
+---
+
+## CSS
+
+### Variables de Colores  
+Los colores globales se definen en el archivo de estilos principal usando variables en el selector `:root`, facilitando la reutilización y mantenimiento de los estilos en toda la página.
+
+### Convenciones
+
+- **Nombres de Clases Compuestas**: Usar guiones (`-`) para unir las palabras.  
+  ```css
+  .box-container {}
+  ```
+
+- **Unidad de Medida `rem`**: Usar `rem` para mantener un diseño responsivo y consistente.  
+  ```css
+  font-size: 1rem;
+  ```
+
+---
+
+## Angular
+
+Framework para construir aplicaciones web modernas.
+
+### Convenciones
+
+- **Uso de Componentes**: Importar y utilizar componentes siguiendo la documentación oficial.  
+  ```typescript
+  import { Component } from '@angular/core';
+
+  @Component({
+    selector: 'app-root',
+    template: `<button (click)="handleClick()">Click Me</button>`,
+  })
+  export class AppComponent {
+    handleClick() {
+      console.log('Button clicked');
+    }
+  }
+  ```
+
+- **Estructura del Proyecto**: Mantener una estructura clara y consistente para los módulos, componentes y servicios.
+
+- **Nombres de Archivos**: Utilizar el formato `kebab-case` para nombres de archivos y carpetas.
+
+- **Servicios**: Seguir el patrón de inyección de dependencias para gestionar servicios y mantener una alta cohesión y bajo acoplamiento.
+
 
 ### 5.1.4. Software Deployment Configuration
 
