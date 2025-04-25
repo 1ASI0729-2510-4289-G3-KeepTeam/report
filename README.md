@@ -391,3 +391,5 @@ En esta sección, buscamos representar la información de manera clara, utilizan
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+![Keeplo-v2](https://github.com/user-attachments/assets/1a3513f6-47e1-4c19-ad60-fe502474afce)
+
