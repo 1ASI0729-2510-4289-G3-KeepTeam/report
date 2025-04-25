@@ -191,7 +191,14 @@ Los compradores buscan un lugar en el cual puedan guardar todos los objetos de i
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
+
 ### 2.1.1. Análisis competitivo
+
+![Competidores1](assets/CompetidoresKeeplo/CompetidoresKeeplo1.png)
+![Competidores1](assets/CompetidoresKeeplo/CompetidoresKeeplo2.png)
+![Competidores1](assets/CompetidoresKeeplo/CompetidoresKeeplo3.png)
+![Competidores1](assets/CompetidoresKeeplo/CompetidoresKeeplo4.png)
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 ## 2.2. Entrevistas
