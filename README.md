@@ -298,7 +298,20 @@ En cuanto a la categorización, aplicamos la **organización por tópicos** para
 En esta sección, buscamos representar la información de manera clara, utilizando etiquetas concisas que guíen al usuario sin generar ambigüedades. Estas etiquetas mantienen un estilo consistente y, cuando es necesario, se acompañan de íconos para reforzar su significado. Para el sistema de etiquetado se hace uso de un lenguaje claro y directo, manteniendo entre una y tres palabras por etiqueta y cuidando las asociaciones visuales, como el uso de colores específicos para diferenciar planes o destacar botones de acción. Algunos ejemplos de las etiquetas utilizadas en la interfaz son: Home, New, Trending, Plans para la navegación principal; Dog Things y Accessories como nombres de categorías o colecciones de listas; Add to cart, Buy Now y See More como botones de acción; Starter Free, Plus e Infinite para los planes de suscripción; y finalmente, etiquetas como Change Password, Payment Information e History, dentro del perfil del usuario. Estas etiquetas permiten una experiencia más simple y fluida, evitando la sobrecarga y facilitando la navegación dentro de la aplicación web.
 
 ### 4.2.3. SEO Tags and Meta Tags
+
+* `<meta charset="UTF-8">`
+* `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
+* `<title>Keeplo</title>`
+
+Meta tags que pueden ser implementados:
+
+* `<meta name="descripcion" content="descripcion del proyecto.">`, para una descripción del proyecto  
+* `<meta property="og:imagen" content="URL_imagen_destacada.jpg">`, para agregar las redes sociales de Keeplo
+
+
 ### 4.2.4. Searching Systems
+
+
 ### 4.2.5. Navigation Systems
 
 ## 4.3. Landing Page UI Design
