@@ -86,6 +86,10 @@ Soy estudiante de la la Universidad Peruana de Ciencias aplicadas, UPC, de la ca
 #### 1.1.2.4 Muñoz Machuca Maria Elena
 Soy estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC) y soy de la carrera de Ingeniería de Software cursando el quinto ciclo de la carrera. Me considero una persona responsable, ya que me gusta cumplir con las tareas encargadas. Asimismo, me considero perseverante, lo cual es importante para ir mejorando en cada entrega de nuestro proyecto. Junto a mis compañeros espero poder realizar nuestro proyecto con éxito.
 
+<img src="https://github.com/user-attachments/assets/36de2f24-fa41-44db-a416-798d06945f5c"  width=200>
+
+
+
 #### 1.1.2.4 Rojas Piñero Luis Miguel
 Soy estudiante de la Universidad Peruana de Ciencias Aplicadas de la carrera de Ingeniería de Software, actualmente estoy cursando mi 5to ciclo de la carrera y tengo expectativas de los cursos que llevo y lo que puedo lograr con mi esfuerzo. Me considero una persona que se desenvuelve bien trabajando en grupos ya que soy muy comunicativo con mis compañeros, de igual forma me motivan los proyectos actuales relacionados con el desarrollo de tecnologías útiles para el futuro. Junto a mi equipo estoy seguro de que lograremos realizar un gran proyecto este ciclo.
 
