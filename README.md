@@ -244,4 +244,4 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 # Anexo B: Videos de Exposiciones
 
 ## Video de Exposición TB1
--[Link a video de exposión de TB1 en Microsoft Stream]()
+- [Link a video de exposión de TB1 en Microsoft Stream]()
