@@ -90,7 +90,59 @@
 - [3.3. Impact Mapping](#33-impact-mapping)
 - [3.4. Product Backlog](#34-product-backlog)
 
+[Capítulo IV: Product Design](#capítulo-iv-product-design)
+- [4.1. Style Guidelines](#41-style-guidelines)
+  - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+  - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+- [4.2. Information Architecture](#42-information-architecture)
+  - [4.2.1. Organization Systems](#421-organization-systems)
+  - [4.2.2. Labeling Systems](#422-labeling-systems)
+  - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+  - [4.2.4. Searching Systems](#424-searching-systems)
+  - [4.2.5. Navigation Systems](#425-navigation-systems)
+- [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+  - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+  - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+- [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+  - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+  - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+  - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+  - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+- [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+- [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+  - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+  - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+  - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+- [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+  - [4.7.1. Class Diagrams](#471-class-diagrams)
+  - [4.7.2. Class Dictionary](#472-class-dictionary)
+- [4.8. Database Design](#48-database-design)
+  - [4.8.1. Database Diagram](#481-database-diagram)
+ 
+[Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
+- [5.1. Software Configuration Management](#51-software-configuration-management)
+  - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+  - [5.1.2. Source Code Management](#512-source-code-management)
+  - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+  - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+- [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+  - [5.2.1. Sprint 1](#521-sprint-1)
+    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+    - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+    - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
+    - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
+[6. Conclusiones](#6-conclusiones)
+
+[7. Recomendaciones](#7-recomendaciones)
+
+[8. Bibliografía](#8-bibliografía)
+
+[9. Anexos](#9-anexos)
 
 # Capítulo I: Introducción   
 ## 1.1. Startup Profile
@@ -212,7 +264,6 @@ Los compradores buscan un lugar en el cual puedan guardar todos los objetos de i
   - **Edad:** Mayor a 18 años  
   - **Ubicación:** Lima, Peru  
   - **Nivel Socioeconomico:** Medio a alto
-
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -417,7 +468,7 @@ En esta sección se presentan los resultados del análisis de las necesidades de
 
 **Compradores**
 ![User Persona Diseñador Jenny Ruiz](assets/user-personas/Marco%20Villena.png)
-[Link a User Persona Diseñador](https://uxpressia.com/w/uKRya/p/K2kx6)
+[Link a User Persona Comprador](https://uxpressia.com/w/uKRya/p/K2kx6)
 
 ### 2.3.2. User Task Matrix
 **Diseñadores:**
@@ -716,3 +767,823 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 | 49 | US17 | Exportar Colecciones a PDF	 | Descargar colecciones como documento PDF.  | 5 |
 | 50 | US49 | Footer	 | Pie de página con info y enlaces útiles.  | 2 |
 | 51 | US18 | Eliminar colecciones	 | Eliminar colecciones con opción de recuperación.	 | 3 |
+
+# Capítulo IV: Product Design
+
+## 4.1. Style Guidelines
+### 4.1.1. General Style Guidelines
+Los “Style Guidelines” se refieren al conjunto de reglas y parámetros que se debe seguir al desarrollar una plataforma a través de todas sus pantallas
+#### 4.1.1.1  Colores
+![Paleta de colores en fondo claro de Keeplio](/assets/keeplo-styles/Colores%20Claro.png)
+![Paleta de colores en fondo oscuro de Keeplio](/assets/keeplo-styles/Colores%20Oscuro.png)
+
+Para el desarrollo de “Keeplo” elegimos cuidadosamente los colores que nos representarían puesto que éstos crearían la paleta principal de colores que nuestro usuario visualizará al ingresar a la plataforma. Tomando esto en cuenta optamos por una paleta conformada por colores amarillos y naranjas. La eleccion de los colores fue importante puesto que cada color transmitia un sentimiento hacia el usuario, por ejemplo, decidimos elegir el amarillo pues este transmite una serenidad y alegria a nuestra solucion, logrando que sea mas amigable a la vista. Por otro lado, otro color que se presenta bastante dentro de nuestra solución es el naranja puesto que este refleja el entusiasmo, confianza y creatividad.
+
+
+#### 4.1.1.2 Tipografía
+
+La fuente que estamos empleando para el texto es Overpass. Esta cuenta con un aspecto limpio y medianamente curvo, logrando una interfaz estética al usuario mientras mantiene la profesionalidad del sitio. Asimismo, consideramos que su diseño amigable hace que los usuarios estén más dispuestos a leer lo que se encuentra dentro de la página. Para lograr un diseño organizado y fácil de distinguir, haremos ajustes al tamaño y grosor del texto.
+
+##### 4.1.1.2.1 Escala  
+<img src="/assets/keeplo-styles/Font%20Style%201.png" width="400"/>
+
+##### 4.1.1.2.2 Weights  
+<img src="/assets/keeplo-styles/Font%20Style%202.png" width="400"/>
+
+##### 4.1.1.2.3 Nomenclatura  
+<img src="/assets/keeplo-styles/Font%20Style%203.png" width="400"/>
+
+##### 4.1.1.2.4 Ejemplos  
+<img src="/assets/keeplo-styles/Font%20Style%204.png" width="400"/>
+
+#### 4.1.1.3 Branding
+    
+
+Para el logo que representará a la plataforma optamos por utilizar sus característicos colores para formarlo, y por otro lado vectores para formar una imagen amigable para el usuario y fácil de recordar.
+
+Para asegurar que nuestro logo sea visible desde cualquier situación con su nombre incluimos una versión con fondo claro y oscuro. De forma que podamos asegurar que el logotipo iba a generar un buen contraste y visibilidad independientemente de la base.
+
+##### 4.1.1.3.1 Claro
+<img src="/assets/keeplo-styles/Logo.png" width="400"/>
+<img src="/assets/keeplo-styles/Logo-2.png" width="400"/>
+
+##### 4.1.1.3.2 Oscuro:
+<img src="/assets/keeplo-styles/Logo-1.png" width="400"/>
+<img src="/assets/keeplo-styles/Logo-3.png" width="400"/>
+
+### 4.1.2 Web Style Guidelines
+
+Para el desarrollo del diseño web hemos optado por usar la misma paleta de colores puesto que una buena consistencia dentro de los colores es algo que nos representa y logra que el usuario pueda ver una continuidad entre las pantallas. Por otro lado, y siguiendo el concepto de consistencia visual, usaremos bordes redondeados, todos con 10px, para poder lograr un estilo más amigable a la vista. En cuanto al texto, estaremos usando diferentes tamaños de letra y restricciones de entrada de caracteres, variaciones de colores con el fin de evitar cualquier sobrecarga de pantalla por texto y por último aseguraremos que nuestras pantallas cuenten con un descanso visual adecuado, logrando que los diferentes elementos que se encuentren sean fáciles de entender.
+
+#### 4.1.2.1 Paleta de colores
+<img src="/assets/keeplo-styles/Colores%20Claro.png" width="400"/>
+<img src="/assets/keeplo-styles/Colores%20Oscuro.png" width="400"/>
+
+#### 4.1.2.1 Estilos de letra
+
+##### 4.1.2.1.1 Headings
+<img src="/assets/keeplo-styles/Headings.png" width="400"/>
+
+##### 4.1.2.1.2 Body Text
+<img src="/assets/keeplo-styles/BodyText.png" width="400"/>
+
+##### 4.1.2.1.3 Captions
+<img src="/assets/keeplo-styles/Captions.png" width="400"/>
+
+##### 4.1.2.1.4 Forms
+<img src="/assets/keeplo-styles/BodyText-1.png" width="400"/>
+
+##### 4.1.2.1.5 Buttons
+<img src="/assets/keeplo-styles/Botones.png" width="400"/>
+
+#### 4.1.2.2 Botones
+<img src="/assets/keeplo-styles/Botones%20-%20Asset%20Funcionales.png" width="800"/>
+
+#### 4.1.2.3 Caja de texto
+
+<img src="/assets/keeplo-styles/Cajas%20de%20Texto%20Blanco.png" width="400"/>
+<img src="/assets/keeplo-styles/Cajas%20de%20Texto%20Oscuro.png" width="400"/>
+
+#### 4.1.2.4  Ventanas desplegables: 
+<img src="/assets/keeplo-styles/Ventana%20Desplegable.png" width="400"/>
+
+#### 4.1.2.5  Ventanas Emergentes
+<img src="/assets/keeplo-styles/Ventana%20Emergente%20Claro.png" width="800"/>
+
+## 4.2. Information Architecture
+### 4.2.1. Organization Systems
+
+En nuestra plataforma Keeplo, organizamos la información para que los usuarios puedan explorar, comparar y añadir productos a su respectiva wishlist. A continuación, explicamos los sistemas de organización que utilizamos en distintas secciones de la aplicación:
+Utilizamos la **organización jerárquica** principalmente en la pantalla de inicio, donde destacamos secciones como colecciones principales, productos recomendados y botones de acción como “Ver más” o “Suscribirse”. Asimismo, también está presente en las fichas de producto, donde el título y la imagen tienen mayor relevancia visual que las descripciones secundarias.
+Por otro lado, aplicamos la **organización secuencial** en pantallas como la de suscripciones, en el flujo de pago y en el cambio de contraseña, donde el usuario debe seguir pasos consecutivos: seleccionar una opción, ingresar sus datos y finalmente confirmar.
+Además, para la presentación de productos se utiliza una **organización matricial**, que permite a los usuarios visualizar y comparar varios elementos simultáneamente en una cuadrícula.
+En cuanto a la categorización, aplicamos la **organización por tópicos** para agrupar los productos según características o temáticas, mejorando así la navegación y el aspecto visual. También implementamos la **organización alfabética** para facilitar la búsqueda de wishlists guardadas o elementos dentro de cada lista. Asmismo, usamos la **organización cronológica** para permitir a los usuarios ordenar sus listas según la fecha de creación, desde las más recientes hasta las más antiguas. Finalmente, algunas secciones como la gestión de cuenta, suscripción o historial están enfocadas al usuario registrado siguiendo una **categorización por audiencia**, mientras que la navegación general de productos está disponible para todos los visitantes.
+
+
+### 4.2.2. Labeling Systems
+En esta sección, buscamos representar la información de manera clara, utilizando etiquetas concisas que guíen al usuario sin generar ambigüedades. Estas etiquetas mantienen un estilo consistente y, cuando es necesario, se acompañan de íconos para reforzar su significado. Para el sistema de etiquetado se hace uso de un lenguaje claro y directo, manteniendo entre una y tres palabras por etiqueta y cuidando las asociaciones visuales, como el uso de colores específicos para diferenciar planes o destacar botones de acción. Algunos ejemplos de las etiquetas utilizadas en la interfaz son: Home, New, Trending, Plans para la navegación principal; Dog Things y Accessories como nombres de categorías o colecciones de listas; Add to cart, Buy Now y See More como botones de acción; Starter Free, Plus e Infinite para los planes de suscripción; y finalmente, etiquetas como Change Password, Payment Information e History, dentro del perfil del usuario. Estas etiquetas permiten una experiencia más simple y fluida, evitando la sobrecarga y facilitando la navegación dentro de la aplicación web.
+
+### 4.2.3. SEO Tags and Meta Tags
+
+* `<meta charset="UTF-8">`
+* `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
+* `<title>Keeplo</title>`
+
+Meta tags que pueden ser implementados:
+
+* `<meta name="descripcion" content="descripcion del proyecto.">`, para una descripción del proyecto  
+* `<meta property="og:imagen" content="URL_imagen_destacada.jpg">`, para agregar las redes sociales de Keeplo
+
+
+### 4.2.4. Searching Systems
+
+El sistema de búsqueda presente en el diseño se basa en una única barra de búsqueda visible en la interfaz principal, bajo el título “Search Collection”. Esta funcionalidad permite al usuario encontrar rápidamente una colección específica escribiendo un término clave y presionando “Enter”.
+
+\<\!-- Barra de búsqueda simple para colecciones →  
+\<form action="/search" method="GET"\>  
+ 			 \<input  
+    			type="text"  
+    			name="query"  
+    			placeholder="Search collection"  
+    			aria-label="Search collection"  
+    			style="width: 100%; padding: 10px; font-size: 16px;"/\>  
+\</form\>
+
+### 4.2.5. Navigation Systems
+
+**Navegación superior (Tabs principales):**  
+ El prototipo incluye una barra de navegación ubicada en la parte superior con pestañas para acceder a las secciones clave: **Dashboard**, **Discover** y **Plans**. Esta estructura permite cambiar fácilmente entre funcionalidades centrales de la aplicación, manteniendo el contexto del usuario.
+
+**Sección de navegación interna (My Collections):**  
+ Dentro del dashboard, la sección **My Collection** organiza el contenido en listas como **`Dog` Things, Cat Things, References**, entre otros. Cada ítem funciona como entrada navegable a una colección específica, facilitando el acceso rápido a contenidos previamente guardados.
+
+**Navegación por etiquetas (Tags):**  
+ Adicionalmente, se incluyen etiquetas temáticas como **Mascot, Inspo y Furniture**, que actúan como filtros o categorías para refinar la visualización del contenido según el interés del usuario.
+
+**Flujo de navegación esperado:**  
+ El flujo previsto parte del login o acceso, seguido por la llegada al **`Dashboard`** principal. Desde allí, el usuario puede explorar nuevas ideas (**`Discover`**), gestionar colecciones (**`My Collection`**) o revisar los planes de pago (`Plans`), generando una experiencia lógica e intuitiva.
+
+## 4.3. Landing Page UI Design
+### 4.3.1. Landing Page Wireframe
+**Mobile:**
+
+<img src="/assets/landingpageWireMockUp/Wireframe%20Landing%20PageLandingPage.png" height="1000"/>
+
+**Desktop:**
+
+<img src="/assets/landingpageWireMockUp/WireFrame%20Landing%20PageLandingPage(1).png" height="1000"/>
+
+### 4.3.2. Landing Page Mock-up
+**Mobile:**
+
+<img src="/assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage-1.png" height="1000"/>
+
+Link a landing page: [Figma Landing Page](https://www.figma.com/design/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=662-263&t=pMqV3oN4AieCUZ1h-1)
+
+**Desktop:**
+
+<img src="/assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage.png" height="1000"/>
+
+## 4.4. Web Applications UX/UI Design
+
+<img src="/assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage.png" height="1000"/>
+
+### 4.4.1. Web Applications Wireframes
+
+<img src="/assets/webappwireframe/Dashboard%20-%20Colecction%20EditWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/Dashboard%20-%20ItemWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/Dashboard%20-%20Items%20-%20EmptyWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/Dashboard%20-%20ItemsWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/Dashboard%20-%20product%20pageWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/DashboardWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/Edit%20profileWebApplicationWireFrame-1.png" width="500"/>
+<img src="/assets/webappwireframe/Edit%20profileWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/Link%20generatedWebApplicationWireFrame-1.png" width="500"/>
+<img src="/assets/webappwireframe/Link%20generatedWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame-1.png" width="500"/>
+<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame-2.png" width="500"/>
+<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame-3.png" width="500"/>
+<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame-4.png" width="500"/>
+<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/QR%20generatedWebApplicationWireFrame.png" width="500"/>
+<img src="/assets/webappwireframe/TarifasWebApplicationWireFrame.png" width="500"/>
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+<img src="/assets/KeeploWireFlow/Añadir%20y%20Editar%20Colecciones%20.png" width="800"/>
+<img src="/assets/KeeploWireFlow/Añadir%20y%20editar%20un%20ítem.png" width="800"/>
+<img src="/assets/KeeploWireFlow/Compartir%20contenido.png" width="800"/>
+<img src="/assets/KeeploWireFlow/Editar%20Perfil%20y%20Contraseña.png" width="800"/>
+<img src="/assets/KeeploWireFlow/Ingresar%20-%20Editar%20Información%20de%20pago.png" width="800"/>
+<img src="/assets/KeeploWireFlow/Ingresar%20a%20papelera.png" width="800"/>
+<img src="/assets/KeeploWireFlow/Registro%20e%20Inicio%20de%20sesión.png" width="800"/>
+
+### 4.4.3. Web Applications Mock-ups
+
+<img src="/assets/webappmockup/Dashboard%20-%20Colecction%20EditWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/Dashboard%20-%20ItemWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/Dashboard%20-%20Items%20-%20EmptyWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/Dashboard%20-%20ItemsWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/Dashboard%20-%20product%20pageWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/DashboardWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/Edit%20profileWebApplicationMock-Up-1.png" width="500"/>
+<img src="/assets/webappmockup/Edit%20profileWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/Link%20generatedWebApplicationMock-Up-1.png" width="500"/>
+<img src="/assets/webappmockup/Link%20generatedWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/PerfilWebApplicationMock-Up-1.png" width="500"/>
+<img src="/assets/webappmockup/PerfilWebApplicationMock-Up-2.png" width="500"/>
+<img src="/assets/webappmockup/PerfilWebApplicationMock-Up-3.png" width="500"/>
+<img src="/assets/webappmockup/PerfilWebApplicationMock-Up-4.png" width="500"/>
+<img src="/assets/webappmockup/PerfilWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/QR%20generatedWebApplicationMock-Up.png" width="500"/>
+<img src="/assets/webappmockup/TarifasWebApplicationMock-Up.png" width="500"/>
+
+Link a Web Application: [Figma Web Application](https://www.figma.com/design/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=82-1755&t=pMqV3oN4AieCUZ1h-1)
+
+### 4.4.4. Web Applications User Flow Diagrams
+[![A-adir-y-editar-un-item.jpg](https://i.postimg.cc/m253h6sL/A-adir-y-editar-un-item.jpg)](https://postimg.cc/QHcKymCw)
+[![A-adir-y-editar-una-colecci-n.jpg](https://i.postimg.cc/nh94mYFv/A-adir-y-editar-una-colecci-n.jpg)](https://postimg.cc/WdjqLZJ3)
+[![Compartir-contenido.jpg](https://i.postimg.cc/rspWw5ZR/Compartir-contenido.jpg)](https://postimg.cc/0MLrtKs9)
+[![Editar-informacion-de-pago.jpg](https://i.postimg.cc/T1HbLhB7/Editar-informacion-de-pago.jpg)](https://postimg.cc/tnWJ8RqW)
+[![Editar-perfil-y-contrase-a.jpg](https://i.postimg.cc/8kyMnnsR/Editar-perfil-y-contrase-a.jpg)](https://postimg.cc/xqzXX5v8)
+[![Ingresar-a-papelera.jpg](https://i.postimg.cc/8PjM8Brq/Ingresar-a-papelera.jpg)](https://postimg.cc/D838LG6g)
+[![Registro-e-inicio-de-sesi-n.jpg](https://i.postimg.cc/ZRwB2CYb/Registro-e-inicio-de-sesi-n.jpg)](https://postimg.cc/BL1n1Z1k)
+
+Link Miro: https://miro.com/welcomeonboard/aXRqaHNteXl2dlUrQTVWQ2VYSnZYc0FjblY1MTc1bEd3bklqcjdobEh4TWxCa1NFbEpBRkZkalF3WkppTjIwNXVXSElLY215aEl6c216VUN2VjU5dXVhV1hKTE84SUppTWM2SDhmaHNUVnJ0MXJZNnorMnVIUk9YV2RaRmVpYTJyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=117657769779
+
+
+## 4.5. Web Applications Prototyping
+![Figma prototype screenshor](/assets/PrototypeFigma.png)
+
+[Link a prototipo de Figma](https://www.figma.com/proto/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=135-228&t=4qndhMek0CzRLY0i-1&scaling=min-zoom&content-scaling=fixed&page-id=13%3A501&starting-point-node-id=58%3A23&show-proto-sidebar=1)
+## 4.6. Domain-Driven Software Architecture
+### 4.6.1. Software Architecture Context Diagram
+[![e222ea2da10046c2ac1bc07368bc8071.jpg](https://i.postimg.cc/brRYG5Mm/e222ea2da10046c2ac1bc07368bc8071.jpg)](https://postimg.cc/gLnbQgGh)
+
+### 4.6.2. Software Architecture Container Diagrams
+[![22e381ed7dd14f0bb3195d6282a7e640.jpg](https://i.postimg.cc/SNDNkwcs/22e381ed7dd14f0bb3195d6282a7e640.jpg)](https://postimg.cc/xcNSPpxD)
+
+### 4.6.3. Software Architecture Components Diagrams
+Frontend
+[![9636e412b1844560ac8be716f3ad4ab8.jpg](https://i.postimg.cc/sgLjZ76C/9636e412b1844560ac8be716f3ad4ab8.jpg)](https://postimg.cc/sMpdkQCT)
+Backend
+[![ae5479e60b014034b13bc9c85fa712ae.jpg](https://i.postimg.cc/rpt8Gs30/ae5479e60b014034b13bc9c85fa712ae.jpg)](https://postimg.cc/CZSTShFS)
+
+## 4.7. Software Object-Oriented Design
+### 4.7.1. Class Diagrams
+
+![Diagrama de clases](https://i.postimg.cc/sf9fv9F1/class-diagram.png)
+
+### 4.7.2. Class Dictionary
+
+**User**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| name | String | Full name | NOT NULL |
+| email | String | Email address | UNIQUE, NOT NULL |
+| password | String | Encrypted password | NOT NULL |
+| role | String | User role (client/freelancer) | ENUM('client', 'freelancer') |
+| bio | Text | Personal description |  |
+| profile\_image\_url | String | Profile picture URL |  |
+| reputation\_score | Float | Average rating (0-5) | DEFAULT 0.0 |
+| created\_at | DateTime | Account creation timestamp | DEFAULT CURRENT\_TIMESTAMP |
+| updated\_at | DateTime | Last profile update | DEFAULT CURRENT\_TIMESTAMP |
+
+**AcademicPortfolio**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| user\_id | UUID | Associated freelancer | FOREIGN KEY (users.id), UNIQUE |
+| university | String | Institution name | NOT NULL |
+| career | String | Field of study | NOT NULL |
+| semester | Integer | Academic progress level |  |
+| cv\_url | String | Resume/CV document link |   |
+
+**Portfolio**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| user\_id | UUID | Owner | FOREIGN KEY (users.id) |
+| title | String | Work title | NOT NULL |
+| description | Text | Project details |  |
+| file\_url | String | Portfolio item file | NOT NULL |
+| created\_at | DateTime | Creation timestamp | DEFAULT CURRENT\_TIMESTAMP |
+
+**Service**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| user\_id | UUID | Freelancer offering service | FOREIGN KEY (users.id) |
+| title | String | Service name | NOT NULL |
+| description | Text | Detailed offering | NOT NULL |
+| category | String | Main category | NOT NULL |
+| subcategory | String | Specialization | NOT NULL |
+| base\_price | Float | Minimum price | NOT NULL |
+| delivery\_time\_days | Integer | Estimated completion days | NOT NULL |
+| price\_by\_calculator | Float | System-suggested price |  |
+| is\_active | Boolean | Availability status | DEFAULT TRUE |
+| created\_at | DateTime | Listing creation time | DEFAULT CURRENT\_TIMESTAMP |
+
+**PriceCalculator**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| difficulty | String | Complexity level | ENUM('easy','medium','hard') |
+| urgency | String | Time sensitivity | ENUM('low','medium','high') |
+| freelancer\_level | String | Experience tier | ENUM('junior','mid','senior') |
+| market\_trend | Float | Demand adjustment factor | NOT NULL |
+| suggested\_price | Float | Algorithm-calculated price | NOT NULL |
+
+**ServiceNegociation**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| service\_id | UUID | Negotiated service | FOREIGN KEY (services.id) |
+| client\_id | UUID | Client making offer | FOREIGN KEY (users.id) |
+| proposed\_price | Float | Alternate price suggestion | NOT NULL |
+| status | String | Negotiation state | ENUM('pending','accepted','rejected') |
+| created\_at | DateTime | Proposal timestamp | DEFAULT CURRENT\_TIMESTAMP |
+
+**Order**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| service\_id | UUID | Contracted service | FOREIGN KEY (services.id) |
+| client\_id | UUID | Ordering client | FOREIGN KEY (users.id) |
+| freelancer\_id | UUID | Service provider | FOREIGN KEY (users.id) |
+| final\_price | Float | Agreed payment amount | NOT NULL |
+| status | String | Order state | ENUM('created','in\_progress','delivered','completed','cancelled') |
+| delivery\_date | Date | Deadline for completion | NOT NULL |
+| created\_at | DateTime | Order creation time | DEFAULT CURRENT\_TIMESTAMP |
+
+**Payment**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| order\_id | UUID | Associated order | FOREIGN KEY (orders.id), UNIQUE |
+| amount | Float | Transaction value | NOT NULL |
+| payment\_method | String | Payment processor | NOT NULL |
+| status | String | Payment state | ENUM('pending','completed','failed','refunded') |
+| created\_at | DateTime | Payment timestamp | DEFAULT CURRENT\_TIMESTAMP |
+
+**Review**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| order\_id | UUID | Reviewed order | FOREIGN KEY (orders.id) |
+| reviewer\_id | UUID | User writing review | FOREIGN KEY (users.id) |
+| reviewed\_user\_id | UUID | User being rated | FOREIGN KEY (users.id) |
+| rating | Integer | Quality score (1-5) | RANGE(1,5) |
+| comment | Text | Written feedback |  |
+| created\_at | DateTime | Review timestamp | DEFAULT CURRENT\_TIMESTAMP |
+
+**ChatMessage**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| order\_id | UUID | Context order | FOREIGN KEY (orders.id) |
+| sender\_id | UUID | Message author | FOREIGN KEY (users.id) |
+| receiver\_id | UUID | Message recipient | FOREIGN KEY (users.id) |
+| message | Text | Communication content | NOT NULL |
+| file\_url | String | Attached file link |  |
+| sent\_at | DateTime | Send timestamp | DEFAULT CURRENT\_TIMESTAMP |
+
+
+
+## 4.8. Database Design
+### 4.8.1. Database Diagram
+![Keeplo-v2](https://github.com/user-attachments/assets/1a3513f6-47e1-4c19-ad60-fe502474afce)
+
+[Enlace del diagrama de base de datos ](https://my.vertabelo.com/doc/lah8xd68anzS3iGZAssm1kXuLByWPuqi )
+
+# Capítulo V: Product Implementation, Validation & Deployment
+
+## 5.1. Software Configuration Management
+
+### 5.1.1. Software Development Environment Configuration
+
+Esta sección aborda la configuración de las herramientas necesarias para el desarrollo del software, organizadas de acuerdo con las distintas fases y actividades del proyecto.
+
+| Categoría                   | Herramienta                  | Propósito                                                                                                            | Enlace                                                                                           |
+|----------------------------|------------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Gestión de Proyectos       | Trello                       | Organización de tareas, seguimiento ágil y coordinación del equipo en tiempo real.                                 |                                                                                                  |
+| Diseño UX/UI               | Figma                        | Diseño colaborativo de interfaces de usuario y prototipos funcionales.                                              | [https://www.figma.com/design/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo](https://www.figma.com/design/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=0-1&t=mgNe6ddw6WXnW3yI-1) |
+|                            | IntelliJ IDEA (PlantUML)     | Creación de diagramas UML directamente desde el entorno de desarrollo.                                              |                                                                                                  |
+|                            | UXPressia                    | Desarrollo de User Personas, Empathy Maps, Journey Maps e Impact Maps para entender al usuario.                    |                                                                                                  |
+| Desarrollo de Software     | IntelliJ IDEA                | IDE para programación en Java, depuración, testing y control de versiones.                                         |                                                                                                  |
+|                            | Visual Studio Code           | Editor de código para el desarrollo frontend de la landing page (HTML, CSS, JS).                                   |                                 |
+|                            | GitHub                       | Alojamiento del repositorio, control de versiones, colaboración y seguimiento de cambios.                          |  |
+| Documentación de Software  | Markdown + GitHub            | Redacción clara y estructurada de documentación técnica accesible desde el repositorio.                            | [https://github.com/1ASI0729-2510-4289-G3-KeepTeam/report](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/report)                                                                                                 |
+
+
+
+### 5.1.2. Source Code Management
+
+En los próximos sprints, aplicaremos **Git Flow** para manejar el desarrollo, correcciones y lanzamientos. Esta metodología brinda un flujo de trabajo claro y ordenado, lo que mejora la colaboración del equipo y asegura una integración eficiente de los cambios, contribuyendo a la calidad del producto final.
+
+---
+
+### Repositorios GitHub
+
+- **Landing Page:** [https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page)  
+- **Documentación:** [https://github.com/1ASI0729-2510-4289-G3-KeepTeam/report](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/report)
+
+---
+
+### Implementación de Git Flow
+
+**Git Flow** se implementará como el workflow principal de control de versiones para gestionar eficientemente el desarrollo del software.
+
+#### Estructura de ramas:
+
+##### Ramas Principales:
+- `main`: Contiene el código estable y listo para producción.
+- `develop`: Rama de integración donde se consolidan nuevas funcionalidades.
+
+##### Ramas de Soporte:
+
+- **Feature branches**: Para nuevas funcionalidades.  
+  - Convención: `feature/[nombre-de-la-característica]`
+  - Ejemplo:
+    ```bash
+    git checkout -b feature/autenticacion-usuario
+    git add .
+    git commit -m "feat: Implementa autenticación de usuario"
+    git push -u origin feature/autenticacion-usuario
+    ```
+
+- **Release branches**: Para preparar una nueva versión antes del lanzamiento.  
+  - Convención: `release/[version]`
+  - Ejemplo:
+    ```bash
+    git checkout -b release/1.0.0
+    ```
+
+- **Hotfix branches**: Para corregir errores críticos directamente en `main`.  
+  - Convención: `hotfix/[version-fix]`
+  - Ejemplo:
+    ```bash
+    git checkout -b hotfix/1.0.1
+    git add .
+    git commit -m "fix: Corrige error crítico en autenticación"
+    git push -u origin hotfix/1.0.1
+    ```
+
+---
+
+### Flujo de Trabajo en Git Flow
+
+**Desarrollo de Características (Feature):**
+   - Se crean ramas desde `develop`.
+   - Al finalizar, se fusionan de nuevo en `develop`.
+
+   Ejemplo:
+   ```bash
+   git checkout -b feature/[nombre-de-la-caracteristica]
+   git add .
+   git commit -m "feat: [descripcion-de-la-caracteristica]"
+   git push -u origin feature/[nombre-de-la-característica]
+   ```
+
+---
+
+**Convenciones de Commits**
+
+Para los nombres de los commits, usamos el estándar Conventional Commits, que proporciona una estructura clara para los mensajes en los commits, facilitando la colaboración y el seguimiento de cambios:
+
+- feat: Nueva característica
+
+```
+git commit -m "feat: [descripcion de la caracteristica]"
+```
+
+- fix: Corrección de errores
+
+```
+git commit -m "fix: [descripcion del error]"
+```
+
+- docs: Cambios en la documentación
+
+```
+git commit -m "docs: [descripcion de los cambios en la documentacion]"
+```
+
+- style: Cambios en el estilo
+
+```
+git commit -m "style: [descripcion de los cambios en el estilo que no afectan a la logica del codigo]"
+```
+
+- refactor: Refactorización del código
+
+```
+git commit -m "refactor: [descripcion de la refactorizacion]"
+```
+
+- test: Cambios en las pruebas
+
+```
+git commit -m "test: [descripcion de los cambios en las pruebas]"
+```
+
+- chore: Cambios en la configuración
+
+```
+git commit -m "chore: [descripcion de los cambios en la configuracion]"
+```
+
+Este modelo proporciona una estructura organizada que ayuda a los desarrolladores a entender el flujo de trabajo y colaborar de manera efectiva.
+
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+En el desarrollo del proyecto utilizaremos los siguientes lenguajes y tecnologías: **HTML**, **CSS**, **JavaScript** y **Angular**. A continuación se detallan las convenciones y guías de estilo:
+
+---
+
+## HTML
+
+Utilizado para diseñar páginas web mediante etiquetas que definen el contenido de la página, como texto, imágenes, vídeos, etc.
+
+---
+
+## CSS
+
+### Variables de Colores  
+Los colores globales se definen en el archivo de estilos principal usando variables en el selector `:root`, facilitando la reutilización y mantenimiento de los estilos en toda la página.
+
+### Convenciones
+
+- **Nombres de Clases Compuestas**: Usar guiones (`-`) para unir las palabras.  
+  ```css
+  .box-container {}
+  ```
+
+- **Unidad de Medida `rem`**: Usar `rem` para mantener un diseño responsivo y consistente.  
+  ```css
+  font-size: 1rem;
+  ```
+
+---
+
+## Angular
+
+Framework para construir aplicaciones web modernas.
+
+### Convenciones
+
+- **Uso de Componentes**: Importar y utilizar componentes siguiendo la documentación oficial.  
+  ```typescript
+  import { Component } from '@angular/core';
+
+  @Component({
+    selector: 'app-root',
+    template: `<button (click)="handleClick()">Click Me</button>`,
+  })
+  export class AppComponent {
+    handleClick() {
+      console.log('Button clicked');
+    }
+  }
+  ```
+
+- **Estructura del Proyecto**: Mantener una estructura clara y consistente para los módulos, componentes y servicios.
+
+- **Nombres de Archivos**: Utilizar el formato `kebab-case` para nombres de archivos y carpetas.
+
+- **Servicios**: Seguir el patrón de inyección de dependencias para gestionar servicios y mantener una alta cohesión y bajo acoplamiento.
+
+
+### 5.1.4. Software Deployment Configuration
+El equipo realizó el despliegue de la Landing Page del proyecto utilizando la herramienta GitHub Pages, que permite publicar sitios web directamente desde un repositorio. A continuación, se describen los pasos llevados a cabo:
+
+**1. Acceso al repositorio en GitHub**
+Se ingresó al repositorio correspondiente al proyecto en la plataforma GitHub.
+
+**2. Ingreso a la configuración de GitHub Pages**
+Dentro del repositorio, se hizo clic en la pestaña Settings, y luego se seleccionó la opción Pages desde el menú lateral izquierdo.
+
+**3. Selección de la fuente de despliegue**
+En la sección “Source”, se eligió la rama main como origen del contenido para el despliegue. Asimismo, se seleccionó la carpeta raíz (/root) como ubicación de los archivos a publicar.
+
+**4. Guardado de la configuración**
+Se hizo clic en Save para confirmar y aplicar los cambios de configuración.
+
+**5. Publicación automática del sitio**
+GitHub procedió a generar y publicar automáticamente el sitio web estático.
+
+**6. Obtención del enlace público**
+Tras unos segundos, GitHub proporcionó la URL pública del sitio:
+https://1asi0729-2510-4289-g3-keepteam.github.io/landing-page/
+
+**7. Verificación del despliegue**
+Se accedió al enlace generado para confirmar que la Landing Page se visualizaba correctamente y sin errores.
+
+![image](https://github.com/user-attachments/assets/1a5262c0-3dfd-4417-8a71-50cc95dcafc9)
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1
+<table>
+  <tr>
+    <th colspan="3">Sprint #1 - Sprint Planning Background</th>
+  </tr>
+<tr>
+    <td colspan="2"><strong>Date</strong></td>
+    <td>20/04/2025</td>
+  </tr>
+<tr>
+    <td colspan="2"><strong>Time</strong></td>
+    <td>8:00 PM</td>
+  </tr>
+<tr>
+    <td colspan="2"><strong>Location</strong></td>
+    <td>Discord</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Prepared by:</strong></td>
+    <td>George Aliaga</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Attendees(to planning meeting)</strong></td>
+    <td>George Aliaga, Gabriel Sanchez, Bryan Martinez, Luis Rojas, Maria Muñoz</td>
+  </tr>
+ <tr>
+    <td colspan="2"><strong>Sprint 1-1 Retrospective Summary</strong></td>
+    <td>- Buena coordinación del equipo a través de Discord <br> 
+    - Mejor organización en la creación de carpetas para evitar conflictos al clonar el repositorio
+    </td>
+  </tr>
+<tr>
+    <td colspan="2"><strong>Sprint 1-1 Review Summary</strong></td>
+    <td>Se completó el diseño y desarrollo inicial de la landing page de Keeplo</td>
+  </tr>
+<tr>
+    <th colspan="3">Sprint Goal & User Stories</th>
+  </tr>
+<tr>
+    <td colspan="2"><strong>Sprint 1 Goal</strong></td>
+    <td>Desarrollar una landing page innovadora e informativa para la aplicación Keeplo</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint 1 Velocity</strong></td>
+    <td>39</td>
+  </tr>
+ <tr>
+    <td colspan="2"><strong>Sum of Story Points</strong></td>
+    <td>39</td>
+  </tr>
+<tr>
+</table>
+
+
+#### 5.2.1.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | GitHub Username | Visualización e iconos  Leader(L)/Colaborador(C) | Funcionalidades principales de la landing | Registro e inicio de sesión de usuarios | Navegación y estructura web | Accesibilidad y multi-idioma |
+| :---- | ----- | :---- | :---- | :---- | :---- | :---- |
+| Sanchez Gonzales | [yigabriel](https://github.com/yigabriel) |           L |       |       |             L |              L                |
+| Martinez Ramos, Bryan Felix | [BryanMartinez123](https://github.com/BryanMartinez123) |  |  |  |             C  |              C                |
+| Aliaga Pimentel, George Arturo  | [GeorAliaga](https://github.com/GeorAliaga) |  |          C |          C |  |                              |
+| Muñoz Machuca, Maria Elena | [maria-mm0907](https://github.com/maria-mm0907) |  |          L |          L |  |            C                  |
+| Rojas Piñero, Luis Miguel  | [Lucho0725](https://github.com/Lucho0725) |          C |          C |          C |  |                        |
+
+
+
+#### 5.2.1.3. Sprint Backlog 1
+
+El sprint Backlog 1 se enfocara en el desarrollo de las funcionalidades de Keeplo, la corrección de error y mejoras para la Landing Page, es fundamental que el equipo tome en cuenta la prioridad de la tarea para asegurar el éxito de nuestro proyecto
+
+![Sprint Backlog](assets/SprintBacklog/TrelloKeeploF.png)
+
+Link:  
+[https://trello.com/invite/b/680c1b3707a0b63a2ed43576/ATTIc7a9db55a40cdcfa9c61daa30643a42e6F50E0CE/keeplo-sprint](https://trello.com/invite/b/680c1b3707a0b63a2ed43576/ATTIc7a9db55a40cdcfa9c61daa30643a42e6F50E0CE/keeplo-sprint)
+
+| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: | :---: | ----- | :---: |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| US43 | Header | US43-1 | Implementacion de Barra de Navegacion | Como visitante quiero acceder a la barra de navegación para moverse rápidamente a cualquier sección de la página. | 3 | Luis | Done |
+| US44 | Section Hero | US44-1 | Implementacion de Seccion Hero | Como visitante quiero ver un mensaje llamativo y claro al entrar, para entender de inmediato el propósito de Keeplo. | 3 | George | Done |
+| US45 | Stadistics | US45-1 | Implmenetacion de Seccion Estadisticas | Como visitante quiero ver estadísticas clave del uso de Keeplo para confiar más en el producto. | 4 | Bryan | Done |
+| US46 | characteristics | US46-1 | Implementación Sección caracteristicas | Como visitante quiero conocer qué funcionalidades ofrece Keeplo para evaluar si cubre mis necesidades. | 2 | Maria | Done |
+| US47 | Plan | US47-1 | Implementacion de planes | Como visitante quiero comparar los planes disponibles para decidir si debo suscribirme | 4 | Geroge | Done |
+| US48 | Why-us | US48-1 | Implementacion del porque nosotros | Como visitante quiero saber por qué debería elegir Keeplo sobre otras opciones para tomar una decisión informada. | 2 | Maria | Done |
+| US49 | Footer | US49-1 | Implementacion de Footer Keeplo | Como visitante quiero ver información útil en el footer de la página para acceder rápidamente a redes sociales. | 2 | Sanchez Gonzales | Done |
+
+
+
+
+
+#### 5.2.1.4. Development Evidence for Sprint Review
+| **Repository** | **Branch**              | **Commit Id**   | **Commit Message** | **Commit Message Body**        | **Commited on(Date)** |
+|----------------|-------------------------|-----------------|--------------------|--------------------------------|-----------------------|
+|  https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page              | feature/characteristics | 5d42e8d…0386864 |  feat: add why us styles css.css| feat: add why us styles css.css | 25/04/2025            |
+|    https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page             | feature/characteristics | 2e82bbb…9becc29 | feat: add characteristics index html.html| feat: add characteristics index html.html| 25/04/2025            |
+|     https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page            | feature/footer          | 99a47c0  | feat: add footer section in HTML and CSS |  feat: add footer section in HTML and CSS  | 21/04/2025            |
+|      https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page           | feature/header          | 4714e01 |  feat: add header in HTML and CSS|  feat: add header in HTML and CSS| 24/04/2025            |
+|       https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page          | feature/keeploUsers     |    030a423       |  feat: add users section to HTML and CSS                | feat: add users section to HTML and CSS | 20/04/2025            |
+|        https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page         | feature/plans           |    e617f31       |  feat: add plans                  | feat: add plans                               | 24/04/2025            |
+|      https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page           | feature/why-us          |    153d1a9       |  feat: add why us styles.css                  | feat: add why us styles.css                               | 25/04/2025            |
+|       https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page          | feature/why-us          |    2e82bbb       |  feat: why us index html.html   | feat: why us index html.html | 25/04/2025            |
+|       https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page          | landin-page/develop     |    e2d927a       |  feat: add favicon icon to website in HTML   | feat: add favicon icon to website in HTML | 20/04/2025            |
+|        https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page         | landing-page/develop    |    e2d927a       |  feat: add script to connect translations JSON files to HTML   | feat: add script to connect translations JSON files to HTML | 20/04/2025            |
+
+
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+Para esta primera entrega el equipo de Keepteam llegó a la meta de implementar la landing page con ayudas visuales estratégicas que ayudan a la plataforma a interactuar mejor con nuestros usuarios. El objetivo principal de nuestra landing era lograr que el usuario entendiera quienes somos y qué ofrecemos, yendo de la mano el mostrar como somos diferentes a la competencia y mostrando como nos preocupamos por ellos y su organización. Ofreciendo nuestros planes disponibles. De esta manera buscamos que el usuario se sienta cómodo y atraído hacia nuestro proyecto.
+
+[![8dcc8753f82d4d64b639d08ecbdf40f5.jpg](https://i.postimg.cc/3JL2yf2S/8dcc8753f82d4d64b639d08ecbdf40f5.jpg)](https://postimg.cc/tYxsw5SW)
+
+[![4ae6387521aa4ef0920d9f93d5f7b0fb.jpg](https://i.postimg.cc/SRgYMjY2/4ae6387521aa4ef0920d9f93d5f7b0fb.jpg)](https://postimg.cc/Zvyqkbc4)
+
+[![3408dad210be4d53b46c3f9b73e4bac6.jpg](https://i.postimg.cc/MZ5Q4336/3408dad210be4d53b46c3f9b73e4bac6.jpg)](https://postimg.cc/nMsr92tg)
+
+[![8dc321a0e3c84e27910317e49047d1ea.jpg](https://i.postimg.cc/xTdzSGBK/8dc321a0e3c84e27910317e49047d1ea.jpg)](https://postimg.cc/dDz12Cs1)
+
+[![c2ffa7a74f454e5d8fe291e96736a6d4.jpg](https://i.postimg.cc/ZKDyYBhX/c2ffa7a74f454e5d8fe291e96736a6d4.jpg)](https://postimg.cc/SJCKDKRG)
+
+[Link a landing page desplegado](https://1asi0729-2510-4289-g3-keepteam.github.io/landing-page/)
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta fue nuestra tarea principal desde las decisiones de diseño hasta la elaboración de la misma. No utilizamos servicios web para elaborarla en este punto, ya que la implementación de estos servicios será evaluada en futuros sprints cuando nuestra landing page se encuentre óptima al 100%.
+
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+
+- Git: Ha sido utilizado como sistema de control de versiones, nos ayudó en la colaboración entre los miembros del equipo durante el desarrollo.
+- GitFlow: metodología implementada de trabajo, nos ayudó a gestionar de modo más eficiente los aportes de cada participante, así nos aseguramos un flujo de trabajo apto para el proyecto.
+- GitHub: Plataforma esencial para organizar el trabajo de grupo, donde gestionamos y almacenamos todas las versiones que se fueron presentando en el proyecto, así aseguramos un control correcto de los cambios.
+- GitHub Pages: lo utilizamos para el despliegue de la landing page de forma rápida y sencilla, permitiendo que la aplicación esté disponible públicamente desde un repositorio de GitHub.
+
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+| Alumno                        | Actividad                                                               | 
+|-------------------------------|-------------------------------------------------------------------------|
+| George Arturo Aliaga Pimentel | Implementación de la sección hero y plans                               | 
+| Bryan Felix Martinez Ramos    | Implementación de la sección statistics                                 | 
+| Maria Elena Muñoz Machuca     | Implementación de la sección characteristics y why us de la landing page | 
+| Luis Miguel Rojas Piñero      | Implementación de la sección header de la landing page                  |
+| Gabriel Sanchez Gonzales      | Implementación de la sección Who Should Use This? y footer                       |
+
+# 6. Conclusiones
+
+
+- Conclusión 1
+
+El desarrollo de Keeplo responde eficazmente a una necesidad real y no resuelta en el mercado digital actual: la organización centralizada y personalizada de ideas, productos e intereses. A través de entrevistas y análisis UX, se evidenció que tanto diseñadores como compradores experimentan frustraciones con métodos dispersos e ineficientes. Keeplo ofrece una solución integral y accesible que mejora la experiencia del usuario al permitir guardar, clasificar y compartir contenido de manera intuitiva.
+
+- Conclusión 2
+
+Keeplo se posiciona como una herramienta innovadora al ofrecer funciones que otras plataformas no integran de forma conjunta, como el uso de códigos QR, etiquetas personalizadas, y colecciones compatibles. Frente a competidores como Pinterest o Notion, Keeplo destaca por su simplicidad y enfoque visual, lo cual lo hace ideal para usuarios que buscan rapidez, orden y colaboración. Esta diferenciación representa un valor agregado clave para su adopción.
+
+- Conclusión 3
+
+Durante este desarrollo parcial, Keeplo nos ha demostrado un alto potencial para impactar positivamente la productividad y organización digital de los usuarios. Su enfoque centrado en el usuario, combinado con una estructura de diseño ágil y adaptable, le otorga la capacidad de escalar y evolucionar según nuevas necesidades del mercado. Esto convierte a Keeplo no solo en un producto funcional, sino en una plataforma con proyección hacia la innovación continua en el ámbito de la gestión personal de información.
+
+
+# 7. Recomendaciones
+
+
+Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la plataforma, recomendamos realizar las siguientes acciones:
+
+- Incluir una funcionalidad donde los usuarios puedan guardar sus “Wish” a través de extensiones de navegador, permitiéndoles guardar ítems de manera inmediata mientras navegan, logrando evitar una desconexión de concentración, mejorando la eficacia y la rapidez con la que crean nuevos wishes
+- Desarrollar un algoritmo de auto-etiquetado, donde los “Wishes” puedan ser asignados automáticamente una etiqueta en el caso de no tener una etiqueta añadida manualmente, estas auto-etiquetas serían creadas a partir del nombre y descripción del “Wish”, facilitando la organización rápida de contenido y reduciendo el esfuerzo de acciones manuales por parte del usuario
+- Incorporar una funcionalidad de extra valor para los compradores, en la cual se les permite asignar un campo de valor, como lo es el precio, el cual funcionaria como un tag adicional y aparte, permitiendo ordenar y filtrar a partir del precio de un ítem, optimizando la comparación de precios entre productos similares.
+
+# 8. Bibliografía  
+     
+   *¿Cuál es la función de la lista de deseo de una tienda online?* (2023, 1 junio). Sell Emprendepyme. [https://sell.emprendepyme.net/cual-es-la-funcion-de-la-lista-de-deseo-de-una-tienda-online.html](https://sell.emprendepyme.net/cual-es-la-funcion-de-la-lista-de-deseo-de-una-tienda-online.html)  
+     
+   Salinas Anaya, Y. D., Galván Rodríguez, D. G., Guzmán Prince, I., & Orrante Sakanassi, J. A. (2022). *El impacto del internet de todas las cosas (IoT) en la vida cotidiana.* Ciencia Latina Revista Científica Multidisciplinar, 6(2), 1369–1378. https://doi.org/10.37811/cl\_rcm.v6i2.1959  
+     
+# 9. Anexos
+
+# Anexo A: Links importantes
+
+## Entrevistas
+- [Primera entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EeNk9gGGXXZGste_XhDJuBgBNiGZS6d4YunpXqeBQtpRDQ?e=ZJtqMr)
+- [Segunda entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EVGJYmAlN5NPtdMpPKREaGIB8kXTSCgh1ujGvmjp3NPfcw?e=E11e1a)
+- [Tercera entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EVwOdiCdGNZMillGsKP4Z04B7adFHL6vvNtlzzKkxLkrGw?e=ybLGiq)
+- [Cuarta entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EZSQSpASULhCinUlOwe7xfABhfA6otlNqIQACcmBPEFBEA?e=LvfkLF)
+- [Quinta entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/Ecj5l57a8JBNob_bRwJ2t3wBRZj384NjkNyO_B6uo3Xehw?e=DNiL53)
+- [Sexta entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EdQQE2oyec1HohAyd--ZUU8BJanDA3Y3HSO3vP3hsTpMrQ?e=Ei2KrR)
+
+## User Persona
+- [User Persona - Diseñador](https://uxpressia.com/w/2JtXc/p/Qlp9Z)
+- [User Persona - Comprador](https://uxpressia.com/w/uKRya/p/K2kx6)
+
+## Impact Mapping
+- [Impact Mapping (Miro)](https://miro.com/welcomeonboard/aGd3M3ludGRjbTNYOUdmK3FaY2gyV2s0dXVSVGJGejBnVlJXY0NkVHlZcHRvV01vS0VDc2xBTWZydHAzYmQ3L3k0ZGZ5QkZTNHFseGJIWUVXbUY2TTd3YklNNlNjdFhjSHp3ajB5MzNsQmpxU09jL3YwMmdoZUJZMjdUTmRSenB3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=267182956491)
+
+## Flujos y Prototipos
+- [User Flow Diagrams (Miro)](https://miro.com/welcomeonboard/aXRqaHNteXl2dlUrQTVWQ2VYSnZYc0FjblY1MTc1bEd3bklqcjdobEh4TWxCa1NFbEpBRkZkalF3WkppTjIwNXVXSElLY215aEl6c216VUN2VjU5dXVhV1hKTE84SUppTWM2SDhmaHNUVnJ0MXJZNnorMnVIUk9YV2RaRmVpYTJyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=117657769779)
+- [Prototipo en Figma](https://www.figma.com/proto/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=135-228&t=4qndhMek0CzRLY0i-1&scaling=min-zoom&content-scaling=fixed&page-id=13%3A501&starting-point-node-id=58%3A23&show-proto-sidebar=1)
+
+## Landing Page
+- [Landing Page desplegada](https://1asi0729-2510-4289-g3-keepteam.github.io/landing-page/)
+
+---
+
+# Anexo B: Videos de Exposiciones
+
+## Video de Exposición TB1
+- [Link a video de exposión de TB1 en Microsoft Stream]()
