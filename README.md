@@ -505,7 +505,7 @@ Link:
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-Para esta primera entrega el equipo de Keepteam llegó a la meta de implementar nuestra landing page con ayudas visuales estratégicas que ayudan de la plataforma a nuestros usuarios. El objetivo principal de nuestra era lograr que el usuario entendiera quienes somos y qué ofrecemos, yendo de la mano mostrar como somos diferentes a la competencia y mostrando como nos preocupamos por ellos y su organización. Ofreciendo nuestros planes disponibles y los métodos de contacto. De esta manera buscamos que el usuario se sienta cómodo y atraído hacia nuestro proyecto.
+Para esta primera entrega el equipo de Keepteam llegó a la meta de implementar la landing page con ayudas visuales estratégicas que ayudan a la plataforma a interactuar mejor con nuestros usuarios. El objetivo principal de nuestra landing era lograr que el usuario entendiera quienes somos y qué ofrecemos, yendo de la mano el mostrar como somos diferentes a la competencia y mostrando como nos preocupamos por ellos y su organización. Ofreciendo nuestros planes disponibles. De esta manera buscamos que el usuario se sienta cómodo y atraído hacia nuestro proyecto.
 
 [![8dcc8753f82d4d64b639d08ecbdf40f5.jpg](https://i.postimg.cc/3JL2yf2S/8dcc8753f82d4d64b639d08ecbdf40f5.jpg)](https://postimg.cc/tYxsw5SW)
 
