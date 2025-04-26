@@ -424,6 +424,8 @@ El sistema de búsqueda presente en el diseño se basa en una única barra de b�
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
+![Diagrama de clases](https://i.postimg.cc/sf9fv9F1/class-diagram.png)
+
 ### 4.7.2. Class Dictionary
 
 **User**
