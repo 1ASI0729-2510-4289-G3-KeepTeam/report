@@ -561,3 +561,5 @@ Link a Web Application: [Figma Web Application](https://www.figma.com/design/Qmm
 ### 4.8.1. Database Diagram
 ![Keeplo-v2](https://github.com/user-attachments/assets/1a3513f6-47e1-4c19-ad60-fe502474afce)
 
+[Enlace del diagrama de base de datos ](https://my.vertabelo.com/doc/lah8xd68anzS3iGZAssm1kXuLByWPuqi )
+
