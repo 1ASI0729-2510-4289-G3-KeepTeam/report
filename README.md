@@ -519,6 +519,9 @@ Para esta primera entrega el equipo de Keepteam llegó a la meta de implementar 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta fue nuestra tarea principal desde las decisiones de diseño hasta la elaboración de la misma. No utilizamos servicios web para elaborarla en este punto, ya que la implementación de estos servicios será evaluada en futuros sprints cuando nuestra landing page se encuentre óptima al 100%.
+
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
