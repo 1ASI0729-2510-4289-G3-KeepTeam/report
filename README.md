@@ -43,7 +43,18 @@
 
 <p align="center">Abril 2025</p>
 
+
+# Registro de Versiones del Informe
+
+| Versión  | Fecha  | Autor  | Descripción de modificación |
+| :---- | :---- | :---- | :---- |
+| 1.0 | 25/04 | George Aliaga Bryan Martinez Maria Elena Muñoz Luis Miguel Rojas Sanchez Gonzales | Estructura del informe Capítulo I: Introducción Capítulo II: Requirements Elicitation & Analysis Capítulo III: Requirements Specification Capítulo IV: Product Design Capítulo V: Product Implementation & Deployment Conclusiones Recomendaciones Anexos Landing Page |
+
+# Project Report Collaboration Insights
+
+
 # Contenido
+
 [Capítulo I: Introducción](#capítulo-i-introducción)
 - [1.1. Startup Profile](#11-startup-profile)
   - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
@@ -56,6 +67,7 @@
     - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
     - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+
 
 # Capítulo I: Introducción   
 ## 1.1. Startup Profile
