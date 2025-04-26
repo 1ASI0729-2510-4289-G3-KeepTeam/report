@@ -344,3 +344,56 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 
 
 ## 3.4. Product Backlog
+| \# Orden | User Story Id	 | Titulo | Descripción | Story Points (1 / 2 / 3 / 5 / 8\) |
+| :---- | :---- | :---- | :---- | :---- |
+| 1 | US01 | Crear colecciones | Permitir crear colecciones con nombre/descripción. | 3 |
+| 2 | US02 | Añadir ítems | Agregar ítems a colecciones. | 3 |
+| 3 | US20 | API crud de colecciones. | Endpoints para gestionar colecciones. | 5 |
+| 4 | US21 | API crud de ítems. | Endpoints para gestionar ítems. | 5 |
+| 5 | US32 | Registrar cuenta. | Registro con correo. | 3 |
+| 6 | US42 | Iniciar sesión. | Login con usuario y contraseña. | 2 |
+| 7 | US04 | Compartir via QR. | Generar un QR para compartir colecciones. | 3 |
+| 8 | US05 | Compartir via link. | Generar un link para compartir colecciones. | 2 |
+| 9 | US40 | Encriptar colecciones. | Asegurar datos compartidos. | 5 |
+| 10 | US06 | Acceso público. | Ver colecciones sin login. | 3 |
+| 11 | US26 | Logo y eslogan. | Mostrar identidad de la app. | 1 |
+| 12 | US28 | Botón “Empieza ahora”. | Llamada a acción en la landing. | 1 |
+| 13 | US16 | Sincronización multiplataforma. | Acceso desde cualquier dispositivo. | 8 |
+| 14 | US13 | Compartir con permisos granulares	 | Controlar quién puede ver o editar las colecciones.  | 5 |
+| 15 | US24	 | Compartir ítems individuales	 | Compartir ítems específicos, no toda la colección.  | 3 |
+| 16 | US19 | Etiquetado manual de ítems	 | Añadir tags personalizados a ítems.  | 2 |
+| 17 | US07 | Navegación entre mis colecciones	 | Cambiar entre colecciones fácilmente desde el dashboard.  | 3 |
+| 18 | US35	 | Actualizar foto de perfil	 | Cambiar la imagen del perfil del usuario.  | 2 |
+| 19 | US10 | Subcarpetas en mis colecciones	 | Crear subniveles dentro de una colección.  | 5 |
+| 20 | US09	 | Visualización tipo lista	 | Ver ítems en lista con detalles clave.  | 2 |
+| 21 | US36	 | Modificar información personal	 | Editar nombre, correo, teléfono, etc.  | 3 |
+| 22 | US27 | Visualizar principales funciones	 | Mostrar lo que hace la app desde el landing page.  | 2 |
+| 23 | US37 | Cambiar contraseña	 | Actualizar contraseña desde la configuración.  | 2 |
+| 24 | US03	 | Editar ítems existentes	 | Modificar detalles de ítems guardados.  | 2 |
+| 25 | US08 | Visualización tipo grid	 | Ver ítems en una cuadrícula con imágenes y texto.  | 3 |
+| 26 | US29	 | Botón “Iniciar sesión” en landing	 | Acceder a login desde el header.  | 1 |
+| 27 | US31 | Botón “Empezar como comprador”	 | Registro rápido como comprador.  | 2 |
+| 28 | US33 | Cambiar tema de colores	 | Personalizar fondo de colecciones.  | 3 |
+| 29 | US11	 | Búsqueda semántica	 | Buscar ítems por palabra clave, tag o tipo de contenido.  | 5 |
+| 30 | US34	 | Restaurar colecciones eliminadas	 | Recuperar colecciones desde la papelera.  | 3 |
+| 31 | US23	 | API búsqueda por query	 | Obtener colecciones según filtros (texto, fecha).  | 5 |
+| 32 | US14 | Vista previa de colecciones compartidas	 | Ver miniatura antes de acceder a una colección compartida.  | 3 |
+| 33 | US39	 | Actualizar tarjeta de crédito	 | Cambiar datos de pago para suscripción.  | 3 |
+| 34 | US38	 | Acceder al plan de suscripción premium	 | Ver precios y beneficios, y suscribirse.  | 5 |
+| 35 | US50 | Cambio de lenguaje a inglés/español	 | Alternar entre idiomas desde el sitio.  | 5 |
+| 36 | US46	 | Sección Ofrecemos	 | Beneficios clave de la app en la landing.  | 2 |
+| 37 | US44 | Sección Hero	 | Mensaje principal llamativo al entrar al sitio.  | 2 |
+| 38 | US47 | Sección Planes	 | Comparar precios y beneficios.  | 3 |
+| 39 | US43	 | Navigation Bar	 | Barra de navegación para moverse por el sitio.  | 3 |
+| 40 | US15	 | Modo oscuro/accesibilidad	 | Cambiar tema y ajustar texto para mejor lectura.  | 3 |
+| 41 | US41 | Encriptación de ítems compartidos	 | Proteger ítems compartidos con QR o link.  | 5 |
+| 42 | US25 | Límite de acceso temporal	 | Compartir colecciones que expiren en cierto tiempo.  | 5 |
+| 43 | US12 | API gestión de perfiles	 | Endpoints para crear/editar perfiles y diferenciar roles.  | 5 |
+| 44 | US22	 | Descripción de ítems	 | Agregar texto descriptivo a cada ítem.  | 2 |
+| 45 | US48 | Sección Porque Nosotros	 | Mostrar ventajas de Keeplo sobre otras opciones.  | 2 |
+| 46 | US30 | Botón “Empezar como diseñador”	 | Registro directo como diseñador.  | 2 |
+| 47 | US45 | Sección Estadísticas	 | Mostrar datos clave de uso de la plataforma.  | 5 |
+| 48 | US51 | Atributos Aria	 | Accesibilidad para usuarios con lectores de pantalla.  | 5 |
+| 49 | US17 | Exportar Colecciones a PDF	 | Descargar colecciones como documento PDF.  | 5 |
+| 50 | US49 | Footer	 | Pie de página con info y enlaces útiles.  | 2 |
+| 51 | US18 | Eliminar colecciones	 | Eliminar colecciones con opción de recuperación.	 | 3 |
