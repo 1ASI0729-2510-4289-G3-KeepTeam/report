@@ -1522,3 +1522,6 @@ Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta 
 | Maria Elena Muñoz Machuca     | Implementación de la sección characteristics y why us de la landing page | 
 | Luis Miguel Rojas Piñero      | Implementación de la sección header de la landing page                  |
 | Gabriel Sanchez Gonzales      | Implementación de la sección Who Should Use This? y footer                       |
+
+<img src="assets/insights/sprint-1/1.png" width=600 alt="insights screenshot of sprint 1">
+<img src="assets/insights/sprint-1/2.png" width=600 alt="insights screenshot of sprint 1">
