@@ -264,7 +264,7 @@ Keeplo aplicará una estrategia de diferenciación centrada en la organización 
 
   - ¿Crees que a través de la funcionalidad de compartir una colección de ideas mediante QR disminuiría el tiempo que un grupo demoraría en visualizar todos los ítems de la misma?
 
-  - ¿Te gustaría que se puedan agrupar tus items de interés a través de categorías (Cumpleanos, muebles, necesidades etc.)?
+  - ¿Te gustaría que se puedan agrupar tus items de interés a través de categorías (Cumpleaños, muebles, necesidades etc.)?
 ### 2.2.2. Registro de entrevistas
 Entrevista 1:
 
