@@ -524,6 +524,13 @@ Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta 
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+
+- Git: Ha sido utilizado como sistema de control de versiones, nos ayudó en la colaboración entre los miembros del equipo durante el desarrollo.
+- GitFlow: metodología implementada de trabajo, nos ayudó a gestionar de modo más eficiente los aportes de cada participante, así nos aseguramos un flujo de trabajo apto para el proyecto.
+- GitHub: Plataforma esencial para organizar el trabajo de grupo, donde gestionamos y almacenamos todas las versiones que se fueron presentando en el proyecto, así aseguramos un control correcto de los cambios.
+- GitHub Pages: lo utilizamos para el despliegue de la landing page de forma rápida y sencilla, permitiendo que la aplicación esté disponible públicamente desde un repositorio de GitHub.
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 | Alumno                        | Actividad                                                               | 
