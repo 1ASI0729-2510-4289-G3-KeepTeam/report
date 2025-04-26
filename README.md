@@ -466,7 +466,7 @@ Framework para construir aplicaciones web modernas.
 
 El sprint Backlog 1 se enfocara en el desarrollo de las funcionalidades de Keeplo, la corrección de error y mejoras para la Landing Page, es fundamental que el equipo tome en cuenta la prioridad de la tarea para asegurar el éxito de nuestro proyecto
 
-![Sprint Backlog](assets/SprintBacklog/TrelloKeeplo.png)
+![Sprint Backlog](assets/SprintBacklog/TrelloKeeploF.png)
 
 Link:  
 [https://trello.com/invite/b/680c1b3707a0b63a2ed43576/ATTIc7a9db55a40cdcfa9c61daa30643a42e6F50E0CE/keeplo-sprint](https://trello.com/invite/b/680c1b3707a0b63a2ed43576/ATTIc7a9db55a40cdcfa9c61daa30643a42e6F50E0CE/keeplo-sprint)
