@@ -704,9 +704,13 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 
 ![ImpactMap1](https://i.postimg.cc/1X92ckR2/Impact-map-Dise-adores-1.png)
 
+- [Link del Impact Mapping de Diseñadores](https://uxpressia.com/w/XLwXE/i/hFhVH?tagId=noTag) 
+
 **Compradores:** 
 
 ![ImpactMap2](https://i.postimg.cc/KYfn3wVR/Impact-map-Compradores.png)
+
+- [Link del Impact Mapping de Compradores](https://uxpressia.com/w/XLwXE/i/Do298?tagId=noTag)
 
 
 ## 3.4. Product Backlog
@@ -763,7 +767,6 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 | 49 | US17 | Exportar Colecciones a PDF	 | Descargar colecciones como documento PDF.  | 5 |
 | 50 | US49 | Footer	 | Pie de página con info y enlaces útiles.  | 2 |
 | 51 | US18 | Eliminar colecciones	 | Eliminar colecciones con opción de recuperación.	 | 3 |
-
 
 # Capítulo IV: Product Design
 
@@ -1005,6 +1008,8 @@ Frontend
 [![9636e412b1844560ac8be716f3ad4ab8.jpg](https://i.postimg.cc/sgLjZ76C/9636e412b1844560ac8be716f3ad4ab8.jpg)](https://postimg.cc/sMpdkQCT)
 Backend
 [![ae5479e60b014034b13bc9c85fa712ae.jpg](https://i.postimg.cc/rpt8Gs30/ae5479e60b014034b13bc9c85fa712ae.jpg)](https://postimg.cc/CZSTShFS)
+
+Link a C4: [Link a Structurizer](https://structurizr.com/share/87207/5b87183f-b13d-403d-a0bd-be6b565d1c8f )
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
@@ -1377,8 +1382,15 @@ Se accedió al enlace generado para confirmar que la Landing Page se visualizaba
 #### 5.2.1.1. Sprint Planning 1
 <table>
   <tr>
-    <th colspan="3">Sprint #1 - Sprint Planning Background</th>
+    <th colspan="2">Sprint #</th>
+    <th colspan="1">Sprint 1</th>
   </tr>
+
+ <tr>
+    <td colspan="3"><strong>Sprint Planning Background</strong></td>
+  </tr>
+<tr>
+  
 <tr>
     <td colspan="2"><strong>Date</strong></td>
     <td>20/04/2025</td>
@@ -1521,6 +1533,11 @@ Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta 
 | Luis Miguel Rojas Piñero      | Implementación de la sección header de la landing page                  |
 | Gabriel Sanchez Gonzales      | Implementación de la sección Who Should Use This? y footer                       |
 
+
+<img src="assets/insights/sprint-1/1.png" width=600 alt="insights screenshot of sprint 1">
+<img src="assets/insights/sprint-1/2.png" width=600 alt="insights screenshot of sprint 1">
+
+
 # 6. Conclusiones
 
 
@@ -1584,5 +1601,8 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 
 ## Anexo B: Videos de Exposiciones
 
+
 ### Video de Exposición TB1
 - [Link a video de exposión de TB1 en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EaGZUShoThhNvQY3adq7ZQUBF2LC8UvFBGKG--MlQPfM-Q?e=LuuZbK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
