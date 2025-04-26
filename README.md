@@ -422,8 +422,16 @@ Link a Web Application: [Figma Web Application](https://www.figma.com/design/Qmm
 [Link a prototipo de Figma](https://www.figma.com/proto/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=135-228&t=4qndhMek0CzRLY0i-1&scaling=min-zoom&content-scaling=fixed&page-id=13%3A501&starting-point-node-id=58%3A23&show-proto-sidebar=1)
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
+[![e222ea2da10046c2ac1bc07368bc8071.jpg](https://i.postimg.cc/brRYG5Mm/e222ea2da10046c2ac1bc07368bc8071.jpg)](https://postimg.cc/gLnbQgGh)
+
 ### 4.6.2. Software Architecture Container Diagrams
+[![22e381ed7dd14f0bb3195d6282a7e640.jpg](https://i.postimg.cc/SNDNkwcs/22e381ed7dd14f0bb3195d6282a7e640.jpg)](https://postimg.cc/xcNSPpxD)
+
 ### 4.6.3. Software Architecture Components Diagrams
+Frontend
+[![9636e412b1844560ac8be716f3ad4ab8.jpg](https://i.postimg.cc/sgLjZ76C/9636e412b1844560ac8be716f3ad4ab8.jpg)](https://postimg.cc/sMpdkQCT)
+Backend
+[![ae5479e60b014034b13bc9c85fa712ae.jpg](https://i.postimg.cc/rpt8Gs30/ae5479e60b014034b13bc9c85fa712ae.jpg)](https://postimg.cc/CZSTShFS)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
