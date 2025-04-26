@@ -542,6 +542,8 @@ Para esta primera entrega el equipo de Keepteam llegó a la meta de implementar 
 
 [![c2ffa7a74f454e5d8fe291e96736a6d4.jpg](https://i.postimg.cc/ZKDyYBhX/c2ffa7a74f454e5d8fe291e96736a6d4.jpg)](https://postimg.cc/SJCKDKRG)
 
+[Link a landing page desplegado](https://1asi0729-2510-4289-g3-keepteam.github.io/landing-page/)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta fue nuestra tarea principal desde las decisiones de diseño hasta la elaboración de la misma. No utilizamos servicios web para elaborarla en este punto, ya que la implementación de estos servicios será evaluada en futuros sprints cuando nuestra landing page se encuentre óptima al 100%.
