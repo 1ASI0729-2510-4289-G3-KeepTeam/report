@@ -464,6 +464,29 @@ Framework para construir aplicaciones web modernas.
 
 #### 5.2.1.3. Sprint Backlog 1
 
+El sprint Backlog 1 se enfocara en el desarrollo de las funcionalidades de Keeplo, la corrección de error y mejoras para la Landing Page, es fundamental que el equipo tome en cuenta la prioridad de la tarea para asegurar el éxito de nuestro proyecto
+
+![Sprint Backlog](assets/SprintBacklog/TrelloKeeplo.png)
+
+Link:  
+[https://trello.com/invite/b/680c1b3707a0b63a2ed43576/ATTIc7a9db55a40cdcfa9c61daa30643a42e6F50E0CE/keeplo-sprint](https://trello.com/invite/b/680c1b3707a0b63a2ed43576/ATTIc7a9db55a40cdcfa9c61daa30643a42e6F50E0CE/keeplo-sprint)
+
+| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: | :---: | ----- | :---: |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| US43 | Barra de Navegacion | US43-1 | Implementar barra navegacion | Como visitante quiero acceder a la barra de navegación para moverse rápidamente a cualquier sección de la página. | 3 | Sanchez Gonzales | Done |
+| US44 | Seccion Hero | US44-1 | Implementacion de Seccion Hero | Como visitante quiero ver un mensaje llamativo y claro al entrar, para entender de inmediato el propósito de Keeplo. | 3 | Sanchez Gonzales | Done |
+| US45 | Seccion Estadisticas | US45-1 | Implmenetacion de Seccion Estadisticas | Como visitante quiero ver estadísticas clave del uso de Keeplo para confiar más en el producto. | 4 | Sanchez Gonzales | Done |
+| US46 | Sección Ofrecemos | US46-1 | Implementación Sección Ofrecemos | Como visitante quiero conocer qué funcionalidades ofrece Keeplo para evaluar si cubre mis necesidades. | 2 | Sanchez Gonzales | Done |
+| US47 | Seccion Planes | US47-1 | Implementacion de planes | Como visitante quiero comparar los planes disponibles para decidir si debo suscribirme | 4 | Sanchez Gonzales | Done |
+| US48 | Seccion Porque Nosotros | US48-1 | Porque Keeplo | Como visitante quiero saber por qué debería elegir Keeplo sobre otras opciones para tomar una decisión informada. | 2 | Sanchez Gonzales | Done |
+| US49 | Footer | US49-1 | Pie de pagina de Keeplo | Como visitante quiero ver información útil en el footer de la página para acceder rápidamente a redes sociales. | 2 | Sanchez Gonzales | Done |
+
+
+
+
+
 #### 5.2.1.4. Development Evidence for Sprint Review
 | **Repository** | **Branch**              | **Commit Id**   | **Commit Message** | **Commit Message Body**        | **Commited on(Date)** |
 |----------------|-------------------------|-----------------|--------------------|--------------------------------|-----------------------|
