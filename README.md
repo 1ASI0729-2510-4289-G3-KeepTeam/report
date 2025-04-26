@@ -118,6 +118,23 @@
   - [4.7.2. Class Dictionary](#472-class-dictionary)
 - [4.8. Database Design](#48-database-design)
   - [4.8.1. Database Diagram](#481-database-diagram)
+ 
+[Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
+- [5.1. Software Configuration Management](#51-software-configuration-management)
+  - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+  - [5.1.2. Source Code Management](#512-source-code-management)
+  - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+  - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+- [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+  - [5.2.1. Sprint 1](#521-sprint-1)
+    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+    - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+    - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
+    - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
 # Capítulo I: Introducción   
 ## 1.1. Startup Profile
@@ -1120,3 +1137,379 @@ Backend
 
 [Enlace del diagrama de base de datos ](https://my.vertabelo.com/doc/lah8xd68anzS3iGZAssm1kXuLByWPuqi )
 
+# Capítulo V: Product Implementation, Validation & Deployment
+
+## 5.1. Software Configuration Management
+
+### 5.1.1. Software Development Environment Configuration
+
+Esta sección aborda la configuración de las herramientas necesarias para el desarrollo del software, organizadas de acuerdo con las distintas fases y actividades del proyecto.
+
+| Categoría                   | Herramienta                  | Propósito                                                                                                            | Enlace                                                                                           |
+|----------------------------|------------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Gestión de Proyectos       | Trello                       | Organización de tareas, seguimiento ágil y coordinación del equipo en tiempo real.                                 |                                                                                                  |
+| Diseño UX/UI               | Figma                        | Diseño colaborativo de interfaces de usuario y prototipos funcionales.                                              | [https://www.figma.com/design/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo](https://www.figma.com/design/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=0-1&t=mgNe6ddw6WXnW3yI-1) |
+|                            | IntelliJ IDEA (PlantUML)     | Creación de diagramas UML directamente desde el entorno de desarrollo.                                              |                                                                                                  |
+|                            | UXPressia                    | Desarrollo de User Personas, Empathy Maps, Journey Maps e Impact Maps para entender al usuario.                    |                                                                                                  |
+| Desarrollo de Software     | IntelliJ IDEA                | IDE para programación en Java, depuración, testing y control de versiones.                                         |                                                                                                  |
+|                            | Visual Studio Code           | Editor de código para el desarrollo frontend de la landing page (HTML, CSS, JS).                                   |                                 |
+|                            | GitHub                       | Alojamiento del repositorio, control de versiones, colaboración y seguimiento de cambios.                          |  |
+| Documentación de Software  | Markdown + GitHub            | Redacción clara y estructurada de documentación técnica accesible desde el repositorio.                            | [https://github.com/1ASI0729-2510-4289-G3-KeepTeam/report](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/report)                                                                                                 |
+
+
+
+### 5.1.2. Source Code Management
+
+En los próximos sprints, aplicaremos **Git Flow** para manejar el desarrollo, correcciones y lanzamientos. Esta metodología brinda un flujo de trabajo claro y ordenado, lo que mejora la colaboración del equipo y asegura una integración eficiente de los cambios, contribuyendo a la calidad del producto final.
+
+---
+
+### Repositorios GitHub
+
+- **Landing Page:** [https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page)  
+- **Documentación:** [https://github.com/1ASI0729-2510-4289-G3-KeepTeam/report](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/report)
+
+---
+
+### Implementación de Git Flow
+
+**Git Flow** se implementará como el workflow principal de control de versiones para gestionar eficientemente el desarrollo del software.
+
+#### Estructura de ramas:
+
+##### Ramas Principales:
+- `main`: Contiene el código estable y listo para producción.
+- `develop`: Rama de integración donde se consolidan nuevas funcionalidades.
+
+##### Ramas de Soporte:
+
+- **Feature branches**: Para nuevas funcionalidades.  
+  - Convención: `feature/[nombre-de-la-característica]`
+  - Ejemplo:
+    ```bash
+    git checkout -b feature/autenticacion-usuario
+    git add .
+    git commit -m "feat: Implementa autenticación de usuario"
+    git push -u origin feature/autenticacion-usuario
+    ```
+
+- **Release branches**: Para preparar una nueva versión antes del lanzamiento.  
+  - Convención: `release/[version]`
+  - Ejemplo:
+    ```bash
+    git checkout -b release/1.0.0
+    ```
+
+- **Hotfix branches**: Para corregir errores críticos directamente en `main`.  
+  - Convención: `hotfix/[version-fix]`
+  - Ejemplo:
+    ```bash
+    git checkout -b hotfix/1.0.1
+    git add .
+    git commit -m "fix: Corrige error crítico en autenticación"
+    git push -u origin hotfix/1.0.1
+    ```
+
+---
+
+### Flujo de Trabajo en Git Flow
+
+**Desarrollo de Características (Feature):**
+   - Se crean ramas desde `develop`.
+   - Al finalizar, se fusionan de nuevo en `develop`.
+
+   Ejemplo:
+   ```bash
+   git checkout -b feature/[nombre-de-la-caracteristica]
+   git add .
+   git commit -m "feat: [descripcion-de-la-caracteristica]"
+   git push -u origin feature/[nombre-de-la-característica]
+   ```
+
+---
+
+**Convenciones de Commits**
+
+Para los nombres de los commits, usamos el estándar Conventional Commits, que proporciona una estructura clara para los mensajes en los commits, facilitando la colaboración y el seguimiento de cambios:
+
+- feat: Nueva característica
+
+```
+git commit -m "feat: [descripcion de la caracteristica]"
+```
+
+- fix: Corrección de errores
+
+```
+git commit -m "fix: [descripcion del error]"
+```
+
+- docs: Cambios en la documentación
+
+```
+git commit -m "docs: [descripcion de los cambios en la documentacion]"
+```
+
+- style: Cambios en el estilo
+
+```
+git commit -m "style: [descripcion de los cambios en el estilo que no afectan a la logica del codigo]"
+```
+
+- refactor: Refactorización del código
+
+```
+git commit -m "refactor: [descripcion de la refactorizacion]"
+```
+
+- test: Cambios en las pruebas
+
+```
+git commit -m "test: [descripcion de los cambios en las pruebas]"
+```
+
+- chore: Cambios en la configuración
+
+```
+git commit -m "chore: [descripcion de los cambios en la configuracion]"
+```
+
+Este modelo proporciona una estructura organizada que ayuda a los desarrolladores a entender el flujo de trabajo y colaborar de manera efectiva.
+
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+En el desarrollo del proyecto utilizaremos los siguientes lenguajes y tecnologías: **HTML**, **CSS**, **JavaScript** y **Angular**. A continuación se detallan las convenciones y guías de estilo:
+
+---
+
+## HTML
+
+Utilizado para diseñar páginas web mediante etiquetas que definen el contenido de la página, como texto, imágenes, vídeos, etc.
+
+---
+
+## CSS
+
+### Variables de Colores  
+Los colores globales se definen en el archivo de estilos principal usando variables en el selector `:root`, facilitando la reutilización y mantenimiento de los estilos en toda la página.
+
+### Convenciones
+
+- **Nombres de Clases Compuestas**: Usar guiones (`-`) para unir las palabras.  
+  ```css
+  .box-container {}
+  ```
+
+- **Unidad de Medida `rem`**: Usar `rem` para mantener un diseño responsivo y consistente.  
+  ```css
+  font-size: 1rem;
+  ```
+
+---
+
+## Angular
+
+Framework para construir aplicaciones web modernas.
+
+### Convenciones
+
+- **Uso de Componentes**: Importar y utilizar componentes siguiendo la documentación oficial.  
+  ```typescript
+  import { Component } from '@angular/core';
+
+  @Component({
+    selector: 'app-root',
+    template: `<button (click)="handleClick()">Click Me</button>`,
+  })
+  export class AppComponent {
+    handleClick() {
+      console.log('Button clicked');
+    }
+  }
+  ```
+
+- **Estructura del Proyecto**: Mantener una estructura clara y consistente para los módulos, componentes y servicios.
+
+- **Nombres de Archivos**: Utilizar el formato `kebab-case` para nombres de archivos y carpetas.
+
+- **Servicios**: Seguir el patrón de inyección de dependencias para gestionar servicios y mantener una alta cohesión y bajo acoplamiento.
+
+
+### 5.1.4. Software Deployment Configuration
+El equipo realizó el despliegue de la Landing Page del proyecto utilizando la herramienta GitHub Pages, que permite publicar sitios web directamente desde un repositorio. A continuación, se describen los pasos llevados a cabo:
+
+**1. Acceso al repositorio en GitHub**
+Se ingresó al repositorio correspondiente al proyecto en la plataforma GitHub.
+
+**2. Ingreso a la configuración de GitHub Pages**
+Dentro del repositorio, se hizo clic en la pestaña Settings, y luego se seleccionó la opción Pages desde el menú lateral izquierdo.
+
+**3. Selección de la fuente de despliegue**
+En la sección “Source”, se eligió la rama main como origen del contenido para el despliegue. Asimismo, se seleccionó la carpeta raíz (/root) como ubicación de los archivos a publicar.
+
+**4. Guardado de la configuración**
+Se hizo clic en Save para confirmar y aplicar los cambios de configuración.
+
+**5. Publicación automática del sitio**
+GitHub procedió a generar y publicar automáticamente el sitio web estático.
+
+**6. Obtención del enlace público**
+Tras unos segundos, GitHub proporcionó la URL pública del sitio:
+https://1asi0729-2510-4289-g3-keepteam.github.io/landing-page/
+
+**7. Verificación del despliegue**
+Se accedió al enlace generado para confirmar que la Landing Page se visualizaba correctamente y sin errores.
+
+![image](https://github.com/user-attachments/assets/1a5262c0-3dfd-4417-8a71-50cc95dcafc9)
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1
+<table>
+  <tr>
+    <th colspan="3">Sprint #1 - Sprint Planning Background</th>
+  </tr>
+<tr>
+    <td colspan="2"><strong>Date</strong></td>
+    <td>20/04/2025</td>
+  </tr>
+<tr>
+    <td colspan="2"><strong>Time</strong></td>
+    <td>8:00 PM</td>
+  </tr>
+<tr>
+    <td colspan="2"><strong>Location</strong></td>
+    <td>Discord</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Prepared by:</strong></td>
+    <td>George Aliaga</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Attendees(to planning meeting)</strong></td>
+    <td>George Aliaga, Gabriel Sanchez, Bryan Martinez, Luis Rojas, Maria Muñoz</td>
+  </tr>
+ <tr>
+    <td colspan="2"><strong>Sprint 1-1 Retrospective Summary</strong></td>
+    <td>- Buena coordinación del equipo a través de Discord <br> 
+    - Mejor organización en la creación de carpetas para evitar conflictos al clonar el repositorio
+    </td>
+  </tr>
+<tr>
+    <td colspan="2"><strong>Sprint 1-1 Review Summary</strong></td>
+    <td>Se completó el diseño y desarrollo inicial de la landing page de Keeplo</td>
+  </tr>
+<tr>
+    <th colspan="3">Sprint Goal & User Stories</th>
+  </tr>
+<tr>
+    <td colspan="2"><strong>Sprint 1 Goal</strong></td>
+    <td>Desarrollar una landing page innovadora e informativa para la aplicación Keeplo</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint 1 Velocity</strong></td>
+    <td>39</td>
+  </tr>
+ <tr>
+    <td colspan="2"><strong>Sum of Story Points</strong></td>
+    <td>39</td>
+  </tr>
+<tr>
+</table>
+
+
+#### 5.2.1.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | GitHub Username | Visualización e iconos  Leader(L)/Colaborador(C) | Funcionalidades principales de la landing | Registro e inicio de sesión de usuarios | Navegación y estructura web | Accesibilidad y multi-idioma |
+| :---- | ----- | :---- | :---- | :---- | :---- | :---- |
+| Sanchez Gonzales | [yigabriel](https://github.com/yigabriel) |           L |       |       |             L |              L                |
+| Martinez Ramos, Bryan Felix | [BryanMartinez123](https://github.com/BryanMartinez123) |  |  |  |             C  |              C                |
+| Aliaga Pimentel, George Arturo  | [GeorAliaga](https://github.com/GeorAliaga) |  |          C |          C |  |                              |
+| Muñoz Machuca, Maria Elena | [maria-mm0907](https://github.com/maria-mm0907) |  |          L |          L |  |            C                  |
+| Rojas Piñero, Luis Miguel  | [Lucho0725](https://github.com/Lucho0725) |          C |          C |          C |  |                        |
+
+
+
+#### 5.2.1.3. Sprint Backlog 1
+
+El sprint Backlog 1 se enfocara en el desarrollo de las funcionalidades de Keeplo, la corrección de error y mejoras para la Landing Page, es fundamental que el equipo tome en cuenta la prioridad de la tarea para asegurar el éxito de nuestro proyecto
+
+![Sprint Backlog](assets/SprintBacklog/TrelloKeeploF.png)
+
+Link:  
+[https://trello.com/invite/b/680c1b3707a0b63a2ed43576/ATTIc7a9db55a40cdcfa9c61daa30643a42e6F50E0CE/keeplo-sprint](https://trello.com/invite/b/680c1b3707a0b63a2ed43576/ATTIc7a9db55a40cdcfa9c61daa30643a42e6F50E0CE/keeplo-sprint)
+
+| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: | :---: | ----- | :---: |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| US43 | Header | US43-1 | Implementacion de Barra de Navegacion | Como visitante quiero acceder a la barra de navegación para moverse rápidamente a cualquier sección de la página. | 3 | Luis | Done |
+| US44 | Section Hero | US44-1 | Implementacion de Seccion Hero | Como visitante quiero ver un mensaje llamativo y claro al entrar, para entender de inmediato el propósito de Keeplo. | 3 | George | Done |
+| US45 | Stadistics | US45-1 | Implmenetacion de Seccion Estadisticas | Como visitante quiero ver estadísticas clave del uso de Keeplo para confiar más en el producto. | 4 | Bryan | Done |
+| US46 | characteristics | US46-1 | Implementación Sección caracteristicas | Como visitante quiero conocer qué funcionalidades ofrece Keeplo para evaluar si cubre mis necesidades. | 2 | Maria | Done |
+| US47 | Plan | US47-1 | Implementacion de planes | Como visitante quiero comparar los planes disponibles para decidir si debo suscribirme | 4 | Geroge | Done |
+| US48 | Why-us | US48-1 | Implementacion del porque nosotros | Como visitante quiero saber por qué debería elegir Keeplo sobre otras opciones para tomar una decisión informada. | 2 | Maria | Done |
+| US49 | Footer | US49-1 | Implementacion de Footer Keeplo | Como visitante quiero ver información útil en el footer de la página para acceder rápidamente a redes sociales. | 2 | Sanchez Gonzales | Done |
+
+
+
+
+
+#### 5.2.1.4. Development Evidence for Sprint Review
+| **Repository** | **Branch**              | **Commit Id**   | **Commit Message** | **Commit Message Body**        | **Commited on(Date)** |
+|----------------|-------------------------|-----------------|--------------------|--------------------------------|-----------------------|
+|  https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page              | feature/characteristics | 5d42e8d…0386864 |  feat: add why us styles css.css| feat: add why us styles css.css | 25/04/2025            |
+|    https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page             | feature/characteristics | 2e82bbb…9becc29 | feat: add characteristics index html.html| feat: add characteristics index html.html| 25/04/2025            |
+|     https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page            | feature/footer          | 99a47c0  | feat: add footer section in HTML and CSS |  feat: add footer section in HTML and CSS  | 21/04/2025            |
+|      https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page           | feature/header          | 4714e01 |  feat: add header in HTML and CSS|  feat: add header in HTML and CSS| 24/04/2025            |
+|       https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page          | feature/keeploUsers     |    030a423       |  feat: add users section to HTML and CSS                | feat: add users section to HTML and CSS | 20/04/2025            |
+|        https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page         | feature/plans           |    e617f31       |  feat: add plans                  | feat: add plans                               | 24/04/2025            |
+|      https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page           | feature/why-us          |    153d1a9       |  feat: add why us styles.css                  | feat: add why us styles.css                               | 25/04/2025            |
+|       https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page          | feature/why-us          |    2e82bbb       |  feat: why us index html.html   | feat: why us index html.html | 25/04/2025            |
+|       https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page          | landin-page/develop     |    e2d927a       |  feat: add favicon icon to website in HTML   | feat: add favicon icon to website in HTML | 20/04/2025            |
+|        https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page         | landing-page/develop    |    e2d927a       |  feat: add script to connect translations JSON files to HTML   | feat: add script to connect translations JSON files to HTML | 20/04/2025            |
+
+
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+Para esta primera entrega el equipo de Keepteam llegó a la meta de implementar la landing page con ayudas visuales estratégicas que ayudan a la plataforma a interactuar mejor con nuestros usuarios. El objetivo principal de nuestra landing era lograr que el usuario entendiera quienes somos y qué ofrecemos, yendo de la mano el mostrar como somos diferentes a la competencia y mostrando como nos preocupamos por ellos y su organización. Ofreciendo nuestros planes disponibles. De esta manera buscamos que el usuario se sienta cómodo y atraído hacia nuestro proyecto.
+
+[![8dcc8753f82d4d64b639d08ecbdf40f5.jpg](https://i.postimg.cc/3JL2yf2S/8dcc8753f82d4d64b639d08ecbdf40f5.jpg)](https://postimg.cc/tYxsw5SW)
+
+[![4ae6387521aa4ef0920d9f93d5f7b0fb.jpg](https://i.postimg.cc/SRgYMjY2/4ae6387521aa4ef0920d9f93d5f7b0fb.jpg)](https://postimg.cc/Zvyqkbc4)
+
+[![3408dad210be4d53b46c3f9b73e4bac6.jpg](https://i.postimg.cc/MZ5Q4336/3408dad210be4d53b46c3f9b73e4bac6.jpg)](https://postimg.cc/nMsr92tg)
+
+[![8dc321a0e3c84e27910317e49047d1ea.jpg](https://i.postimg.cc/xTdzSGBK/8dc321a0e3c84e27910317e49047d1ea.jpg)](https://postimg.cc/dDz12Cs1)
+
+[![c2ffa7a74f454e5d8fe291e96736a6d4.jpg](https://i.postimg.cc/ZKDyYBhX/c2ffa7a74f454e5d8fe291e96736a6d4.jpg)](https://postimg.cc/SJCKDKRG)
+
+[Link a landing page desplegado](https://1asi0729-2510-4289-g3-keepteam.github.io/landing-page/)
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta fue nuestra tarea principal desde las decisiones de diseño hasta la elaboración de la misma. No utilizamos servicios web para elaborarla en este punto, ya que la implementación de estos servicios será evaluada en futuros sprints cuando nuestra landing page se encuentre óptima al 100%.
+
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+
+- Git: Ha sido utilizado como sistema de control de versiones, nos ayudó en la colaboración entre los miembros del equipo durante el desarrollo.
+- GitFlow: metodología implementada de trabajo, nos ayudó a gestionar de modo más eficiente los aportes de cada participante, así nos aseguramos un flujo de trabajo apto para el proyecto.
+- GitHub: Plataforma esencial para organizar el trabajo de grupo, donde gestionamos y almacenamos todas las versiones que se fueron presentando en el proyecto, así aseguramos un control correcto de los cambios.
+- GitHub Pages: lo utilizamos para el despliegue de la landing page de forma rápida y sencilla, permitiendo que la aplicación esté disponible públicamente desde un repositorio de GitHub.
+
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+| Alumno                        | Actividad                                                               | 
+|-------------------------------|-------------------------------------------------------------------------|
+| George Arturo Aliaga Pimentel | Implementación de la sección hero y plans                               | 
+| Bryan Felix Martinez Ramos    | Implementación de la sección statistics                                 | 
+| Maria Elena Muñoz Machuca     | Implementación de la sección characteristics y why us de la landing page | 
+| Luis Miguel Rojas Piñero      | Implementación de la sección header de la landing page                  |
+| Gabriel Sanchez Gonzales      | Implementación de la sección Who Should Use This? y footer                       |
