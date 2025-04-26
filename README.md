@@ -268,13 +268,16 @@ Keeplo aplicará una estrategia de diferenciación centrada en la organización 
 ### 2.2.2. Registro de entrevistas
 Entrevista 1:
 
-Segmento 1: Diseñadores
-Nombre: Maria Angeles
-Apellido: Flores Villavicencio 
-Edad: 21
-Distrito: Pueblo Libre
-Duración: 12:14
-Link: Entrevista 1 .mp4
+
+**Segmento 1: Diseñadores**
+
+- Nombre: Maria Angeles
+- Apellido: Flores Villavicencio 
+- Edad: 21
+- Distrito: Pueblo Libre
+- Duración: 12:14
+
+Link: [Entrevista 1 .mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EeNk9gGGXXZGste_XhDJuBgBNiGZS6d4YunpXqeBQtpRDQ?e=ZJtqMr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 [![Imagen-de-Whats-App-2025-04-21-a-las-21-47-47-3b53496a.jpg](https://i.postimg.cc/Rhpz3FrF/Imagen-de-Whats-App-2025-04-21-a-las-21-47-47-3b53496a.jpg)](https://postimg.cc/4Hc0qXxk)
 
@@ -282,13 +285,15 @@ Resumen de la entrevista: Nuestra primera invitada es María Ángeles, una dise�
 
 Entrevista 2:
 
-Segmento 1: Diseñadores
-Nombre: Eunice
-Apellido: Blas Sánchez 
-Edad: 22
-Distrito: Pueblo Libre
-Duración: 07:29
-Link: Entrevista 2 .mp4
+**Segmento 1: Diseñadores**
+
+- Nombre: Eunice
+- Apellido: Blas Sánchez 
+- Edad: 22
+- Distrito: Pueblo Libre
+- Duración: 07:29
+
+Link: [Entrevista 2 .mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EVGJYmAlN5NPtdMpPKREaGIB8kXTSCgh1ujGvmjp3NPfcw?e=E11e1a&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 [![Imagen-de-Whats-App-2025-04-21-a-las-21-47-55-1f6ffaf5.jpg](https://i.postimg.cc/SQg41ZXh/Imagen-de-Whats-App-2025-04-21-a-las-21-47-55-1f6ffaf5.jpg)](https://postimg.cc/MXfgvmbP)
 
@@ -296,13 +301,15 @@ Resumen de la entrevista: Eunice, una diseñadora gráfica que utiliza principal
 
 Entrevista 3:
 
-Segmento 1: Diseñadores
-Nombre: José Martín
-Apellido: Villegas Guerrero
-Edad: 25
-Distrito: Surco
-Duración: 6:01
-Link: Entrevista 3 .mp4
+**Segmento 1: Diseñadores**
+
+- Nombre: José Martín
+- Apellido: Villegas Guerrero
+- Edad: 25
+- Distrito: Surco
+- Duración: 6:01
+
+Link: [Entrevista 3 .mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EVwOdiCdGNZMillGsKP4Z04B7adFHL6vvNtlzzKkxLkrGw?e=ybLGiq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 [![Imagen-de-Whats-App-2025-04-21-a-las-21-48-23-ac0c223b.jpg](https://i.postimg.cc/bvffSW5Q/Imagen-de-Whats-App-2025-04-21-a-las-21-48-23-ac0c223b.jpg)](https://postimg.cc/dh6xzHw1)
 
@@ -310,39 +317,52 @@ Resumen de la entrevista: como tercer invitado en este segmento tenemos a José,
 
 
 Entrevista 4:
-Segmento 2: Compradores
+
+**Segmento 2: Compradores**
+
 Nombre: Dayana Lourdes
+
 Apellido: Chavarria Ramirez
+
 Edad: 20
+
 Distrito: Barranco
+
 Duración: 08:29
-Link: Entrevista 4 .mp4
+
+Link: [Entrevista 4 .mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EZSQSpASULhCinUlOwe7xfABhfA6otlNqIQACcmBPEFBEA?e=LvfkLF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 [![Imagen-de-Whats-App-2025-04-21-a-las-21-48-24-468b11cd.jpg](https://i.postimg.cc/6QVJrzsF/Imagen-de-Whats-App-2025-04-21-a-las-21-48-24-468b11cd.jpg)](https://postimg.cc/FfKBmyHx)
 
 Resumen de la entrevista: la entrevistada para este segmento de compradores en línea es Dayana, estudiante universitaria y compradora frecuente (3-4 veces/mes), enfrenta problemas de organización dispersa al guardar productos de interés: recurre a capturas de pantalla y links pegados en WhatsApp, lo que le genera frustración al perder el contexto de los ítems o incluso generando dudas como : ¿Era este el esmalte o la base?". Valora especialmente la propuesta de Keeplo para centralizar y categorizar sus hallazgos (ej: pestañas como "Maquillaje" o "Regalo Mamá"), destacando la utilidad del QR para compartir listas de forma inmediata. Su principal dolor es el tiempo perdido revisando links sin clasificar, por lo que una plataforma con búsqueda por categorías visuales y previsualización de productos mejoraría significativamente su eficiencia en compras. Como sugerencia, resalta la importancia de que las categorías sean personalizables y simples (no requieren subniveles complejos como los diseñadores), adaptándose a su flujo espontáneo de descubrimiento y compra.
 
 Entrevista 5:
-Segmento 2: Compradores
-Nombre: Leonardo
-Apellido: Roca
-Edad: 22
-Distrito: Breña
-Duración: 07:46
-Link: Entrevista 5 .mp4
+
+**Segmento 2: Compradores**
+
+- Nombre: Leonardo
+- Apellido: Roca
+- Edad: 22
+- Distrito: Breña
+- Duración: 07:46
+
+Link: [Entrevista 5 .mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/Ecj5l57a8JBNob_bRwJ2t3wBRZj384NjkNyO_B6uo3Xehw?e=DNiL53&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 [![Imagen-de-Whats-App-2025-04-21-a-las-21-48-24-6278a75b.jpg](https://i.postimg.cc/3RKMnpYN/Imagen-de-Whats-App-2025-04-21-a-las-21-48-24-6278a75b.jpg)](https://postimg.cc/DWYYzSW3)
 
 Resumen de la entrevista: nuestro siguiente invitado es Leonardo el  cual realiza compras online 2 veces/mes (principalmente en ropa y productos tangibles) y actualmente organiza sus intereses de compras usando Notion, donde guarda links y capturas de pantalla en un portapapeles personalizado. Aunque considera su método "regularmente organizado", admite que a veces olvida guardar capturas en Notion o las borra accidentalmente, lo que le genera frustración al perder productos de interés. Valora la propuesta de Keeplo para centralizar ítems, pero se muestra escéptico ante el QR para compartir colecciones, resalta el hecho de "personas mayores podrían no entenderlo, prefiriendo links simples. Su principal necesidad es categorizar productos (ej: "Ropa") y sugiere una función innovadora: comparar precios del mismo ítem en distintas plataformas automáticamente. Destaca que, pese a su organización actual, una app dedicada a la organización le ahorraría tiempo en recuperar productos guardados y evitaría pérdidas.
 
 Entrevista 6:
-Segmento 2: Compradores
-Nombre: Zayuri
-Apellido: Navarro
-Edad: 19
-Distrito: Jesus Maria
-Duración: 08:00
-Link: Entrevista 6.mp4
+
+**Segmento 2: Compradores**
+
+- Nombre: Zayuri
+- Apellido: Navarro
+- Edad: 19
+- Distrito: Jesus Maria
+- Duración: 08:00
+
+Link: [Entrevista 6.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EdQQE2oyec1HohAyd--ZUU8BJanDA3Y3HSO3vP3hsTpMrQ?e=Ei2KrR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 [![Imagen-de-Whats-App-2025-04-21-a-las-21-48-25-a8dc1ce1.jpg](https://i.postimg.cc/NMb3VMj4/Imagen-de-Whats-App-2025-04-21-a-las-21-48-25-a8dc1ce1.jpg)](https://postimg.cc/dkkNZJdk)
 
