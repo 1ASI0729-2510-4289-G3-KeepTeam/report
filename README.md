@@ -352,6 +352,8 @@ El sistema de búsqueda presente en el diseño se basa en una única barra de b�
 
 <img src="/assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage-1.png" height="1000"/>
 
+Link a landing page: [Figma Landing Page](https://www.figma.com/design/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=662-263&t=pMqV3oN4AieCUZ1h-1)
+
 **Desktop:**
 
 <img src="/assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage.png" height="1000"/>
@@ -409,6 +411,8 @@ El sistema de búsqueda presente en el diseño se basa en una única barra de b�
 <img src="/assets/webappmockup/PerfilWebApplicationMock-Up.png" width="500"/>
 <img src="/assets/webappmockup/QR%20generatedWebApplicationMock-Up.png" width="500"/>
 <img src="/assets/webappmockup/TarifasWebApplicationMock-Up.png" width="500"/>
+
+Link a Web Application: [Figma Web Application](https://www.figma.com/design/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=82-1755&t=pMqV3oN4AieCUZ1h-1)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
