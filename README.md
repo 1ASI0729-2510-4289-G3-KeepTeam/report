@@ -1372,8 +1372,15 @@ Se accedió al enlace generado para confirmar que la Landing Page se visualizaba
 #### 5.2.1.1. Sprint Planning 1
 <table>
   <tr>
-    <th colspan="3">Sprint #1 - Sprint Planning Background</th>
+    <th colspan="2">Sprint #</th>
+    <th colspan="1">Sprint 1</th>
   </tr>
+
+ <tr>
+    <td colspan="3"><strong>Sprint Planning Background</strong></td>
+  </tr>
+<tr>
+  
 <tr>
     <td colspan="2"><strong>Date</strong></td>
     <td>20/04/2025</td>
