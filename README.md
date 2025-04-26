@@ -51,7 +51,8 @@
 | 1.0 | 25/04 | George Aliaga Bryan Martinez Maria Elena Muñoz Luis Miguel Rojas Sanchez Gonzales | Estructura del informe Capítulo I: Introducción Capítulo II: Requirements Elicitation & Analysis Capítulo III: Requirements Specification Capítulo IV: Product Design Capítulo V: Product Implementation & Deployment Conclusiones Recomendaciones Anexos Landing Page |
 
 # Project Report Collaboration Insights
-
+![project report collaboration insights image chart](assets/insights/sprint-1/report1.png)
+![project report collaboration insights image chart](assets/insights/sprint-1/report2.png)
 
 # Contenido
 
