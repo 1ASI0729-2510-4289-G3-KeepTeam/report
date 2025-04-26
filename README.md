@@ -505,6 +505,18 @@ Link:
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
+Para esta primera entrega el equipo de Keepteam llegó a la meta de implementar nuestra landing page con ayudas visuales estratégicas que ayudan de la plataforma a nuestros usuarios. El objetivo principal de nuestra era lograr que el usuario entendiera quienes somos y qué ofrecemos, yendo de la mano mostrar como somos diferentes a la competencia y mostrando como nos preocupamos por ellos y su organización. Ofreciendo nuestros planes disponibles y los métodos de contacto. De esta manera buscamos que el usuario se sienta cómodo y atraído hacia nuestro proyecto.
+
+[![8dcc8753f82d4d64b639d08ecbdf40f5.jpg](https://i.postimg.cc/3JL2yf2S/8dcc8753f82d4d64b639d08ecbdf40f5.jpg)](https://postimg.cc/tYxsw5SW)
+
+[![4ae6387521aa4ef0920d9f93d5f7b0fb.jpg](https://i.postimg.cc/SRgYMjY2/4ae6387521aa4ef0920d9f93d5f7b0fb.jpg)](https://postimg.cc/Zvyqkbc4)
+
+[![3408dad210be4d53b46c3f9b73e4bac6.jpg](https://i.postimg.cc/MZ5Q4336/3408dad210be4d53b46c3f9b73e4bac6.jpg)](https://postimg.cc/nMsr92tg)
+
+[![8dc321a0e3c84e27910317e49047d1ea.jpg](https://i.postimg.cc/xTdzSGBK/8dc321a0e3c84e27910317e49047d1ea.jpg)](https://postimg.cc/dDz12Cs1)
+
+[![c2ffa7a74f454e5d8fe291e96736a6d4.jpg](https://i.postimg.cc/ZKDyYBhX/c2ffa7a74f454e5d8fe291e96736a6d4.jpg)](https://postimg.cc/SJCKDKRG)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
