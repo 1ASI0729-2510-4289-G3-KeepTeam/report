@@ -444,9 +444,12 @@ Mediante los User Journey Maps, se representa la situación (AS-IS) de la experi
 
 ![AsIs1](https://i.postimg.cc/qByZzMwR/as-is1.png)
 
+
 **Compradores:**
 
 ![AsIs2](https://i.postimg.cc/K4hF2qm5/as-is2.png)
+
+link a As-Is: [Link a Miro](https://miro.com/welcomeonboard/aGd3M3ludGRjbTNYOUdmK3FaY2gyV2s0dXVSVGJGejBnVlJXY0NkVHlZcHRvV01vS0VDc2xBTWZydHAzYmQ3L3k0ZGZ5QkZTNHFseGJIWUVXbUY2TTFuaGgvN05id0xzTStqNU9wbzFtTVlzbWFWTTVtaGE1V0IrSmJMa0I1UmphWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=859302578058)
 
 ## 2.4. Ubiquitous Language
 
