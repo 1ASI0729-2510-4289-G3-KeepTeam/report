@@ -136,6 +136,14 @@
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
+[6. Conclusiones](#6-conclusiones)
+
+[7. Recomendaciones](#7-recomendaciones)
+
+[8. Bibliografía](#8-bibliografía)
+
+[9. Anexos](#9-anexos)
+
 # Capítulo I: Introducción   
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
@@ -256,7 +264,6 @@ Los compradores buscan un lugar en el cual puedan guardar todos los objetos de i
   - **Edad:** Mayor a 18 años  
   - **Ubicación:** Lima, Peru  
   - **Nivel Socioeconomico:** Medio a alto
-
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -461,7 +468,7 @@ En esta sección se presentan los resultados del análisis de las necesidades de
 
 **Compradores**
 ![User Persona Diseñador Jenny Ruiz](assets/user-personas/Marco%20Villena.png)
-[Link a User Persona Diseñador](https://uxpressia.com/w/uKRya/p/K2kx6)
+[Link a User Persona Comprador](https://uxpressia.com/w/uKRya/p/K2kx6)
 
 ### 2.3.2. User Task Matrix
 **Diseñadores:**
@@ -697,9 +704,13 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 
 ![ImpactMap1](https://i.postimg.cc/1X92ckR2/Impact-map-Dise-adores-1.png)
 
+- [Link del Impact Mapping de Diseñadores](https://uxpressia.com/w/XLwXE/i/hFhVH?tagId=noTag) 
+
 **Compradores:** 
 
 ![ImpactMap2](https://i.postimg.cc/KYfn3wVR/Impact-map-Compradores.png)
+
+- [Link del Impact Mapping de Compradores](https://uxpressia.com/w/XLwXE/i/Do298?tagId=noTag)
 
 
 ## 3.4. Product Backlog
@@ -756,7 +767,6 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 | 49 | US17 | Exportar Colecciones a PDF	 | Descargar colecciones como documento PDF.  | 5 |
 | 50 | US49 | Footer	 | Pie de página con info y enlaces útiles.  | 2 |
 | 51 | US18 | Eliminar colecciones	 | Eliminar colecciones con opción de recuperación.	 | 3 |
-
 
 # Capítulo IV: Product Design
 
@@ -1523,5 +1533,71 @@ Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta 
 | Luis Miguel Rojas Piñero      | Implementación de la sección header de la landing page                  |
 | Gabriel Sanchez Gonzales      | Implementación de la sección Who Should Use This? y footer                       |
 
+
 <img src="assets/insights/sprint-1/1.png" width=600 alt="insights screenshot of sprint 1">
 <img src="assets/insights/sprint-1/2.png" width=600 alt="insights screenshot of sprint 1">
+
+
+# 6. Conclusiones
+
+
+- Conclusión 1
+
+El desarrollo de Keeplo responde eficazmente a una necesidad real y no resuelta en el mercado digital actual: la organización centralizada y personalizada de ideas, productos e intereses. A través de entrevistas y análisis UX, se evidenció que tanto diseñadores como compradores experimentan frustraciones con métodos dispersos e ineficientes. Keeplo ofrece una solución integral y accesible que mejora la experiencia del usuario al permitir guardar, clasificar y compartir contenido de manera intuitiva.
+
+- Conclusión 2
+
+Keeplo se posiciona como una herramienta innovadora al ofrecer funciones que otras plataformas no integran de forma conjunta, como el uso de códigos QR, etiquetas personalizadas, y colecciones compatibles. Frente a competidores como Pinterest o Notion, Keeplo destaca por su simplicidad y enfoque visual, lo cual lo hace ideal para usuarios que buscan rapidez, orden y colaboración. Esta diferenciación representa un valor agregado clave para su adopción.
+
+- Conclusión 3
+
+Durante este desarrollo parcial, Keeplo nos ha demostrado un alto potencial para impactar positivamente la productividad y organización digital de los usuarios. Su enfoque centrado en el usuario, combinado con una estructura de diseño ágil y adaptable, le otorga la capacidad de escalar y evolucionar según nuevas necesidades del mercado. Esto convierte a Keeplo no solo en un producto funcional, sino en una plataforma con proyección hacia la innovación continua en el ámbito de la gestión personal de información.
+
+
+# 7. Recomendaciones
+
+
+Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la plataforma, recomendamos realizar las siguientes acciones:
+
+- Incluir una funcionalidad donde los usuarios puedan guardar sus “Wish” a través de extensiones de navegador, permitiéndoles guardar ítems de manera inmediata mientras navegan, logrando evitar una desconexión de concentración, mejorando la eficacia y la rapidez con la que crean nuevos wishes
+- Desarrollar un algoritmo de auto-etiquetado, donde los “Wishes” puedan ser asignados automáticamente una etiqueta en el caso de no tener una etiqueta añadida manualmente, estas auto-etiquetas serían creadas a partir del nombre y descripción del “Wish”, facilitando la organización rápida de contenido y reduciendo el esfuerzo de acciones manuales por parte del usuario
+- Incorporar una funcionalidad de extra valor para los compradores, en la cual se les permite asignar un campo de valor, como lo es el precio, el cual funcionaria como un tag adicional y aparte, permitiendo ordenar y filtrar a partir del precio de un ítem, optimizando la comparación de precios entre productos similares.
+
+# 8. Bibliografía  
+     
+   *¿Cuál es la función de la lista de deseo de una tienda online?* (2023, 1 junio). Sell Emprendepyme. [https://sell.emprendepyme.net/cual-es-la-funcion-de-la-lista-de-deseo-de-una-tienda-online.html](https://sell.emprendepyme.net/cual-es-la-funcion-de-la-lista-de-deseo-de-una-tienda-online.html)  
+     
+   Salinas Anaya, Y. D., Galván Rodríguez, D. G., Guzmán Prince, I., & Orrante Sakanassi, J. A. (2022). *El impacto del internet de todas las cosas (IoT) en la vida cotidiana.* Ciencia Latina Revista Científica Multidisciplinar, 6(2), 1369–1378. https://doi.org/10.37811/cl\_rcm.v6i2.1959  
+     
+# 9. Anexos
+
+# Anexo A: Links importantes
+
+## Entrevistas
+- [Primera entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EeNk9gGGXXZGste_XhDJuBgBNiGZS6d4YunpXqeBQtpRDQ?e=ZJtqMr)
+- [Segunda entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EVGJYmAlN5NPtdMpPKREaGIB8kXTSCgh1ujGvmjp3NPfcw?e=E11e1a)
+- [Tercera entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EVwOdiCdGNZMillGsKP4Z04B7adFHL6vvNtlzzKkxLkrGw?e=ybLGiq)
+- [Cuarta entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EZSQSpASULhCinUlOwe7xfABhfA6otlNqIQACcmBPEFBEA?e=LvfkLF)
+- [Quinta entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/Ecj5l57a8JBNob_bRwJ2t3wBRZj384NjkNyO_B6uo3Xehw?e=DNiL53)
+- [Sexta entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EdQQE2oyec1HohAyd--ZUU8BJanDA3Y3HSO3vP3hsTpMrQ?e=Ei2KrR)
+
+## User Persona
+- [User Persona - Diseñador](https://uxpressia.com/w/2JtXc/p/Qlp9Z)
+- [User Persona - Comprador](https://uxpressia.com/w/uKRya/p/K2kx6)
+
+## Impact Mapping
+- [Impact Mapping (Miro)](https://miro.com/welcomeonboard/aGd3M3ludGRjbTNYOUdmK3FaY2gyV2s0dXVSVGJGejBnVlJXY0NkVHlZcHRvV01vS0VDc2xBTWZydHAzYmQ3L3k0ZGZ5QkZTNHFseGJIWUVXbUY2TTd3YklNNlNjdFhjSHp3ajB5MzNsQmpxU09jL3YwMmdoZUJZMjdUTmRSenB3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=267182956491)
+
+## Flujos y Prototipos
+- [User Flow Diagrams (Miro)](https://miro.com/welcomeonboard/aXRqaHNteXl2dlUrQTVWQ2VYSnZYc0FjblY1MTc1bEd3bklqcjdobEh4TWxCa1NFbEpBRkZkalF3WkppTjIwNXVXSElLY215aEl6c216VUN2VjU5dXVhV1hKTE84SUppTWM2SDhmaHNUVnJ0MXJZNnorMnVIUk9YV2RaRmVpYTJyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=117657769779)
+- [Prototipo en Figma](https://www.figma.com/proto/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=135-228&t=4qndhMek0CzRLY0i-1&scaling=min-zoom&content-scaling=fixed&page-id=13%3A501&starting-point-node-id=58%3A23&show-proto-sidebar=1)
+
+## Landing Page
+- [Landing Page desplegada](https://1asi0729-2510-4289-g3-keepteam.github.io/landing-page/)
+
+---
+
+# Anexo B: Videos de Exposiciones
+
+## Video de Exposición TB1
+- [Link a video de exposión de TB1 en Microsoft Stream]()
