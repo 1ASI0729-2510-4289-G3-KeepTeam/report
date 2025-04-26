@@ -58,6 +58,9 @@
     - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
+[6. Conclusiones](#6-conclusiones)
+
+[7. Recomendaciones](#7-recomendaciones)
 
 # Capítulo I: Introducción   
 ## 1.1. Startup Profile
@@ -173,3 +176,29 @@ Los compradores buscan un lugar en el cual puedan guardar todos los objetos de i
   - **Edad:** Mayor a 18 años  
   - **Ubicación:** Lima, Peru  
   - **Nivel Socioeconomico:** Medio a alto
+
+
+# 6. Conclusiones
+
+
+- Conclusión 1
+
+El desarrollo de Keeplo responde eficazmente a una necesidad real y no resuelta en el mercado digital actual: la organización centralizada y personalizada de ideas, productos e intereses. A través de entrevistas y análisis UX, se evidenció que tanto diseñadores como compradores experimentan frustraciones con métodos dispersos e ineficientes. Keeplo ofrece una solución integral y accesible que mejora la experiencia del usuario al permitir guardar, clasificar y compartir contenido de manera intuitiva.
+
+- Conclusión 2
+
+Keeplo se posiciona como una herramienta innovadora al ofrecer funciones que otras plataformas no integran de forma conjunta, como el uso de códigos QR, etiquetas personalizadas, y colecciones compatibles. Frente a competidores como Pinterest o Notion, Keeplo destaca por su simplicidad y enfoque visual, lo cual lo hace ideal para usuarios que buscan rapidez, orden y colaboración. Esta diferenciación representa un valor agregado clave para su adopción.
+
+- Conclusión 3
+
+Durante este desarrollo parcial, Keeplo nos ha demostrado un alto potencial para impactar positivamente la productividad y organización digital de los usuarios. Su enfoque centrado en el usuario, combinado con una estructura de diseño ágil y adaptable, le otorga la capacidad de escalar y evolucionar según nuevas necesidades del mercado. Esto convierte a Keeplo no solo en un producto funcional, sino en una plataforma con proyección hacia la innovación continua en el ámbito de la gestión personal de información.
+
+
+# 7. Recomendaciones
+
+
+Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la plataforma, recomendamos realizar las siguientes acciones:
+
+- Incluir una funcionalidad donde los usuarios puedan guardar sus “Wish” a través de extensiones de navegador, permitiéndoles guardar ítems de manera inmediata mientras navegan, logrando evitar una desconexión de concentración, mejorando la eficacia y la rapidez con la que crean nuevos wishes
+- Desarrollar un algoritmo de auto-etiquetado, donde los “Wishes” puedan ser asignados automáticamente una etiqueta en el caso de no tener una etiqueta añadida manualmente, estas auto-etiquetas serían creadas a partir del nombre y descripción del “Wish”, facilitando la organización rápida de contenido y reduciendo el esfuerzo de acciones manuales por parte del usuario
+- Incorporar una funcionalidad de extra valor para los compradores, en la cual se les permite asignar un campo de valor, como lo es el precio, el cual funcionaria como un tag adicional y aparte, permitiendo ordenar y filtrar a partir del precio de un ítem, optimizando la comparación de precios entre productos similares.
