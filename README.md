@@ -653,9 +653,13 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 
 ![ImpactMap1](https://i.postimg.cc/1X92ckR2/Impact-map-Dise-adores-1.png)
 
+- [Link del Impact Mapping de Diseñadores](https://uxpressia.com/w/XLwXE/i/hFhVH?tagId=noTag) 
+
 **Compradores:** 
 
 ![ImpactMap2](https://i.postimg.cc/KYfn3wVR/Impact-map-Compradores.png)
+
+- [Link del Impact Mapping de Compradores](https://uxpressia.com/w/XLwXE/i/Do298?tagId=noTag)
 
 
 ## 3.4. Product Backlog
