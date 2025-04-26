@@ -1571,9 +1571,9 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
      
 # 9. Anexos
 
-# Anexo A: Links importantes
+## Anexo A: Links importantes
 
-## Entrevistas
+### Entrevistas
 - [Primera entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EeNk9gGGXXZGste_XhDJuBgBNiGZS6d4YunpXqeBQtpRDQ?e=ZJtqMr)
 - [Segunda entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EVGJYmAlN5NPtdMpPKREaGIB8kXTSCgh1ujGvmjp3NPfcw?e=E11e1a)
 - [Tercera entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EVwOdiCdGNZMillGsKP4Z04B7adFHL6vvNtlzzKkxLkrGw?e=ybLGiq)
@@ -1581,23 +1581,28 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 - [Quinta entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/Ecj5l57a8JBNob_bRwJ2t3wBRZj384NjkNyO_B6uo3Xehw?e=DNiL53)
 - [Sexta entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EdQQE2oyec1HohAyd--ZUU8BJanDA3Y3HSO3vP3hsTpMrQ?e=Ei2KrR)
 
-## User Persona
+### User Persona
 - [User Persona - Diseñador](https://uxpressia.com/w/2JtXc/p/Qlp9Z)
 - [User Persona - Comprador](https://uxpressia.com/w/uKRya/p/K2kx6)
 
-## Impact Mapping
+### Impact Mapping
 - [Impact Mapping (Miro)](https://miro.com/welcomeonboard/aGd3M3ludGRjbTNYOUdmK3FaY2gyV2s0dXVSVGJGejBnVlJXY0NkVHlZcHRvV01vS0VDc2xBTWZydHAzYmQ3L3k0ZGZ5QkZTNHFseGJIWUVXbUY2TTd3YklNNlNjdFhjSHp3ajB5MzNsQmpxU09jL3YwMmdoZUJZMjdUTmRSenB3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=267182956491)
 
-## Flujos y Prototipos
+### Flujos y Prototipos
 - [User Flow Diagrams (Miro)](https://miro.com/welcomeonboard/aXRqaHNteXl2dlUrQTVWQ2VYSnZYc0FjblY1MTc1bEd3bklqcjdobEh4TWxCa1NFbEpBRkZkalF3WkppTjIwNXVXSElLY215aEl6c216VUN2VjU5dXVhV1hKTE84SUppTWM2SDhmaHNUVnJ0MXJZNnorMnVIUk9YV2RaRmVpYTJyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=117657769779)
 - [Prototipo en Figma](https://www.figma.com/proto/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=135-228&t=4qndhMek0CzRLY0i-1&scaling=min-zoom&content-scaling=fixed&page-id=13%3A501&starting-point-node-id=58%3A23&show-proto-sidebar=1)
 
-## Landing Page
+### Landing Page
 - [Landing Page desplegada](https://1asi0729-2510-4289-g3-keepteam.github.io/landing-page/)
 
+### Domain-Driven Software Architecture / C4 Diagrams
+- [Link a Structurizer](https://structurizr.com/share/87207/5b87183f-b13d-403d-a0bd-be6b565d1c8f )
 ---
 
-# Anexo B: Videos de Exposiciones
+## Anexo B: Videos de Exposiciones
 
-## Video de Exposición TB1
-- [Link a video de exposión de TB1 en Microsoft Stream]()
+
+### Video de Exposición TB1
+- [Link a video de exposión de TB1 en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EaGZUShoThhNvQY3adq7ZQUBF2LC8UvFBGKG--MlQPfM-Q?e=LuuZbK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
