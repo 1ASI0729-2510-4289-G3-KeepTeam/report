@@ -1009,6 +1009,8 @@ Frontend
 Backend
 [![ae5479e60b014034b13bc9c85fa712ae.jpg](https://i.postimg.cc/rpt8Gs30/ae5479e60b014034b13bc9c85fa712ae.jpg)](https://postimg.cc/CZSTShFS)
 
+Link a C4: [Link a Structurizer](https://structurizr.com/share/87207/5b87183f-b13d-403d-a0bd-be6b565d1c8f )
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
@@ -1380,8 +1382,15 @@ Se accedió al enlace generado para confirmar que la Landing Page se visualizaba
 #### 5.2.1.1. Sprint Planning 1
 <table>
   <tr>
-    <th colspan="3">Sprint #1 - Sprint Planning Background</th>
+    <th colspan="2">Sprint #</th>
+    <th colspan="1">Sprint 1</th>
   </tr>
+
+ <tr>
+    <td colspan="3"><strong>Sprint Planning Background</strong></td>
+  </tr>
+<tr>
+  
 <tr>
     <td colspan="2"><strong>Date</strong></td>
     <td>20/04/2025</td>
@@ -1523,6 +1532,11 @@ Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta 
 | Maria Elena Muñoz Machuca     | Implementación de la sección characteristics y why us de la landing page | 
 | Luis Miguel Rojas Piñero      | Implementación de la sección header de la landing page                  |
 | Gabriel Sanchez Gonzales      | Implementación de la sección Who Should Use This? y footer                       |
+
+
+<img src="assets/insights/sprint-1/1.png" width=600 alt="insights screenshot of sprint 1">
+<img src="assets/insights/sprint-1/2.png" width=600 alt="insights screenshot of sprint 1">
+
 
 # 6. Conclusiones
 
