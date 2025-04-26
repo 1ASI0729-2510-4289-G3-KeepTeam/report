@@ -163,7 +163,7 @@ Creemos que al ofrecer un filtro a través de palabras claves o etiquetas mejora
      
 Los diseñadores diariamente necesitan recopilar referencias visuales e ideas que los ayude a mejorar sus trabajos, estas ideas se pueden encontrar esparcidas por todo el internet y necesitan poder tener un lugar para guardarlas todas e incluso presentarlas como un moodboard para sus clientes.  
      
-   **Caracteristicas:**  
+   **Caracteristícas:**  
    - **Edad:** Mayor a 18 años  
    - **Ubicación:** Lima, Peru  
    - **Nivel Socioeconomico:** Medio a alto
@@ -174,7 +174,7 @@ Los diseñadores diariamente necesitan recopilar referencias visuales e ideas qu
         
 Los compradores buscan un lugar en el cual puedan guardar todos los objetos de interés que tienen de distintos marketplace en un solo lugar, ya sea para compararlos o usarlo como una lista de compra entre plataformas marketplace o e-commerce.  
         
-  **Caracteristicas:**  
+  **Características:**  
   - **Edad:** Mayor a 18 años  
   - **Ubicación:** Lima, Peru  
   - **Nivel Socioeconomico:** Medio a alto
