@@ -43,8 +43,19 @@
 
 <p align="center">Abril 2025</p>
 
+
+# Registro de Versiones del Informe
+
+| Versión  | Fecha  | Autor  | Descripción de modificación |
+| :---- | :---- | :---- | :---- |
+| 1.0 | 25/04 | George Aliaga Bryan Martinez Maria Elena Muñoz Luis Miguel Rojas Sanchez Gonzales | Estructura del informe Capítulo I: Introducción Capítulo II: Requirements Elicitation & Analysis Capítulo III: Requirements Specification Capítulo IV: Product Design Capítulo V: Product Implementation & Deployment Conclusiones Recomendaciones Anexos Landing Page |
+
+# Project Report Collaboration Insights
+
+
 # Contenido
-[Capítulo I: Introducción](#Capitulo-I-Introduccion)
+
+[Capítulo I: Introducción](#capítulo-i-introducción)
 - [1.1. Startup Profile](#11-startup-profile)
   - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
   - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -73,6 +84,7 @@
   - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 
+
 # Capítulo I: Introducción   
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
@@ -87,20 +99,28 @@ Keeplo no solo ayuda a las personas a tener un espacio centralizado para sus int
 #### 1.1.2.1 Sanchez Gonzales
 Soy estudiante en la Universidad Peruana de Ciencias Aplicadas (UPC) cursando el 5to ciclo de la carrera de Ingeniería de Software. Soy una persona comprometida con mi desarrollo académico y profesional. Con esa responsabilidad, aspiro a proveer soluciones tecnológicas a aquellos que las requieran para facilitar su área de trabajo. Junto con mi equipo de trabajo tendré la oportunidad de poner mis conocimientos y habilidades en uso con el proyecto “Keeplo” con el fin de disminuir la problemática identificada.
 
+<img src="/assets/profiles/sanchezgonzales-foto.png" alt="foto de perfil de integrante" width=200>
 
 #### 1.1.2.2 Aliaga Pimentel George Arturo
 Soy estudiante en la Universidad Peruana de Ciencias Aplicadas y soy de la carrera de Ingeniería de Software. Me considero una persona cooperativa y responsable, lo cual es requerido para un proyecto grupal. Junto a mis compañeros de grupo espero desarrollar un buen proyecto con las tecnologías que se aprenderán dentro del curso
 
+<img src="https://i.ibb.co/JWbFrqLt/image.png" width="200" />
+
 #### 1.1.2.3 Martinez Ramos Bryan Felix
 Soy estudiante de la la Universidad Peruana de Ciencias aplicadas, UPC, de la carrera de ingeniería de Software, actualmente estoy en el quinto ciclo de carrera, soy una persona muy proactiva, además de colaborativa, soy responsable con los trabajos y tiempos de entrega durante los proyectos, me emociona mucho el curso y la realización de manera exitosa del proyecto Keeplo
+
+<img src="/assets/profiles/BryanFoto.png" alt="foto perfil bryan" width=200>
 
 #### 1.1.2.4 Muñoz Machuca Maria Elena
 Soy estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC) y soy de la carrera de Ingeniería de Software cursando el quinto ciclo de la carrera. Me considero una persona responsable, ya que me gusta cumplir con las tareas encargadas. Asimismo, me considero perseverante, lo cual es importante para ir mejorando en cada entrega de nuestro proyecto. Junto a mis compañeros espero poder realizar nuestro proyecto con éxito.
 
+<img src="https://github.com/user-attachments/assets/36de2f24-fa41-44db-a416-798d06945f5c"  width=200>
+
+
 #### 1.1.2.4 Rojas Piñero Luis Miguel
 Soy estudiante de la Universidad Peruana de Ciencias Aplicadas de la carrera de Ingeniería de Software, actualmente estoy cursando mi 5to ciclo de la carrera y tengo expectativas de los cursos que llevo y lo que puedo lograr con mi esfuerzo. Me considero una persona que se desenvuelve bien trabajando en grupos ya que soy muy comunicativo con mis compañeros, de igual forma me motivan los proyectos actuales relacionados con el desarrollo de tecnologías útiles para el futuro. Junto a mi equipo estoy seguro de que lograremos realizar un gran proyecto este ciclo.
 
-
+<img src="assets/profiles/IMG_4998 (1).jpg" atl="Foto perfil Luis"  width=200>
 
 
 ## 1.2. Solution Profile
@@ -155,15 +175,13 @@ Creemos que aumentará la organización de los usuarios sobre sus ítems guardad
 Creemos  que los usuarios valorarán la forma rápida y eficiente que ofrece la plataforma al momento de compartir sus colecciones con otros usuarios o personas externas a través de un QR pues es una forma mas rapida y limpia que copiar un enlace. Sabremos que estamos en lo correcto cuando la cantidad de usuarios que comparten sus colecciones aumentarán en un 30%
 ##### Hypothesis 4
 Creemos que al ofrecer un filtro a través de palabras claves o etiquetas mejorará la organización y la búsqueda de los usuarios hacia sus ítems puesto que podrán clasificar colecciones entre sí. Sabremos que estamos en lo correcto cuando alrededor de un 40% de nuestros usuarios usen las etiquetas para clasificar sus colecciones.
-##### Hypothesis 5
-Creemos que los usuarios apreciarán la diferencia que hace el agregar items a través de elementos como el asistente de voz de Alexa o Google. Sabemos que estamos en lo correcto cuando un 70% de los usuarios use esta funcionalidad por lo menos una vez para añadir objetos a sus colecciones
 
 #### 1.2.2.4. Lean UX Canvas
 | Business Problem | Solution Ideas | Business Outcomes |
 | :---- | :---- | :---- |
-| Nuestra solución busca proveer al usuario con una organización de sus items que desea a través de categorías y colecciones personalizables. Buscamos que los usuarios no sufran al tener que buscar entre diferentes plataformas un producto en concreto, facilitando exponencialmente el tiempo de búsqueda al categorizarlas tal y como el usuario prefiera, en especial, cuando este es un contenido que se desea compartir con un público como amigos y familiares, en el cual, al ser compartido a través de un código QR facilita la navegación para los observadores. Hemos observado que nuestros usuarios al no tener una plataforma en la cual puedan organizar correctamente los links, productos, diseños u otros objetos digitales de interés, tienen un problema al poder estructurar el contenido y guardarlo en un solo lugar, causando que a través de diferentes plataformas guarden sus diferentes recursos, causando además un desorden e incluso pérdida de algunos de estos. ¿Cómo podemos ofrecer un modelo de estructuración para que los usuarios puedan guardar sus ideas de forma organizada? Hemos notado que los usuarios desean compartir ideas con otros usuarios externos, ya sean amigos, familiares o colegas del trabajo, con el fin de distribuir un conjunto de ideas a la vez. Esta necesidad se presencia normalmente en trabajos o proyectos colaborativos donde el usuario requiere compartir una idea general hecha a partir de pequeños recursos encontrados en el internet. ¿Cómo podemos crear una aplicación que mejore la eficiencia de colaboración entre usuarios? Hemos notado que las plataformas que usan los usuarios para guardar contenido, no están diseñadas hacia esa función, tienen un diseño poco atractivo y cuentan con interfaces poco intuitivas o limitan las acciones que se pueden realizar dentro de la misma para algunos usuarios. ¿Cómo podemos diseñar una aplicación que sea intuitiva y fácil de usar? | Crear un plataforma donde los usuarios puedan guardar sus ideas de cualquier tipo de ítem. Integrar un sistema de generación y lectura de QR para compartir colecciones con otros usuario Permitir que los ítems tengan un nombre, imagen, descripción y enlace web para facilitar su referencia. Funciones de búsqueda por nombre o descripción Integrar sistema de IoT para conectar asistentes de voz | Aumento en organización de ítems virtuales de los usuarios Más de 50 colecciones compartidas entre usuarios y externos semanalmente Retención de usuarios en un 50% después del primer mes Aumento de visibilidad de la plataforma en un 40% por los usuarios que la comparten  |
+| Nuestra solución busca proveer al usuario con una organización de sus items que desea a través de categorías y colecciones personalizables. Buscamos que los usuarios no sufran al tener que buscar entre diferentes plataformas un producto en concreto, facilitando exponencialmente el tiempo de búsqueda al categorizarlas tal y como el usuario prefiera, en especial, cuando este es un contenido que se desea compartir con un público como amigos y familiares, en el cual, al ser compartido a través de un código QR facilita la navegación para los observadores. Hemos observado que nuestros usuarios al no tener una plataforma en la cual puedan organizar correctamente los links, productos, diseños u otros objetos digitales de interés, tienen un problema al poder estructurar el contenido y guardarlo en un solo lugar, causando que a través de diferentes plataformas guarden sus diferentes recursos, causando además un desorden e incluso pérdida de algunos de estos. <br>¿Cómo podemos ofrecer un modelo de estructuración para que los usuarios puedan guardar sus ideas de forma organizada? <br><br>Hemos notado que los usuarios desean compartir ideas con otros usuarios externos, ya sean amigos, familiares o colegas del trabajo, con el fin de distribuir un conjunto de ideas a la vez. Esta necesidad se presencia normalmente en trabajos o proyectos colaborativos donde el usuario requiere compartir una idea general hecha a partir de pequeños recursos encontrados en el internet. ¿Cómo podemos crear una aplicación que mejore la eficiencia de colaboración entre usuarios? Hemos notado que las plataformas que usan los usuarios para guardar contenido, no están diseñadas hacia esa función, tienen un diseño poco atractivo y cuentan con interfaces poco intuitivas o limitan las acciones que se pueden realizar dentro de la misma para algunos usuarios. <br>¿Cómo podemos diseñar una aplicación que sea intuitiva y fácil de usar? | • Crear un plataforma donde los usuarios puedan guardar sus ideas de cualquier tipo de ítem. <br><br>• Integrar un sistema de generación y lectura de QR para compartir colecciones con otros usuario. <br><br>• Permitir que los ítems tengan un nombre, imagen, descripción y enlace web para facilitar su referencia. Funciones de búsqueda por nombre o descripción |• Aumento en organización de ítems virtuales de los usuarios <br><br>• Más de 50 colecciones compartidas entre usuarios y externos semanalmente Retención de usuarios en un 50% después del primer mes <br><br>• Aumento de visibilidad de la plataforma en un 40% por los usuarios que la comparten  |
 | Hypothesis | Users & Customers | User Benefits |
-| Creemos que los usuarios necesitan de una plataforma para guardar y organizar diversos ítems de internet que requieran usar en un futuro, puesto que sus actuales métodos de organización están dispersos a través de diferentes aplicaciones. Sabremos que estamos en lo correcto cuando más usuarios usen más la aplicación diariamente en un 30% y tengamos reseñas positivas. Creemos que aumentará la organización de los usuarios sobre sus ítems guardados porque tendrán acceso a una estructura adecuada y fácil de usar, por ende mejorando el orden de sus colecciones. Sabremos que estamos en lo correcto cuando el tiempo de búsqueda de un ítem en específico disminuya en un 40%. Creemos  que los usuarios valorarán la forma rápida y eficiente que ofrece la plataforma al momento de compartir sus colecciones con otros usuarios o personas externas a través de un QR pues es una forma mas rapida y limpia que copiar un enlace. Sabremos que estamos en lo correcto cuando la cantidad de usuarios que comparten sus colecciones aumentarán en un 30% Creemos que al ofrecer un filtro a través de palabras claves o etiquetas mejorará la organización y la búsqueda de los usuarios hacia sus ítems puesto que podrán clasificar colecciones entre sí. Sabremos que estamos en lo correcto cuando alrededor de un 40% de nuestros usuarios usen las etiquetas para clasificar sus colecciones. Creemos que los usuarios apreciarán la diferencia que hace el agregar items a través de elementos como el asistente de voz de Alexa o Google. Sabemos que estamos en lo correcto cuando un 70% de los usuarios use esta funcionalidad por lo menos una vez para añadir objetos a sus colecciones | Diseñadores que necesiten guardar inspiraciones de diferentes páginas en un solo lugar Profesionales de Marketing Digital  | Centralizar en un solo lugar ítems de interés fácilmente Categorizar colecciones de ítems para encontrarlos más rápido Mejorar la eficiencia de busqueda de algun item en específico para un proyecto o trabajo Compartir con usuarios externos como amigos o familiares una colección de interes Mejorar la productividad y bajar las probabilidades de pérdida de información. |
+| • Creemos que los usuarios necesitan de una plataforma para guardar y organizar diversos ítems de internet que requieran usar en un futuro, puesto que sus actuales métodos de organización están dispersos a través de diferentes aplicaciones. Sabremos que estamos en lo correcto cuando más usuarios usen más la aplicación diariamente en un 30% y tengamos reseñas positivas. <br><br>• Creemos que aumentará la organización de los usuarios sobre sus ítems guardados porque tendrán acceso a una estructura adecuada y fácil de usar, por ende mejorando el orden de sus colecciones. Sabremos que estamos en lo correcto cuando el tiempo de búsqueda de un ítem en específico disminuya en un 40%. <br><br>• Creemos  que los usuarios valorarán la forma rápida y eficiente que ofrece la plataforma al momento de compartir sus colecciones con otros usuarios o personas externas a través de un QR pues es una forma mas rapida y limpia que copiar un enlace. Sabremos que estamos en lo correcto cuando la cantidad de usuarios que comparten sus colecciones aumentarán en un 30% <br><br>• Creemos que al ofrecer un filtro a través de palabras claves o etiquetas mejorará la organización y la búsqueda de los usuarios hacia sus ítems puesto que podrán clasificar colecciones entre sí. Sabremos que estamos en lo correcto cuando alrededor de un 40% de nuestros usuarios usen las etiquetas para clasificar sus colecciones. | Diseñadores que necesiten guardar inspiraciones de diferentes páginas en un solo lugar Profesionales de Marketing Digital  | Centralizar en un solo lugar ítems de interés fácilmente Categorizar colecciones de ítems para encontrarlos más rápido Mejorar la eficiencia de busqueda de algun item en específico para un proyecto o trabajo Compartir con usuarios externos como amigos o familiares una colección de interes Mejorar la productividad y bajar las probabilidades de pérdida de información. |
 |  | What’s the most important thing we need to learn first?  | What’s the least amount of work we need to learn the next most important thing?    |
 |  | Crear colecciones personalizadas Agregar items a las colecciones Compartir colecciones mediante generación de QR Etiquetas o categorías de colecciones | Diseñar de entrevista con preguntas concretas a una estadística Formulario de interés de la plataforma a usuarios  |
 ## 1.3. Segmentos objetivo
@@ -172,7 +190,7 @@ Creemos que los usuarios apreciarán la diferencia que hace el agregar items a t
      
 Los diseñadores diariamente necesitan recopilar referencias visuales e ideas que los ayude a mejorar sus trabajos, estas ideas se pueden encontrar esparcidas por todo el internet y necesitan poder tener un lugar para guardarlas todas e incluso presentarlas como un moodboard para sus clientes.  
      
-   **Caracteristicas:**  
+   **Caracteristícas:**  
    - **Edad:** Mayor a 18 años  
    - **Ubicación:** Lima, Peru  
    - **Nivel Socioeconomico:** Medio a alto
@@ -183,7 +201,7 @@ Los diseñadores diariamente necesitan recopilar referencias visuales e ideas qu
         
 Los compradores buscan un lugar en el cual puedan guardar todos los objetos de interés que tienen de distintos marketplace en un solo lugar, ya sea para compararlos o usarlo como una lista de compra entre plataformas marketplace o e-commerce.  
         
-  **Caracteristicas:**  
+  **Características:**  
   - **Edad:** Mayor a 18 años  
   - **Ubicación:** Lima, Peru  
   - **Nivel Socioeconomico:** Medio a alto
