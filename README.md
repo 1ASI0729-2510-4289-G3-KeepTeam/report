@@ -391,6 +391,31 @@ Framework para construir aplicaciones web modernas.
 
 
 ### 5.1.4. Software Deployment Configuration
+El equipo realizó el despliegue de la Landing Page del proyecto utilizando la herramienta GitHub Pages, que permite publicar sitios web directamente desde un repositorio. A continuación, se describen los pasos llevados a cabo:
+
+**1. Acceso al repositorio en GitHub**
+Se ingresó al repositorio correspondiente al proyecto en la plataforma GitHub.
+
+**2. Ingreso a la configuración de GitHub Pages**
+Dentro del repositorio, se hizo clic en la pestaña Settings, y luego se seleccionó la opción Pages desde el menú lateral izquierdo.
+
+**3. Selección de la fuente de despliegue**
+En la sección “Source”, se eligió la rama main como origen del contenido para el despliegue. Asimismo, se seleccionó la carpeta raíz (/root) como ubicación de los archivos a publicar.
+
+**4. Guardado de la configuración**
+Se hizo clic en Save para confirmar y aplicar los cambios de configuración.
+
+**5. Publicación automática del sitio**
+GitHub procedió a generar y publicar automáticamente el sitio web estático.
+
+**6. Obtención del enlace público**
+Tras unos segundos, GitHub proporcionó la URL pública del sitio:
+https://1asi0729-2510-4289-g3-keepteam.github.io/landing-page/
+
+**7. Verificación del despliegue**
+Se accedió al enlace generado para confirmar que la Landing Page se visualizaba correctamente y sin errores.
+
+![image](https://github.com/user-attachments/assets/1a5262c0-3dfd-4417-8a71-50cc95dcafc9)
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
