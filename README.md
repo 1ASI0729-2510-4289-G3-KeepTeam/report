@@ -409,7 +409,7 @@ En esta sección se presentan los resultados del análisis de las necesidades de
 
 **Compradores**
 ![User Persona Diseñador Jenny Ruiz](assets/user-personas/Marco%20Villena.png)
-[Link a User Persona Diseñador](https://uxpressia.com/w/uKRya/p/K2kx6)
+[Link a User Persona Comprador](https://uxpressia.com/w/uKRya/p/K2kx6)
 
 ### 2.3.2. User Task Matrix
 **Diseñadores:**
