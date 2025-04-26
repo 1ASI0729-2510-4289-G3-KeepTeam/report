@@ -999,6 +999,8 @@ Frontend
 Backend
 [![ae5479e60b014034b13bc9c85fa712ae.jpg](https://i.postimg.cc/rpt8Gs30/ae5479e60b014034b13bc9c85fa712ae.jpg)](https://postimg.cc/CZSTShFS)
 
+Link a C4: [Link a Structurizer](https://structurizr.com/share/87207/5b87183f-b13d-403d-a0bd-be6b565d1c8f )
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
