@@ -1016,6 +1016,7 @@ Link a C4: [Link a Structurizer](https://structurizr.com/share/87207/5b87183f-b1
 
 ![Diagrama de clases](assets/classdiagram.png)
 
+
 ### 4.7.2. Class Dictionary
 
 **User**
