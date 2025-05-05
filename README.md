@@ -288,29 +288,45 @@ Keeplo aplicará una estrategia de diferenciación centrada en la organización 
 Entrevistas1:
 
 Segmento 1: Diseñadores
+
 Nombre: Maria Angeles
+
 Apellido: Flores Villavicencio
+
 Edad: 21
+
 Distrito: Pueblo Libre
+
 Duración: inicio: 00:00 - fin: 12:09
+
 
 Entrevista 2:
 
 Segmento 1: Diseñadores
+
 Nombre: Eunice
+
 Apellido: Blas Sánchez
+
 Edad: 22
+
 Distrito: Pueblo Libre
+
 Duración: inicio: 12:10 - fin: 19:38
 
 
 Entrevista 3:
 
 Segmento 1: Diseñadores
+
 Nombre: José Martín
+
 Apellido: Villegas Guerrero
+
 Edad: 25
+
 Distrito: Surco
+
 Duración: inicio: 19:39 - fin: 25:40
 
 
@@ -318,19 +334,29 @@ Duración: inicio: 19:39 - fin: 25:40
 Entrevista 4:
 
 Segmento 2: Compradores
+
 Nombre: Dayana Lourdes
+
 Apellido: Chavarria Ramirez
+
 Edad: 20
+
 Distrito: Barranco
+
 Duración:  inicio: 25:41 - fin: 34:10
 
 Entrevista 5:
 
 Segmento 2: Compradores
+
 Nombre: Leonardo
+
 Apellido: Roca
+
 Edad: 22
+
 Distrito: Breña
+
 Duración: inicio: 34:11 - fin: 41:57
 
 Entrevista 6:
@@ -338,9 +364,13 @@ Entrevista 6:
 Segmento 2: Compradores
 
 Nombre: Zayuri
+
 Apellido: Navarro
+
 Edad: 19
+
 Distrito: Jesus Maria
+
 Duración:  inicio: 41:58 - fin: 49:58
 
 <img src="assets/profiles/Entrevista.png" width=500>
