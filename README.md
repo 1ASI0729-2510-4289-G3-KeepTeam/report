@@ -959,7 +959,7 @@ Link a Web Application: [Figma Web Application](https://www.figma.com/design/Qmm
 [![Compartir-contenido.jpg](https://i.postimg.cc/rspWw5ZR/Compartir-contenido.jpg)](https://postimg.cc/0MLrtKs9)
 [![Editar-informacion-de-pago.jpg](https://i.postimg.cc/T1HbLhB7/Editar-informacion-de-pago.jpg)](https://postimg.cc/tnWJ8RqW)
 [![Editar-perfil-y-contrase-a.jpg](https://i.postimg.cc/8kyMnnsR/Editar-perfil-y-contrase-a.jpg)](https://postimg.cc/xqzXX5v8)
-[![Ingresar-a-papelera.jpg](https://i.postimg.cc/8PjM8Brq/Ingresar-a-papelera.jpg)](https://postimg.cc/D838LG6g)
+[![Ingresar-a-papelera.jpg](https://i.postimg.cc/qRq0zttq/Ingresar-a-papelera.jpg)](https://postimg.cc/67kFPpfx) 
 [![Registro-e-inicio-de-sesi-n.jpg](https://i.postimg.cc/ZRwB2CYb/Registro-e-inicio-de-sesi-n.jpg)](https://postimg.cc/BL1n1Z1k)
 
 Link Miro: https://miro.com/welcomeonboard/aXRqaHNteXl2dlUrQTVWQ2VYSnZYc0FjblY1MTc1bEd3bklqcjdobEh4TWxCa1NFbEpBRkZkalF3WkppTjIwNXVXSElLY215aEl6c216VUN2VjU5dXVhV1hKTE84SUppTWM2SDhmaHNUVnJ0MXJZNnorMnVIUk9YV2RaRmVpYTJyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=117657769779
