@@ -954,7 +954,7 @@ Link a landing page: [Figma Landing Page](https://www.figma.com/design/QmmzmtCb8
 Link a Web Application: [Figma Web Application](https://www.figma.com/design/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=82-1755&t=pMqV3oN4AieCUZ1h-1)
 
 ### 4.4.4. Web Applications User Flow Diagrams
-[![A-adir-y-editar-un-item.jpg](https://i.postimg.cc/m253h6sL/A-adir-y-editar-un-item.jpg)](https://postimg.cc/QHcKymCw)
+[![Registro-e-inicio-de-sesi-n.jpg](https://i.postimg.cc/cC6Hy97D/Registro-e-inicio-de-sesi-n.jpg)](https://postimg.cc/H8DHbth5)
 [![A-adir-y-editar-una-colecci-n.jpg](https://i.postimg.cc/nh94mYFv/A-adir-y-editar-una-colecci-n.jpg)](https://postimg.cc/WdjqLZJ3)
 [![Compartir-contenido.jpg](https://i.postimg.cc/rspWw5ZR/Compartir-contenido.jpg)](https://postimg.cc/0MLrtKs9)
 [![Editar-informacion-de-pago.jpg](https://i.postimg.cc/T1HbLhB7/Editar-informacion-de-pago.jpg)](https://postimg.cc/tnWJ8RqW)
