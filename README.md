@@ -1688,6 +1688,14 @@ Keeplo se posiciona como una herramienta innovadora al ofrecer funciones que otr
 
 Durante este desarrollo parcial, Keeplo nos ha demostrado un alto potencial para impactar positivamente la productividad y organización digital de los usuarios. Su enfoque centrado en el usuario, combinado con una estructura de diseño ágil y adaptable, le otorga la capacidad de escalar y evolucionar según nuevas necesidades del mercado. Esto convierte a Keeplo no solo en un producto funcional, sino en una plataforma con proyección hacia la innovación continua en el ámbito de la gestión personal de información.
 
+- Conclusión 4
+
+El desarrollo del frontend de Keeplo respondió a la necesidad de ofrecer una experiencia visual clara, rápida y centrada en el usuario. Durante el proceso de construcción, se priorizaron aspectos como la accesibilidad, el diseño responsivo y la organización eficiente del contenido. Gracias a una estructura modular y una arquitectura coherente, se logró una interfaz intuitiva que facilita la interacción con las funcionalidades clave de la plataforma.
+
+- Conclusión 5
+
+La elección de Render como plataforma de despliegue facilitó considerablemente la publicación del frontend de Keeplo. Al permitir la conexión directa con repositorios y automatizar los procesos de integración, Render se posicionó como una solución eficaz para mantener el proyecto actualizado, accesible y estable. Esta elección tecnológica contribuyó a acortar los tiempos de despliegue y a garantizar una experiencia fluida en distintos entornos de uso.
+
 
 # 7. Recomendaciones
 
