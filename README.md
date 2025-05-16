@@ -1628,6 +1628,13 @@ Durante el Sprint Actual, el equipo de Keeplo logró implementar y desarrollar v
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+Para esta segunda entrega, se ha desplegado lo que es el Frontend utilizando el servicio gratuito de Microsoft Azure. El FrontEnd es visible en el siguiente link: https://delightful-glacier-04ad1371e.6.azurestaticapps.net/collections
+
+
+Asimismo, para el despliegue de la API, se utilizó la plataforma Render. Dicho servicio nos permitió desplegar una API RESTful utilizando los datos proporcionados en formato JSON. Para visualizar la API, ingrese al siguiente enlace:
+https://db-json-server-keeplo.onrender.com/api/v1/users
+
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 Para el despliegue de nuestra aplicación web decidimos utilizar los servicios de Azure, más específicamente Azure Static Web Apps, un servicio que nos permite interactuar con la aplicación a través de un enlace público.
