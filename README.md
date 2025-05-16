@@ -1189,7 +1189,9 @@ En los próximos sprints, aplicaremos **Git Flow** para manejar el desarrollo, c
 
 - **Landing Page:** [https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page)  
 - **Documentación:** [https://github.com/1ASI0729-2510-4289-G3-KeepTeam/report](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/report)
-
+- **FrontEnd:** [https://github.com/1ASI0729-2510-4289-G3-KeepTeam/front-web](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/front-web)
+- **BackEnd:** [https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end)
+- **DB-JSON:** [https://github.com/1ASI0729-2510-4289-G3-KeepTeam/db-json-server-keeplo](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/db-json-server-keeplo)
 ---
 
 ### Implementación de Git Flow
