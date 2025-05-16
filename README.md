@@ -1465,14 +1465,13 @@ Link:
 | :---: | :---: | :---: | :---: | :---: | :---: | ----- | :---: |
 | User Story |  | Work-Item / Task |  |  |  |  |  |
 | ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
-| US43 | Header | US43-1 | Implementacion de Barra de Navegacion | Como visitante quiero acceder a la barra de navegación para moverse rápidamente a cualquier sección de la página. | 3 | Luis | Done |
-| US44 | Section Hero | US44-1 | Implementacion de Seccion Hero | Como visitante quiero ver un mensaje llamativo y claro al entrar, para entender de inmediato el propósito de Keeplo. | 3 | George | Done |
-| US45 | Stadistics | US45-1 | Implmenetacion de Seccion Estadisticas | Como visitante quiero ver estadísticas clave del uso de Keeplo para confiar más en el producto. | 4 | Bryan | Done |
-| US46 | characteristics | US46-1 | Implementación Sección caracteristicas | Como visitante quiero conocer qué funcionalidades ofrece Keeplo para evaluar si cubre mis necesidades. | 2 | Maria | Done |
-| US47 | Plan | US47-1 | Implementacion de planes | Como visitante quiero comparar los planes disponibles para decidir si debo suscribirme | 4 | Geroge | Done |
-| US48 | Why-us | US48-1 | Implementacion del porque nosotros | Como visitante quiero saber por qué debería elegir Keeplo sobre otras opciones para tomar una decisión informada. | 2 | Maria | Done |
-| US49 | Footer | US49-1 | Implementacion de Footer Keeplo | Como visitante quiero ver información útil en el footer de la página para acceder rápidamente a redes sociales. | 2 | Sanchez Gonzales | Done |
-
+| US41 | Header | US41-1 | Implementación de Barra de Navegación | Como visitante quiero acceder a la barra de navegación para moverse rápidamente a cualquier sección de la página. | 4 | Luis | Done |
+| US42 | Section Hero | US42-1 | Implementación de Sección Hero | Como visitante quiero ver un mensaje llamativo y claro al entrar, para entender de inmediato el propósito de Keeplo. | 4 | George | Done |
+| US43 | Stadistics | US43-1 | Implementación de Sección Estadísticas | Como visitante quiero ver estadísticas clave del uso de Keeplo para confiar más en el producto. | 6 | Bryan | Done |
+| US25 | characteristics | US25-1 | Implementación Sección características | Como visitante quiero conocer qué funcionalidades ofrece Keeplo para evaluar si cubre mis necesidades. | 4 | Maria | Done |
+| US45 | Plan | US45-1 | Implementación de planes | Como visitante quiero comparar los planes disponibles para decidir si debo suscribirme | 6 | George | Done |
+| US46 | Why-us | US46-1 | Implementación del porqué nosotros | Como visitante quiero saber por qué debería elegir Keeplo sobre otras opciones para tomar una decisión informada. | 4 | Maria | Done |
+| US47 | Footer | US47-1 | Implementación de Footer Keeplo | Como visitante quiero ver información útil en el footer de la página para acceder rápidamente a redes sociales. | 4 | Sanchez Gonzales | Done |
 
 
 
