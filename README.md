@@ -1509,6 +1509,21 @@ Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta 
 
 #### 5.2.2.1. Sprint Planning 2
 
+| Sprint #                         | 2 |
+|:---------------------------------| :---- |
+| **Sprint Planning Background**   |  |
+| Date                             | 9/05/2025 |
+| Time                             | 8:00 PM |
+| Location                         | Llamada mediante Discord |
+| Prepared by                      | Gabriel Sanchez |
+| Attendees(to planning meeting)   | George Aliaga, Gabriel Sanchez y Maria Muñoz |
+| Sprint 2-2 Review Summary        |  Buena organización y coordinación del equipo mediante Discord y WhatsApp  Buena organización de carpetas en el repositorio para evitar conflictos al hacer merge  |
+| Sprint 2-2 Retrospective Summary |  Se completó el diseño y desarrollo del frontend de Keeplo  |
+| **Sprint Goal & User Stories**   |  |
+| Sprint 1 Goal                    | Corregir errores de la landing page e implementar el frontend de la aplicación Keeplo. |
+| Sprint 1 Velocity                |  40 |
+| Sum of Story Points              |  40 |
+
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
 #### 5.2.2.3. Sprint Backlog 2
