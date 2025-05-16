@@ -135,7 +135,16 @@
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-
+- [5.2.2. Sprint 2](#521-sprint-2)
+  - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+  - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+  - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+  - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+  - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+  - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+  - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+  - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+  - 
 [6. Conclusiones](#6-conclusiones)
 
 [7. Recomendaciones](#7-recomendaciones)
@@ -1180,7 +1189,9 @@ En los próximos sprints, aplicaremos **Git Flow** para manejar el desarrollo, c
 
 - **Landing Page:** [https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page)  
 - **Documentación:** [https://github.com/1ASI0729-2510-4289-G3-KeepTeam/report](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/report)
-
+- **FrontEnd:** [https://github.com/1ASI0729-2510-4289-G3-KeepTeam/front-web](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/front-web)
+- **BackEnd:** [https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end)
+- **DB-JSON:** [https://github.com/1ASI0729-2510-4289-G3-KeepTeam/db-json-server-keeplo](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/db-json-server-keeplo)
 ---
 
 ### Implementación de Git Flow
@@ -1380,64 +1391,22 @@ Se accedió al enlace generado para confirmar que la Landing Page se visualizaba
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1
-<table>
-  <tr>
-    <th colspan="2">Sprint #</th>
-    <th colspan="1">Sprint 1</th>
-  </tr>
 
- <tr>
-    <td colspan="3"><strong>Sprint Planning Background</strong></td>
-  </tr>
-<tr>
-  
-<tr>
-    <td colspan="2"><strong>Date</strong></td>
-    <td>20/04/2025</td>
-  </tr>
-<tr>
-    <td colspan="2"><strong>Time</strong></td>
-    <td>8:00 PM</td>
-  </tr>
-<tr>
-    <td colspan="2"><strong>Location</strong></td>
-    <td>Discord</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Prepared by:</strong></td>
-    <td>George Aliaga</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Attendees(to planning meeting)</strong></td>
-    <td>George Aliaga, Gabriel Sanchez, Bryan Martinez, Luis Rojas, Maria Muñoz</td>
-  </tr>
- <tr>
-    <td colspan="2"><strong>Sprint 1-1 Retrospective Summary</strong></td>
-    <td>- Buena coordinación del equipo a través de Discord <br> 
-    - Mejor organización en la creación de carpetas para evitar conflictos al clonar el repositorio
-    </td>
-  </tr>
-<tr>
-    <td colspan="2"><strong>Sprint 1-1 Review Summary</strong></td>
-    <td>Se completó el diseño y desarrollo inicial de la landing page de Keeplo</td>
-  </tr>
-<tr>
-    <th colspan="3">Sprint Goal & User Stories</th>
-  </tr>
-<tr>
-    <td colspan="2"><strong>Sprint 1 Goal</strong></td>
-    <td>Desarrollar una landing page innovadora e informativa para la aplicación Keeplo</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Sprint 1 Velocity</strong></td>
-    <td>39</td>
-  </tr>
- <tr>
-    <td colspan="2"><strong>Sum of Story Points</strong></td>
-    <td>39</td>
-  </tr>
-<tr>
-</table>
+| Sprint #                         | 1                                                                                                                                                       |
+|:---------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**   |                                                                                                                                                         |
+| Date                             | 20/04/2025                                                                                                                                              |
+| Time                             | 8:00 PM                                                                                                                                                 |
+| Location                         | Llamada mediante Discord                                                                                                                                |
+| Prepared by                      | George Aliaga                                                                                                                                           |
+| Attendees(to planning meeting)   | George Aliaga, Gabriel Sanchez, Bryan Martinez, Luis Rojas, Maria Muñoz                                                                                 |
+| Sprint 1-1 Review Summary        | Se completó el diseño y desarrollo inicial de la landing page de Keeplo                                                                                 |
+| Sprint 1-1 Retrospective Summary | - Buena coordinación del equipo a través de Discord <br>- Mejor organización en la creación de carpetas para evitar conflictos al clonar el repositorio |
+| **Sprint Goal & User Stories**   |                                                                                                                                                         |
+| Sprint 1 Goal                    | Desarrollar una landing page innovadora e informativa para la aplicación Keeplo                                                                         |
+| Sprint 1 Velocity                | 39                                                                                                                                                      |
+| Sum of Story Points              | 39                                                                                                                                                      |
+
 
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
@@ -1454,7 +1423,7 @@ Se accedió al enlace generado para confirmar que la Landing Page se visualizaba
 
 #### 5.2.1.3. Sprint Backlog 1
 
-El sprint Backlog 1 se enfocara en el desarrollo de las funcionalidades de Keeplo, la corrección de error y mejoras para la Landing Page, es fundamental que el equipo tome en cuenta la prioridad de la tarea para asegurar el éxito de nuestro proyecto
+El sprint Backlog 1 se enfocará en el desarrollo de las funcionalidades de Keeplo, la corrección de error y mejoras para la Landing Page, es fundamental que el equipo tome en cuenta la prioridad de la tarea para asegurar el éxito de nuestro proyecto
 
 ![Sprint Backlog](assets/SprintBacklog/TrelloKeeploF.png)
 
@@ -1465,14 +1434,13 @@ Link:
 | :---: | :---: | :---: | :---: | :---: | :---: | ----- | :---: |
 | User Story |  | Work-Item / Task |  |  |  |  |  |
 | ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
-| US43 | Header | US43-1 | Implementacion de Barra de Navegacion | Como visitante quiero acceder a la barra de navegación para moverse rápidamente a cualquier sección de la página. | 3 | Luis | Done |
-| US44 | Section Hero | US44-1 | Implementacion de Seccion Hero | Como visitante quiero ver un mensaje llamativo y claro al entrar, para entender de inmediato el propósito de Keeplo. | 3 | George | Done |
-| US45 | Stadistics | US45-1 | Implmenetacion de Seccion Estadisticas | Como visitante quiero ver estadísticas clave del uso de Keeplo para confiar más en el producto. | 4 | Bryan | Done |
-| US46 | characteristics | US46-1 | Implementación Sección caracteristicas | Como visitante quiero conocer qué funcionalidades ofrece Keeplo para evaluar si cubre mis necesidades. | 2 | Maria | Done |
-| US47 | Plan | US47-1 | Implementacion de planes | Como visitante quiero comparar los planes disponibles para decidir si debo suscribirme | 4 | Geroge | Done |
-| US48 | Why-us | US48-1 | Implementacion del porque nosotros | Como visitante quiero saber por qué debería elegir Keeplo sobre otras opciones para tomar una decisión informada. | 2 | Maria | Done |
-| US49 | Footer | US49-1 | Implementacion de Footer Keeplo | Como visitante quiero ver información útil en el footer de la página para acceder rápidamente a redes sociales. | 2 | Sanchez Gonzales | Done |
-
+| US41 | Header | US41-1 | Implementación de Barra de Navegación | Como visitante quiero acceder a la barra de navegación para moverse rápidamente a cualquier sección de la página. | 4 | Luis | Done |
+| US42 | Section Hero | US42-1 | Implementación de Sección Hero | Como visitante quiero ver un mensaje llamativo y claro al entrar, para entender de inmediato el propósito de Keeplo. | 4 | George | Done |
+| US43 | Stadistics | US43-1 | Implementación de Sección Estadísticas | Como visitante quiero ver estadísticas clave del uso de Keeplo para confiar más en el producto. | 6 | Bryan | Done |
+| US25 | characteristics | US25-1 | Implementación Sección características | Como visitante quiero conocer qué funcionalidades ofrece Keeplo para evaluar si cubre mis necesidades. | 4 | Maria | Done |
+| US45 | Plan | US45-1 | Implementación de planes | Como visitante quiero comparar los planes disponibles para decidir si debo suscribirme | 6 | George | Done |
+| US46 | Why-us | US46-1 | Implementación del porqué nosotros | Como visitante quiero saber por qué debería elegir Keeplo sobre otras opciones para tomar una decisión informada. | 4 | Maria | Done |
+| US47 | Footer | US47-1 | Implementación de Footer Keeplo | Como visitante quiero ver información útil en el footer de la página para acceder rápidamente a redes sociales. | 4 | Sanchez Gonzales | Done |
 
 
 
@@ -1538,64 +1506,88 @@ Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta 
 <img src="assets/insights/sprint-1/2.png" width=600 alt="insights screenshot of sprint 1">
 
 ### 5.2.2. Sprint 2
+
 #### 5.2.2.1. Sprint Planning 2
-<table>
-  <tr>
-    <th colspan="2">Sprint #2</th>
-    <th colspan="1">Sprint 2</th>
-  </tr>
 
- <tr>
-    <td colspan="3"><strong>Sprint Planning Background</strong></td>
-  </tr>
-<tr>
+| Sprint #                         | 2 |
+|:---------------------------------| :---- |
+| **Sprint Planning Background**   |  |
+| Date                             | 9/05/2025 |
+| Time                             | 8:00 PM |
+| Location                         | Llamada mediante Discord |
+| Prepared by                      | Gabriel Sanchez |
+| Attendees(to planning meeting)   | George Aliaga, Gabriel Sanchez y Maria Muñoz |
+| Sprint 2-2 Review Summary        |  Buena organización y coordinación del equipo mediante Discord y WhatsApp  Buena organización de carpetas en el repositorio para evitar conflictos al hacer merge  |
+| Sprint 2-2 Retrospective Summary |  Se completó el diseño y desarrollo del frontend de Keeplo  |
+| **Sprint Goal & User Stories**   |  |
+| Sprint 1 Goal                    | Corregir errores de la landing page e implementar el frontend de la aplicación Keeplo. |
+| Sprint 1 Velocity                |  40 |
+| Sum of Story Points              |  40 |
 
-<tr>
-    <td colspan="2"><strong>Date</strong></td>
-    <td>9/05/2025</td>
-  </tr>
-<tr>
-    <td colspan="2"><strong>Time</strong></td>
-    <td>8:00 PM</td>
-  </tr>
-<tr>
-    <td colspan="2"><strong>Location</strong></td>
-    <td>Discord</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Prepared by:</strong></td>
-    <td>Gabriel Sanchez</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Attendees(to planning meeting)</strong></td>
-    <td>George Aliaga, Gabriel Sanchez y Maria Muñoz</td>
-  </tr>
- <tr>
-    <td colspan="2"><strong>Sprint 2-2 Retrospective Summary</strong></td>
-    <td>Buena organización y coordinación del equipo mediante Discord y WhatsApp 
-          Buena organización de carpetas en el repositorio para evitar conflictos al hacer merge</td>
-  </tr>
-<tr>
-    <td colspan="2"><strong>Sprint 2-2 Review Summary</strong></td>
-    <td>Se completó el diseño y desarrollo del frontend de Keeplo </td>
-  </tr>
-<tr>
-    <th colspan="3">Sprint Goal & User Stories</th>
-  </tr>
-<tr>
-    <td colspan="2"><strong>Sprint 2 Goal</strong></td>
-    <td>Corregir errores de la landing page e implementar el frontend de la aplicación Keeplo</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Sprint 2 Velocity</strong></td>
-    <td>40</td>
-  </tr>
- <tr>
-    <td colspan="2"><strong>Sum of Story Points</strong></td>
-    <td>40</td>
-  </tr>
-<tr>
-</table>
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+#### 5.2.2.3. Sprint Backlog 2
+
+##### El sprint Backlog 2 se enfocará en el desarrollo de las funcionalidades de Keeplo a través de las vistas clave para las funcionalidades de la Web Application, y mejoras para la Landing Page.
+
+<img src="assets/sprint-2/trello.png" width=600 alt="sprint 2 screenshot of trello">
+ 
+Link a Sprint Backlog 2: https://trello.com/invite/b/6816bf1524e8bf4e292c6d52/ATTIa28ec7b2c9cc95da1e4c84ad135ee6ebCF4B9B6B/sprint-2
+
+| Sprint \# | Sprint 2 |  |  |  |  |  |  |
+| ----- | ----- | ----- | ----- | ----- | :---: | ----- | :---: |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| US07 | Visualización de mis colecciones. | US07-1 | Implementación de la funcionalidad de visualización de colecciones | Como usuario de ambos segmentos objetivos comprador y diseñador, quiero que mis colecciones se vean de manera ordenada, para encontrar fácilmente lo que necesito. | 8 | Sanchez, Aliaga | Done |
+| US08 | Visualización de mis items. | US08-1 | Implementación de la funcionalidad de visualización de ítems | Como usuario de ambos segmentos objetivos comprador y diseñador, quiero que los ítems dentro de mis colecciones se vean de manera ordenada y visualmente atractiva, para encontrar fácilmente lo que necesito. | 8 | Sanchez, Aliaga | Done |
+| US16 | Eliminar colecciones. | US16-1 | Implementación de la funcionalidad para eliminar colecciones | Como  usuario  de ambos segmentos objetivos comprador y diseñador, quiero eliminar colecciones e ítems que ya no necesito, para mantener mi espacio organizado. | 6 | Sanchez | Done |
+| US17 | Etiquetado manual de ítems. | US17-1 | Implementación de la funcionalidad de etiquetado manual de ítems | Como  usuario  de ambos segmentos objetivos comprador y diseñador, quiero añadir tags personalizados a mis ítems, para clasificarlos con mis propios criterios. | 6 | Sanchez | Done |
+| US18 | Desarrollar una API de cruds de colecciones | US18-1 |  Desarrollo de la API para CRUD de colecciones  | Como desarrollador quiero diseñar una API que se enfoque en la gestión de las colecciones para obtener información sobre estas rápidamente. | 4 | Sanchez | Done |
+| US19 | Desarrollar una API cruds de ítems. | US19-1 | Desarrollo de la API para CRUD de ítems | Como desarrollador quiero diseñar una API que se enfoque en la gestión de ítems  para obtener información sobre estas rápidamente. | 4 | Sanchez | Done |
+| US20 | Personalización de Ítems | US20-1 | Implementación de la funcionalidad de personalización de ítems | Como  usuario  de ambos segmentos objetivos comprador y diseñador, quiero editar la descripción, tags, imagen, link y título a mis ítems, para tenerlo actualizado. | 6 | Sanchez | Done |
+| US31 | Cambiar tema de colores del fondo de las colecciones | US31-1 |  Implementación de cambio de tema de fondo en colecciones  | Como visitante del segmento objetivo diseñador y comprador, quiero personalizar los colores principales de mis colecciones, para que coincida con mi identidad visual. | 4 | Muñoz | Done |
+| US30 | Registrar Cuenta | US30-1 | Implementación de la funcionalidad de registro de cuenta | Como visitante, quiero registrarme usando mi correo para poder acceder a las funcionalidades de la plataforma.  | 4 | Rojas | Done |
+| US40 | Iniciar sesión en cuenta. | US40-1 |  Implementación de la funcionalidad de inicio de sesión  | Como usuario  de ambos segmentos objetivos comprador y diseñador quiero iniciar sesión con mi usuario y contraseña para acceder a mi cuenta.  | 4 | Muñoz | Done |
+| US34 | Modificar información personal (nombre, correo, etc.)  | US34-1 | Implementación de la funcionalidad para modificar datos personales | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero editar mis datos personales para mantener mi cuenta actualizada. | 4 | Muñoz | Done |
+| US35 | Cambiar contraseña.  | US35-1 | Implementación de la funcionalidad para cambiar contraseña | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero actualizar mi contraseña para proteger mi cuenta. | 4 | Muñoz | Done |
+| US37 | Acceder a planes de suscripción premium  | US37-1 | Implementación de acceso al plan de suscripción premium | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero explorar los beneficios y precios del plan premium para decidir si actualizo mi cuenta.  | 4 | Muñoz | Done |
+| US22 | Compartir ítems individuales. | US22-1  | Desarrollo de funcionalidad para compartir ítems | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero compartir un ítem específico, para enviar contenido relevante. | 4 | Aliaga | Done |
+| US04 | Compartir colección o ítem mediante código QR. | US04-1  | Generación y escaneo de código QR para compartir items de forma individual | Como usuario de ambos segmentos objetivos comprador y diseñador, quiero compartir una colección o ítem  a través de un código QR, para distribuir rápidamente ideas con otros. | 4 | Aliaga | Done |
+| US05 | Compartir colección o ítem mediante link. | US05-1  | Crear enlace único para compartir ítems o colecciones | Como usuario de ambos segmentos objetivos comprador y diseñador, quiero compartir una colección  o ítem a través de un link, para distribuir rápidamente ideas o recursos con otros. | 4 | Aliaga | Done |
+| US23 | Límite de acceso temporal	 | US23-1  | Configuración de tiempos límite para acceso compartido | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero compartir colecciones e ítems con fecha de expiración para controlar el acceso. | 4 | Aliaga | Done |
+| US12 | Compartir con permisos granulares. | US12-1  | Definir niveles de permisos al compartir ítems o colecciones | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero definir quién puede editar o solo ver mis colecciones compartidas, para controlar el acceso. | 4 | Aliaga | Done |
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para el despliegue de nuestra aplicación web decidimos utilizar los servicios de Azure, más específicamente Azure Static Web Apps, un servicio que nos permite interactuar con la aplicación a través de un enlace público.
+
+![Screenshot de Web application desplegada en azure](assets/deployment-evidence/azure.png)
+![Screenshot de Web application desplegada en github](assets/deployment-evidence/github.png)
+![Screenshot de Web application 1](assets/deployment-evidence/1.png)  
+![Screenshot de Web application 2](assets/deployment-evidence/2.png)  
+![Screenshot de Web application 3](assets/deployment-evidence/3.png)  
+![Screenshot de Web application 4](assets/deployment-evidence/4.png)  
+![Screenshot de Web application 5](assets/deployment-evidence/5.png)  
+![Screenshot de Web application 6](assets/deployment-evidence/6.png)  
+![Screenshot de Web application 7](assets/deployment-evidence/7.png)  
+![Screenshot de Web application 8](assets/deployment-evidence/8.png)  
+![Screenshot de Web application 9](assets/deployment-evidence/9.png)  
+![Screenshot de Web application 10](assets/deployment-evidence/10.png)
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+| Alumno                        | Actividad                                         | 
+|-------------------------------|---------------------------------------------------|
+| George Arturo Aliaga Pimentel | Implementación de colecciones y links compartidos |
+| Maria Elena Muñoz Machuca     | Implementación de perfil y planes                 |
+| Gabriel Sanchez Gonzales      | Implementación de colecciones e ítems             |
+
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 | Team Member (Last Name, First Name) | GitHub Username | Visualización de colecciones  Leader(L)/Colaborador(C) | Editar colecciones | Compartir items de colecciones | Autenticacion y registro de usuarios | Editar los perfiles de usuarios |
