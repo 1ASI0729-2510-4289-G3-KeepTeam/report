@@ -1785,7 +1785,7 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 ### Domain-Driven Software Architecture / C4 Diagrams
 - [Link a Structurizer](https://structurizr.com/share/87207/5b87183f-b13d-403d-a0bd-be6b565d1c8f )
 
-## Web Application
+### Web Application
 - [Aplicación Web desplegada](https://delightful-glacier-04ad1371e.6.azurestaticapps.net)
 
 ---
@@ -1794,6 +1794,6 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 
 
 ### Video de Exposición TB1
-- [Link a video de exposión de TB1 en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EaGZUShoThhNvQY3adq7ZQUBF2LC8UvFBGKG--MlQPfM-Q?e=LuuZbK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-
+- [Link a video de exposión de TB1 en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EaGZUShoThhNvQY3adq7ZQUBg4-rlQKaWEKYWI-se-Ieyw?e=rFnFNl)
+### Video de Exposición TP1
+- [Link a video de exposión de TP1 en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EemubQ53MS9OrhRkFP9DlyIBs8_WMB2Uhq8we4R88KOJrw?e=ix5op1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
