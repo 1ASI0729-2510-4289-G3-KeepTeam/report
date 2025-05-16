@@ -166,7 +166,7 @@ TB1
 | Maria Elena Muñoz Machuca | 4.2.1. Organization Systems. 4.2.2. Labeling Systems.  4.8.1. Database Diagram 5.1.4. Software Deployment Configuration 5.2.1. Sprint 1  5.2.1.1. Sprint Planning 1 5.2.1.4. Development Evidence for Sprint Review 5.2.1.8. Team Collaboration Insights during Sprint |
 | Luis Miguel Rojas Piñero | 2.2.2. Registro de entrevistas. 2.2.3. Análisis de entrevistas. 3.1. To-Be Scenario Mapping.  3.2. User Stories. 3.4. Product Backlog 4.4.3. Web Applications User Flow Diagrams 4.6.1. Software Architecture Context Diagram.  4.6.2. Software Architecture Container Diagrams.  4.6.3. Software Architecture Components Diagrams.  5.2.1.5. Execution Evidence for Sprint Review.  5.2.1.6. Services Documentation Evidence for Sprint Review.  5.2.1.7. Software Deployment Evidence for Sprint Review.  |
 
-TB2
+TP1
 
 | Integrante | Tareas Asignadas |
 | :---- | :---- |
@@ -174,10 +174,10 @@ TB2
 
 # Student Outcome
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-| :---- | :---- | :---- |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Sanchez Gonzales** <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivos, Diseño de entrevistas, User Personas, User Task Matrix, Style Guidelines, Landing Page UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications Prototyping, Recomendaciones Programación de landing page.<br>**Sanchez Gonzales** <br>TB2<br>Durante el TB2 realice el Sprint Backlog 2 en conjunto con elDesarrollo de la Web Application <br><br>**Rojas Piñero** <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Registro de entrevistas, Análisis de entrevistas, To-Be Scenario Mapping, User Stories, Product Backlog, Web Applications User Flow Diagrams, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, header para la landing page. <br><br>**George Aliaga** <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Antecedentes y problemática, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping, User Stories, Impact Mapping, Class Diagrams, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions. <br><br>**Bryan Martinez** <br>TB1<br> Durante el desarrollo de la TB1 realicé las siguientes actividades: Descripción de la Startup, Análisis de competidores,Estrategias y tácticas frente a competidores,Needfinding,Ubiquitous Language,SEO tags and Meta Tags, Searching Systems,Navigation system,Class Dictionary,Aspect Leaders and Collaborators, Sprint Backblog 1, Avance de conclusiones. <br><br>**Maria Elena Muñoz Machuca** <br>TB1<br> A lo largo del desarrollo de la TB1 he desarrollado: organization systems, el labelling systems, database diagram, software deployment configuration, sprint 1, sprint planning, development evidence for sprint review y team collaboration insights during sprint y sección characteristics y why us del landing page. | **Sanchez Gonzales** <br>TB1<br> Al realizar estas actividades, en especial Segmentos objetivos, Landing Page UI Design y Web Applications demostré mi capacidad para comunicar ideas de diseño y desarrollo de forma clara y estructurada, adaptando mi lenguaje según el perfil del usuario dependiendo de sus necesidades y problemas. Esto me permitió transmitir con efectividad conceptos técnicos y de experiencia de usuario a diferentes audiencias puesto que tenía que usar un lenguaje que se pueda entender para todos al exponer estas secciones dentro del video de este TB. <br>**Sanchez Gonzales** <br>TB2<br>Durante el TB2, lideré la organización del Sprint Backlog 2, asignando tareas según las habilidades del equipo. Me comuniqué oralmente de forma efectiva con mis compañeros y colaboré activamente para lograr los objetivos del equipo. <br><br>**Rojas Piñero** <br>TB1<br> En el desarrollo de actividades como Registro de entrevistas siento que mostré mi habilidad comunicativa al contarle a nuevas personas sobre nuestro proyecto. En actividades como User Flow Diagrams o To-Be Scenario Mapping, utilice mi capacidad de imaginar escenarios relacionados con el proyecto. Y en actividades como las User Stories y el Product Backlog pude poner en práctica mi análisis de requerimientos. <br><br>**George Aliaga** <br>TB1<br> En el desarrollo de actividades como Antecedentes y problemática sentí que demostré mi capacidad de comprensión y síntesis al analizar el contexto del proyecto. En actividades como Empathy Mapping, User Journey Mapping y As-is Scenario Mapping, pude aplicar mi empatía e imaginación para representar las experiencias reales de los usuarios. Y en actividades como User Stories, Impact Mapping y los Class Diagrams, logré poner en práctica mis habilidades de análisis y estructuración de requerimientos. Además, al trabajar en la configuración del entorno de desarrollo, la gestión del código fuente y la guía de estilos, reforcé mi atención al detalle y buenas práctic**a**s de desarrollo. <br><br>**Bryan Martinez** <br>TB1<br> En el desarrollo de actividades como las entrevistas para Needfinding, demostré mi habilidad comunicativa al explicar de forma clara y atractiva nuestro proyecto a distintas personas. Durante la presentación de la sección de competidores y estrategias, utilicé un lenguaje adaptado al público para asegurar que se comprendiera tanto el análisis como nuestras acciones futuras. Además, al exponer temas técnicos como el Ubiquitous Language, el Class Dictionary y el Navigation System, empleé una comunicación precisa y estructurada para facilitar la comprensión entre diferentes perfiles del equipo. Finalmente, en la exposición del Sprint Backlog 1 y el avance de conclusiones, combiné un lenguaje técnico y accesible para transmitir de manera efectiva los avances a todos los involucrados en el proyecto. <br><br>**Maria Elena Muñoz Machuca** <br>TB1<br> Al realizar las actividades de organization system, labelling system y la implementación de las secciones why us y characteristics de la landing page demostré mi lenguaje y forma de comunicar los avances del proyecto, asegurándome de que todos los participantes, independientemente de su rol, comprendieran los logros y decisiones tomadas. Estas experiencias evidencian mi capacidad para comunicarme con claridad y eficacia en diversos contextos y niveles de audiencia. |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Sanchez Gonzales** <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivos, Diseño de entrevistas, User Personas, User Task Matrix, Style Guidelines, Landing Page UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications Prototyping, Recomendaciones Programación de landing page.<br>**Sanchez Gonzales** <br>TB2<br>Durante el TB2 realice el Sprint Backlog 2 en conjunto con elDesarrollo de la Web Application <br><br>**Rojas Piñero** <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Registro de entrevistas, Análisis de entrevistas, To-Be Scenario Mapping, User Stories, Product Backlog, Web Applications User Flow Diagrams, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, header para la landing page. <br><br>**George Aliaga** <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Antecedentes y problemática, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping, User Stories, Impact Mapping, Class Diagrams, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions. <br><br>**Bryan Martinez** <br>TB1<br> Durante el desarrollo de la TB1 realicé las siguientes actividades: Descripción de la Startup, Análisis de competidores,Estrategias y tácticas frente a competidores,Needfinding,Ubiquitous Language,SEO tags and Meta Tags, Searching Systems,Navigation system,Class Dictionary,Aspect Leaders and Collaborators, Sprint Backblog 1, Avance de conclusiones. <br><br>**Maria Elena Muñoz Machuca** <br>TB1<br> A lo largo del desarrollo de la TB1 he desarrollado: organization systems, el labelling systems, database diagram, software deployment configuration, sprint 1, sprint planning, development evidence for sprint review y team collaboration insights during sprint y sección characteristics y why us del landing page. | **Sanchez Gonzales** <br>TB1<br> A través de la documentación detallada que tuve que utilizar para cada actividad, logré comunicar por escrito de manera clara y precisa, adaptando el nivel de complejidad según el público objetivo que iba a leer cada sección. Utilizando términos complejos para describir secciones técnicas y términos fáciles de entender para secciones como UX/UI pensando que estas van a un público que no cuenta con un conocimiento en esos términos.<br>**Sanchez Gonzales** <br>TB2<br>Durante el TB2, me encargué de documentar el Sprint Backlog 2 y los avances del equipo. Me aseguré de redactar con claridad y adecuación para que tanto mis compañeros como los docentes pudieran entender el progreso y las tareas realizadas. <br><br>**Rojas Piñero** <br>TB1<br> En el desarrollo de este proyecto tuve que aplicar mis habilidades de comunicación en el contexto requerido logrando implementar lenguaje más técnico si así era necesario para comunicarme con mis compañeros de grupo. De igual manera identificando un contexto en el cual las secciones de trabajo fueran dirigidas al público/usuarios debía implementar otro tipo de expresiones o lenguaje más claro de entender para ellos. <br><br>**George Aliaga** <br>TB1<br> En el desarrollo de las distintas actividades, me aseguré de adaptar mi forma de comunicar según el propósito y el público de cada documento. Al trabajar en tareas técnicas como los Class Diagrams, la configuración del entorno de desarrollo y la gestión del código fuente, empleé un lenguaje preciso y especializado para mantener la claridad técnica. Por otro lado, en actividades centradas en la experiencia del usuario como el Empathy Mapping, el User Journey Mapping y el As-is Scenario Mapping, utilicé una redacción más sencilla y cercana, con el objetivo de que cualquier persona, sin necesidad de conocimientos técnicos, pudiera comprender fácilmente la información presentada. <br><br>**Bryan Martinez** <br>TB1<br> En el desarrollo de la TB1 y al realizar esta actividades he demostrado habilidades de redacción de documentación técnica que explica claramente las decisiones tomadas y los procesos utilizados, facilitando la comprensión tanto para miembros técnicos como para aquellos sin experiencia técnica. Por otro lado, en las evidencias presentadas para las revisiones del sprint, redacté informes estructurados y claros que permitieron a todos los integrantes del proyecto entender los avances y resultados obtenidos, independientemente de su rol. Estas experiencias reflejan mi capacidad para comunicar ideas y conceptos de manera precisa y adaptada a diversos contextos y niveles de audiencia. <br><br>**Maria Elena Muñoz Machuca** <br>TB1<br> Al haber redactado el organization systems, labelling system y sprint planning he demostrado habilidades de redacción de documentación técnica que explica claramente las decisiones tomadas y los procesos utilizados. Estas experiencias reflejan mi capacidad para comunicar ideas y conceptos de manera precisa y adaptada a diversos contextos y niveles de audiencia. |
+| Criterio específico | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Conclusiones |
+| :---- |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :---- |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Sanchez Gonzales** <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivos, Diseño de entrevistas, User Personas, User Task Matrix, Style Guidelines, Landing Page UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications Prototyping, Recomendaciones Programación de landing page.<br>**Sanchez Gonzales** <br>TP1<br>Durante el TP1 realice el Sprint Backlog 2 en conjunto con elDesarrollo de la Web Application <br><br>**Rojas Piñero** <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Registro de entrevistas, Análisis de entrevistas, To-Be Scenario Mapping, User Stories, Product Backlog, Web Applications User Flow Diagrams, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, header para la landing page. <br><br>**George Aliaga** <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Antecedentes y problemática, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping, User Stories, Impact Mapping, Class Diagrams, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions. <br><br>**Bryan Martinez** <br>TB1<br> Durante el desarrollo de la TB1 realicé las siguientes actividades: Descripción de la Startup, Análisis de competidores,Estrategias y tácticas frente a competidores,Needfinding,Ubiquitous Language,SEO tags and Meta Tags, Searching Systems,Navigation system,Class Dictionary,Aspect Leaders and Collaborators, Sprint Backblog 1, Avance de conclusiones. <br><br>**Maria Elena Muñoz Machuca** <br>TB1<br> A lo largo del desarrollo de la TB1 he desarrollado: organization systems, el labelling systems, database diagram, software deployment configuration, sprint 1, sprint planning, development evidence for sprint review y team collaboration insights during sprint y sección characteristics y why us del landing page. | **Sanchez Gonzales** <br>TB1<br> Al realizar estas actividades, en especial Segmentos objetivos, Landing Page UI Design y Web Applications demostré mi capacidad para comunicar ideas de diseño y desarrollo de forma clara y estructurada, adaptando mi lenguaje según el perfil del usuario dependiendo de sus necesidades y problemas. Esto me permitió transmitir con efectividad conceptos técnicos y de experiencia de usuario a diferentes audiencias puesto que tenía que usar un lenguaje que se pueda entender para todos al exponer estas secciones dentro del video de este TB. <br>**Sanchez Gonzales** <br>TP1<br>Durante el TP1, lideré la organización del Sprint Backlog 2, asignando tareas según las habilidades del equipo. Me comuniqué oralmente de forma efectiva con mis compañeros y colaboré activamente para lograr los objetivos del equipo. <br><br>**Rojas Piñero** <br>TB1<br> En el desarrollo de actividades como Registro de entrevistas siento que mostré mi habilidad comunicativa al contarle a nuevas personas sobre nuestro proyecto. En actividades como User Flow Diagrams o To-Be Scenario Mapping, utilice mi capacidad de imaginar escenarios relacionados con el proyecto. Y en actividades como las User Stories y el Product Backlog pude poner en práctica mi análisis de requerimientos. <br><br>**George Aliaga** <br>TB1<br> En el desarrollo de actividades como Antecedentes y problemática sentí que demostré mi capacidad de comprensión y síntesis al analizar el contexto del proyecto. En actividades como Empathy Mapping, User Journey Mapping y As-is Scenario Mapping, pude aplicar mi empatía e imaginación para representar las experiencias reales de los usuarios. Y en actividades como User Stories, Impact Mapping y los Class Diagrams, logré poner en práctica mis habilidades de análisis y estructuración de requerimientos. Además, al trabajar en la configuración del entorno de desarrollo, la gestión del código fuente y la guía de estilos, reforcé mi atención al detalle y buenas práctic**a**s de desarrollo. <br><br>**Bryan Martinez** <br>TB1<br> En el desarrollo de actividades como las entrevistas para Needfinding, demostré mi habilidad comunicativa al explicar de forma clara y atractiva nuestro proyecto a distintas personas. Durante la presentación de la sección de competidores y estrategias, utilicé un lenguaje adaptado al público para asegurar que se comprendiera tanto el análisis como nuestras acciones futuras. Además, al exponer temas técnicos como el Ubiquitous Language, el Class Dictionary y el Navigation System, empleé una comunicación precisa y estructurada para facilitar la comprensión entre diferentes perfiles del equipo. Finalmente, en la exposición del Sprint Backlog 1 y el avance de conclusiones, combiné un lenguaje técnico y accesible para transmitir de manera efectiva los avances a todos los involucrados en el proyecto. <br><br>**Maria Elena Muñoz Machuca** <br>TB1<br> Al realizar las actividades de organization system, labelling system y la implementación de las secciones why us y characteristics de la landing page demostré mi lenguaje y forma de comunicar los avances del proyecto, asegurándome de que todos los participantes, independientemente de su rol, comprendieran los logros y decisiones tomadas. Estas experiencias evidencian mi capacidad para comunicarme con claridad y eficacia en diversos contextos y niveles de audiencia. |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Sanchez Gonzales** <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivos, Diseño de entrevistas, User Personas, User Task Matrix, Style Guidelines, Landing Page UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications Prototyping, Recomendaciones Programación de landing page.<br>**Sanchez Gonzales** <br>TP1<br>Durante el TP1 realice el Sprint Backlog 2 en conjunto con elDesarrollo de la Web Application <br><br>**Rojas Piñero** <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Registro de entrevistas, Análisis de entrevistas, To-Be Scenario Mapping, User Stories, Product Backlog, Web Applications User Flow Diagrams, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, header para la landing page. <br><br>**George Aliaga** <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Antecedentes y problemática, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping, User Stories, Impact Mapping, Class Diagrams, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions. <br><br>**Bryan Martinez** <br>TB1<br> Durante el desarrollo de la TB1 realicé las siguientes actividades: Descripción de la Startup, Análisis de competidores,Estrategias y tácticas frente a competidores,Needfinding,Ubiquitous Language,SEO tags and Meta Tags, Searching Systems,Navigation system,Class Dictionary,Aspect Leaders and Collaborators, Sprint Backblog 1, Avance de conclusiones. <br><br>**Maria Elena Muñoz Machuca** <br>TB1<br> A lo largo del desarrollo de la TB1 he desarrollado: organization systems, el labelling systems, database diagram, software deployment configuration, sprint 1, sprint planning, development evidence for sprint review y team collaboration insights during sprint y sección characteristics y why us del landing page. | **Sanchez Gonzales** <br>TB1<br> A través de la documentación detallada que tuve que utilizar para cada actividad, logré comunicar por escrito de manera clara y precisa, adaptando el nivel de complejidad según el público objetivo que iba a leer cada sección. Utilizando términos complejos para describir secciones técnicas y términos fáciles de entender para secciones como UX/UI pensando que estas van a un público que no cuenta con un conocimiento en esos términos.<br>**Sanchez Gonzales** <br>TP1<br>Durante el TP1, me encargué de documentar el Sprint Backlog 2 y los avances del equipo. Me aseguré de redactar con claridad y adecuación para que tanto mis compañeros como los docentes pudieran entender el progreso y las tareas realizadas. <br><br>**Rojas Piñero** <br>TB1<br> En el desarrollo de este proyecto tuve que aplicar mis habilidades de comunicación en el contexto requerido logrando implementar lenguaje más técnico si así era necesario para comunicarme con mis compañeros de grupo. De igual manera identificando un contexto en el cual las secciones de trabajo fueran dirigidas al público/usuarios debía implementar otro tipo de expresiones o lenguaje más claro de entender para ellos. <br><br>**George Aliaga** <br>TB1<br> En el desarrollo de las distintas actividades, me aseguré de adaptar mi forma de comunicar según el propósito y el público de cada documento. Al trabajar en tareas técnicas como los Class Diagrams, la configuración del entorno de desarrollo y la gestión del código fuente, empleé un lenguaje preciso y especializado para mantener la claridad técnica. Por otro lado, en actividades centradas en la experiencia del usuario como el Empathy Mapping, el User Journey Mapping y el As-is Scenario Mapping, utilicé una redacción más sencilla y cercana, con el objetivo de que cualquier persona, sin necesidad de conocimientos técnicos, pudiera comprender fácilmente la información presentada. <br><br>**Bryan Martinez** <br>TB1<br> En el desarrollo de la TB1 y al realizar esta actividades he demostrado habilidades de redacción de documentación técnica que explica claramente las decisiones tomadas y los procesos utilizados, facilitando la comprensión tanto para miembros técnicos como para aquellos sin experiencia técnica. Por otro lado, en las evidencias presentadas para las revisiones del sprint, redacté informes estructurados y claros que permitieron a todos los integrantes del proyecto entender los avances y resultados obtenidos, independientemente de su rol. Estas experiencias reflejan mi capacidad para comunicar ideas y conceptos de manera precisa y adaptada a diversos contextos y niveles de audiencia. <br><br>**Maria Elena Muñoz Machuca** <br>TB1<br> Al haber redactado el organization systems, labelling system y sprint planning he demostrado habilidades de redacción de documentación técnica que explica claramente las decisiones tomadas y los procesos utilizados. Estas experiencias reflejan mi capacidad para comunicar ideas y conceptos de manera precisa y adaptada a diversos contextos y niveles de audiencia. |
 
 
 # Capítulo I: Introducción   
@@ -194,17 +194,22 @@ Keeplo no solo ayuda a las personas a tener un espacio centralizado para sus int
 #### 1.1.2.1 Sanchez Gonzales
 Soy estudiante en la Universidad Peruana de Ciencias Aplicadas (UPC) cursando el 5to ciclo de la carrera de Ingeniería de Software. Soy una persona comprometida con mi desarrollo académico y profesional. Con esa responsabilidad, aspiro a proveer soluciones tecnológicas a aquellos que las requieran para facilitar su área de trabajo. Junto con mi equipo de trabajo tendré la oportunidad de poner mis conocimientos y habilidades en uso con el proyecto “Keeplo” con el fin de disminuir la problemática identificada.
 
-<img src="assets/profiles//sanchezgonzales-foto.png" alt="foto de perfil de integrante" width=200>
+<img src="assets/profiles/sanchezgonzales-foto.png" alt="foto de perfil de integrante" width=200>
 
 #### 1.1.2.2 Aliaga Pimentel George Arturo
 Soy estudiante en la Universidad Peruana de Ciencias Aplicadas y soy de la carrera de Ingeniería de Software. Me considero una persona cooperativa y responsable, lo cual es requerido para un proyecto grupal. Junto a mis compañeros de grupo espero desarrollar un buen proyecto con las tecnologías que se aprenderán dentro del curso
 
 <img src="https://i.ibb.co/JWbFrqLt/image.png" width="200" />
 
+#### 1.1.2.3 Martinez Ramos Bryan Felix
+Soy estudiante de la Universidad Peruana de Ciencias aplicadas, UPC, de la carrera de ingeniería de Software, actualmente estoy en el quinto ciclo de carrera, soy una persona muy proactiva, además de colaborativa, soy responsable con los trabajos y tiempos de entrega durante los proyectos, me emociona mucho el curso y la realización de manera exitosa del proyecto Keeplo
+
+<img src="assets/profiles/BryanFoto.png" alt="foto perfil bryan" width=200>
+
 #### 1.1.2.4 Muñoz Machuca Maria Elena
 Soy estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC) y soy de la carrera de Ingeniería de Software cursando el quinto ciclo de la carrera. Me considero una persona responsable, ya que me gusta cumplir con las tareas encargadas. Asimismo, me considero perseverante, lo cual es importante para ir mejorando en cada entrega de nuestro proyecto. Junto a mis compañeros espero poder realizar nuestro proyecto con éxito.
 
-<img src="/assets/profiles/mariaelenafoto.png" alt="foto perfil maria elena" width=200>
+<img src="assets/profiles/mariaelenafoto.png" alt="foto perfil maria elena" width=200>
 
 
 #### 1.1.2.4 Rojas Piñero Luis Miguel
@@ -589,146 +594,136 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 ## 3.2. User Stories
 ### 3.2.1 Epics
 
- EP01: Gestión de colecciones. 
+| EP01: Gestión de colecciones e items.  |  |
+| :---- | :---- |
+| User Story ID | Título |
+| US01 | Crear colecciones personalizadas. |
+| US02 | Añadir ítems a una colección. |
+| US06 | Acceso público a colecciones o ítems compartidos. |
+| US07 | Visualización de mis colecciones. |
+| US08 | Visualización de mis items. |
+| US09 | Subcarpetas en mis colecciones. |
+| US16 | Eliminar colecciones e ítems. |
+| US17 | Etiquetado manual de ítems. |
+| US18 | Desarrollar una API de cruds de colecciones |
+| US19 | Desarrollar una API cruds de ítems. |
+| US20 | Personalización de Ítems |
+| US31 | Cambiar tema de colores del fondo de las colecciones |
+| US32 | Restaurar colecciones eliminadas.  |
 
-|User Story ID | Título |
-|----|----|
-| US01 |Crear colecciones personalizadas.|
-| US02 | Añadir ítems a una colección.|
-| US03 | Editar ítems existentes.|
-| US04 | Compartir colección mediante código QR.|
-| US05 | Compartir colección mediante link.|
-| US06 | Acceso público a colecciones compartidas.|
-| US07 | Navegación entre mis colecciones.|
-| US08 | Visualización de mis colecciones.|
-| US09 |Visualización de mis colecciones.|
-| US10 |Subcarpetas en mis colecciones.|
-| US16 |Sincronización multiplataforma. |
-| US18 |Eliminar colecciones.|
-| US19 |Etiquetado manual de ítems.|
-| US20 |Desarrollar una API de cruds de colecciones|
-| US21 |Desarrollar una API cruds de ítems.|
-| US22 |Descripción de ítems.|
-| US33 |Cambiar el tema de colores del fondo de las colecciones.|
-| US34 |Restaurar colecciones eliminadas.|
+| EP02: Compartir colecciones.  |  |
+| :---- | :---- |
+| User Story ID | Título |
+| US04 | Compartir colección o ítem mediante código QR. |
+| US05 | Compartir colección o ítem mediante link. |
+| US12 | Compartir con permisos granulares. |
+| US13 | Vista previa de colecciones compartidas. |
+| US15 | Exportar Colecciones a PDF. |
+| US22 | Compartir ítems individuales. |
+| US23 | Límite de acceso temporal	 |
+| US37 | Encriptación de colecciones compartidas. |
+| US39 | Encriptación de ítems compartidos. |
 
- EP02: Compartir colecciones. 
+| EP03: Sistema de búsqueda |  |
+| :---- | :---- |
+| User Story ID | Título |
+| US10 | Búsqueda semántica. |
+| US21 | Desarrollar una API que devuelva colecciones o items en base a una query. |
 
-|User Story ID | Título |
-|----|----|
-| US13 |Compartir con permisos granulares.|
-| US14 | Vista previa de colecciones compartidas.|
-| US17 | Exportar Colecciones a PDF.|
-| US24 | Compartir ítems individuales.|
-| US25 | Límite de acceso temporal.|
-| US40 | Encriptación de colecciones compartidas.|
-| US41 | Encriptación de ítems compartidos. |
+| EP04: Registro y autenticación |  |
+| :---- | :---- |
+| User Story ID | Título |
+| US11 | Diseñar una API de gestión de perfiles. |
+| US30 | Registrar Cuenta |
+| US40 | Iniciar sesión en cuenta. |
 
- EP03: Sistema de búsqueda 
+| EP05: Experiencia e interacción con la landing page. |  |
+| :---- | :---- |
+| User Story ID | Título |
+| US24 | Ver el nombre, logo  y eslogan de la aplicación |
+| US25 | Visualizar principales funciones |
+| US26 | Visualizar botón destacado “Empieza ahora” en la sección principal del landing |
+| US27 | Acceder a la página inicio de sesión desde el botón “Iniciar sesión” |
+| US28 | Acceder a la página de registro de diseñador a través de botón “Empezar como diseñador” |
+| US29 | Acceder a la página de registro de comprador a través de botón “Empezar como comprador” |
+| US41 | Navigation Bar |
+| US42 | Seccion Hero |
+| US43 | Seccion Estadisticas |
+| US44 | Sección Ofrecemos |
+| US45 | Sección Planes |
+| US46 | Sección Porque Nosotros |
+| US47 | Footer |
+| US48 | Cambio de lenguaje a ingles y español |
+| US49 | Atributos Aria |
 
-|User Story ID | Título |
-|----|----|
-| US11 | Búsqueda semántica. |
-| US23 | Desarrollar una API que devuelva colecciones en base a una query.|
+| EP06: Actualizaciones del sistema. |  |
+| :---- | :---- |
+| User Story ID | Título |
+| US14 | Modo oscuro/accesibilidad. |
+| US33 | Actualizar foto de perfil  |
+| US34 | Modificar información personal (nombre, correo, etc.)  |
+| US35 | Cambiar contraseña.  |
+| US36 | Actualizar tarjeta de crédito asociada.  |
 
- EP04: Registro y autenticación 
-
-|User Story ID | Título |
-|----|----|
-| US12 |Diseñar una API de gestión de perfiles.|
-| US32 | Registrar Cuenta.|
-| US42 | Iniciar sesión en Cuenta.|
-
- EP05: Experiencia e interacción con la landing page. 
-
-|User Story ID | Título |
-|----|----|
-| US26 |Ver el nombre, logo  y eslogan de la aplicación.|
-| US27 | Visualizar principales funciones.|
-| US28 | Visualizar botón destacado “Empieza ahora” en la sección principal del landing.|
-| US29 | Acceder a la página inicio de sesión desde el botón “Iniciar sesión”.|
-| US30 | Acceder a la página de registro de diseñador a través de botón “Empezar como diseñador”.|
-| US31 |Acceder a la página de registro de comprador a través de botón “Empezar como comprador”.|
-| US43 | Navigation Bar.|
-| US44 | Seccion Hero.|
-| US45 |Seccion Estadisticas.|
-| US46 |Sección Ofrecemos.|
-| US47 |Seccion Planes. |
-| US48 |Seccion Porque Nosotros.|
-| US49 |Footer.|
-| US50 |Cambio de lenguaje a ingles y español.|
-| US51 |Atributos Aria.|
-
- EP06: Actualizaciones del sistema. 
-
-|User Story ID | Título |
-|----|----|
-| US35 |Actualizar foto de perfil.|
-| US36 | Modificar información personal (nombre, correo, etc.).|
-| US37 | Cambiar contraseña.|
-| US39 | Actualizar tarjeta de crédito asociada.|
-
- EP07: Planes de suscripción. 
-
-|User Story ID | Título |
-|----|----|
-| US38 |Acceder al plan de suscripción premium.|
+| EP07: Planes de suscripción |  |
+| :---- | :---- |
+| User Story ID | Título |
+| US37 | Acceder a planes de suscripción premium  |
 
 ### 3.2.2 User Stories
 
 | User Story ID | Título | Descripción | Criterio de aceptación. | EPIC |
 | :---- | :---- | :---- | :---- | :---- |
-|  US01 | Crear colecciones personalizadas. | Como comprador, quiero crear colecciones con nombre y descripción, para organizar mis intereses por categorías. | **Escenario 1: Creación de colección exitosa.** <br>Dado que el usuario ha iniciado sesión, cuando accede a la sección de 'Mis Colecciones' y crea una nueva colección con nombre y descripción, entonces el sistema debe guardar y mostrar la colección en su dashboard | EP01 |
-| US02 | Añadir ítems a una colección. | Como comprador, quiero añadir ítems con nombre, imagen, enlace y descripción dentro de una colección, para organizar elementos de interés. | **Escenario 1: Agregado exitoso de ítem.** <br>Dado que el usuario tiene una colección creada, cuando agrega un ítem con los campos completos, entonces el ítem se visualizará correctamente dentro de la colección seleccionada. | EP01 |
-| US03 | Editar ítems existentes. | Como comprador, quiero poder editar los detalles de un ítem ya guardado, para mantener actualizada mi colección. | **Escenario 1: Edición efectiva de ítem.** <br>Dado que el usuario visualiza sus ítems en una colección, cuando selecciona uno y actualiza la información, entonces los cambios deben reflejarse al instante. | EP01 |
-| US04 | Compartir colección mediante código QR. | Como comprador, quiero compartir una colección a través de un código QR, para distribuir rápidamente ideas o recursos con otros. | **Escenario 1: Generación y escaneo de QR**. <br>Dado que el usuario visualiza una colección, cuando selecciona la opción 'Compartir', entonces el sistema debe generar un código QR que permita a otros visualizar la colección sin necesidad de iniciar sesión. | EP01 |
-| US05 | Compartir colección mediante link. | Como comprador, quiero compartir una colección a través de un link, para distribuir rápidamente ideas o recursos con otros. | **Escenario 1: Generación y envío de link**. <br>Dado que el usuario visualiza una colección, cuando selecciona la opción 'Compartir', entonces el sistema debe generar un link que permita a otros visualizar la colección sin necesidad de iniciar sesión. | EP01 |
-| US06 | Acceso público a colecciones compartidas. | Como usuario de ambos segmentos objetivos comprador y diseñador, quiero ver el contenido de una colección compartida, para conocer los elementos de interés sin crear una cuenta. | **Escenario 1: Acceso directo mediante QR.**  <br>Dado que el usuario puede escanear un QR o ingresar a un enlace compartido, cuando carga la página, entonces visualizará la colección . | EP01 |
-| US07 | Navegación entre mis colecciones. | Como diseñador, quiero una interfaz que me permita navegar fácilmente entre mis colecciones, para acceder a mis ideas con rapidez. | **Escenario 1:. Menú lateral**  <br>Dado que el usuario está en su dashboard <br>Cuando accede a la sección 'Mis Colecciones' <br>Entonces podrá cambiar de una colección a otra en un solo clic mediante un menú intuitivo. | EP01 |
-| US08 | Visualización de mis colecciones. | Como diseñador, quiero que los ítems dentro de mis colecciones se vean de manera ordenada y visualmente atractiva, para encontrar fácilmente lo que necesito. | **Escenario 1: Vista tipo grid.**  <br>Dado que el usuario accede a una colección <br>Cuando visualiza los ítems <br>Entonces puede ver la vista de cuadrícula y ver claramente los detalles principales (imagen, título, enlace). | EP01 |
-| US09 | Visualización de mis colecciones. | Como diseñador, quiero que los ítems dentro de mis colecciones se vean de manera ordenada y visualmente atractiva, para encontrar fácilmente lo que necesito. | **Escenario 1: Vista tipo lista.**  <br>Dado que el usuario accede a una colección <br>Cuando visualiza los ítems <br>Entonces puede elegir el formato lista y ver claramente los detalles principales (título, enlace, etc). | EP01 |
-| US10 | Subcarpetas en mis colecciones. | Como diseñador, quiero crear subcarpetas dentro de mis colecciones, para organizar referencias por proyectos o categorías específicas. | **Escenario 1: Creación de subcarpeta.** <br>Dado que el diseñador se encuentra dentro de una colección específica <br>Cuando el diseñador haga clic en el botón "Nueva subcarpeta" <br>Entonces podrá ingresar un nombre para la subcarpeta y crearla dentro de la colección actual.  <br><br>**Escenario 2: Herencia de permisos.**  <br>Dado que una colección tiene configurados permisos específicos (por ejemplo, compartida con otro usuario) <br>Cuando el diseñador cree una nueva subcarpeta dentro de esa colección <br>Entonces la subcarpeta heredará automáticamente los mismos permisos que la colección principal.	 | EP01 |
-| US11 | Búsqueda semántica. | Como comprador, quiero buscar ítems por palabras clave, tags o tipo de contenido, para encontrar rápidamente lo que necesito. | **Escenario 1\. Búsqueda por tag.** <br>Dado que el usuario escribe "\#diseño" en la barra de búsqueda, entonces el sistema muestra todos los ítems etiquetados.  <br><br>**Escenario 2: Búsqueda por keywords.** El usuario utiliza palabras claves y el sistema le muestra items relacionados. | EP03 |
-| US12 | Diseñar una API de gestión de perfiles. | Como desarrollador, debo crear endpoints para manejar perfiles de usuarios (compradores/diseñadores). | **Escenario 1:Diferenciación de roles en BD.** <br>Dado que existen distintos tipos de usuarios (compradores y diseñadores) <br>Cuando se registre un nuevo usuario a través del endpoint correspondiente <br>Entonces el sistema deberá almacenar el rol asociado en la base de datos para permitir comportamientos diferenciados <br><br>**Escenario 2: Validación de campos obligatorios** <br>Dado que un usuario está creando o actualizando su perfil mediante la API <br>Cuando no complete todos los campos obligatorios (como nombre, correo electrónico, rol, etc.) <br>Entonces el sistema deberá rechazar la solicitud y devolver un mensaje de error indicando los campos faltantes | EP04 |
-| US13 | Compartir con permisos granulares. | Como comprador, quiero definir quién puede editar o solo ver mis colecciones compartidas, para controlar el acceso. | **Escenario 1: Permisos de lectura**. <br>Dado que el usuario comparte un link <br>Cuando selecciona "Solo lectura" <br>Entonces los usuarios pueden visualizar los ítems, pero no pueden modificarlos. <br><br>**Escenario 2: Permisos de edición**. <br>Dado que el usuario comparte un link <br>Cuando selecciona "Solo lectura" <br>Entonces los usuarios no pueden modificar los ítems.	 | EP02 |
-| US14 | Vista previa de colecciones compartidas. | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero ver una miniatura de la colección antes de acceder, para decidir si me interesa. | **Escenario 1: Preview en QR link** <br>Dado que el usuario recibe un link <br>Cuando pasa el cursor sobre él <br>Entonces ve las primeras 3 imágenes de la colección. | EP02 |
-| US15 | Modo oscuro/accesibilidad. | Como diseñador, quiero cambiar el tema de la interfaz a modo oscuro y ajustar el tamaño de texto, para mayor comodidad visual. | **Escenario 1: Activación de modo oscuro.**  <br>Dado que el usuario accede a Configuración <br>Cuando selecciona "Modo Oscuro" <br>Entonces la interfaz cambia inmediatamente. | EP02 |
-| US16 | Sincronización multiplataforma. | Como comprador, quiero acceder a mis colecciones desde cualquier dispositivo, para tener flexibilidad.  |  **Escenario 1: Sincronización en tiempo real.**  <br>Dado que el usuario añade un ítem en su celular <br>Cuando abre la app en su laptop <br>Entonces el ítem ya está disponible. | EP01 |
-| US17 | Exportar Colecciones a PDF. | Como diseñador, quiero exportar colecciones como PDF, para presentarlas a clientes sin conexión.  | **Escenario 1: Exportación exitosa.** <br>Dado que el usuario está en la sección “Compartir” <br>Cuando el usuario selecciona la opción "Exportar Moodboard" <br>Entonces el archivo se descarga con imágenes y metadatos.  | EP02 |
-| US18 | Eliminar colecciones. | Como comprador, quiero eliminar colecciones que ya no necesito, para mantener mi espacio organizado. | **Escenario 1\. Eliminación con confirmación.** <br>Dado que el comprador está visualizando una de sus colecciones <br>Cuando presione el botón de "Eliminar" <br>Entonces se mostrará un mensaje de confirmación solicitando que confirme la eliminación  <br><br>**Escenario 2\. Opción de recuperar desde "Papelera" (30 días).** <br>Dado que una colección ha sido eliminada y se encuentra en la Papelera <br>Cuando el comprador acceda a la sección de Papelera dentro de los 30 días posteriores <br>Entonces podrá visualizar la colección eliminada para recuperarla o eliminarla | EP01 |
-| US19 | Etiquetado manual de ítems. | Como comprador, quiero añadir tags personalizados a mis ítems, para clasificarlos con mis propios criterios. | **Escenario 1: Añadir tags desde el detalle del ítem.**  <br>Dado que el usuario está en la sección de edición de un ítem <br>Cuando escriba o seleccione un tag personalizado <br>Entonces el ítem será categorizado con ese tag <br><br>**Escenario 2: Búsqueda por tags personalizados.** <br>Dado que el comprador ha etiquetado ítems con tags personalizados <br>Cuando utilice el buscador e ingrese un tag <br>Entonces se mostrarán todos los ítems que contienen ese tag | EP01 |
-| US20 | Desarrollar una API de cruds de colecciones | Como desarrollador quiero diseñar una API que se enfoque en la gestión de las colecciones para obtener información sobre estas rápidamente. | **Escenario 1: Crear una colección** <br>Dado que el usuario cuenta con un perfil activo en la plataforma <br>Cuando envíe una solicitud a la API para crear una nueva colección con nombre y descripción <br>Entonces la API registrará la colección y devolverá una respuesta con los datos creados <br><br>**Escenario 2: Editar una colección.** <br>Dado que el usuario desea modificar una colección existente <br>Cuando envíe una solicitud a la API con los nuevos datos de la colección <br>Entonces la API actualizará la colección correspondiente y devolverá la información actualizada <br><br>**Escenario 3: Eliminar una colección.** <br>Dado que el usuario ya no necesita una colección <br>Cuando envíe una solicitud a la API para eliminarla <br>Entonces la API marcará la colección como eliminada y dejará de estar disponible para el usuario  | EP01 |
-| US21 | Desarrollar una API cruds de ítems. | Como desarrollador quiero diseñar una API que se enfoque en la gestión de ítems  para obtener información sobre estas rápidamente. | **Escenario 1: Guardar un ítem.** <br>Dado que el usuario tiene un ítem que desea almacenar en la plataforma <br>Cuando envíe una solicitud a la API con los datos del ítem <br>Entonces la API registrará el ítem y devolverá una respuesta con los datos guardados <br><br>**Escenario 2: Eliminar un ítem.** <br>Dado que el usuario ya no desea conservar un ítem en su cuenta <br>Cuando envíe una solicitud a la API para eliminar dicho ítem <br>Entonces la API lo marcará como eliminado y lo retirará de las vistas activas del usuario | EP01 |
-| US22 | Descripción de ítems. | Como usuario, quiero añadir descripción a mis ítems, para recordar detalles clave. | **Escenario 1:  Editor de texto.**  <br>Dado que el usuario está en la sección de edición de un ítem <br>Cuando haga clic en la descripción <br>Entonces el editor de texto de la descripción se habilitará | EP01 |
-| US23 | Desarrollar una API que devuelva colecciones en base a una query. | Como desarrollador quiero realizar una API que al hacer una query en el buscador devuelva una colección relacionada  para obtener información sobre colecciones específicas rápidamente. | **Escenario 1: El usuario usa palabras clave.** <br>Dado que el usuario quiere encontrar una colección mediante el buscador <br>Cuando ingrese una palabra clave relacionada con la colección <br>Entonces la API devolverá una lista de colecciones que coincidan con la palabra clave <br><br>**Escenario 2: El usuario coloca una fecha específica.** <br>Dado que el usuario quiere encontrar colecciones creadas en una fecha determinada <br>Cuando realice una búsqueda utilizando una fecha como filtro <br>Entonces la API devolverá las colecciones creadas en esa fecha  | EP03 |
-| US24 | Compartir ítems individuales. | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero compartir un ítem específico (no toda la colección), para enviar contenido relevante. | **Escenario 1: Opción "Compartir" en cada ítem.**  <br>Dado que el usuario está visualizando un ítem en la plataforma <br>Cuando se muestre la tarjeta o detalle del ítem <br>Entonces se mostrará un botón u opción de "Compartir" asociada a ese ítem <br><br>**Escenario 2: Vista previa del ítem en el link.** <br>Dado que el usuario ha recibido un link de una colección compartida <br>Cuando accede al enlace desde su navegador <br>Entonces se mostrará una vista previa del ítem con con el nombre del usuario, nombre del item, etiquetas asociadas y un botón para acceder a la colección completa  | EP02 |
-| US25 | Límite de acceso temporal	 | Como diseñador, quiero compartir colecciones con fecha de expiración, para controlar el acceso. | **Escenario 1: Selector de fecha/hora al compartir.**  <br>Dado que el diseñador desea compartir una colección de forma temporal <br>Cuando comparta la colección <br>Entonces podrá definir una fecha y hora de expiración para limitar el tiempo de acceso del visitante <br><br>**Escenario 2: Notificación al expirar.** <br>Dado que la colección compartida tiene un tiempo de expiración definido <br>Cuando se cumpla el tiempo establecido por el diseñador <br>Entonces el visitante recibirá una notificación indicando que el acceso ha expirado  | EP02 |
-| US26 | Ver el nombre, logo  y eslogan de la aplicación | Como visitante del segmento objetivo diseñador y comprador, quiero poder visualizar el nombre y eslogan de la aplicación para saber de qué se trata a primera vista | **Escenario 1: Ver logo en header** <br>Dado que el visitante se encuentra en la página del landing page de Keeplo <br>Cuando el visitante mire hacia la parte del header <br>Entonces el visitante podrá visualizar el logo de Keeplo arriba a la izquierda. <br><br>**Escenario 2: Ver logo y slogan principal** <br>Dado que el visitante se encuentra en la página del landing page de Keeplo <br>Cuando el visitante mire la sección principal <br>Entonces visualizará el logo de Keeplo y su eslogan  | EP05 |
-| US27 | Visualizar principales funciones | Como visitante del segmento objetivo de diseñador y comprador, quiero poder ver las funcionalidades que ofrece la aplicación para saber que beneficios puedo tener | **Escenario 1: Ver funcionalidades de Keeplo** <br>Dado que el visitante accede al landing page de Keeplo <br>Cuando el visitante observa la sección "Qué es Keeplo" desplazándose hacia abajo. <br>Entonces podrá visualizar tarjetas con con descripciones acerca de lo que se ofrece dentro de la aplicación. <br><br>**Escenario 2: Ver beneficios para diseñadores** <br>Dado que el visitante del segmento objetivo de diseñadores se encuentra en la landing page <br>Cuando el visitante del segmento objetivo de diseñadores baje a la sección de planes <br>Entonces verá los beneficios para los diseñadores. <br><br>**Escenario 3: Ver beneficios para compradores** <br>Dado que el visitante del segmento objetivo de compradores y se encuentra en la landing page <br>Cuando el visitante del segmento objetivo de compradores baje a la sección de planes <br>Entonces verá los beneficios para los compradores. | EP05 |
-| US28 | Visualizar botón destacado “Empieza ahora” en la sección principal del landing | Como visitante del segmento objetivo de diseñadores y compradores, quiero ver un botón llamativo de “Empieza ahora” en la sección principal para comenzar el proceso de registro sin perder tiempo. | **Escenario 1: Presionar botón empieza ahora** <br>Dado que el visitante se encuentra en la sección principal del landing page  <br>Y ubica el botón con el texto “Empezar ahora” <br>Cuando hace clic en el botón con el texto “Empezar ahora”<br>Entonces será redirigido a la página de registro de la aplicación. | EP05 |
-| US29 | Acceder a la página inicio de sesión desde el botón “Iniciar sesión” | Como visitante del segmento objetivo de diseñadores y compradores, quiero ver un botón llamativo de “Iniciar sesión” en el header para comenzar el proceso de inicio de sesión sin perder tiempo. | **Escenario 1: Presionar botón Iniciar Sesión** <br>Dado que el visitante se encuentra en la sección principal del landing page  <br>Y se dirige al header para clickear el botón con el texto “Iniciar Sesión” <br>Cuando hace clic en el botón con el texto “Iniciar sesión”<br>Entonces será redirigido a la página de inicio de sesión de la aplicación. | EP05 |
-| US30 | Acceder a la página de registro de diseñador a través de botón “Empezar como diseñador” | Como visitante del segmento objetivo de diseñadores, quiero poder registrarme rápidamente como un diseñador para comenzar el proceso de registro sin perder tiempo.   | **Escenario 1: Presionar botón “Empezar como diseñador”** <br>Dado que el visitante se encuentra en la sección de planes <br>Y ubica el botón “Empezar como diseñador” <br>Cuando hace clic en el botón “Empezar como diseñador”. <br>Entonces será redirigido a la página de registro como diseñador de la aplicación | EP05 |
-| US31 | Acceder a la página de registro de comprador a través de botón “Empezar como comprador” | Como visitante del segmento objetivo de comprador, quiero poder registrarme rápidamente como un comprador para comenzar el proceso de registro sin perder tiempo. | **Escenario 1: Presionar botón “Empezar como comprador”** <br>Dado que el visitante se encuentra en la sección de precios y tarifas <br>Y ubica el botón “Empezar como comprador” <br>Cuando hace clic en el botón “Empezar como comprador”. <br>Entonces será redirigido a la página de registro como comprador de la aplicación | EP05 |
-| US32 | Registrar Cuenta | Como visitante, quiero registrarme usando mi correo para poder acceder a las funcionalidades de la plataforma.  | **Escenario 1: Registro con correo** <br>Dado que el visitante selecciona la opción "Registrarse" <br>Cuando ingresa su correo electrónico y los datos solicitados <br>Entonces el sistema registrará su cuenta y le permitirá iniciar sesión  | EP04 |
-| US33 | Cambiar tema de colores del fondo de las colecciones | Como diseñador, quiero personalizar los colores principales de mis colecciones, para que coincida con mi identidad visual.  | **Escenario 1:** **Selección de paleta** <br>Dado que el diseñador está en la pestaña de edición de las colecciones <br>Cuando haga clic en alguna de las opciones de colores de colección <br>Entonces el color del fondo de la colección se cambiará <br><br>**Escenario 2:** **Guardar selección de paleta** <br>Dado que el diseñador está en la pestaña de edición de las colecciones <br>Y da clic en alguna de las opciones de colores de colección <br>Cuando haga clic al botón de guardar <br>Entonces el color del fondo de la colección se guardará |  EP01 |
-| US34 | Restaurar colecciones eliminadas.  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero recuperar colecciones borradas accidentalmente desde una papelera, para evitar pérdidas de información.  | **Escenario 1: Recuperar colección** <br>Dado que el usuario accede a la "Papelera" <br>Cuando selecciona una colección y hace clic en "Restaurar" <br>Entonces la colección volverá a su ubicación original.  | EP01 |
-| US35 | Actualizar foto de perfil  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero cambiar mi foto de perfil para personalizar mi cuenta y que otros me identifiquen fácilmente.  | **Escenario 1: Subir nueva imagen** <br>Dado que el usuario accede a "Mi Perfil" \> "Editar" <br>Cuando selecciona "Cambiar foto" y sube una imagen desde su dispositivo <br>Entonces la nueva foto se mostrará en su perfil y colecciones compartidas.  | EP06 |
-| US36 | Modificar información personal (nombre, correo, etc.)  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero editar mis datos personales (ej. correo o número de teléfono) para mantener mi cuenta actualizada.  | **Escenario 1: Actualizar correo electrónico** <br>Dado que el usuario está en "Configuración" \> "Datos personales" <br>Cuando edita su correo electrónico y hace clic en "Guardar" <br>Entonces el sistema enviará un email de confirmación y actualizará la información. | EP06 |
-| US37 | Cambiar contraseña.  | Como usuario preocupado por la seguridad, quiero actualizar mi contraseña periódicamente para proteger mi cuenta.  | **Escenario 1: Contraseña actualizada** <br>Dado que el usuario ingresa las opciones de su perfil y clickea el botón de “Cambiar Contraseña” <br>Cuando introduce su contraseña actual y la nueva contraseña (dos veces) <br>Entonces el sistema validará que coincidan y aplicará el cambio al confirmar. | EP06 |
-| US38 | Acceder al plan de suscripción premium  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero explorar los beneficios y precios del plan premium para decidir si actualizo mi cuenta.  | **Escenario 1: Ver planes disponibles** <br>Dado que el usuario ha iniciado sesión <br>Cuando navega a "Planes"  <br>Entonces verá una comparativa de planes (Free / Plus / Infinito) con precios y beneficios destacados. <br><br>**Escenario 2: Seleccionar Plan Infinito** <br>Dado que el usuario está en la página de suscripción <br>Cuando hace clic en el botón "Mejorar ahora" en uno de los planes <br>Entonces se redirigirá a un formulario seguro para ingresar sus datos de pago. <br><br>**Escenario 2: Seleccionar Plan Infinito** <br>Dado que ha rellenado el formulario seguro para ingresar sus datos de pago <br>Y da en el botón pagar <br>Cuando la aplicación confirma el pago <br>Entonces la cuenta del usuario cambiará y se le brindaran los beneficios del plan  | EP05 |
-| US39 | Actualizar tarjeta de crédito asociada.  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero modificar los datos de mi tarjeta de crédito para asegurar que los pagos mensuales no fallen.  | **Escenario 1: Cambiar tarjeta activa** <br>Dado que el usuario accede a su perfil <br>Cuando selecciona "Editar información de  tarjeta" e ingresa los nuevos datos <br>Entonces el sistema validará la tarjeta y mostrará un mensaje de confirmación: "¡Tarjeta actualizada correctamente\!". <br><br>**Escenario 2: Error en datos de tarjeta** <br>Dado que el usuario ingresa un número de tarjeta inválido <br>Cuando intenta guardar los cambios <br>Entonces el sistema mostrará: "Verifica los datos de tu tarjeta e inténtalo nuevamente".  | EP06 |
-| US40 | Encriptación de colecciones compartidas. | Como desarrollador quiero encriptar los datos de mis colecciones en formato enlace o QR. | **Escenario 1: El usuario desea compartir una colección.** <br>Dado que el usuario desea compartir una colección <br>Cuando selecciona la opción para generar un enlace o un código QR <br>Entonces el sistema encriptará la colección y proporcionará el enlace o QR para compartir de forma segura   | EP02 |
-| US41 | Encriptación de ítems compartidos. | Como desarrollador quiero encriptar los datos de mis ítems en formato enlace o QR. | **Escenario 1: El usuario desea compartir un ítem.** <br>Dado que el usuario desea compartir un ítem <br>Cuando selecciona la opción para generar un enlace o un código QR <br>Entonces el sistema encriptará el ítem y proporcionará el enlace o QR para compartir de forma segura  | EP02 |
-| US42 | Iniciar sesión en cuenta. | Como usuario quiero iniciar sesión automáticamente con mi usuario y contraseña. | **Escenario 1: El usuario desea volver a iniciar sesión colocando su nombre de usuario o correo y la contraseña.** <br>Dado que el usuario se encuentra en la pantalla de inicio de sesión <br>Cuando introduce su nombre de usuario o correo y su contraseña <br>Entonces el sistema valida las credenciales y, si son correctas, inicia sesión automáticamente en la cuenta del usuario | EP04 |
-| US43 | Navigation Bar | Como visitante quiero acceder a la barra de navegación para moverse rápidamente a cualquier sección de la página. | **Escenario 1: Ver la barra de navegación en la parte superior** <br>Dado que el visitante está en la landing page <br>Cuando hace clic en el enlace de navegación <br>Entonces el visitante será redirigido a la sección correspondiente de la misma página. | EP05 |
-| US44 | Seccion Hero | Como visitante quiero ver un mensaje llamativo y claro al entrar, para entender de inmediato el propósito de Keeplo. | **Escenario 1: Visualizar la sección hero al ingresar al sitio** <br>Dado que el visitante entra por primera vez a la landing page <br>Cuando la página carga completamente <br>Entonces el visitante verá un mensaje principal con título, descripción y botón de acción. | EP05 |
-| US45 | Seccion Estadisticas | Como visitante quiero ver estadísticas clave del uso de Keeplo para confiar más en el producto. | **Escenario 1: Consultar estadísticas del uso del servicio** <br>Dado que el visitante está navegando en la landing page <br>Cuando se desplaza hasta la sección de estadísticas <br>Entonces verá contadores con datos estadisticos del uso de Keeplo. | EP05 |
-| US46 | Sección Ofrecemos | Como visitante quiero conocer qué funcionalidades ofrece Keeplo para evaluar si cubre mis necesidades. | **Escenario 1: Ver los beneficios de Keeplo** <br>Dado que el visitante está en la landing page <br>Cuando llega a la sección de Que Ofrecemos <br>Entonces visualizará los principales beneficios y herramientas que ofrece la aplicación. | EP05 |
-| US47 | Sección Planes | Como visitante quiero comparar los planes disponibles para decidir si debo suscribirme | **Escenario 1: Comparar planes y precios** <br>Dado que el visitante navega hasta la sección de planes <br>Cuando visualiza las opciones disponibles <br>Entonces verá los precios, características y botones de suscripción de cada plan. | EP05 |
-| US48 | Sección Porque Nosotros | Como visitante quiero saber por qué debería elegir Keeplo sobre otras opciones para tomar una decisión informada. | **Escenario 1: Conocer los diferenciales de Keeplo** <br>Dado que el visitante está en la landing page <br>Y llega a la sección “Por qué nosotros” <br>Cuando lee el contenido de esa sección <br>Entonces comprenderá las ventajas y razones por las que Keeplo es una buena elección. | EP05 |
-| US49 | Footer | Como visitante quiero ver información útil en el footer de la página para acceder rápidamente a redes sociales. | **Escenario 1: Consultar información desde el footer** <br>Dado que el visitante está en la parte inferior de la página <br>Cuando visualiza el footer <br>Entonces encontrará enlaces a redes sociales | EP05 |
-| US50 | Cambio de lenguaje a ingles y español | Como visitante quiero cambiar el idioma del sitio entre inglés y español para entender mejor el contenido. | **Escenario 1: Visualizar en idioma de navegador de inglés o español** <br>Dado que el visitante tiene el idioma de su navegador configurado a ingles o espanol <br>Cuando entra a la landing page <br>Entonces todo el contenido del sitio se mostrará en el idioma del navegador. <br><br>**Escenario 2: Visualizar en idioma de navegador de otro idioma** <br>Dado que el visitante tiene el idioma de su navegador configurado a uno que no es ingles o espanol <br>Cuando entra a la landing page <br>Entonces todo el contenido del sitio se mostrará en el idioma inglés por defecto. <br><br>**Escenario 3: Cambiar el idioma del sitio** <br>Dado que el visitante se encuentra en la landing page <br>Cuando selecciona el botón “EN” o “ES” de la parte inferior derecha <br>Entonces todo el contenido del sitio se mostrará en el idioma elegido. | EP05 |
-| US51 | Atributos Aria | Como visitante con discapacidad quiero que el sitio sea accesible para navegarlo con lectores de pantalla. | **Escenario 1: Usar atributos ARIA para accesibilidad** <br>Dado que el visitante navega con un lector de pantalla <br>Cuando interactúa con los elementos de la interfaz <br>Entonces el lector de pantalla describirá correctamente los elementos gracias a los atributos ARIA. | EP05 |
+|  US01 | Crear colecciones personalizadas. | Como usuario de ambos segmentos objetivos comprador y diseñador, quiero crear colecciones con nombre y descripción, para organizar mis intereses por categorías. | **Escenario 1: Creación de colección exitosa.** Dado que el usuario ha iniciado sesión <br> Cuando accede a la sección de 'Mis Colecciones' y crea una nueva colección con nombre y descripción<br> Entonces el sistema debe guardar y mostrar la colección en su dashboard <br><br>**Escenario 2: Creación de colección fallida.**<br> Dado que el usuario ha iniciado sesión, cuando accede a la sección de 'Mis Colecciones' <br> Y su plan actual ha excedido el límite de colecciones disponibles para la cuenta<br> Cuando el usuario intente crear la colección<br> Entonces el sistema debe mandar un mensaje de error, donde se indique que se excedió con la cantidad de colecciones disponibles en su colección | EP01 |
+| US02 | Añadir ítems a una colección. | Como usuario de ambos segmentos objetivos comprador y diseñador,, quiero añadir ítems con nombre, imagen, enlace y descripción dentro de una colección, para organizar elementos de interés. | **Escenario 1: Agregado exitoso de ítem.** <br> Dado que el usuario tiene una colección creada<br> Cuando agrega un ítem con los campos completos<br> Entonces el ítem se visualizará correctamente dentro de la colección seleccionada.<br><br> <br><br>**Escenario 2: Creación de item fallida.** Dado que el usuario tiene una colección creada<br> Y su plan actual ha excedido el límite de ítems disponibles para esa colección<br> Cuando el usuario intente crear el item<br> Entonces el sistema debe mandar un mensaje de error, donde se indique que se excedió con la cantidad de ítems disponibles para su colección | EP01 |
+| US03 | Editar ítems existentes. | Como usuario de ambos segmentos objetivos comprador y diseñador,, quiero poder editar los detalles de un ítem ya guardado, para mantener actualizada mi colección. | **Escenario 1: Edición efectiva de ítem.**<br> Dado que el usuario visualiza sus ítems en una colección, cuando selecciona uno y actualiza la información, entonces los cambios deben reflejarse al instante. | EP01 |
+| US04 | Compartir colección  o ítem mediante código QR. | Como usuario de ambos segmentos objetivos comprador y diseñador, quiero compartir una colección o ítem  a través de un código QR, para distribuir rápidamente ideas con otros. | **Escenario 1: Generación y escaneo de QR**. <br>Dado que el usuario visualiza una colección o ítem<br> Cuando selecciona la opción 'Compartir'<br> Entonces el sistema debe generar un código QR que permita a otros visualizar la colección  o ítem. | EP02 |
+| US05 | Compartir colección  o ítem mediante link. | Como usuario de ambos segmentos objetivos comprador y diseñador, quiero compartir una colección  o ítem a través de un link, para distribuir rápidamente ideas o recursos con otros. | **Escenario 1: Generación y envío de link**. <br> Dado que el usuario visualiza una colección  o ítem<br> Cuando selecciona la opción 'Compartir' y crear<br> Entonces el sistema debe generar un link que permita a otros visualizar la colección o ítem | EP02 |
+| US06 | Acceso público a colecciones o ítems compartidos. | Como usuario de ambos segmentos objetivos comprador y diseñador, quiero ver el contenido de una colección o ítem compartido, para conocer los elementos de interés. | **Escenario 1: Acceso directo mediante QR.** <br> Dado que el usuario puede escanear un QR o ingresar a un enlace compartido  Cuando carga la página<br> Entonces visualizará la colección. | EP01 |
+| US07 | Visualización de mis colecciones. | Como usuario de ambos segmentos objetivos comprador y diseñador, quiero que mis colecciones se vean de manera ordenada, para encontrar fácilmente lo que necesito. | **Escenario 1:. Menú lateral** <br> Dado que el usuario está en la sección 'Mis Colecciones'<br> Cuando visualice a la izquierda el menú lateral, donde se listan todas sus colecciones<br> Entonces podrá cambiar de una colección a otra en un solo clic mediante un menú intuitivo.<br><br> **Escenario 2: Vista tipo grid.**  <br> Dado que el usuario accede a una colección<br> Cuando visualiza los ítems<br> Entonces puede ver la vista de cuadrícula y ver claramente los detalles principales (imágenes, título, tags). | EP01 |
+| US08 | Visualización de mis items. | Como usuario de ambos segmentos objetivos comprador y diseñador, quiero que los ítems dentro de mis colecciones se vean de manera ordenada y visualmente atractiva, para encontrar fácilmente lo que necesito. | **Escenario 1:. Menú lateral** <br> Dado que el usuario está en una de sus colecciones<br> Cuando visualice a la izquierda el menú lateral, donde se listan todos los items de esa colección<br> Entonces podrá ir a uno de sus ítems en un solo clic mediante un menú intuitivo.<br><br> **Escenario 2: Vista tipo grid.** <br> Dado que el usuario está en un una de sus colecciones<br> Cuando visualiza los ítems<br> Entonces puede ver la vista de cuadrícula y ver claramente los detalles principales (imagen, título, descripción, tags). | EP01 |
+| US09 | Subcarpetas en mis colecciones. | Como usuario de ambos segmentos objetivos comprador y diseñador, quiero crear subcarpetas dentro de mis colecciones, para organizar referencias por proyectos o categorías específicas. | **Escenario 1: Creación de subcarpeta.**<br> Dado que el diseñador se encuentra dentro de una colección específica<br> Cuando el diseñador haga clic en el botón "Nueva subcarpeta"<br> Entonces podrá ingresar un nombre para la subcarpeta y crearla dentro de la colección actual.<br><br>  **Escenario 2: Herencia de permisos.**<br>  Dado que una colección tiene configurados permisos específicos<br> Cuando el diseñador cree una nueva subcarpeta dentro de esa colección<br> Entonces la subcarpeta heredará automáticamente los mismos permisos que la colección principal.	 | EP01 |
+| US10 | Búsqueda semántica. | Como  usuario de ambos segmentos objetivos comprador y diseñador, quiero buscar ítems por palabras clave, tags o tipo de contenido, para encontrar rápidamente lo que necesito. | **Escenario 1\. Búsqueda por tag.**<br> Dado que el usuario está en la barra de busqueda <br> Cuando escribe "\#" y un nombre de un tag en la barra de búsqueda <br> Entonces el sistema muestra todos los ítems etiquetados. <br> **Escenario 2: Búsqueda por keywords.** Dado que el usuario está en la barra de busqueda <br> Cuando escribe el nombre de una colección o ítem a buscar en la barra de búsqueda <br> Entonces el sistema muestra todos los ítems etiquetados. | EP03 |
+| US11 | Diseñar una API de gestión de perfiles. | Como desarrollador, quiero crear endpoints para manejar perfiles de usuarios (compradores/diseñadores). | **Escenario 1:Diferenciación de roles en BD.** <br> Dado que existen distintos tipos de usuarios (compradores y diseñadores) <br> Cuando se registre un nuevo usuario a través del endpoint correspondiente <br> Entonces el sistema deberá almacenar el rol asociado en la base de datos para permitir comportamientos diferenciados <br> <br> **Escenario 2: Validación de campos obligatorios** <br> Dado que un usuario está creando o actualizando su perfil mediante la API <br> Cuando no complete todos los campos obligatorios (como nombre, correo electrónico, rol, etc.) <br> Entonces el sistema deberá rechazar la solicitud y devolver un mensaje de error indicando los campos faltantes | EP04 |
+| US12 | Compartir con permisos granulares. | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero definir quién puede editar o solo ver mis colecciones compartidas, para controlar el acceso. | **Escenario 1: Permisos de lectura**. <br> Dado que el usuario comparte un link <br> Cuando selecciona "Solo lectura" <br> Entonces los usuarios pueden visualizar los ítems, pero no pueden modificarlos. <br> <br> **Escenario 2: Permisos de edición**.  <br>Dado que el usuario comparte un link <br> Cuando selecciona "Solo lectura" <br> Entonces los usuarios no pueden modificar los ítems.	 | EP02 |
+| US13 | Vista previa de colecciones compartidas. | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero ver una miniatura de la colección antes de acceder, para decidir si me interesa. | **Escenario 1: Preview en QR link** <br> Dado que el usuario recibe un link <br> Cuando presiona este link <br> Entonces ve las primeras 4 imágenes de la colección en un modal, junto con el nombre de la colección y quien se la compartió. | EP02 |
+| US14 | Modo oscuro/accesibilidad. | Como  usuario  de ambos segmentos objetivos comprador y diseñador, quiero cambiar el tema de la interfaz a modo oscuro, para mayor comodidad visual. | **Escenario 1: Activación de modo oscuro.**  <br> Dado que el usuario accede a Configuración <br> Cuando selecciona "Modo Oscuro" <br> Entonces la interfaz cambia inmediatamente. | EP06 |
+| US15 | Exportar Colecciones a PDF. | Como diseñador, quiero exportar colecciones como PDF, para presentarlas a clientes.  | **Escenario 1: Exportación exitosa.**  <br>Dado que el usuario está en la sección “Compartir” <br> Cuando el usuario selecciona la opción "Exportar Moodboard" <br> Entonces el archivo se descarga con imágenes y metadatos.  | EP02 |
+| US16 | Eliminar colecciones e ítems. | Como  usuario  de ambos segmentos objetivos comprador y diseñador, quiero eliminar colecciones e ítems que ya no necesito, para mantener mi espacio organizado. | **Escenario 1\. Eliminación con confirmación.** <br> Dado que el comprador está visualizando una de sus colecciones o ítems dentro de la papelera <br> Cuando presione el botón de "Eliminar" <br> Entonces se mostrará un mensaje de confirmación solicitando que confirme la eliminación **Escenario 2\. Eliminación definitiva** Dado que el comprador está visualizando una de sus colecciones o ítems dentro de la papelera <br> Y presionó el botón de "Eliminar" <br> Cuando presione el botón de "Continuar Eliminación" <br> Entonces se borra el item o colección de la base de datos | EP01 |
+| US17 | Etiquetado manual de ítems. | Como  usuario  de ambos segmentos objetivos comprador y diseñador, quiero añadir tags personalizados a mis ítems, para clasificarlos con mis propios criterios. | **Escenario 1: Añadir tags desde el detalle del ítem.**  Dado que el usuario está en la sección de edición de un ítem <br> Cuando escriba o seleccione un tag personalizado <br> Entonces el ítem será categorizado con ese tag <br> <br> **Escenario 2: Búsqueda por tags personalizados.** <br> Dado que el comprador ha etiquetado ítems con tags personalizados <br> Cuando utilice el buscador e ingrese un tag <br> Entonces se mostrarán todos los ítems que contienen ese tag | EP01 |
+| US18 | Desarrollar una API de cruds de colecciones | Como desarrollador quiero diseñar una API que se enfoque en la gestión de las colecciones para obtener información sobre estas. | **Escenario 1: Crear una colección** <br> Dado que el usuario cuenta con un perfil activo en la plataforma <br> Cuando envíe una solicitud a la API para crear una nueva colección con nombre y descripción <br> Entonces la API registrará la colección y devolverá una respuesta con los datos creados <br> <br> **Escenario 2: Editar una colección.** <br> Dado que el usuario desea modificar una colección existente  <br> Cuando envíe una solicitud a la API con los nuevos datos de la colección <br> Entonces la API actualizará la colección correspondiente y devolverá la información actualizada <br> <br> **Escenario 3: Eliminar una colección.** <br> Dado que el usuario ya no necesita una colección <br> Cuando envíe una solicitud a la API para eliminarla <br> Entonces la API marcará la colección como eliminada y dejará de estar disponible para el usuario | EP01 |
+| US19 | Desarrollar una API cruds de ítems. | Como desarrollador quiero diseñar una API que se enfoque en la gestión de ítems  para obtener información sobre estas rápidamente. | **Escenario 1: Guardar un ítem.** <br> Dado que el usuario tiene un ítem que desea almacenar en la plataforma <br> Cuando envíe una solicitud a la API con los datos del ítem <br> Entonces la API registrará el ítem y devolverá una respuesta con los datos guardados <br> <br> **Escenario 2: Eliminar un ítem.** <br> Dado que el usuario ya no desea conservar un ítem en su cuenta <br> Cuando envíe una solicitud a la API para eliminar dicho ítem <br> Entonces la API lo marcará como eliminado y lo retirará de las vistas activas del usuario | EP01 |
+| US20 | Personalización de Ítems | Como  usuario  de ambos segmentos objetivos comprador y diseñador, quiero editar la descripción, tags, imagen, link y título a mis ítems, para tenerlo actualizado. | **Escenario 1:  Editor de descripción.**  <br> Dado que el usuario está en la sección de edición de un ítem <br> Cuando haga algún cambio en el editor de texto de la descripción <br> Y da en el botón de “Guardar Cambios” <br> Entonces la descripción de este ítem cambiará <br> <br> **Escenario 2: Editor de título** <br> Dado que el usuario está en la sección de edición de un ítem <br> Cuando haga algún cambio en el campo del título <br> Y dé clic en el botón de “Guardar Cambios” <br> Entonces el título del ítem será actualizado con el nuevo contenido <br> <br> **Escenario 3: Editor de tags** <br> Dado que el usuario está en la sección de edición de un ítem <br> Cuando agregue, elimine o modifique uno o varios tags <br> Y dé clic en el botón de “Guardar Cambios” <br> Entonces los tags del ítem serán actualizados con los cambios realizados  <br> <br> **Escenario 4: Editor de imagen** <br> Dado que el usuario está en la sección de edición de un ítem <br> Cuando cargue una nueva imagen desde su dispositivo <br> vY dé clic en el botón de “Guardar Cambios” <br> Entonces la imagen actual del ítem será reemplazada por la nueva imagen seleccionada <br> <br> **Escenario 5: Editor de link** <br> Dado que el usuario está en la sección de edición de un ítem <br> Cuando modifique el campo del link o URL asociado al ítem <br> Y dé clic en el botón de “Guardar Cambios” <br> Entonces el link del ítem será actualizado con la nueva URL ingresada <br> | EP01 |
+| US21 | Desarrollar una API que devuelva colecciones o items en base a una query. | Como desarrollador quiero realizar una API que al hacer una query en el buscador devuelve una colección o item relacionada  para obtener información sobre colecciones o ítems específicos. | **Escenario 1: El usuario usa palabras clave.** <br> Dado que el usuario quiere encontrar una colección mediante el buscador <br> Cuando ingrese una palabra clave relacionada con la colección <br> Entonces la API devolverá una lista de colecciones que coincidan con la palabra clave <br> <br> **Escenario 2: El usuario coloca una fecha específica.** <br> Dado que el usuario quiere encontrar colecciones creadas en una fecha determinada <br> Cuando realice una búsqueda utilizando una fecha como filtro <br> Entonces la API devolverá las colecciones creadas en esa fecha | EP03 |
+| US22 | Compartir ítems individuales. | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero compartir un ítem específico, para enviar contenido relevante. | **Escenario 1: Opción "Compartir" en cada ítem.**  <br> Dado que el usuario está visualizando un ítem en la plataforma <br> Cuando se muestre la tarjeta o detalle del ítem <br> Entonces se mostrará un botón u opción de "Compartir" asociada a ese ítem <br> <br> **Escenario 2: Vista previa del ítem en el link.** <br> Dado que el usuario ha recibido un link de una colección compartida <br> Cuando accede al enlace desde su navegador <br> Entonces se mostrará una vista previa del ítem con con el nombre del usuario, nombre del item, etiquetas asociadas y un botón para acceder al ítem. | EP02 |
+| US23 | Límite de acceso temporal	 | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero compartir colecciones e ítems con fecha de expiración para controlar el acceso. | **Escenario 1: Selector de fecha/hora al compartir.**  <br> Dado que el diseñador desea compartir una colección o ítem de forma temporal <br> Cuando el usuario comparta la colección  o ítem <br> Entonces podrá definir una fecha y hora de expiración para limitar el tiempo de acceso del visitante <br> <br> **Escenario 2: Notificación al expirar.** <br> Dado que la colección  o ítem compartido tiene un tiempo de expiración definido <br> Cuando se cumpla el tiempo establecido por el usuario <br> Entonces el recibidor observará una notificación indicando que el acceso ha expirado <br>  | EP02 |
+| US24 | Ver el nombre, logo  y eslogan de la aplicación | Como visitante del segmento objetivo diseñador y comprador, quiero poder visualizar el nombre y eslogan de la aplicación para saber de qué se trata a primera vista | **Escenario 1: Ver logo en header** <br> Dado que el visitante se encuentra en la página del landing page de Keeplo <br> Cuando el visitante mire hacia la parte del header <br> Entonces el visitante podrá visualizar el logo de Keeplo arriba a la izquierda. <br> <br> **Escenario 2: Ver logo y slogan principal** Dado que el visitante se encuentra en la página del landing page de Keeplo <br> Cuando el visitante mire la sección principal <br> Entonces visualizará el logo de Keeplo y su eslogan  | EP05 |
+| US25 | Visualizar principales funciones | Como visitante del segmento objetivo de diseñador y comprador, quiero poder ver las funcionalidades que ofrece la aplicación para saber que beneficios puedo tener | **Escenario 1: Ver funcionalidades de Keeplo** <br> Dado que el visitante accede al landing page de Keeplo <br> Cuando el visitante observa la sección "Qué es Keeplo" desplazándose hacia abajo. <br> Entonces podrá visualizar tarjetas con con descripciones acerca de lo que se ofrece dentro de la aplicación. <br> <br> **Escenario 2: Ver beneficios para diseñadores** <br> Dado que el visitante del segmento objetivo de diseñadores se encuentra en la landing page <br> Cuando el visitante del segmento objetivo de diseñadores baje a la sección de planes <br> Entonces verá los beneficios para los diseñadores. <br> <br> **Escenario 3: Ver beneficios para compradores** <br> Dado que el visitante del segmento objetivo de compradores y se encuentra en la landing page <br> Cuando el visitante del segmento objetivo de compradores baje a la sección de planes <br> Entonces verá los beneficios para los compradores. | EP05 |
+| US26 | Visualizar botón destacado “Empieza ahora” en la sección principal del landing | Como visitante del segmento objetivo de diseñadores y compradores, quiero ver un botón llamativo de “Empieza ahora” en la sección principal para comenzar el proceso de registro sin perder tiempo. | **Escenario 1: Presionar botón empieza ahora** <br> Dado que el visitante se encuentra en la sección principal del landing page  <br> Y ubica el botón con el texto “Empezar ahora” <br> Cuando hace clic en el botón con el texto “Empezar ahora”Entonces será redirigido a la página de registro de la aplicación. | EP05 |
+| US27 | Acceder a la página inicio de sesión desde el botón “Iniciar sesión” | Como visitante del segmento objetivo de diseñadores y compradores, quiero ver un botón llamativo de “Iniciar sesión” en el header para comenzar el proceso de inicio de sesión sin perder tiempo. | **Escenario 1: Presionar botón Iniciar Sesión** <br> Dado que el visitante se encuentra en la sección principal del landing page  <br> Y se dirige al header para clickear el botón con el texto “Iniciar Sesión” <br> Cuando hace clic en el botón con el texto “Iniciar sesión” <br>Entonces será redirigido a la página de inicio de sesión de la aplicación. | EP05 |
+| US28 | Acceder a la página de registro de diseñador a través de botón “Empezar como diseñador” | Como visitante del segmento objetivo de diseñadores, quiero poder registrarme rápidamente como un diseñador para comenzar el proceso de registro sin perder tiempo.   | **Escenario 1: Presionar botón “Empezar como diseñador”** <br> Dado que el visitante se encuentra en la sección de planes <br> Y ubica el botón “Empezar como diseñador” <br> Cuando hace clic en el botón “Empezar como diseñador”. <br> Entonces será redirigido a la página de registro como diseñador de la aplicación | EP05 |
+| US29 | Acceder a la página de registro de comprador a través de botón “Empezar como comprador” | Como visitante del segmento objetivo de comprador, quiero poder registrarme rápidamente como un comprador para comenzar el proceso de registro sin perder tiempo. | **Escenario 1: Presionar botón “Empezar como comprador”** <br> Dado que el visitante se encuentra en la sección de precios y tarifas Y ubica el botón “Empezar como comprador” <br> Cuando hace clic en el botón “Empezar como comprador”. <br> Entonces será redirigido a la página de registro como comprador de la aplicación | EP05 |
+| US30 | Registrar Cuenta | Como visitante del segmento objetivo diseñador y comprador, quiero registrarme usando mi correo para poder acceder a las funcionalidades de la plataforma.  | **Escenario 1: Registro con correo** <br> Dado que el visitante selecciona la opción "Registrarse" <br> Cuando ingresa su correo electrónico y los datos solicitados <br> Entonces el sistema registrará su cuenta y le permitirá iniciar sesión  | EP04 |
+| US31 | Cambiar tema de colores del fondo de las colecciones | Como visitante del segmento objetivo diseñador y comprador, quiero personalizar los colores principales de mis colecciones, para que coincida con mi identidad visual.  | **Escenario 1:** **Selección de paleta** <br> Dado que el diseñador está en la pestaña de edición de las colecciones <br> Cuando haga clic en alguna de las opciones de colores de colección <br> Entonces el color del fondo de la colección se cambiará <br> <br> **Escenario 2:** **Guardar selección de paleta** <br> Dado que el diseñador está en la pestaña de edición de las colecciones <br> Y da clic en alguna de las opciones de colores de colección <br> Cuando haga clic al botón de guardar Entonces el color del fondo de la colección se guardará |  EP01 |
+| US32 | Restaurar colecciones eliminadas.  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero recuperar colecciones borradas accidentalmente desde una papelera, para evitar pérdidas accidentales de información.  | **Escenario 1: Recuperar colección** <br> Dado que el usuario accede a la "Papelera" <br> Cuando selecciona una colección y hace clic en "Restaurar" <br> Entonces la colección volverá a su ubicación original. | EP01 |
+| US33 | Actualizar foto de perfil  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero cambiar mi foto de perfil para personalizar mi cuenta  | **Escenario 1: Subir nueva imagen** <br> Dado que el usuario accede a "Mi Perfil" \> "Editar" <br> Cuando selecciona "Cambiar foto" y sube una imagen desde su dispositivo <br> Entonces la nueva foto se mostrará en su perfil y colecciones compartidas.  | EP06 |
+| US34 | Modificar información personal (nombre, correo, etc.)  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero editar mis datos personales para mantener mi cuenta actualizada.  | **Escenario 1: Actualizar correo electrónico** Dado que el usuario está en "Configuración" \> "Datos personales" <br> Cuando edita su correo electrónico y hace clic en "Guardar" <br> Entonces el sistema enviará un email de confirmación y actualizará la información. | EP06 |
+| US35 | Cambiar contraseña.  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero actualizar mi contraseña para proteger mi cuenta.  | **Escenario 1: Contraseña actualizada** <br> Dado que el usuario ingresa las opciones de su perfil y clickea el botón de “Cambiar Contraseña” <br> Cuando introduce su contraseña actual y la nueva contraseña (dos veces) <br> Entonces el sistema validará que coincidan y aplicará el cambio al confirmar. | EP06 |
+| US36 | Acceder a planes de suscripción premium  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero explorar los beneficios y precios del plan premium para decidir si actualizo mi cuenta.  | **Escenario 1: Ver planes disponibles** Dado que el usuario ha iniciado sesión <br> Cuando navega a "Planes"  <br> Entonces verá una comparativa de planes (Free / Plus / Infinito) con precios y beneficios destacados.  <br> <br> **Escenario 2: Seleccionar Plan Plus** <br> Dado que el usuario está en la página de suscripción <br> Cuando hace clic en el botón "Mejorar ahora" en uno de los planes <br> Y da en el botón pagar <br> Entonces se redirigirá a un formulario seguro para ingresar sus datos de pago.  <br> <br> **Escenario 2: Seleccionar Plan Infinito** <br> Dado que ha rellenado el formulario seguro para ingresar sus datos de pago <br> Y da en el botón pagar <br> Cuando la aplicación confirma el pago <br> Entonces la cuenta del usuario cambiará y se le brindaran los beneficios del plan  | EP05 |
+| US37 | Actualizar tarjeta de crédito asociada.  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero modificar los datos de mi tarjeta de crédito para asegurar que los pagos mensuales no fallen.  | **Escenario 1: Cambiar tarjeta activa**<br> Dado que el usuario accede a su perfil<br> Cuando selecciona "Editar información de  tarjeta" e ingresa los nuevos datos<br> Entonces el sistema validará la tarjeta y mostrará un mensaje de confirmación: "¡Tarjeta actualizada correctamente\!". <br><br> **Escenario 2: Error en datos de tarjeta**<br> Dado que el usuario ingresa un número de tarjeta inválido<br> Cuando intenta guardar los cambios<br> Entonces el sistema mostrará: "Verifica los datos de tu tarjeta e inténtalo nuevamente". | EP06 |
+| US38 | Encriptación de colecciones compartidas. | Como usuario  del segmento objetivo desarrollador, quiero encriptar los datos de mis colecciones compartidas para asegurar que la información se comparta de manera segura y sin riesgos de acceso no autorizado. | **Escenario 1: El usuario desea compartir una colección mediante un enlace.**<br> Dado que el usuario desea compartir una colección<br> Cuando selecciona la opción para generar un enlace  <br> Entonces el sistema encriptará la colección y proporcionará el enlace para compartir de forma segura <br><br> **Escenario 2: El usuario desea compartir una colección mediante un codigo QR.**<br> Dado que el usuario desea compartir una colección <br> Cuando selecciona la opción para generar un código QR <br> Entonces el sistema encriptará la colección y proporcionará el QR para compartir de forma segura  | EP02 |
+| US39 | Encriptación de ítems compartidos. | Como usuario  del segmento objetivo desarrollador, quiero encriptar los datos de mis items compartidos para asegurar que la información se comparta de manera segura y sin riegos de acceso no autorizado. | **Escenario 1: El usuario desea compartir un ítem mediante un enlace.**<br> Dado que el usuario desea compartir un ítem <br> Cuando selecciona la opción para generar un enlace  <br> Entonces el sistema encriptará el ítem y proporcionará el enlace para compartir de forma segura <br><br> **Escenario 2: El usuario desea compartir un ítem mediante un código QR.**<br> Dado que el usuario desea compartir un ítem <br> Cuando selecciona la opción para generar  un código QR <br> Entonces el sistema encriptará el ítem y proporcionará el QR para compartir de forma segura  | EP02 |
+| US40 | Iniciar sesión en cuenta. | Como usuario  de ambos segmentos objetivos comprador y diseñador quiero iniciar sesión con mi usuario y contraseña para acceder a mi cuenta. | **Escenario 1: El usuario desea iniciar sesión.**<br> Dado que el usuario se encuentra en la pantalla de inicio de sesión <br> Cuando introduce su nombre de usuario o correo y su contraseña <br> Entonces el sistema valida las credenciales y, si son correctas, inicia sesión automáticamente en la cuenta del usuario | EP04 |
+| US41 | Navigation Bar | Como visitante del segmento objetivo diseñador y comprador quiero acceder a la barra de navegación para moverse rápidamente a cualquier sección de la página. | **Escenario 1: Ver la barra de navegación en la parte superior** <br> Dado que el visitante está en la landing page <br> Cuando hace clic en el enlace de navegación <br> Entonces el visitante será redirigido a la sección correspondiente de la misma página. | EP05 |
+| US42 | Seccion Hero | Como visitante del segmento objetivo diseñador y comprador quiero ver un mensaje llamativo y claro al entrar, para entender de inmediato el propósito de Keeplo. | **Escenario 1: Visualizar la sección hero al ingresar al sitio** <br> Dado que el visitante entra por primera vez a la landing page <br> Cuando la página carga completamente <br> Entonces el visitante verá un mensaje principal con título, descripción y botón de acción. | EP05 |
+| US43 | Seccion Estadisticas | Como visitante del segmento objetivo diseñador y comprador quiero ver estadísticas clave del uso de Keeplo para confiar más en el producto. | **Escenario 1: Consultar estadísticas del uso del servicio** <br> Dado que el visitante está navegando en la landing page <br> Cuando se desplaza hasta la sección de estadísticas <br> Entonces verá contadores con datos estadisticos del uso de Keeplo. | EP05 |
+| US44 | Sección Ofrecemos | Como visitante del segmento objetivo diseñador y comprador quiero conocer qué funcionalidades ofrece Keeplo para evaluar si cubre mis necesidades. | **Escenario 1: Ver los beneficios de Keeplo** <br> Dado que el visitante está en la landing page <br> Cuando llega a la sección de Que Ofrecemos <br> Entonces visualizará los principales beneficios y herramientas que ofrece la aplicación. | EP05 |
+| US45 | Sección Planes | Como visitante del segmento objetivo diseñador y comprador quiero comparar los planes disponibles para decidir si debo suscribirme | **Escenario 1: Comparar planes y precios** <br> Dado que el visitante navega hasta la sección de planes <br> Cuando visualiza las opciones disponibles <br> Entonces verá los precios, características y botones de suscripción de cada plan. | EP05 |
+| US46 | Sección Porque Nosotros | Como visitante del segmento objetivo diseñador y comprador quiero saber por qué debería elegir Keeplo sobre otras opciones para tomar una decisión informada. | **Escenario 1: Conocer los diferenciales de Keeplo** <br> Dado que el visitante está en la landing page <br> Y llega a la sección “Por qué nosotros” <br> Cuando lee el contenido de esa sección <br> Entonces comprenderá las ventajas y razones por las que Keeplo es una buena elección. | EP05 |
+| US47 | Footer | Como visitante del segmento objetivo diseñador y comprador quiero ver información útil en el footer de la página para acceder rápidamente a redes sociales. | **Escenario 1: Consultar información desde el footer** <br> Dado que el visitante está en la parte inferior de la página <br> Cuando visualiza el footer <br> Entonces encontrará enlaces a redes sociales <br> | EP05 |
+| US48 | Cambio de lenguaje a ingles y español | Como visitante del segmento objetivo diseñador y comprador quiero cambiar el idioma del sitio entre inglés y español para entender mejor el contenido. | **Escenario 1: Visualizar en idioma de navegador de inglés o español** <br> Dado que el visitante tiene el idioma de su navegador configurado a ingles o espanol <br> Cuando entra a la landing page <br> Entonces todo el contenido del sitio se mostrará en el idioma del navegador. <br> <br> **Escenario 2: Visualizar en idioma de navegador de otro idioma** <br> Dado que el visitante tiene el idioma de su navegador configurado a uno que no es ingles o espanol <br> Cuando entra a la landing page <br> Entonces todo el contenido del sitio se mostrará en el idioma inglés por defecto. <br> <br> **Escenario 3: Cambiar el idioma del sitio** <br> Dado que el visitante se encuentra en la landing page <br> Cuando selecciona el botón “EN” o “ES” de la parte inferior derecha <br> Entonces todo el contenido del sitio se mostrará en el idioma elegido. | EP05 |
+| US49 | Atributos Aria | Como visitante del segmento objetivo diseñador y comprador con discapacidad quiero que el sitio sea accesible para navegarlo con lectores de pantalla. | **Escenario 1: Usar atributos ARIA para accesibilidad** <br> Dado que el visitante navega con un lector de pantalla <br> Cuando interactúa con los elementos de la interfaz <br> Entonces el lector de pantalla describirá correctamente los elementos gracias a los atributos ARIA. <br> | EP05 |
+
 ## **3.3. Impact Mapping**
 
 **Diseñadores:**
@@ -745,59 +740,58 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 
 
 ## 3.4. Product Backlog
+
 | \# Orden | User Story Id	 | Titulo | Descripción | Story Points (1 / 2 / 3 / 5 / 8\) |
 | :---- | :---- | :---- | :---- | :---- |
-| 1 | US01 | Crear colecciones | Permitir crear colecciones con nombre/descripción. | 3 |
-| 2 | US02 | Añadir ítems | Agregar ítems a colecciones. | 3 |
-| 3 | US20 | API crud de colecciones. | Endpoints para gestionar colecciones. | 5 |
-| 4 | US21 | API crud de ítems. | Endpoints para gestionar ítems. | 5 |
-| 5 | US32 | Registrar cuenta. | Registro con correo. | 3 |
-| 6 | US42 | Iniciar sesión. | Login con usuario y contraseña. | 2 |
-| 7 | US04 | Compartir via QR. | Generar un QR para compartir colecciones. | 3 |
-| 8 | US05 | Compartir via link. | Generar un link para compartir colecciones. | 2 |
-| 9 | US40 | Encriptar colecciones. | Asegurar datos compartidos. | 5 |
-| 10 | US06 | Acceso público. | Ver colecciones sin login. | 3 |
-| 11 | US26 | Logo y eslogan. | Mostrar identidad de la app. | 1 |
-| 12 | US28 | Botón “Empieza ahora”. | Llamada a acción en la landing. | 1 |
-| 13 | US16 | Sincronización multiplataforma. | Acceso desde cualquier dispositivo. | 8 |
-| 14 | US13 | Compartir con permisos granulares	 | Controlar quién puede ver o editar las colecciones.  | 5 |
-| 15 | US24	 | Compartir ítems individuales	 | Compartir ítems específicos, no toda la colección.  | 3 |
-| 16 | US19 | Etiquetado manual de ítems	 | Añadir tags personalizados a ítems.  | 2 |
-| 17 | US07 | Navegación entre mis colecciones	 | Cambiar entre colecciones fácilmente desde el dashboard.  | 3 |
-| 18 | US35	 | Actualizar foto de perfil	 | Cambiar la imagen del perfil del usuario.  | 2 |
-| 19 | US10 | Subcarpetas en mis colecciones	 | Crear subniveles dentro de una colección.  | 5 |
-| 20 | US09	 | Visualización tipo lista	 | Ver ítems en lista con detalles clave.  | 2 |
-| 21 | US36	 | Modificar información personal	 | Editar nombre, correo, teléfono, etc.  | 3 |
-| 22 | US27 | Visualizar principales funciones	 | Mostrar lo que hace la app desde el landing page.  | 2 |
-| 23 | US37 | Cambiar contraseña	 | Actualizar contraseña desde la configuración.  | 2 |
-| 24 | US03	 | Editar ítems existentes	 | Modificar detalles de ítems guardados.  | 2 |
-| 25 | US08 | Visualización tipo grid	 | Ver ítems en una cuadrícula con imágenes y texto.  | 3 |
-| 26 | US29	 | Botón “Iniciar sesión” en landing	 | Acceder a login desde el header.  | 1 |
-| 27 | US31 | Botón “Empezar como comprador”	 | Registro rápido como comprador.  | 2 |
-| 28 | US33 | Cambiar tema de colores	 | Personalizar fondo de colecciones.  | 3 |
-| 29 | US11	 | Búsqueda semántica	 | Buscar ítems por palabra clave, tag o tipo de contenido.  | 5 |
-| 30 | US34	 | Restaurar colecciones eliminadas	 | Recuperar colecciones desde la papelera.  | 3 |
-| 31 | US23	 | API búsqueda por query	 | Obtener colecciones según filtros (texto, fecha).  | 5 |
-| 32 | US14 | Vista previa de colecciones compartidas	 | Ver miniatura antes de acceder a una colección compartida.  | 3 |
-| 33 | US39	 | Actualizar tarjeta de crédito	 | Cambiar datos de pago para suscripción.  | 3 |
-| 34 | US38	 | Acceder al plan de suscripción premium	 | Ver precios y beneficios, y suscribirse.  | 5 |
-| 35 | US50 | Cambio de lenguaje a inglés/español	 | Alternar entre idiomas desde el sitio.  | 5 |
-| 36 | US46	 | Sección Ofrecemos	 | Beneficios clave de la app en la landing.  | 2 |
-| 37 | US44 | Sección Hero	 | Mensaje principal llamativo al entrar al sitio.  | 2 |
-| 38 | US47 | Sección Planes	 | Comparar precios y beneficios.  | 3 |
-| 39 | US43	 | Navigation Bar	 | Barra de navegación para moverse por el sitio.  | 3 |
-| 40 | US15	 | Modo oscuro/accesibilidad	 | Cambiar tema y ajustar texto para mejor lectura.  | 3 |
-| 41 | US41 | Encriptación de ítems compartidos	 | Proteger ítems compartidos con QR o link.  | 5 |
-| 42 | US25 | Límite de acceso temporal	 | Compartir colecciones que expiren en cierto tiempo.  | 5 |
-| 43 | US12 | API gestión de perfiles	 | Endpoints para crear/editar perfiles y diferenciar roles.  | 5 |
-| 44 | US22	 | Descripción de ítems	 | Agregar texto descriptivo a cada ítem.  | 2 |
-| 45 | US48 | Sección Porque Nosotros	 | Mostrar ventajas de Keeplo sobre otras opciones.  | 2 |
-| 46 | US30 | Botón “Empezar como diseñador”	 | Registro directo como diseñador.  | 2 |
-| 47 | US45 | Sección Estadísticas	 | Mostrar datos clave de uso de la plataforma.  | 5 |
-| 48 | US51 | Atributos Aria	 | Accesibilidad para usuarios con lectores de pantalla.  | 5 |
-| 49 | US17 | Exportar Colecciones a PDF	 | Descargar colecciones como documento PDF.  | 5 |
-| 50 | US49 | Footer	 | Pie de página con info y enlaces útiles.  | 2 |
-| 51 | US18 | Eliminar colecciones	 | Eliminar colecciones con opción de recuperación.	 | 3 |
+| 1 | US01 | Crear colecciones personalizadas. | Permitir crear colecciones con nombre/descripción. | 3 |
+| 2 | US02 | Añadir ítems a una colección.  | Agregar ítems a colecciones. | 3 |
+| 3 | US18 | Desarrollar una API de cruds de colecciones | Endpoints para gestionar colecciones. | 5 |
+| 4 | US19 | Desarrollar una API cruds de ítems.  | Endpoints para gestionar ítems. | 5 |
+| 5 | US30 | Registrar cuenta. | Registro con correo. | 3 |
+| 6 | US40 | Iniciar sesión en cuenta.  | Login con usuario y contraseña. | 2 |
+| 7 | US04 | Compartir colección o ítem mediante código QR | Generar un QR para compartir colecciones. | 3 |
+| 8 | US05 | Compartir colección o ítem mediante link | Generar un link para compartir colecciones. | 2 |
+| 9 | US37 | Encriptación de colecciones compartidas | Asegurar datos compartidos. | 5 |
+| 10 | US24 | Ver el nombre, logo  y eslogan de la aplicación | Mostrar identidad de la app. | 1 |
+| 11 | US26 | Botón “Empieza ahora”. | Llamada a acción en la landing. | 1 |
+| 12 | US12 | Compartir con permisos granulares	 | Controlar quién puede ver o editar las colecciones.  | 5 |
+| 13 | US22	 | Compartir ítems individuales	 | Compartir ítems específicos, no toda la colección.  | 3 |
+| 14 | US17 | Etiquetado manual de ítems	 | Añadir tags personalizados a ítems.  | 2 |
+| 15 | US07 | Visualización de mis colecciones | Cambiar entre colecciones fácilmente desde el dashboard.  | 3 |
+| 16 | US35	 | Actualizar foto de perfil	 | Cambiar la imagen del perfil del usuario.  | 2 |
+| 17 | US09 | Subcarpetas en mis colecciones	 | Crear subniveles dentro de una colección.  | 5 |
+| 18 | US08	 | Visualización de mis items. | Ver ítems.  | 2 |
+| 19 | US34	 | Modificar información personal	 | Editar nombre, correo, teléfono, etc.  | 3 |
+| 20 | US25 | Visualizar principales funciones	 | Mostrar lo que hace la app desde el landing page.  | 2 |
+| 21 | US35 | Cambiar contraseña	 | Actualizar contraseña desde la configuración.  | 2 |
+| 22 | US20	 | Personalización de Ítems 	 | Modificar detalles de ítems guardados.  | 2 |
+| 23 | US27	 | Botón “Iniciar sesión” en landing	 | Acceder a login desde el header de landing page.  | 1 |
+| 24 | US29 | Botón “Empezar como comprador”	 | Registro rápido como comprador.  | 2 |
+| 25 | US31 | Cambiar tema de colores	 | Personalizar fondo de colecciones.  | 3 |
+| 26 | US10	 | Búsqueda semántica	 | Buscar ítems por palabra clave, tag o tipo de contenido.  | 5 |
+| 27 | US32	 | Restaurar colecciones eliminadas	 | Recuperar colecciones desde la papelera.  | 3 |
+| 28 | US21	 | API búsqueda por query	 | Obtener colecciones según filtros (texto, tags).  | 5 |
+| 29 | US13 | Vista previa de colecciones compartidas	 | Ver miniatura antes de acceder a una colección compartida.  | 3 |
+| 30 | US36	 | Actualizar tarjeta de crédito	 | Cambiar datos de pago para suscripción.  | 3 |
+| 31 | US36	 | Acceder a planes de suscripción premium	 | Ver precios y beneficios, y suscribirse.  | 5 |
+| 32 | US48 | Cambio de lenguaje a inglés/español	 | Alternar entre idiomas desde el sitio de landing.  | 5 |
+| 33 | US44	 | Sección Ofrecemos	 | Beneficios clave de la app en la landing.  | 2 |
+| 34 | US42 | Sección Hero	 | Mensaje principal llamativo al entrar al sitio.  | 2 |
+| 35 | US45 | Sección Planes	 | Comparar precios y beneficios.  | 3 |
+| 36 | US41	 | Navigation Bar	 | Barra de navegación para moverse por el sitio.  | 3 |
+| 37 | US14	 | Modo oscuro/accesibilidad	 | Cambiar tema y ajustar texto para mejor lectura.  | 3 |
+| 38 | US39 | Encriptación de ítems compartidos	 | Proteger ítems compartidos con QR o link.  | 5 |
+| 39 | US23 | Límite de acceso temporal	 | Compartir colecciones que expiren en cierto tiempo.  | 5 |
+| 40 | US11 | API gestión de perfiles	 | Endpoints para crear/editar perfiles y diferenciar roles.  | 5 |
+| 41 | US46 | Sección Porque Nosotros	 | Mostrar ventajas de Keeplo sobre otras opciones.  | 2 |
+| 42 | US28 | Botón “Empezar como diseñador”	 | Registro directo como diseñador.  | 2 |
+| 43 | US43 | Sección Estadísticas	 | Mostrar datos clave de uso de la plataforma.  | 5 |
+| 44 | US49 | Atributos Aria	 | Accesibilidad para usuarios con lectores de pantalla.  | 5 |
+| 45 | US15 | Exportar Colecciones a PDF	 | Descargar colecciones como documento PDF.  | 5 |
+| 46 | US47 | Footer	 | Pie de página con info y enlaces útiles.  | 2 |
+| 47 | US16 | Eliminar colecciones	 | Eliminar colecciones con opción de recuperación.	 | 3 |
+| 48 | US06 | Acceso público a colecciones o ítems compartidos. | Acceso a items o colecciones compartidas por un usuario | 3 |
+| 49 | US33 | Actualizar foto de perfil  | Actualizar la foto de perfil del usuario | 3 |
 
 # Capítulo IV: Product Design
 
@@ -805,8 +799,8 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 ### 4.1.1. General Style Guidelines
 Los “Style Guidelines” se refieren al conjunto de reglas y parámetros que se debe seguir al desarrollar una plataforma a través de todas sus pantallas
 #### 4.1.1.1  Colores
-![Paleta de colores en fondo claro de Keeplio](/assets/keeplo-styles/Colores%20Claro.png)
-![Paleta de colores en fondo oscuro de Keeplio](/assets/keeplo-styles/Colores%20Oscuro.png)
+![Paleta de colores en fondo claro de Keeplio](assets/keeplo-styles/Colores%20Claro.png)
+![Paleta de colores en fondo oscuro de Keeplio](assets/keeplo-styles/Colores%20Oscuro.png)
 
 Para el desarrollo de “Keeplo” elegimos cuidadosamente los colores que nos representarían puesto que éstos crearían la paleta principal de colores que nuestro usuario visualizará al ingresar a la plataforma. Tomando esto en cuenta optamos por una paleta conformada por colores amarillos y naranjas. La eleccion de los colores fue importante puesto que cada color transmitia un sentimiento hacia el usuario, por ejemplo, decidimos elegir el amarillo pues este transmite una serenidad y alegria a nuestra solucion, logrando que sea mas amigable a la vista. Por otro lado, otro color que se presenta bastante dentro de nuestra solución es el naranja puesto que este refleja el entusiasmo, confianza y creatividad.
 
@@ -816,16 +810,16 @@ Para el desarrollo de “Keeplo” elegimos cuidadosamente los colores que nos r
 La fuente que estamos empleando para el texto es Overpass. Esta cuenta con un aspecto limpio y medianamente curvo, logrando una interfaz estética al usuario mientras mantiene la profesionalidad del sitio. Asimismo, consideramos que su diseño amigable hace que los usuarios estén más dispuestos a leer lo que se encuentra dentro de la página. Para lograr un diseño organizado y fácil de distinguir, haremos ajustes al tamaño y grosor del texto.
 
 ##### 4.1.1.2.1 Escala  
-<img src="/assets/keeplo-styles/Font%20Style%201.png" width="400"/>
+<img src="assets/keeplo-styles/Font%20Style%201.png" width="400"/>
 
 ##### 4.1.1.2.2 Weights  
-<img src="/assets/keeplo-styles/Font%20Style%202.png" width="400"/>
+<img src="assets/keeplo-styles/Font%20Style%202.png" width="400"/>
 
 ##### 4.1.1.2.3 Nomenclatura  
-<img src="/assets/keeplo-styles/Font%20Style%203.png" width="400"/>
+<img src="assets/keeplo-styles/Font%20Style%203.png" width="400"/>
 
 ##### 4.1.1.2.4 Ejemplos  
-<img src="/assets/keeplo-styles/Font%20Style%204.png" width="400"/>
+<img src="assets/keeplo-styles/Font%20Style%204.png" width="400"/>
 
 #### 4.1.1.3 Branding
     
@@ -835,51 +829,51 @@ Para el logo que representará a la plataforma optamos por utilizar sus caracter
 Para asegurar que nuestro logo sea visible desde cualquier situación con su nombre incluimos una versión con fondo claro y oscuro. De forma que podamos asegurar que el logotipo iba a generar un buen contraste y visibilidad independientemente de la base.
 
 ##### 4.1.1.3.1 Claro
-<img src="/assets/keeplo-styles/Logo.png" width="400"/>
-<img src="/assets/keeplo-styles/Logo-2.png" width="400"/>
+<img src="assets/keeplo-styles/Logo.png" width="400"/>
+<img src="assets/keeplo-styles/Logo-2.png" width="400"/>
 
 ##### 4.1.1.3.2 Oscuro:
-<img src="/assets/keeplo-styles/Logo-1.png" width="400"/>
-<img src="/assets/keeplo-styles/Logo-3.png" width="400"/>
+<img src="assets/keeplo-styles/Logo-1.png" width="400"/>
+<img src="assets/keeplo-styles/Logo-3.png" width="400"/>
 
 ### 4.1.2 Web Style Guidelines
 
 Para el desarrollo del diseño web hemos optado por usar la misma paleta de colores puesto que una buena consistencia dentro de los colores es algo que nos representa y logra que el usuario pueda ver una continuidad entre las pantallas. Por otro lado, y siguiendo el concepto de consistencia visual, usaremos bordes redondeados, todos con 10px, para poder lograr un estilo más amigable a la vista. En cuanto al texto, estaremos usando diferentes tamaños de letra y restricciones de entrada de caracteres, variaciones de colores con el fin de evitar cualquier sobrecarga de pantalla por texto y por último aseguraremos que nuestras pantallas cuenten con un descanso visual adecuado, logrando que los diferentes elementos que se encuentren sean fáciles de entender.
 
 #### 4.1.2.1 Paleta de colores
-<img src="/assets/keeplo-styles/Colores%20Claro.png" width="400"/>
-<img src="/assets/keeplo-styles/Colores%20Oscuro.png" width="400"/>
+<img src="assets/keeplo-styles/Colores%20Claro.png" width="400"/>
+<img src="assets/keeplo-styles/Colores%20Oscuro.png" width="400"/>
 
 #### 4.1.2.1 Estilos de letra
 
 ##### 4.1.2.1.1 Headings
-<img src="/assets/keeplo-styles/Headings.png" width="400"/>
+<img src="assets/keeplo-styles/Headings.png" width="400"/>
 
 ##### 4.1.2.1.2 Body Text
-<img src="/assets/keeplo-styles/BodyText.png" width="400"/>
+<img src="assets/keeplo-styles/BodyText.png" width="400"/>
 
 ##### 4.1.2.1.3 Captions
-<img src="/assets/keeplo-styles/Captions.png" width="400"/>
+<img src="assets/keeplo-styles/Captions.png" width="400"/>
 
 ##### 4.1.2.1.4 Forms
-<img src="/assets/keeplo-styles/BodyText-1.png" width="400"/>
+<img src="assets/keeplo-styles/BodyText-1.png" width="400"/>
 
 ##### 4.1.2.1.5 Buttons
-<img src="/assets/keeplo-styles/Botones.png" width="400"/>
+<img src="assets/keeplo-styles/Botones.png" width="400"/>
 
 #### 4.1.2.2 Botones
-<img src="/assets/keeplo-styles/Botones%20-%20Asset%20Funcionales.png" width="800"/>
+<img src="assets/keeplo-styles/Botones%20-%20Asset%20Funcionales.png" width="800"/>
 
 #### 4.1.2.3 Caja de texto
 
-<img src="/assets/keeplo-styles/Cajas%20de%20Texto%20Blanco.png" width="400"/>
-<img src="/assets/keeplo-styles/Cajas%20de%20Texto%20Oscuro.png" width="400"/>
+<img src="assets/keeplo-styles/Cajas%20de%20Texto%20Blanco.png" width="400"/>
+<img src="assets/keeplo-styles/Cajas%20de%20Texto%20Oscuro.png" width="400"/>
 
 #### 4.1.2.4  Ventanas desplegables: 
-<img src="/assets/keeplo-styles/Ventana%20Desplegable.png" width="400"/>
+<img src="assets/keeplo-styles/Ventana%20Desplegable.png" width="400"/>
 
 #### 4.1.2.5  Ventanas Emergentes
-<img src="/assets/keeplo-styles/Ventana%20Emergente%20Claro.png" width="800"/>
+<img src="assets/keeplo-styles/Ventana%20Emergente%20Claro.png" width="800"/>
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
@@ -938,76 +932,76 @@ El sistema de búsqueda presente en el diseño se basa en una única barra de b�
 ### 4.3.1. Landing Page Wireframe
 **Mobile:**
 
-<img src="/assets/landingpageWireMockUp/Wireframe%20Landing%20PageLandingPage.png" height="1000"/>
+<img src="assets/landingpageWireMockUp/Wireframe%20Landing%20PageLandingPage.png" height="1000"/>
 
 **Desktop:**
 
-<img src="/assets/landingpageWireMockUp/WireFrame%20Landing%20PageLandingPage(1).png" height="1000"/>
+<img src="assets/landingpageWireMockUp/WireFrame%20Landing%20PageLandingPage(1).png" height="1000"/>
 
 ### 4.3.2. Landing Page Mock-up
 **Mobile:**
 
-<img src="/assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage-1.png" height="1000"/>
+<img src="assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage-1.png" height="1000"/>
 
 Link a landing page: [Figma Landing Page](https://www.figma.com/design/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=662-263&t=pMqV3oN4AieCUZ1h-1)
 
 **Desktop:**
 
-<img src="/assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage.png" height="1000"/>
+<img src="assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage.png" height="1000"/>
 
 ## 4.4. Web Applications UX/UI Design
 
-<img src="/assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage.png" height="1000"/>
+<img src="assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage.png" height="1000"/>
 
 ### 4.4.1. Web Applications Wireframes
 
-<img src="/assets/webappwireframe/Dashboard%20-%20Colecction%20EditWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/Dashboard%20-%20ItemWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/Dashboard%20-%20Items%20-%20EmptyWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/Dashboard%20-%20ItemsWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/Dashboard%20-%20product%20pageWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/DashboardWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/Edit%20profileWebApplicationWireFrame-1.png" width="500"/>
-<img src="/assets/webappwireframe/Edit%20profileWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/Link%20generatedWebApplicationWireFrame-1.png" width="500"/>
-<img src="/assets/webappwireframe/Link%20generatedWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame-1.png" width="500"/>
-<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame-2.png" width="500"/>
-<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame-3.png" width="500"/>
-<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame-4.png" width="500"/>
-<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/QR%20generatedWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/TarifasWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/Dashboard%20-%20Colecction%20EditWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/Dashboard%20-%20ItemWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/Dashboard%20-%20Items%20-%20EmptyWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/Dashboard%20-%20ItemsWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/Dashboard%20-%20product%20pageWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/DashboardWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/Edit%20profileWebApplicationWireFrame-1.png" width="500"/>
+<img src="assets/webappwireframe/Edit%20profileWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/Link%20generatedWebApplicationWireFrame-1.png" width="500"/>
+<img src="assets/webappwireframe/Link%20generatedWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/PerfilWebApplicationWireFrame-1.png" width="500"/>
+<img src="assets/webappwireframe/PerfilWebApplicationWireFrame-2.png" width="500"/>
+<img src="assets/webappwireframe/PerfilWebApplicationWireFrame-3.png" width="500"/>
+<img src="assets/webappwireframe/PerfilWebApplicationWireFrame-4.png" width="500"/>
+<img src="assets/webappwireframe/PerfilWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/QR%20generatedWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/TarifasWebApplicationWireFrame.png" width="500"/>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-<img src="/assets/KeeploWireFlow/Añadir%20y%20Editar%20Colecciones%20.png" width="800"/>
-<img src="/assets/KeeploWireFlow/Añadir%20y%20editar%20un%20ítem.png" width="800"/>
-<img src="/assets/KeeploWireFlow/Compartir%20contenido.png" width="800"/>
-<img src="/assets/KeeploWireFlow/Editar%20Perfil%20y%20Contraseña.png" width="800"/>
-<img src="/assets/KeeploWireFlow/Ingresar%20-%20Editar%20Información%20de%20pago.png" width="800"/>
-<img src="/assets/KeeploWireFlow/Ingresar%20a%20papelera.png" width="800"/>
-<img src="/assets/KeeploWireFlow/Registro%20e%20Inicio%20de%20sesión.png" width="800"/>
+<img src="assets/KeeploWireFlow/Añadir%20y%20Editar%20Colecciones%20.png" width="800"/>
+<img src="assets/KeeploWireFlow/Añadir%20y%20editar%20un%20ítem.png" width="800"/>
+<img src="assets/KeeploWireFlow/Compartir%20contenido.png" width="800"/>
+<img src="assets/KeeploWireFlow/Editar%20Perfil%20y%20Contraseña.png" width="800"/>
+<img src="assets/KeeploWireFlow/Ingresar%20-%20Editar%20Información%20de%20pago.png" width="800"/>
+<img src="assets/KeeploWireFlow/Ingresar%20a%20papelera.png" width="800"/>
+<img src="assets/KeeploWireFlow/Registro%20e%20Inicio%20de%20sesión.png" width="800"/>
 
 ### 4.4.3. Web Applications Mock-ups
 
-<img src="/assets/webappmockup/Dashboard%20-%20Colecction%20EditWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/Dashboard%20-%20ItemWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/Dashboard%20-%20Items%20-%20EmptyWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/Dashboard%20-%20ItemsWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/Dashboard%20-%20product%20pageWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/DashboardWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/Edit%20profileWebApplicationMock-Up-1.png" width="500"/>
-<img src="/assets/webappmockup/Edit%20profileWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/Link%20generatedWebApplicationMock-Up-1.png" width="500"/>
-<img src="/assets/webappmockup/Link%20generatedWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/PerfilWebApplicationMock-Up-1.png" width="500"/>
-<img src="/assets/webappmockup/PerfilWebApplicationMock-Up-2.png" width="500"/>
-<img src="/assets/webappmockup/PerfilWebApplicationMock-Up-3.png" width="500"/>
-<img src="/assets/webappmockup/PerfilWebApplicationMock-Up-4.png" width="500"/>
-<img src="/assets/webappmockup/PerfilWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/QR%20generatedWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/TarifasWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/Dashboard%20-%20Colecction%20EditWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/Dashboard%20-%20ItemWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/Dashboard%20-%20Items%20-%20EmptyWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/Dashboard%20-%20ItemsWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/Dashboard%20-%20product%20pageWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/DashboardWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/Edit%20profileWebApplicationMock-Up-1.png" width="500"/>
+<img src="assets/webappmockup/Edit%20profileWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/Link%20generatedWebApplicationMock-Up-1.png" width="500"/>
+<img src="assets/webappmockup/Link%20generatedWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/PerfilWebApplicationMock-Up-1.png" width="500"/>
+<img src="assets/webappmockup/PerfilWebApplicationMock-Up-2.png" width="500"/>
+<img src="assets/webappmockup/PerfilWebApplicationMock-Up-3.png" width="500"/>
+<img src="assets/webappmockup/PerfilWebApplicationMock-Up-4.png" width="500"/>
+<img src="assets/webappmockup/PerfilWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/QR%20generatedWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/TarifasWebApplicationMock-Up.png" width="500"/>
 
 Link a Web Application: [Figma Web Application](https://www.figma.com/design/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=82-1755&t=pMqV3oN4AieCUZ1h-1)
 
@@ -1024,7 +1018,7 @@ Link Miro: https://miro.com/welcomeonboard/aXRqaHNteXl2dlUrQTVWQ2VYSnZYc0FjblY1M
 
 
 ## 4.5. Web Applications Prototyping
-![Figma prototype screenshor](/assets/PrototypeFigma.png)
+![Figma prototype screenshor](assets/PrototypeFigma.png)
 
 [Link a prototipo de Figma](https://www.figma.com/proto/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=135-228&t=4qndhMek0CzRLY0i-1&scaling=min-zoom&content-scaling=fixed&page-id=13%3A501&starting-point-node-id=58%3A23&show-proto-sidebar=1)
 ## 4.6. Domain-Driven Software Architecture
@@ -1404,72 +1398,28 @@ https://1asi0729-2510-4289-g3-keepteam.github.io/landing-page/
 **7. Verificación del despliegue**
 Se accedió al enlace generado para confirmar que la Landing Page se visualizaba correctamente y sin errores.
 
-![image](https://github.com/user-attachments/assets/1a5262c0-3dfd-4417-8a71-50cc95dcafc9)
+![image](https://github.com/user-attachmentsassets/1a5262c0-3dfd-4417-8a71-50cc95dcafc9)
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1
-<table>
-  <tr>
-    <th colspan="2">Sprint #</th>
-    <th colspan="1">Sprint 1</th>
-  </tr>
 
- <tr>
-    <td colspan="3"><strong>Sprint Planning Background</strong></td>
-  </tr>
-<tr>
-  
-<tr>
-    <td colspan="2"><strong>Date</strong></td>
-    <td>20/04/2025</td>
-  </tr>
-<tr>
-    <td colspan="2"><strong>Time</strong></td>
-    <td>8:00 PM</td>
-  </tr>
-<tr>
-    <td colspan="2"><strong>Location</strong></td>
-    <td>Discord</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Prepared by:</strong></td>
-    <td>George Aliaga</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Attendees(to planning meeting)</strong></td>
-    <td>George Aliaga, Gabriel Sanchez, Bryan Martinez, Luis Rojas, Maria Muñoz</td>
-  </tr>
- <tr>
-    <td colspan="2"><strong>Sprint 1-1 Retrospective Summary</strong></td>
-    <td>- Buena coordinación del equipo a través de Discord <br> 
-    - Mejor organización en la creación de carpetas para evitar conflictos al clonar el repositorio
-    </td>
-  </tr>
-<tr>
-    <td colspan="2"><strong>Sprint 1-1 Review Summary</strong></td>
-    <td>Se completó el diseño y desarrollo inicial de la landing page de Keeplo</td>
-  </tr>
-<tr>
-    <th colspan="3">Sprint Goal & User Stories</th>
-  </tr>
-<tr>
-    <td colspan="2"><strong>Sprint 1 Goal</strong></td>
-    <td>Desarrollar una landing page innovadora e informativa para la aplicación Keeplo</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Sprint 1 Velocity</strong></td>
-    <td>39</td>
-  </tr>
- <tr>
-    <td colspan="2"><strong>Sum of Story Points</strong></td>
-    <td>39</td>
-  </tr>
-<tr>
-</table>
-
+| Sprint #                         | 1 |
+|:---------------------------------| :---- |
+| **Sprint Planning Background**   |  |
+| Date                             | 20/04/2025 |
+| Time                             | 8:00 PM |
+| Location                         | Llamada mediante Discord |
+| Prepared by                      | George Aliaga |
+| Attendees(to planning meeting)   | George Aliaga, Gabriel Sanchez, Bryan Martinez, Luis Rojas, Maria Muñoz |
+| Sprint 1-1 Review Summary        |   |
+| Sprint 1-1 Retrospective Summary |   |
+| **Sprint Goal & User Stories**   |  |
+| Sprint 1 Goal                    | Desarrollar una landing page innovadora e informativa para la aplicación Keeplo |
+| Sprint 1 Velocity                |   |
+| Sum of Story Points              |   |
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
@@ -1485,7 +1435,7 @@ Se accedió al enlace generado para confirmar que la Landing Page se visualizaba
 
 #### 5.2.1.3. Sprint Backlog 1
 
-El sprint Backlog 1 se enfocara en el desarrollo de las funcionalidades de Keeplo, la corrección de error y mejoras para la Landing Page, es fundamental que el equipo tome en cuenta la prioridad de la tarea para asegurar el éxito de nuestro proyecto
+El sprint Backlog 1 se enfocará en el desarrollo de las funcionalidades de Keeplo, la corrección de error y mejoras para la Landing Page, es fundamental que el equipo tome en cuenta la prioridad de la tarea para asegurar el éxito de nuestro proyecto
 
 ![Sprint Backlog](assets/SprintBacklog/TrelloKeeploF.png)
 
