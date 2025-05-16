@@ -1490,6 +1490,7 @@ Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta 
 - GitHub: Plataforma esencial para organizar el trabajo de grupo, donde gestionamos y almacenamos todas las versiones que se fueron presentando en el proyecto, así aseguramos un control correcto de los cambios.
 - GitHub Pages: lo utilizamos para el despliegue de la landing page de forma rápida y sencilla, permitiendo que la aplicación esté disponible públicamente desde un repositorio de GitHub.
 
+[link a landing page desplegada:](https://1asi0729-2510-4289-g3-keepteam.github.io/landing-page/) https://1asi0729-2510-4289-g3-keepteam.github.io/landing-page/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -1648,6 +1649,9 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 
 ## Landing Page
 - [Landing Page desplegada](https://1asi0729-2510-4289-g3-keepteam.github.io/landing-page/)
+
+## Web Application
+- [Aplicación Web desplegada](https://delightful-glacier-04ad1371e.6.azurestaticapps.net)
 
 ---
 
