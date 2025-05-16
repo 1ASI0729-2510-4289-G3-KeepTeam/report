@@ -54,7 +54,7 @@
 
 # Project Report Collaboration Insights
 
-
+![insight report](assets/insight-report.png)
 
 # Contenido
 
