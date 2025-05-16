@@ -1610,6 +1610,8 @@ Para el despliegue de nuestra aplicación web decidimos utilizar los servicios d
 | Maria Elena Muñoz Machuca     | Implementación de perfil y planes                 |
 | Gabriel Sanchez Gonzales      | Implementación de colecciones e ítems             |
 
+![imagen insights github frontend](assets/sprint-2/insights/1.png)
+![imagen insights github frontend](assets/sprint-2/insights/2.png)
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 | Team Member (Last Name, First Name) | GitHub Username | Visualización de colecciones  Leader(L)/Colaborador(C) | Editar colecciones | Compartir items de colecciones | Autenticacion y registro de usuarios | Editar los perfiles de usuarios |
