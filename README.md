@@ -167,7 +167,7 @@ Keeplo no solo ayuda a las personas a tener un espacio centralizado para sus int
 #### 1.1.2.1 Sanchez Gonzales
 Soy estudiante en la Universidad Peruana de Ciencias Aplicadas (UPC) cursando el 5to ciclo de la carrera de Ingeniería de Software. Soy una persona comprometida con mi desarrollo académico y profesional. Con esa responsabilidad, aspiro a proveer soluciones tecnológicas a aquellos que las requieran para facilitar su área de trabajo. Junto con mi equipo de trabajo tendré la oportunidad de poner mis conocimientos y habilidades en uso con el proyecto “Keeplo” con el fin de disminuir la problemática identificada.
 
-<img src="/assets/profiles/sanchezgonzales-foto.png" alt="foto de perfil de integrante" width=200>
+<img src="assets/profiles/sanchezgonzales-foto.png" alt="foto de perfil de integrante" width=200>
 
 #### 1.1.2.2 Aliaga Pimentel George Arturo
 Soy estudiante en la Universidad Peruana de Ciencias Aplicadas y soy de la carrera de Ingeniería de Software. Me considero una persona cooperativa y responsable, lo cual es requerido para un proyecto grupal. Junto a mis compañeros de grupo espero desarrollar un buen proyecto con las tecnologías que se aprenderán dentro del curso
@@ -177,12 +177,12 @@ Soy estudiante en la Universidad Peruana de Ciencias Aplicadas y soy de la carre
 #### 1.1.2.3 Martinez Ramos Bryan Felix
 Soy estudiante de la la Universidad Peruana de Ciencias aplicadas, UPC, de la carrera de ingeniería de Software, actualmente estoy en el quinto ciclo de carrera, soy una persona muy proactiva, además de colaborativa, soy responsable con los trabajos y tiempos de entrega durante los proyectos, me emociona mucho el curso y la realización de manera exitosa del proyecto Keeplo
 
-<img src="/assets/profiles/BryanFoto.png" alt="foto perfil bryan" width=200>
+<img src="assets/profiles/BryanFoto.png" alt="foto perfil bryan" width=200>
 
 #### 1.1.2.4 Muñoz Machuca Maria Elena
 Soy estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC) y soy de la carrera de Ingeniería de Software cursando el quinto ciclo de la carrera. Me considero una persona responsable, ya que me gusta cumplir con las tareas encargadas. Asimismo, me considero perseverante, lo cual es importante para ir mejorando en cada entrega de nuestro proyecto. Junto a mis compañeros espero poder realizar nuestro proyecto con éxito.
 
-<img src="https://github.com/user-attachments/assets/36de2f24-fa41-44db-a416-798d06945f5c"  width=200>
+<img src="https://github.com/user-attachmentsassets/36de2f24-fa41-44db-a416-798d06945f5c"  width=200>
 
 
 #### 1.1.2.4 Rojas Piñero Luis Miguel
@@ -783,8 +783,8 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 ### 4.1.1. General Style Guidelines
 Los “Style Guidelines” se refieren al conjunto de reglas y parámetros que se debe seguir al desarrollar una plataforma a través de todas sus pantallas
 #### 4.1.1.1  Colores
-![Paleta de colores en fondo claro de Keeplio](/assets/keeplo-styles/Colores%20Claro.png)
-![Paleta de colores en fondo oscuro de Keeplio](/assets/keeplo-styles/Colores%20Oscuro.png)
+![Paleta de colores en fondo claro de Keeplio](assets/keeplo-styles/Colores%20Claro.png)
+![Paleta de colores en fondo oscuro de Keeplio](assets/keeplo-styles/Colores%20Oscuro.png)
 
 Para el desarrollo de “Keeplo” elegimos cuidadosamente los colores que nos representarían puesto que éstos crearían la paleta principal de colores que nuestro usuario visualizará al ingresar a la plataforma. Tomando esto en cuenta optamos por una paleta conformada por colores amarillos y naranjas. La eleccion de los colores fue importante puesto que cada color transmitia un sentimiento hacia el usuario, por ejemplo, decidimos elegir el amarillo pues este transmite una serenidad y alegria a nuestra solucion, logrando que sea mas amigable a la vista. Por otro lado, otro color que se presenta bastante dentro de nuestra solución es el naranja puesto que este refleja el entusiasmo, confianza y creatividad.
 
@@ -794,16 +794,16 @@ Para el desarrollo de “Keeplo” elegimos cuidadosamente los colores que nos r
 La fuente que estamos empleando para el texto es Overpass. Esta cuenta con un aspecto limpio y medianamente curvo, logrando una interfaz estética al usuario mientras mantiene la profesionalidad del sitio. Asimismo, consideramos que su diseño amigable hace que los usuarios estén más dispuestos a leer lo que se encuentra dentro de la página. Para lograr un diseño organizado y fácil de distinguir, haremos ajustes al tamaño y grosor del texto.
 
 ##### 4.1.1.2.1 Escala  
-<img src="/assets/keeplo-styles/Font%20Style%201.png" width="400"/>
+<img src="assets/keeplo-styles/Font%20Style%201.png" width="400"/>
 
 ##### 4.1.1.2.2 Weights  
-<img src="/assets/keeplo-styles/Font%20Style%202.png" width="400"/>
+<img src="assets/keeplo-styles/Font%20Style%202.png" width="400"/>
 
 ##### 4.1.1.2.3 Nomenclatura  
-<img src="/assets/keeplo-styles/Font%20Style%203.png" width="400"/>
+<img src="assets/keeplo-styles/Font%20Style%203.png" width="400"/>
 
 ##### 4.1.1.2.4 Ejemplos  
-<img src="/assets/keeplo-styles/Font%20Style%204.png" width="400"/>
+<img src="assets/keeplo-styles/Font%20Style%204.png" width="400"/>
 
 #### 4.1.1.3 Branding
     
@@ -813,51 +813,51 @@ Para el logo que representará a la plataforma optamos por utilizar sus caracter
 Para asegurar que nuestro logo sea visible desde cualquier situación con su nombre incluimos una versión con fondo claro y oscuro. De forma que podamos asegurar que el logotipo iba a generar un buen contraste y visibilidad independientemente de la base.
 
 ##### 4.1.1.3.1 Claro
-<img src="/assets/keeplo-styles/Logo.png" width="400"/>
-<img src="/assets/keeplo-styles/Logo-2.png" width="400"/>
+<img src="assets/keeplo-styles/Logo.png" width="400"/>
+<img src="assets/keeplo-styles/Logo-2.png" width="400"/>
 
 ##### 4.1.1.3.2 Oscuro:
-<img src="/assets/keeplo-styles/Logo-1.png" width="400"/>
-<img src="/assets/keeplo-styles/Logo-3.png" width="400"/>
+<img src="assets/keeplo-styles/Logo-1.png" width="400"/>
+<img src="assets/keeplo-styles/Logo-3.png" width="400"/>
 
 ### 4.1.2 Web Style Guidelines
 
 Para el desarrollo del diseño web hemos optado por usar la misma paleta de colores puesto que una buena consistencia dentro de los colores es algo que nos representa y logra que el usuario pueda ver una continuidad entre las pantallas. Por otro lado, y siguiendo el concepto de consistencia visual, usaremos bordes redondeados, todos con 10px, para poder lograr un estilo más amigable a la vista. En cuanto al texto, estaremos usando diferentes tamaños de letra y restricciones de entrada de caracteres, variaciones de colores con el fin de evitar cualquier sobrecarga de pantalla por texto y por último aseguraremos que nuestras pantallas cuenten con un descanso visual adecuado, logrando que los diferentes elementos que se encuentren sean fáciles de entender.
 
 #### 4.1.2.1 Paleta de colores
-<img src="/assets/keeplo-styles/Colores%20Claro.png" width="400"/>
-<img src="/assets/keeplo-styles/Colores%20Oscuro.png" width="400"/>
+<img src="assets/keeplo-styles/Colores%20Claro.png" width="400"/>
+<img src="assets/keeplo-styles/Colores%20Oscuro.png" width="400"/>
 
 #### 4.1.2.1 Estilos de letra
 
 ##### 4.1.2.1.1 Headings
-<img src="/assets/keeplo-styles/Headings.png" width="400"/>
+<img src="assets/keeplo-styles/Headings.png" width="400"/>
 
 ##### 4.1.2.1.2 Body Text
-<img src="/assets/keeplo-styles/BodyText.png" width="400"/>
+<img src="assets/keeplo-styles/BodyText.png" width="400"/>
 
 ##### 4.1.2.1.3 Captions
-<img src="/assets/keeplo-styles/Captions.png" width="400"/>
+<img src="assets/keeplo-styles/Captions.png" width="400"/>
 
 ##### 4.1.2.1.4 Forms
-<img src="/assets/keeplo-styles/BodyText-1.png" width="400"/>
+<img src="assets/keeplo-styles/BodyText-1.png" width="400"/>
 
 ##### 4.1.2.1.5 Buttons
-<img src="/assets/keeplo-styles/Botones.png" width="400"/>
+<img src="assets/keeplo-styles/Botones.png" width="400"/>
 
 #### 4.1.2.2 Botones
-<img src="/assets/keeplo-styles/Botones%20-%20Asset%20Funcionales.png" width="800"/>
+<img src="assets/keeplo-styles/Botones%20-%20Asset%20Funcionales.png" width="800"/>
 
 #### 4.1.2.3 Caja de texto
 
-<img src="/assets/keeplo-styles/Cajas%20de%20Texto%20Blanco.png" width="400"/>
-<img src="/assets/keeplo-styles/Cajas%20de%20Texto%20Oscuro.png" width="400"/>
+<img src="assets/keeplo-styles/Cajas%20de%20Texto%20Blanco.png" width="400"/>
+<img src="assets/keeplo-styles/Cajas%20de%20Texto%20Oscuro.png" width="400"/>
 
 #### 4.1.2.4  Ventanas desplegables: 
-<img src="/assets/keeplo-styles/Ventana%20Desplegable.png" width="400"/>
+<img src="assets/keeplo-styles/Ventana%20Desplegable.png" width="400"/>
 
 #### 4.1.2.5  Ventanas Emergentes
-<img src="/assets/keeplo-styles/Ventana%20Emergente%20Claro.png" width="800"/>
+<img src="assets/keeplo-styles/Ventana%20Emergente%20Claro.png" width="800"/>
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
@@ -916,76 +916,76 @@ El sistema de búsqueda presente en el diseño se basa en una única barra de b�
 ### 4.3.1. Landing Page Wireframe
 **Mobile:**
 
-<img src="/assets/landingpageWireMockUp/Wireframe%20Landing%20PageLandingPage.png" height="1000"/>
+<img src="assets/landingpageWireMockUp/Wireframe%20Landing%20PageLandingPage.png" height="1000"/>
 
 **Desktop:**
 
-<img src="/assets/landingpageWireMockUp/WireFrame%20Landing%20PageLandingPage(1).png" height="1000"/>
+<img src="assets/landingpageWireMockUp/WireFrame%20Landing%20PageLandingPage(1).png" height="1000"/>
 
 ### 4.3.2. Landing Page Mock-up
 **Mobile:**
 
-<img src="/assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage-1.png" height="1000"/>
+<img src="assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage-1.png" height="1000"/>
 
 Link a landing page: [Figma Landing Page](https://www.figma.com/design/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=662-263&t=pMqV3oN4AieCUZ1h-1)
 
 **Desktop:**
 
-<img src="/assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage.png" height="1000"/>
+<img src="assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage.png" height="1000"/>
 
 ## 4.4. Web Applications UX/UI Design
 
-<img src="/assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage.png" height="1000"/>
+<img src="assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage.png" height="1000"/>
 
 ### 4.4.1. Web Applications Wireframes
 
-<img src="/assets/webappwireframe/Dashboard%20-%20Colecction%20EditWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/Dashboard%20-%20ItemWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/Dashboard%20-%20Items%20-%20EmptyWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/Dashboard%20-%20ItemsWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/Dashboard%20-%20product%20pageWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/DashboardWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/Edit%20profileWebApplicationWireFrame-1.png" width="500"/>
-<img src="/assets/webappwireframe/Edit%20profileWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/Link%20generatedWebApplicationWireFrame-1.png" width="500"/>
-<img src="/assets/webappwireframe/Link%20generatedWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame-1.png" width="500"/>
-<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame-2.png" width="500"/>
-<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame-3.png" width="500"/>
-<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame-4.png" width="500"/>
-<img src="/assets/webappwireframe/PerfilWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/QR%20generatedWebApplicationWireFrame.png" width="500"/>
-<img src="/assets/webappwireframe/TarifasWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/Dashboard%20-%20Colecction%20EditWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/Dashboard%20-%20ItemWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/Dashboard%20-%20Items%20-%20EmptyWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/Dashboard%20-%20ItemsWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/Dashboard%20-%20product%20pageWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/DashboardWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/Edit%20profileWebApplicationWireFrame-1.png" width="500"/>
+<img src="assets/webappwireframe/Edit%20profileWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/Link%20generatedWebApplicationWireFrame-1.png" width="500"/>
+<img src="assets/webappwireframe/Link%20generatedWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/PerfilWebApplicationWireFrame-1.png" width="500"/>
+<img src="assets/webappwireframe/PerfilWebApplicationWireFrame-2.png" width="500"/>
+<img src="assets/webappwireframe/PerfilWebApplicationWireFrame-3.png" width="500"/>
+<img src="assets/webappwireframe/PerfilWebApplicationWireFrame-4.png" width="500"/>
+<img src="assets/webappwireframe/PerfilWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/QR%20generatedWebApplicationWireFrame.png" width="500"/>
+<img src="assets/webappwireframe/TarifasWebApplicationWireFrame.png" width="500"/>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-<img src="/assets/KeeploWireFlow/Añadir%20y%20Editar%20Colecciones%20.png" width="800"/>
-<img src="/assets/KeeploWireFlow/Añadir%20y%20editar%20un%20ítem.png" width="800"/>
-<img src="/assets/KeeploWireFlow/Compartir%20contenido.png" width="800"/>
-<img src="/assets/KeeploWireFlow/Editar%20Perfil%20y%20Contraseña.png" width="800"/>
-<img src="/assets/KeeploWireFlow/Ingresar%20-%20Editar%20Información%20de%20pago.png" width="800"/>
-<img src="/assets/KeeploWireFlow/Ingresar%20a%20papelera.png" width="800"/>
-<img src="/assets/KeeploWireFlow/Registro%20e%20Inicio%20de%20sesión.png" width="800"/>
+<img src="assets/KeeploWireFlow/Añadir%20y%20Editar%20Colecciones%20.png" width="800"/>
+<img src="assets/KeeploWireFlow/Añadir%20y%20editar%20un%20ítem.png" width="800"/>
+<img src="assets/KeeploWireFlow/Compartir%20contenido.png" width="800"/>
+<img src="assets/KeeploWireFlow/Editar%20Perfil%20y%20Contraseña.png" width="800"/>
+<img src="assets/KeeploWireFlow/Ingresar%20-%20Editar%20Información%20de%20pago.png" width="800"/>
+<img src="assets/KeeploWireFlow/Ingresar%20a%20papelera.png" width="800"/>
+<img src="assets/KeeploWireFlow/Registro%20e%20Inicio%20de%20sesión.png" width="800"/>
 
 ### 4.4.3. Web Applications Mock-ups
 
-<img src="/assets/webappmockup/Dashboard%20-%20Colecction%20EditWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/Dashboard%20-%20ItemWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/Dashboard%20-%20Items%20-%20EmptyWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/Dashboard%20-%20ItemsWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/Dashboard%20-%20product%20pageWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/DashboardWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/Edit%20profileWebApplicationMock-Up-1.png" width="500"/>
-<img src="/assets/webappmockup/Edit%20profileWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/Link%20generatedWebApplicationMock-Up-1.png" width="500"/>
-<img src="/assets/webappmockup/Link%20generatedWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/PerfilWebApplicationMock-Up-1.png" width="500"/>
-<img src="/assets/webappmockup/PerfilWebApplicationMock-Up-2.png" width="500"/>
-<img src="/assets/webappmockup/PerfilWebApplicationMock-Up-3.png" width="500"/>
-<img src="/assets/webappmockup/PerfilWebApplicationMock-Up-4.png" width="500"/>
-<img src="/assets/webappmockup/PerfilWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/QR%20generatedWebApplicationMock-Up.png" width="500"/>
-<img src="/assets/webappmockup/TarifasWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/Dashboard%20-%20Colecction%20EditWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/Dashboard%20-%20ItemWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/Dashboard%20-%20Items%20-%20EmptyWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/Dashboard%20-%20ItemsWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/Dashboard%20-%20product%20pageWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/DashboardWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/Edit%20profileWebApplicationMock-Up-1.png" width="500"/>
+<img src="assets/webappmockup/Edit%20profileWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/Link%20generatedWebApplicationMock-Up-1.png" width="500"/>
+<img src="assets/webappmockup/Link%20generatedWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/PerfilWebApplicationMock-Up-1.png" width="500"/>
+<img src="assets/webappmockup/PerfilWebApplicationMock-Up-2.png" width="500"/>
+<img src="assets/webappmockup/PerfilWebApplicationMock-Up-3.png" width="500"/>
+<img src="assets/webappmockup/PerfilWebApplicationMock-Up-4.png" width="500"/>
+<img src="assets/webappmockup/PerfilWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/QR%20generatedWebApplicationMock-Up.png" width="500"/>
+<img src="assets/webappmockup/TarifasWebApplicationMock-Up.png" width="500"/>
 
 Link a Web Application: [Figma Web Application](https://www.figma.com/design/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=82-1755&t=pMqV3oN4AieCUZ1h-1)
 
@@ -1002,7 +1002,7 @@ Link Miro: https://miro.com/welcomeonboard/aXRqaHNteXl2dlUrQTVWQ2VYSnZYc0FjblY1M
 
 
 ## 4.5. Web Applications Prototyping
-![Figma prototype screenshor](/assets/PrototypeFigma.png)
+![Figma prototype screenshor](assets/PrototypeFigma.png)
 
 [Link a prototipo de Figma](https://www.figma.com/proto/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=135-228&t=4qndhMek0CzRLY0i-1&scaling=min-zoom&content-scaling=fixed&page-id=13%3A501&starting-point-node-id=58%3A23&show-proto-sidebar=1)
 ## 4.6. Domain-Driven Software Architecture
@@ -1155,7 +1155,7 @@ Link a C4: [Link a Structurizer](https://structurizr.com/share/87207/5b87183f-b1
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-![Keeplo-v2](https://github.com/user-attachments/assets/1a3513f6-47e1-4c19-ad60-fe502474afce)
+![Keeplo-v2](https://github.com/user-attachmentsassets/1a3513f6-47e1-4c19-ad60-fe502474afce)
 
 [Enlace del diagrama de base de datos ](https://my.vertabelo.com/doc/lah8xd68anzS3iGZAssm1kXuLByWPuqi )
 
@@ -1384,7 +1384,7 @@ https://1asi0729-2510-4289-g3-keepteam.github.io/landing-page/
 **7. Verificación del despliegue**
 Se accedió al enlace generado para confirmar que la Landing Page se visualizaba correctamente y sin errores.
 
-![image](https://github.com/user-attachments/assets/1a5262c0-3dfd-4417-8a71-50cc95dcafc9)
+![image](https://github.com/user-attachmentsassets/1a5262c0-3dfd-4417-8a71-50cc95dcafc9)
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
