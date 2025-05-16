@@ -1537,6 +1537,66 @@ Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta 
 <img src="assets/insights/sprint-1/1.png" width=600 alt="insights screenshot of sprint 1">
 <img src="assets/insights/sprint-1/2.png" width=600 alt="insights screenshot of sprint 1">
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+<table>
+  <tr>
+    <th colspan="2">Sprint #2</th>
+    <th colspan="1">Sprint 2</th>
+  </tr>
+
+ <tr>
+    <td colspan="3"><strong>Sprint Planning Background</strong></td>
+  </tr>
+<tr>
+
+<tr>
+    <td colspan="2"><strong>Date</strong></td>
+    <td>9/05/2025</td>
+  </tr>
+<tr>
+    <td colspan="2"><strong>Time</strong></td>
+    <td>8:00 PM</td>
+  </tr>
+<tr>
+    <td colspan="2"><strong>Location</strong></td>
+    <td>Discord</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Prepared by:</strong></td>
+    <td>Gabriel Sanchez</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Attendees(to planning meeting)</strong></td>
+    <td>George Aliaga, Gabriel Sanchez y Maria Muñoz</td>
+  </tr>
+ <tr>
+    <td colspan="2"><strong>Sprint 2-2 Retrospective Summary</strong></td>
+    <td>Buena organización y coordinación del equipo mediante Discord y WhatsApp 
+          Buena organización de carpetas en el repositorio para evitar conflictos al hacer merge</td>
+  </tr>
+<tr>
+    <td colspan="2"><strong>Sprint 2-2 Review Summary</strong></td>
+    <td>Se completó el diseño y desarrollo del frontend de Keeplo </td>
+  </tr>
+<tr>
+    <th colspan="3">Sprint Goal & User Stories</th>
+  </tr>
+<tr>
+    <td colspan="2"><strong>Sprint 2 Goal</strong></td>
+    <td>Corregir errores de la landing page e implementar el frontend de la aplicación Keeplo</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint 2 Velocity</strong></td>
+    <td>40</td>
+  </tr>
+ <tr>
+    <td colspan="2"><strong>Sum of Story Points</strong></td>
+    <td>40</td>
+  </tr>
+<tr>
+</table>
+
 
 # 6. Conclusiones
 
