@@ -1391,64 +1391,22 @@ Se accedió al enlace generado para confirmar que la Landing Page se visualizaba
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1
-<table>
-  <tr>
-    <th colspan="2">Sprint #</th>
-    <th colspan="1">Sprint 1</th>
-  </tr>
 
- <tr>
-    <td colspan="3"><strong>Sprint Planning Background</strong></td>
-  </tr>
-<tr>
-  
-<tr>
-    <td colspan="2"><strong>Date</strong></td>
-    <td>20/04/2025</td>
-  </tr>
-<tr>
-    <td colspan="2"><strong>Time</strong></td>
-    <td>8:00 PM</td>
-  </tr>
-<tr>
-    <td colspan="2"><strong>Location</strong></td>
-    <td>Discord</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Prepared by:</strong></td>
-    <td>George Aliaga</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Attendees(to planning meeting)</strong></td>
-    <td>George Aliaga, Gabriel Sanchez, Bryan Martinez, Luis Rojas, Maria Muñoz</td>
-  </tr>
- <tr>
-    <td colspan="2"><strong>Sprint 1-1 Retrospective Summary</strong></td>
-    <td>- Buena coordinación del equipo a través de Discord <br> 
-    - Mejor organización en la creación de carpetas para evitar conflictos al clonar el repositorio
-    </td>
-  </tr>
-<tr>
-    <td colspan="2"><strong>Sprint 1-1 Review Summary</strong></td>
-    <td>Se completó el diseño y desarrollo inicial de la landing page de Keeplo</td>
-  </tr>
-<tr>
-    <th colspan="3">Sprint Goal & User Stories</th>
-  </tr>
-<tr>
-    <td colspan="2"><strong>Sprint 1 Goal</strong></td>
-    <td>Desarrollar una landing page innovadora e informativa para la aplicación Keeplo</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Sprint 1 Velocity</strong></td>
-    <td>39</td>
-  </tr>
- <tr>
-    <td colspan="2"><strong>Sum of Story Points</strong></td>
-    <td>39</td>
-  </tr>
-<tr>
-</table>
+| Sprint #                         | 1                                                                                                                                                       |
+|:---------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**   |                                                                                                                                                         |
+| Date                             | 20/04/2025                                                                                                                                              |
+| Time                             | 8:00 PM                                                                                                                                                 |
+| Location                         | Llamada mediante Discord                                                                                                                                |
+| Prepared by                      | George Aliaga                                                                                                                                           |
+| Attendees(to planning meeting)   | George Aliaga, Gabriel Sanchez, Bryan Martinez, Luis Rojas, Maria Muñoz                                                                                 |
+| Sprint 1-1 Review Summary        | Se completó el diseño y desarrollo inicial de la landing page de Keeplo                                                                                 |
+| Sprint 1-1 Retrospective Summary | - Buena coordinación del equipo a través de Discord <br>- Mejor organización en la creación de carpetas para evitar conflictos al clonar el repositorio |
+| **Sprint Goal & User Stories**   |                                                                                                                                                         |
+| Sprint 1 Goal                    | Desarrollar una landing page innovadora e informativa para la aplicación Keeplo                                                                         |
+| Sprint 1 Velocity                | 39                                                                                                                                                      |
+| Sum of Story Points              | 39                                                                                                                                                      |
+
 
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
@@ -1555,7 +1513,37 @@ Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta 
 
 #### 5.2.2.3. Sprint Backlog 2
 
+##### El sprint Backlog 2 se enfocará en el desarrollo de las funcionalidades de Keeplo a través de las vistas clave para las funcionalidades de la Web Application, y mejoras para la Landing Page.
+
+<img src="assets/sprint-2/trello.png" width=600 alt="sprint 2 screenshot of trello">
+ 
+Link a Sprint Backlog 2: https://trello.com/invite/b/6816bf1524e8bf4e292c6d52/ATTIa28ec7b2c9cc95da1e4c84ad135ee6ebCF4B9B6B/sprint-2
+
+| Sprint \# | Sprint 2 |  |  |  |  |  |  |
+| ----- | ----- | ----- | ----- | ----- | :---: | ----- | :---: |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| US07 | Visualización de mis colecciones. | US07-1 | Implementación de la funcionalidad de visualización de colecciones | Como usuario de ambos segmentos objetivos comprador y diseñador, quiero que mis colecciones se vean de manera ordenada, para encontrar fácilmente lo que necesito. | 8 | Sanchez, Aliaga | Done |
+| US08 | Visualización de mis items. | US08-1 | Implementación de la funcionalidad de visualización de ítems | Como usuario de ambos segmentos objetivos comprador y diseñador, quiero que los ítems dentro de mis colecciones se vean de manera ordenada y visualmente atractiva, para encontrar fácilmente lo que necesito. | 8 | Sanchez, Aliaga | Done |
+| US16 | Eliminar colecciones. | US16-1 | Implementación de la funcionalidad para eliminar colecciones | Como  usuario  de ambos segmentos objetivos comprador y diseñador, quiero eliminar colecciones e ítems que ya no necesito, para mantener mi espacio organizado. | 6 | Sanchez | Done |
+| US17 | Etiquetado manual de ítems. | US17-1 | Implementación de la funcionalidad de etiquetado manual de ítems | Como  usuario  de ambos segmentos objetivos comprador y diseñador, quiero añadir tags personalizados a mis ítems, para clasificarlos con mis propios criterios. | 6 | Sanchez | Done |
+| US18 | Desarrollar una API de cruds de colecciones | US18-1 |  Desarrollo de la API para CRUD de colecciones  | Como desarrollador quiero diseñar una API que se enfoque en la gestión de las colecciones para obtener información sobre estas rápidamente. | 4 | Sanchez | Done |
+| US19 | Desarrollar una API cruds de ítems. | US19-1 | Desarrollo de la API para CRUD de ítems | Como desarrollador quiero diseñar una API que se enfoque en la gestión de ítems  para obtener información sobre estas rápidamente. | 4 | Sanchez | Done |
+| US20 | Personalización de Ítems | US20-1 | Implementación de la funcionalidad de personalización de ítems | Como  usuario  de ambos segmentos objetivos comprador y diseñador, quiero editar la descripción, tags, imagen, link y título a mis ítems, para tenerlo actualizado. | 6 | Sanchez | Done |
+| US31 | Cambiar tema de colores del fondo de las colecciones | US31-1 |  Implementación de cambio de tema de fondo en colecciones  | Como visitante del segmento objetivo diseñador y comprador, quiero personalizar los colores principales de mis colecciones, para que coincida con mi identidad visual. | 4 | Muñoz | Done |
+| US30 | Registrar Cuenta | US30-1 | Implementación de la funcionalidad de registro de cuenta | Como visitante, quiero registrarme usando mi correo para poder acceder a las funcionalidades de la plataforma.  | 4 | Rojas | Done |
+| US40 | Iniciar sesión en cuenta. | US40-1 |  Implementación de la funcionalidad de inicio de sesión  | Como usuario  de ambos segmentos objetivos comprador y diseñador quiero iniciar sesión con mi usuario y contraseña para acceder a mi cuenta.  | 4 | Muñoz | Done |
+| US34 | Modificar información personal (nombre, correo, etc.)  | US34-1 | Implementación de la funcionalidad para modificar datos personales | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero editar mis datos personales para mantener mi cuenta actualizada. | 4 | Muñoz | Done |
+| US35 | Cambiar contraseña.  | US35-1 | Implementación de la funcionalidad para cambiar contraseña | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero actualizar mi contraseña para proteger mi cuenta. | 4 | Muñoz | Done |
+| US37 | Acceder a planes de suscripción premium  | US37-1 | Implementación de acceso al plan de suscripción premium | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero explorar los beneficios y precios del plan premium para decidir si actualizo mi cuenta.  | 4 | Muñoz | Done |
+| US22 | Compartir ítems individuales. | US22-1  | Desarrollo de funcionalidad para compartir ítems | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero compartir un ítem específico, para enviar contenido relevante. | 4 | Aliaga | Done |
+| US04 | Compartir colección o ítem mediante código QR. | US04-1  | Generación y escaneo de código QR para compartir items de forma individual | Como usuario de ambos segmentos objetivos comprador y diseñador, quiero compartir una colección o ítem  a través de un código QR, para distribuir rápidamente ideas con otros. | 4 | Aliaga | Done |
+| US05 | Compartir colección o ítem mediante link. | US05-1  | Crear enlace único para compartir ítems o colecciones | Como usuario de ambos segmentos objetivos comprador y diseñador, quiero compartir una colección  o ítem a través de un link, para distribuir rápidamente ideas o recursos con otros. | 4 | Aliaga | Done |
+| US23 | Límite de acceso temporal	 | US23-1  | Configuración de tiempos límite para acceso compartido | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero compartir colecciones e ítems con fecha de expiración para controlar el acceso. | 4 | Aliaga | Done |
+| US12 | Compartir con permisos granulares. | US12-1  | Definir niveles de permisos al compartir ítems o colecciones | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero definir quién puede editar o solo ver mis colecciones compartidas, para controlar el acceso. | 4 | Aliaga | Done |
+
 #### 5.2.2.4. Development Evidence for Sprint Review
+
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
@@ -1563,7 +1551,28 @@ Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Para el despliegue de nuestra aplicación web decidimos utilizar los servicios de Azure, más específicamente Azure Static Web Apps, un servicio que nos permite interactuar con la aplicación a través de un enlace público.
+
+![Screenshot de Web application desplegada en azure](assets/deployment-evidence/azure.png)
+![Screenshot de Web application desplegada en github](assets/deployment-evidence/github.png)
+![Screenshot de Web application 1](assets/deployment-evidence/1.png)  
+![Screenshot de Web application 2](assets/deployment-evidence/2.png)  
+![Screenshot de Web application 3](assets/deployment-evidence/3.png)  
+![Screenshot de Web application 4](assets/deployment-evidence/4.png)  
+![Screenshot de Web application 5](assets/deployment-evidence/5.png)  
+![Screenshot de Web application 6](assets/deployment-evidence/6.png)  
+![Screenshot de Web application 7](assets/deployment-evidence/7.png)  
+![Screenshot de Web application 8](assets/deployment-evidence/8.png)  
+![Screenshot de Web application 9](assets/deployment-evidence/9.png)  
+![Screenshot de Web application 10](assets/deployment-evidence/10.png)
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+| Alumno                        | Actividad                                         | 
+|-------------------------------|---------------------------------------------------|
+| George Arturo Aliaga Pimentel | Implementación de colecciones y links compartidos |
+| Maria Elena Muñoz Machuca     | Implementación de perfil y planes                 |
+| Gabriel Sanchez Gonzales      | Implementación de colecciones e ítems             |
+
 
 
 # 6. Conclusiones
