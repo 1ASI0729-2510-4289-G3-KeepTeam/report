@@ -999,15 +999,15 @@ Backend
 | email               | String | Email address       | UNIQUE, NOT NULL |
 | password            | String | Encrypted password  | NOT NULL |
 | profile\_image\_url | String | Profile picture URL |  |
-| updated\_atsettings | int    | User settings       | DEFAULT CURRENT\_TIMESTAMP |
+| settings | int    | User settings       | |
 
 **UserSettings**
 
-| Attribute            | Type    | Description                       | Constraints                  |
-| -------------------- | ------- | --------------------------------- | ---------------------------- |
-| notificationsEnabled | Boolean | Whether notifications are enabled | DEFAULT true? (no explícito) |
-| language             | String  | Preferred language                |                              |
-| themePreference      | String  | UI theme preference               |                              |
+| Attribute            | Type    | Description                       | Constraints |
+| -------------------- | ------- | --------------------------------- |-----------|
+| notificationsEnabled | Boolean | Whether notifications are enabled |           |
+| language             | String  | Preferred language                |           |
+| themePreference      | String  | UI theme preference               |           |
 
 **Collection**
 
