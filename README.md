@@ -1581,6 +1581,50 @@ Link a Sprint Backlog 2: https://trello.com/invite/b/6816bf1524e8bf4e292c6d52/AT
 
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
+Durante el Sprint Actual, el equipo de Keeplo logró implementar y desarrollar varias funcionalidades clave para nuestra aplicación web de gestión de listas de deseos y colecciones. Las características principales implementadas incluyen en unas pantallas de registro e inicio de sesión, lla visualización en cuadrícula de las colecciones, la funcionalidad de compartir enlaces de items y colecciones, la opción de compartir mediante códigos QR, la navegación consistente al volver desde las pantallas de compartir, pantallas de edición de perfil, de colecciones y de objetos. Estas funcionalidades mejoran significativamente la usabilidad y la capacidad de compartir contenido dentro de Keeplo, permitiendo una experiencia más completa y conectada para nuestros usuarios. A continuación, presentamos capturas de pantalla de las principales vistas y funcionalidades implementadas en este Sprint:
+
+**Sign Up**  
+![sign up page](assets/sprint-2/execution-evidence/1.png)
+
+**Sign In**  
+![sign in page](assets/sprint-2/execution-evidence/2.png)
+
+**Dashboard**  
+![dashboard page](assets/sprint-2/execution-evidence/3.png)
+
+**Plans**  
+![plans page](assets/sprint-2/execution-evidence/4.png)
+
+**Profile**  
+![profile page](assets/sprint-2/execution-evidence/5.png)
+
+**Edit Password**  
+![edit password page](assets/sprint-2/execution-evidence/6.png)
+
+**Edit Profile**  
+![edit profile page](assets/sprint-2/execution-evidence/7.png)
+
+**Items from a Collection Page**  
+![items from a collection page](assets/sprint-2/execution-evidence/8.png)
+
+**Single Item Page**  
+![single item page](assets/sprint-2/execution-evidence/9.png)
+
+**Edit Item**  
+![edit item page](assets/sprint-2/execution-evidence/10.png)
+
+**Edit Collection**  
+![edit collection page](assets/sprint-2/execution-evidence/11.png)
+
+**Share Settings (Share by Link)**  
+![share settings page](assets/sprint-2/execution-evidence/12.png)
+
+**Share Link**  
+![share link page](assets/sprint-2/execution-evidence/13.png)
+
+**Share as QR**  
+![share as qr page](assets/sprint-2/execution-evidence/14.png)
+
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
