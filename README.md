@@ -1529,7 +1529,7 @@ Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta 
 | :---- | ----- |:-------------------------------------------------------|:-------------------|:-------------------------------|:-------------------------------------|:--------------------------------|
 | Sanchez Gonzales | [yigabriel](https://github.com/yigabriel) | L                                                      | C                  |                                | C                                    |                                 |
 | Aliaga Pimentel, George Arturo  | [GeorAliaga](https://github.com/GeorAliaga) | C                                                      | C                  | L                              |                                      |                                 |
-| Muñoz Machuca, Maria Elena | [maria-mm0907](https://github.com/maria-mm0907) |                                                        | L                  | L                              | L                                    | L                               |
+| Muñoz Machuca, Maria Elena | [maria-mm0907](https://github.com/maria-mm0907) |                                                        |                    |                                | L                                    | L                               |
 
 
 #### 5.2.2.3. Sprint Backlog 2
@@ -1564,18 +1564,18 @@ Link a Sprint Backlog 2: https://trello.com/invite/b/6816bf1524e8bf4e292c6d52/AT
 | US12 | Compartir con permisos granulares. | US12-1  | Definir niveles de permisos al compartir ítems o colecciones | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero definir quién puede editar o solo ver mis colecciones compartidas, para controlar el acceso. | 4 | Aliaga | Done |
 
 #### 5.2.2.4. Development Evidence for Sprint Review
-| **Repository** | **Branch**              | **Commit Id**   | **Commit Message** | **Commit Message Body**        | **Commited on(Date)** |
-|----------------|-------------------------|-----------------|--------------------|--------------------------------|-----------------------|
-|  https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page              | feature/collection-list | 64ca4fe |  feat: implement routes and json changes for collections lists| feat: implement routes and json changes for collections lists | 08/05/2025            |
-|    https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page             | feature/collection-list | 2e82bbb…9becc29 | feat: items actions and soft-delete dor wish items| feat: items actions and soft-delete dor wish items| 07/05/2025            |
-|     https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page            | feature/collection-list          | 88f45a6  | feat: added collection card component |  feat: added collection card component  | 08/05/2025            |
-|      https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page           | feature/collection-list-aux          | 99a47c0 |  feat: add collection edit page|  feat: add collection edit page| 08/05/2025            |
-|       https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page          | feature/edit-collection     |    c86d4cf      |  feat: add edit color-collection page                | feat: add edit color-collection page | 07/05/2025            |
-|        https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page         | feature/edit-collection           |    507b78      |  feat: add redirect link for each card in collection products page                  | feat: add redirect link for each card in collection products page                               | 09/05/2025            |
-|      https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page           | /feature/item-wish          |    e30da2       |  feat: add wish share page into routes                  | feat: add wish share page into routes                               | 10/05/2025            |
-|       https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page          | /feature/item-wish         |   7839ee       |  feat: add wish edit page   | feat: add wish edit page | 06/05/2025            |
-|       https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page          | feature/share-wish    |    ecfcecb       |  feat: add wish page   | feat: add wish page | 06/05/2025            |
-|        https://github.com/1ASI0729-2510-4289-G3-KeepTeam/landing-page         | feature/user-authentication    |    b20ea8      |  feat: add user edit password page   | feat: add user edit password page | 15/05/2025            |
+| **Repository**                                                 | **Branch**              | **Commit Id**   | **Commit Message** | **Commit Message Body**        | **Commited on(Date)** |
+|----------------------------------------------------------------|-------------------------|-----------------|--------------------|--------------------------------|-----------------------|
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/front-web      | feature/collection-list | 64ca4fe |  feat: implement routes and json changes for collections lists| feat: implement routes and json changes for collections lists | 08/05/2025            |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/front-web | feature/collection-list | 2e82bbb…9becc29 | feat: items actions and soft-delete dor wish items| feat: items actions and soft-delete dor wish items| 07/05/2025            |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/front-web | feature/collection-list          | 88f45a6  | feat: added collection card component |  feat: added collection card component  | 08/05/2025            |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/front-web | feature/collection-list-aux          | 99a47c0 |  feat: add collection edit page|  feat: add collection edit page| 08/05/2025            |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/front-web | feature/edit-collection     |    c86d4cf      |  feat: add edit color-collection page                | feat: add edit color-collection page | 07/05/2025            |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/front-web | feature/edit-collection           |    507b78      |  feat: add redirect link for each card in collection products page                  | feat: add redirect link for each card in collection products page                               | 09/05/2025            |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/front-web | /feature/item-wish          |    e30da2       |  feat: add wish share page into routes                  | feat: add wish share page into routes                               | 10/05/2025            |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/front-web | /feature/item-wish         |   7839ee       |  feat: add wish edit page   | feat: add wish edit page | 06/05/2025            |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/front-web | feature/share-wish    |    ecfcecb       |  feat: add wish page   | feat: add wish page | 06/05/2025            |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/front-web | feature/user-authentication    |    b20ea8      |  feat: add user edit password page   | feat: add user edit password page | 15/05/2025            |
 
 
 
