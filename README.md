@@ -139,7 +139,7 @@
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-  - [5.2.2. Sprint 2](#521-sprint-2)
+  - [5.2.2. Sprint 2](#522-sprint-2)
     - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
     - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
     - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
@@ -1429,7 +1429,7 @@ https://1asi0729-2510-4289-g3-keepteam.github.io/landing-page/
 **7. Verificación del despliegue**
 Se accedió al enlace generado para confirmar que la Landing Page se visualizaba correctamente y sin errores.
 
-![image](https://github.com/user-attachmentsassets/1a5262c0-3dfd-4417-8a71-50cc95dcafc9)
+![image](assets/landingpage.png)
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
