@@ -1597,6 +1597,13 @@ Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta 
 <tr>
 </table>
 
+#### 5.2.2.2. Aspect Leaders and Collaborators
+| Team Member (Last Name, First Name) | GitHub Username | Visualización de colecciones  Leader(L)/Colaborador(C) | Editar colecciones | Compartir items de colecciones | Autenticacion y registro de usuarios | Editar los perfiles de usuarios |
+| :---- | ----- |:-------------------------------------------------------|:-------------------|:-------------------------------|:-------------------------------------|:--------------------------------|
+| Sanchez Gonzales | [yigabriel](https://github.com/yigabriel) | L                                                      | C                  |                                | C                                    |                                 |
+| Aliaga Pimentel, George Arturo  | [GeorAliaga](https://github.com/GeorAliaga) | C                                                      | C                  | L                              |                                      |                                 |
+| Muñoz Machuca, Maria Elena | [maria-mm0907](https://github.com/maria-mm0907) |                                                        | L                  | L                              | L                                    | L                               |
+
 
 # 6. Conclusiones
 
