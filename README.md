@@ -1023,155 +1023,155 @@ Link Miro: https://miro.com/welcomeonboard/aXRqaHNteXl2dlUrQTVWQ2VYSnZYc0FjblY1M
 [Link a prototipo de Figma](https://www.figma.com/proto/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=135-228&t=4qndhMek0CzRLY0i-1&scaling=min-zoom&content-scaling=fixed&page-id=13%3A501&starting-point-node-id=58%3A23&show-proto-sidebar=1)
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
-[![e222ea2da10046c2ac1bc07368bc8071.jpg](https://i.postimg.cc/brRYG5Mm/e222ea2da10046c2ac1bc07368bc8071.jpg)](https://postimg.cc/gLnbQgGh)
+
+![diagrama contexto](assets/c4/context.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
-[![22e381ed7dd14f0bb3195d6282a7e640.jpg](https://i.postimg.cc/SNDNkwcs/22e381ed7dd14f0bb3195d6282a7e640.jpg)](https://postimg.cc/xcNSPpxD)
+
+![diagrama contexto](assets/c4/container.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 Frontend
-[![9636e412b1844560ac8be716f3ad4ab8.jpg](https://i.postimg.cc/sgLjZ76C/9636e412b1844560ac8be716f3ad4ab8.jpg)](https://postimg.cc/sMpdkQCT)
+![diagrama contexto](assets/c4/comp-front.png)
 Backend
-[![ae5479e60b014034b13bc9c85fa712ae.jpg](https://i.postimg.cc/rpt8Gs30/ae5479e60b014034b13bc9c85fa712ae.jpg)](https://postimg.cc/CZSTShFS)
+![diagrama contexto](assets/c4/comp-back.png)
 
 Link a C4: [Link a Structurizer](https://structurizr.com/share/87207/5b87183f-b13d-403d-a0bd-be6b565d1c8f )
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
-![Diagrama de clases](assets/classdiagram.png)
-
+![Diagrama de clases](assets/class-diagram.png)
 
 ### 4.7.2. Class Dictionary
 
 **User**
 
-| Attribute | Type | Description | Constraints |
-| :---- | :---- | :---- | :---- |
-| id | UUID | Unique identifier | PRIMARY KEY |
-| name | String | Full name | NOT NULL |
-| email | String | Email address | UNIQUE, NOT NULL |
-| password | String | Encrypted password | NOT NULL |
-| role | String | User role (client/freelancer) | ENUM('client', 'freelancer') |
-| bio | Text | Personal description |  |
+| Attribute           | Type   | Description         | Constraints |
+|:--------------------|:-------|:--------------------| :---- |
+| id                  | int    | Unique identifier   | PRIMARY KEY |
+| name                | String | Username            | NOT NULL |
+| email               | String | Email address       | UNIQUE, NOT NULL |
+| password            | String | Encrypted password  | NOT NULL |
 | profile\_image\_url | String | Profile picture URL |  |
-| reputation\_score | Float | Average rating (0-5) | DEFAULT 0.0 |
-| created\_at | DateTime | Account creation timestamp | DEFAULT CURRENT\_TIMESTAMP |
-| updated\_at | DateTime | Last profile update | DEFAULT CURRENT\_TIMESTAMP |
+| settings | int    | User settings       | |
 
-**AcademicPortfolio**
+**UserSettings**
 
-| Attribute | Type | Description | Constraints |
-| :---- | :---- | :---- | :---- |
-| id | UUID | Unique identifier | PRIMARY KEY |
-| user\_id | UUID | Associated freelancer | FOREIGN KEY (users.id), UNIQUE |
-| university | String | Institution name | NOT NULL |
-| career | String | Field of study | NOT NULL |
-| semester | Integer | Academic progress level |  |
-| cv\_url | String | Resume/CV document link |   |
+| Attribute            | Type    | Description                       | Constraints |
+| -------------------- | ------- | --------------------------------- |-----------|
+| notificationsEnabled | Boolean | Whether notifications are enabled |           |
+| language             | String  | Preferred language                |           |
+| themePreference      | String  | UI theme preference               |           |
 
-**Portfolio**
+**Collection**
 
-| Attribute | Type | Description | Constraints |
-| :---- | :---- | :---- | :---- |
-| id | UUID | Unique identifier | PRIMARY KEY |
-| user\_id | UUID | Owner | FOREIGN KEY (users.id) |
-| title | String | Work title | NOT NULL |
-| description | Text | Project details |  |
-| file\_url | String | Portfolio item file | NOT NULL |
-| created\_at | DateTime | Creation timestamp | DEFAULT CURRENT\_TIMESTAMP |
+| Attribute   | Type           | Description                       | Constraints |
+| ----------- |----------------| --------------------------------- | ----------- |
+| id          | int            | Unique collection identifier      | PRIMARY KEY |
+| name        | String         | Collection name                   | NOT NULL    |
+| description | String         | Description of the collection     |             |
+| visibility  | VisibilityType | Visibility (e.g., public/private) | NOT NULL    |
 
-**Service**
+**Wish**
 
-| Attribute | Type | Description | Constraints |
-| :---- | :---- | :---- | :---- |
-| id | UUID | Unique identifier | PRIMARY KEY |
-| user\_id | UUID | Freelancer offering service | FOREIGN KEY (users.id) |
-| title | String | Service name | NOT NULL |
-| description | Text | Detailed offering | NOT NULL |
-| category | String | Main category | NOT NULL |
-| subcategory | String | Specialization | NOT NULL |
-| base\_price | Float | Minimum price | NOT NULL |
-| delivery\_time\_days | Integer | Estimated completion days | NOT NULL |
-| price\_by\_calculator | Float | System-suggested price |  |
-| is\_active | Boolean | Availability status | DEFAULT TRUE |
-| created\_at | DateTime | Listing creation time | DEFAULT CURRENT\_TIMESTAMP |
+| Attribute   | Type      | Description                   | Constraints  |
+| ----------- |-----------| ----------------------------- | ------------ |
+| id          | int       | Unique wish identifier        | PRIMARY KEY  |
+| title       | String    | Title of the wish             | NOT NULL     |
+| description | String    | Description of the wish       |              |
+| url         | URL       | URL for the wish item         |              |
+| tags        | Set\<Tag> | Tags associated with the wish | Can be empty |
 
-**PriceCalculator**
 
-| Attribute | Type | Description | Constraints |
-| :---- | :---- | :---- | :---- |
-| id | UUID | Unique identifier | PRIMARY KEY |
-| difficulty | String | Complexity level | ENUM('easy','medium','hard') |
-| urgency | String | Time sensitivity | ENUM('low','medium','high') |
-| freelancer\_level | String | Experience tier | ENUM('junior','mid','senior') |
-| market\_trend | Float | Demand adjustment factor | NOT NULL |
-| suggested\_price | Float | Algorithm-calculated price | NOT NULL |
+**QR code**
 
-**ServiceNegociation**
+| Attribute | Type   | Description                             | Constraints |
+| --------- | ------ | --------------------------------------- | ----------- |
+| hash      | String | Encoded string representing the QR code | NOT NULL    |
 
-| Attribute | Type | Description | Constraints |
-| :---- | :---- | :---- | :---- |
-| id | UUID | Unique identifier | PRIMARY KEY |
-| service\_id | UUID | Negotiated service | FOREIGN KEY (services.id) |
-| client\_id | UUID | Client making offer | FOREIGN KEY (users.id) |
-| proposed\_price | Float | Alternate price suggestion | NOT NULL |
-| status | String | Negotiation state | ENUM('pending','accepted','rejected') |
-| created\_at | DateTime | Proposal timestamp | DEFAULT CURRENT\_TIMESTAMP |
+**Wish Id**
 
-**Order**
+| Attribute | Type | Description    | Constraints |
+| --------- |------| -------------- | ----------- |
+| value     | int  | Unique wish ID | PRIMARY KEY |
 
-| Attribute | Type | Description | Constraints |
-| :---- | :---- | :---- | :---- |
-| id | UUID | Unique identifier | PRIMARY KEY |
-| service\_id | UUID | Contracted service | FOREIGN KEY (services.id) |
-| client\_id | UUID | Ordering client | FOREIGN KEY (users.id) |
-| freelancer\_id | UUID | Service provider | FOREIGN KEY (users.id) |
-| final\_price | Float | Agreed payment amount | NOT NULL |
-| status | String | Order state | ENUM('created','in\_progress','delivered','completed','cancelled') |
-| delivery\_date | Date | Deadline for completion | NOT NULL |
-| created\_at | DateTime | Order creation time | DEFAULT CURRENT\_TIMESTAMP |
 
-**Payment**
+**Collection Id**
 
-| Attribute | Type | Description | Constraints |
-| :---- | :---- | :---- | :---- |
-| id | UUID | Unique identifier | PRIMARY KEY |
-| order\_id | UUID | Associated order | FOREIGN KEY (orders.id), UNIQUE |
-| amount | Float | Transaction value | NOT NULL |
-| payment\_method | String | Payment processor | NOT NULL |
-| status | String | Payment state | ENUM('pending','completed','failed','refunded') |
-| created\_at | DateTime | Payment timestamp | DEFAULT CURRENT\_TIMESTAMP |
+| Attribute | Type | Description          | Constraints |
+| --------- |------|----------------------| ----------- |
+| value     | int  | Unique collection ID | PRIMARY KEY |
 
-**Review**
 
-| Attribute | Type | Description | Constraints |
-| :---- | :---- | :---- | :---- |
-| id | UUID | Unique identifier | PRIMARY KEY |
-| order\_id | UUID | Reviewed order | FOREIGN KEY (orders.id) |
-| reviewer\_id | UUID | User writing review | FOREIGN KEY (users.id) |
-| reviewed\_user\_id | UUID | User being rated | FOREIGN KEY (users.id) |
-| rating | Integer | Quality score (1-5) | RANGE(1,5) |
-| comment | Text | Written feedback |  |
-| created\_at | DateTime | Review timestamp | DEFAULT CURRENT\_TIMESTAMP |
+**Trash**
 
-**ChatMessage**
+| Attribute       | Type                | Description                     | Constraints |
+| --------------- |---------------------| ------------------------------- | ----------- |
+| id              | int                 | Unique trash ID                 | PRIMARY KEY |
+| userId          | int                 | ID of the user owning the trash | FOREIGN KEY |
+| deletedEntities | List<DeletedEntity> | List of deleted entities        |             |
+| lastEmptied     | DateTime            | Last time the trash was emptied |             |
 
-| Attribute | Type | Description | Constraints |
-| :---- | :---- | :---- | :---- |
-| id | UUID | Unique identifier | PRIMARY KEY |
-| order\_id | UUID | Context order | FOREIGN KEY (orders.id) |
-| sender\_id | UUID | Message author | FOREIGN KEY (users.id) |
-| receiver\_id | UUID | Message recipient | FOREIGN KEY (users.id) |
-| message | Text | Communication content | NOT NULL |
-| file\_url | String | Attached file link |  |
-| sent\_at | DateTime | Send timestamp | DEFAULT CURRENT\_TIMESTAMP |
+**Deleted Entity**
 
+| Attribute    | Type     | Description                            | Constraints |
+| ------------ |----------| -------------------------------------- | ----------- |
+| entityId     | int      | ID of the deleted entity               |             |
+| entityType   | String   | Type of the deleted entity (e.g. Wish) |             |
+| deletedAt    | DateTime | When the entity was deleted            |             |
+| originalData | JSON     | Serialized original entity data        |             |
+
+**TrashId**
+
+| Attribute | Type | Description     | Constraints |
+| --------- | ---- | --------------- | ----------- |
+| value     | UUID | Unique trash ID | PRIMARY KEY |
+
+**Subscription**
+
+| Attribute      | Type               | Description                         | Constraints |
+| -------------- |--------------------| ----------------------------------- | ----------- |
+| id             | int                | Unique subscription ID              | PRIMARY KEY |
+| planType       | PlanType           | Type of subscription plan           | NOT NULL    |
+| paymentInfo    | PaymentInformation | Payment details                     | NOT NULL    |
+| expirationDate | Date               | Expiration date of the subscription |             |
+
+**Plan Type**
+
+| Attribute      | Type    | Description                       | Constraints |
+| -------------- | ------- | --------------------------------- | ----------- |
+| name           | String  | Name of the plan (e.g. Basic)     |             |
+| maxCollections | Integer | Max number of collections allowed |             |
+| maxItems       | Integer | Max number of items allowed       |             |
+
+**Payment Information**
+
+| Attribute      | Type   | Description          | Constraints |
+| -------------- | ------ | -------------------- | ----------- |
+| cardNumber     | String | Credit card number   | NOT NULL    |
+| holderName     | String | Name on the card     | NOT NULL    |
+| expirationDate | Date   | Card expiration date | NOT NULL    |
+| cvv            | String | Card CVV             | NOT NULL    |
+
+**SubscriptionId**
+
+| Attribute | Type | Description            | Constraints |
+| --------- |------| ---------------------- | ----------- |
+| value     | int  | Unique subscription ID | PRIMARY KEY |
+
+**Subscription**
+
+| Attribute | Type | Description            | Constraints |
+|-----------|------|------------------------|-------------|
+| id        | int  | Unique subscription ID | PRIMARY KEY |
+| planType  | int  | Plan Type              | NOT NULL    |
+| planType  | Date  | Expiration Date        | NOT NULL    |
 
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-![Keeplo-v2](https://github.com/user-attachments/assets/1a3513f6-47e1-4c19-ad60-fe502474afce)
+![Keeplo-v2](assets/db-diagram.jpeg)
 
 [Enlace del diagrama de base de datos ](https://my.vertabelo.com/doc/lah8xd68anzS3iGZAssm1kXuLByWPuqi )
 
