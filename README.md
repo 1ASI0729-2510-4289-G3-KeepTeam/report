@@ -1581,6 +1581,8 @@ Para el despliegue de nuestra aplicación web decidimos utilizar los servicios d
 ![Screenshot de Web application 9](assets/deployment-evidence/9.png)  
 ![Screenshot de Web application 10](assets/deployment-evidence/10.png)
 
+[Link a Aplicación desplegada:](https://delightful-glacier-04ad1371e.6.azurestaticapps.net) https://delightful-glacier-04ad1371e.6.azurestaticapps.net
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 | Alumno                        | Actividad                                         | 
 |-------------------------------|---------------------------------------------------|
