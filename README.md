@@ -1423,7 +1423,7 @@ Se accedió al enlace generado para confirmar que la Landing Page se visualizaba
 
 #### 5.2.1.3. Sprint Backlog 1
 
-El sprint Backlog 1 se enfocara en el desarrollo de las funcionalidades de Keeplo, la corrección de error y mejoras para la Landing Page, es fundamental que el equipo tome en cuenta la prioridad de la tarea para asegurar el éxito de nuestro proyecto
+El sprint Backlog 1 se enfocará en el desarrollo de las funcionalidades de Keeplo, la corrección de error y mejoras para la Landing Page, es fundamental que el equipo tome en cuenta la prioridad de la tarea para asegurar el éxito de nuestro proyecto
 
 ![Sprint Backlog](assets/SprintBacklog/TrelloKeeploF.png)
 
