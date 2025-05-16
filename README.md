@@ -287,93 +287,133 @@ Keeplo aplicará una estrategia de diferenciación centrada en la organización 
 
 Entrevistas1:
 
-Segmento 1: Diseñadores
 
-Nombre: Maria Angeles
+Entrevista 1:
 
-Apellido: Flores Villavicencio
+**Segmento 1: Diseñadores**
 
-Edad: 21
 
-Distrito: Pueblo Libre
+- Nombre: Maria Angeles
+- Apellido: Flores Villavicencio
+- Edad: 21
+- Distrito: Pueblo Libre
+- Tiempo de Inicio: 0:00
+- tiempo de Fin: 7:04
 
-Duración: inicio: 00:00 - fin: 12:09
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EXe6OhIXtblKsT2opoqwtusBGOqzPmlaZ2nFy-GUhQLaNg?e=FgYqbN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+![imagen entrevista](assets/entrevistas/1.png)
+
+Resumen de la entrevista: Nuestra primera invitada es María Ángeles, una diseñadora gráfica y estudiante que utiliza principalmente Pinterest y Cosmos para guardar inspiración, pero enfrenta problemas como la pérdida de referencias y la búsqueda tediosa de imágenes específicas debido a las limitaciones de organización en estas plataformas. Destaca su necesidad de organización detallada similar a "playlists de Spotify" podríamos decir, algo que Pinterest no ofrece, como subcarpetas o notas grupales, lo que la obliga a complementar con WhatsApp para discutir ideas. Valora la propuesta de Keeplo como una solución unificada para guardar enlaces, imágenes y videos en un solo lugar, con funciones avanzadas como carpetas anidadas y la opción de compartir mediante QR o links, aunque sugiere mantener ambas alternativas por comodidad (especialmente al trabajar en computadora). Su principal frustración es el tiempo perdido migrando contenido entre apps, por lo que una plataforma integrada y flexible mejoraría significativamente su productividad.
 
 
 Entrevista 2:
 
-Segmento 1: Diseñadores
 
-Nombre: Eunice
+**Segmento 1: Diseñadores**
 
-Apellido: Blas Sánchez
 
-Edad: 22
+- Nombre: Eunice
+- Apellido: Blas Sánchez
+- Edad: 22
+- Distrito: Pueblo Libre
+- Tiempo de Inicio: 7:04
+- tiempo de Fin: 11:41
 
-Distrito: Pueblo Libre
 
-Duración: inicio: 12:10 - fin: 19:38
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EXe6OhIXtblKsT2opoqwtusBGOqzPmlaZ2nFy-GUhQLaNg?e=FgYqbN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+![imagen entrevista](assets/entrevistas/2.png)
+
+Resumen de la entrevista: Eunice, una diseñadora gráfica que utiliza principalmente Pinterest y google drive para guardar contenido que sean de su agrado y luego pueda usar de inspiración, pero enfrenta problemas de organización dispersa al guardar contenido en múltiples plataformas. Destaca la dificultad de gestionar los links, estos los suele enviar por su WhatsApp y luego olvidar que los ha guardado ahí, lo que le genera frustración o pérdida de tiempo al intentar encontrarlo. Para presentar proyectos a clientes, recurre a PDFs con moodboards (Canva o figma), pero señala limitaciones al incluir links en formatos estáticos. Valora la propuesta que ofrece Keeplo como una solución centralizada para guardar imágenes, links y videos en un solo lugar, con funciones como tableros por categorías y compartir mediante QR. En resumen su mayor necesidad es ahorrar tiempo evitando migrar entre apps, por lo que una plataforma colaborativa y multifuncional mejoraría su flujo de trabajo y estudio.
 
 
 Entrevista 3:
 
-Segmento 1: Diseñadores
 
-Nombre: José Martín
-
-Apellido: Villegas Guerrero
-
-Edad: 25
-
-Distrito: Surco
-
-Duración: inicio: 19:39 - fin: 25:40
+**Segmento 1: Diseñadores**
 
 
+- Nombre: José Martín
+- Apellido: Villegas Guerrero
+- Edad: 25
+- Distrito: Surco
+- Duración: 6:01
+- Tiempo de Inicio: 11:41
+- tiempo de Fin: 15:23
 
-Entrevista 4:
 
-Segmento 2: Compradores
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EXe6OhIXtblKsT2opoqwtusBGOqzPmlaZ2nFy-GUhQLaNg?e=FgYqbN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Nombre: Dayana Lourdes
+![imagen entrevista](assets/entrevistas/3.png)
 
-Apellido: Chavarria Ramirez
+Resumen de la entrevista: como tercer invitado en este segmento tenemos a José, él utiliza principalmente Google Drive y Pinterest para guardar inspiración, pero recurre a WhatsApp para enviar links a sí mismo, lo que a veces genera pérdida de información. Organiza sus archivos en carpetas nombradas en su computadora y Drive, pero reconoce que el método actual es frágil, especialmente con el tema de los links. José actualmente desempeña labores en proyectos universitarios y freelance, comparte contenido casi exclusivamente por WhatsApp (para trabajos grupales) o envía carpetas de Drive a clientes, aunque admite que los chats pueden saturarse y perder información. Valora la propuesta de Keeplo como una solución para centralizar imágenes, links y videos, destacando el potencial del QR para compartir colecciones. Destacando un punto que sería incluir un sistema de búsqueda eficiente para proyectos antiguos. Su principal dolor es la pérdida de links y la fragmentación de herramientas, por lo que una plataforma unificada que evite migrar entre apps mejoraría su productividad.
 
-Edad: 20
 
-Distrito: Barranco
 
-Duración:  inicio: 25:41 - fin: 34:10
+
+Entrevista 4: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EXe6OhIXtblKsT2opoqwtusBGOqzPmlaZ2nFy-GUhQLaNg?e=FgYqbN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+**Segmento 2: Compradores**
+
+
+- Nombre: Dayana Lourdes
+- Apellido: Chavarria Ramirez
+- Edad: 20
+- Distrito: Barranco
+- Tiempo de Inicio: 15:23
+- tiempo de Fin: 20:36
+
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EXe6OhIXtblKsT2opoqwtusBGOqzPmlaZ2nFy-GUhQLaNg?e=FgYqbN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+![imagen entrevista](assets/entrevistas/4.png)
+
+Resumen de la entrevista: la entrevistada para este segmento de compradores en línea es Dayana, estudiante universitaria y compradora frecuente (3-4 veces/mes), enfrenta problemas de organización dispersa al guardar productos de interés: recurre a capturas de pantalla y links pegados en WhatsApp, lo que le genera frustración al perder el contexto de los ítems o incluso generando dudas como : ¿Era este el esmalte o la base?". Valora especialmente la propuesta de Keeplo para centralizar y categorizar sus hallazgos (ej: pestañas como "Maquillaje" o "Regalo Mamá"), destacando la utilidad del QR para compartir listas de forma inmediata. Su principal dolor es el tiempo perdido revisando links sin clasificar, por lo que una plataforma con búsqueda por categorías visuales y previsualización de productos mejoraría significativamente su eficiencia en compras. Como sugerencia, resalta la importancia de que las categorías sean personalizables y simples (no requieren subniveles complejos como los diseñadores), adaptándose a su flujo espontáneo de descubrimiento y compra.
+
 
 Entrevista 5:
 
-Segmento 2: Compradores
 
-Nombre: Leonardo
+**Segmento 2: Compradores**
 
-Apellido: Roca
 
-Edad: 22
+- Nombre: Leonardo
+- Apellido: Roca
+- Edad: 22
+- Distrito: Breña
+- Tiempo de Inicio: 20:36
+- tiempo de Fin: 25:21
 
-Distrito: Breña
 
-Duración: inicio: 34:11 - fin: 41:57
+Link:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EXe6OhIXtblKsT2opoqwtusBGOqzPmlaZ2nFy-GUhQLaNg?e=FgYqbN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+![imagen entrevista](assets/entrevistas/5.png)
+
+Resumen de la entrevista: nuestro siguiente invitado es Leonardo el  cual realiza compras online 2 veces/mes (principalmente en ropa y productos tangibles) y actualmente organiza sus intereses de compras usando Notion, donde guarda links y capturas de pantalla en un portapapeles personalizado. Aunque considera su método "regularmente organizado", admite que a veces olvida guardar capturas en Notion o las borra accidentalmente, lo que le genera frustración al perder productos de interés. Valora la propuesta de Keeplo para centralizar ítems, pero se muestra escéptico ante el QR para compartir colecciones, resalta el hecho de "personas mayores podrían no entenderlo, prefiriendo links simples. Su principal necesidad es categorizar productos (ej: "Ropa") y sugiere una función innovadora: comparar precios del mismo ítem en distintas plataformas automáticamente. Destaca que, pese a su organización actual, una app dedicada a la organización le ahorraría tiempo en recuperar productos guardados y evitaría pérdidas.
+
 
 Entrevista 6:
 
-Segmento 2: Compradores
 
-Nombre: Zayuri
+**Segmento 2: Compradores**
 
-Apellido: Navarro
 
-Edad: 19
+- Nombre: Zayuri
+- Apellido: Navarro
+- Edad: 19
+- Distrito: Jesus Maria
+- Tiempo de Inicio: 25:21
+- tiempo de Fin: 29:57
 
-Distrito: Jesus Maria
 
-Duración:  inicio: 41:58 - fin: 49:58
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EXe6OhIXtblKsT2opoqwtusBGOqzPmlaZ2nFy-GUhQLaNg?e=FgYqbN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-<img src="assets/profiles/Entrevista.png" width=500>
+
+![imagen entrevista](assets/entrevistas/6.png)
+
 
 Resumen de entrevistas: en las presentes entrevistas hemos reunido un grupo de personas que cumplen con los segmentos objetivos que definimos anteriormente. En estas entrevistas en primer lugar nos aseguramos de conocer a los entrevistados, sobre quienes son y qué actividades desarrollan. En segundo lugar les dimos conocimiento con respecto a la propuesta de Keeplo y como en sus casos específicos podría ser beneficioso para ellos en sus trabajos o día a día utilizar una herramienta como la nuestra. Por último pedimos recomendaciones y opiniones a cada uno de ellos con respecto a la propuesta que ofrece Keeplo, tomando en cuenta todas sus opiniones y recomendaciones consideramos que fueron exitosas las entrevistas realizadas.
 
