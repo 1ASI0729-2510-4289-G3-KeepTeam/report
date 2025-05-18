@@ -23,26 +23,28 @@
 <p align="center"><strong>Docente:</strong> Efraín Ricardo Bautista Ubillús</p>
 
 <p align="center"><strong>StartUp: </strong>KeepTeam</p>
-<p align="center"><strong>Proyecto:</strong> Keeplio</p>
+<p align="center"><strong>Proyecto:</strong> Keeplo</p>
 
 
 
 ## Integrantes:
 
-<div align="center">
+<table align="center">
+  <thead>
+    <tr>
+      <th>Nombres y Apellidos</th>
+      <th>Código</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>George Arturo Aliaga Pimentel</td><td>U20211c273</td></tr>
+    <tr><td>Maria Elena Muñoz Machuca</td><td>U202317442</td></tr>
+    <tr><td>Sanchez Gonzales</td><td>U202310609</td></tr>
+  </tbody>
+</table>
 
-| Nombres y Apellidos                  | Código      |
-| ----------------------------------- | ----------- |
-| George Arturo Aliaga Pimentel       |U20211c273|
-| Bryan Felix Martinez Ramos          |U202316246 |
-| Maria Elena Muñoz Machuca           |U202317442|
-| Luis Miguel Rojas Piñero            |U202220864 |
-| Sanchez Gonzales                    | U202310609  |
 
-</div>
-
-
-<p align="center">Abril 2025-1</p>
+<p align="center">Junio 2025-1</p>
 
 
 # Registro de Versiones del Informe
