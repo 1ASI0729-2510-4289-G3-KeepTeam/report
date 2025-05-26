@@ -1450,7 +1450,7 @@ Se accedió al enlace generado para confirmar que la Landing Page se visualizaba
 | Sprint 1-1 Review Summary        | Se completó el diseño y desarrollo inicial de la landing page de Keeplo                                                                                 |
 | Sprint 1-1 Retrospective Summary | - Buena coordinación del equipo a través de Discord <br>- Mejor organización en la creación de carpetas para evitar conflictos al clonar el repositorio |
 | **Sprint Goal & User Stories**   |                                                                                                                                                         |
-| Sprint 1 Goal                    | Desarrollar una landing page innovadora e informativa para la aplicación Keeplo                                                                         |
+| Sprint 1 Goal                    | Transmitir de forma clara y atractiva el propósito de Keeplo a potenciales usuarios mediante una landing page informativa que fortalezca la imagen de la marca y estimule el interés por la plataforma.                                                                         |
 | Sprint 1 Velocity                | 39                                                                                                                                                      |
 | Sum of Story Points              | 39                                                                                                                                                      |
 
