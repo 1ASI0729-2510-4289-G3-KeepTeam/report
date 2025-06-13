@@ -1745,6 +1745,52 @@ Para el despliegue de nuestra aplicación web decidimos utilizar los servicios d
 
 ## 5.3 Validation Interviews
 ### 5.3.1 Diseño de Entrevistas
+
+**General**
+
+Preguntas Generales:
+
+Nombres, apellidos, edad, distrito
+
+Landing Page:
+
+1. ¿Entiendes que hace esta aplicación con solo ver la página principal?  
+2. ¿Sientes que puedes navegar fácilmente por las secciones de la landing page?  
+3. ¿Hay algo que te confunde o no queda claro?¿Qué mejorarías del mensaje o diseño para hacerlo más claro?
+
+Application:
+
+4. ¿Cómo te resulta el proceso de guardar una nueva colección?  
+5. ¿Cómo te resulta el proceso de guardar un nuevo ítem?  
+6. ¿Compartes links o ideas con otros? ¿Cómo te parece la función de compartir en esta app?  
+7. ¿Cómo sientes la estética y fluidez del proceso de eliminar?  
+8. ¿Piensas que las opciones de edición son claras?  
+9. ¿Qué tan útil te resulta poder organizar tus productos en colecciones y subcolecciones?
+
+**Segmento 1: Diseñadores**
+
+Landing Page:
+
+1. Entiendes claramente los beneficios de inscribirte a Keeplo como diseñador?  
+2. ¿Sientes que la app está pensada para profesionales creativos como tú?
+
+Application:
+
+1. ¿En qué momento del proceso creativo crees que usarías Keeplo?  
+2. ¿Crees que tus inspiraciones puedan ser fácilmente guardadas?
+
+**Segmento 2: Compradores en línea**
+
+Landing Page:
+
+1. Entiendes claramente los beneficios de inscribirte a Keeplo como Comprador?  
+2. ¿La información te da confianza para guardar tus links de compras?
+
+Application:
+
+1. ¿Cómo te resultó guardar un producto desde una tienda en línea?  
+2. ¿Sueles eliminar productos que ya no vas a comprar? ¿Cómo te pareció la función de papelera?
+   
 ### 5.3.2 Registro de Entrevistas
 ### 5.3.3 Evaluaciones según heurísticas (2 problemas)
 
