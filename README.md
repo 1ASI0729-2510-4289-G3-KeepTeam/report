@@ -1796,6 +1796,11 @@ Application:
 
 ## 5.4 Video About-the-Product
 
+![Screenshot de Video About the Product](assets/abt-the-team-ss.png)
+
+Link a Video About the Product en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EdEQsr7nuthMsiu8_jE9OOcBr3ptOgBNGKL5Lg1OxTwGEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=H2TqoD
+
+Link a Video About the Product en Youtube: https://youtu.be/1k5EaMVat8A?si=UwYtcRMYDvNhMQGY 
 
 # 6. Conclusiones
 
@@ -1877,3 +1882,13 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 - [Link a video de exposión de TB1 en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EaGZUShoThhNvQY3adq7ZQUBg4-rlQKaWEKYWI-se-Ieyw?e=rFnFNl)
 ### Video de Exposición TP1
 - [Link a video de exposión de TP1 en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EemubQ53MS9OrhRkFP9DlyIBs8_WMB2Uhq8we4R88KOJrw?e=ix5op1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+## Anexo C: Videos de Proyecto
+
+### Video About the Team
+
+### Video About the Product
+
+- [Link a Video About the Product en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EdEQsr7nuthMsiu8_jE9OOcBr3ptOgBNGKL5Lg1OxTwGEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=H2TqoD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EdEQsr7nuthMsiu8_jE9OOcBr3ptOgBNGKL5Lg1OxTwGEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=H2TqoD)
+
+- [Link a Video About the Product en Youtube: https://youtu.be/1k5EaMVat8A?si=UwYtcRMYDvNhMQGY](https://youtu.be/1k5EaMVat8A?si=UwYtcRMYDvNhMQGY )
