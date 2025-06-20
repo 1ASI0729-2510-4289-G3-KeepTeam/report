@@ -1744,6 +1744,7 @@ Para el despliegue de nuestra aplicación web decidimos utilizar los servicios d
 #### 5.2.3.8 Team Collaboration Insights during Sprint
 
 ## 5.3 Validation Interviews
+
 ### 5.3.1 Diseño de Entrevistas
 
 **General**
@@ -1792,7 +1793,100 @@ Application:
 2. ¿Sueles eliminar productos que ya no vas a comprar? ¿Cómo te pareció la función de papelera?
    
 ### 5.3.2 Registro de Entrevistas
-### 5.3.3 Evaluaciones según heurísticas (2 problemas)
+### 5.3.3 Evaluaciones según heurísticas 
+
+<h4 align="center"><strong>Usability – Inclusive Design – Information Architecture</strong></h4>
+
+**CARRERA : Ingeniería de Software**
+
+**CURSO : Desarrollo de Aplicaciones Open Source**
+
+**SECCIÓN : 4289**
+
+**PROFESORES : Todos**
+
+**AUDITOR : KeepTeam**
+
+**CLIENTE(S) :** 
+
+***SITE o APP A EVALUAR:***
+
+Keeplo
+
+***TAREAS A EVALUAR:***
+
+*El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:*
+
+1. Log In
+2. Sign Up
+3. Perfiles
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Validación y Compra con Método de Pago
+
+   
+***ESCALA DE SEVERIDAD:***
+
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
+
+
+| Nivel | Descripción |
+| :---- | :---- |
+| 1 | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+***TABLA RESUMEN:***
+
+| \# | Problema | Escala de severidad | Heurística/Principio violada(o) |
+| :---: | ----- | ----- | :---- |
+| 1 | No hay un mensaje de error al equivocarse en un formulario | 1 | Usability: Prevención de errores |
+| 2 | Evitar mostrar opciones a las que el usuario no puede acceder | 2 | Usability: Prevención de errores |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |   |
+
+***DESCRIPCIÓN DE PROBLEMAS:***
+
+#### *PROBLEMA \#1:* No hay un mensaje de error al equivocarse en un formulario
+
+Severidad: 1
+
+Heurística violada: Prevención de errores
+
+**Problema:**
+
+Cuando el usuario rellena un formulario en la aplicación y comete un error como dejar un campo requerido vacío o ingresar un valor invalido, el sistema no muestra ningún mensaje de error de retroalimentación. Esto termina generando confusión al usuario porque no entiende qué está mal ni como corregirlo para continuar.
+
+![imagen problema 1](assets/heuristicasValidation/img19.jpg)
+
+**Recomendación:**
+
+*Incluir mensajes de errores de los campo de formularios, estos mensajes aparecen cuando el usuario intenta realizar una acción o inmediatamente cuando el error es cometido. Este mensaje indica que se debe corregir junto con el tipo de campo que acepta.* 
+
+![imagen solucion 1](assets/heuristicasValidation/img24.jpg)
+![imagen solucion 1](assets/heuristicasValidation/img23.jpg)
+
+#### *PROBLEMA \#2:* Evitar mostrar opciones a las que el usuario no puede acceder
+
+Severidad: 3
+
+Heurística violada: Prevención de errores
+
+**Problema:**
+
+Cuando el usuario se encuentra en la sección de inicio de sesión o registro de usuario, en la parte superior se muestra un header con las opciones de Dashboard, Plans, Trashcan, a pesar de no haber iniciado sesión. Esto puede llevar a una confusión por parte del usuario puesto que no se tiene un evento que se cumpla al momento de hacer clic en estas opciones produciendo un error.
+
+![imagen problema 2](assets/heuristicasValidation/img27.jpg)
+
+**Recomendación:**
+
+Ocultar las opciones que requieren que el usuario esté con una sesión iniciada. Estas opciones sólo se mostrarán en pantallas donde el usuario debe estar con la sesión iniciada.
+
+![imagen solucion 2](assets/heuristicasValidation/img30.jpg)
 
 ## 5.4 Video About-the-Product
 
