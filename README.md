@@ -1737,6 +1737,21 @@ Para el despliegue de nuestra aplicación web decidimos utilizar los servicios d
 
 ### 5.2.3 Sprint 3
 #### 5.2.3.1 Sprint Planning 3
+| Sprint #                         | 3                                                                                                                                                       |
+|:---------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**   |                                                                                                                                                         |
+| Date                             | 7/06/2025                                                                                                                                              |
+| Time                             | 8:00 PM                                                                                                                                                 |
+| Location                         | Llamada mediante Discord                                                                                                                                |
+| Prepared by                      | Gabriel Sanchez                                                                                                                                           |
+| Attendees(to planning meeting)   | George Aliaga, Gabriel Sanchez y Maria Muñoz                                                                                 |
+| Sprint 3-1 Review Summary        | Se completó la implementacion del frontend y parcialmente del backend. En este caso el feedback realizado por los usuarios cumplio con sus expectativas.                                                                                |
+| Sprint 3-1 Retrospective Summary | - Buena coordinación del equipo a través de Discord y Whatsapp<br>- Mejor organización en la creación de carpetas para evitar conflictos al clonar el repositorio<br> -|
+| **Sprint Goal & User Stories**   |                                                                                                                                                         |
+| Sprint 3 Goal                    | Establecer y desarrollar la designacion de responsabilidades entre usuarios y gestion de colecciones, para  permitir que Keeplo escale de manera apropiada y mejore la experiencia de usuario.                                                                         |
+| Sprint 3 Velocity                | 39                                                                                                                                                      |
+| Sum of Story Points              | 39                                                                                                                                                      |
+
 #### 5.2.3.2 Aspect Leaders and Collaborators
 #### 5.2.3.3 Sprint Backlog 3
 #### 5.2.3.4 Development Evidence for Sprint Review
