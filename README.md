@@ -1071,7 +1071,7 @@ Link Miro: https://miro.com/welcomeonboard/aXRqaHNteXl2dlUrQTVWQ2VYSnZYc0FjblY1M
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 
-![diagrama contexto](assets/c4/context.png)
+![diagrama de contexto](assets/structurizr-91993-SystemContext-001)
 
 ### 4.6.2. Software Architecture Container Diagrams
 
