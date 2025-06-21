@@ -1840,8 +1840,11 @@ La estética y fluidez del proceso de eliminar fueron bien recibidas, especialme
 
 - **Enlace de entrevista**:
 - **Inicio**: 
-- **Fin**: 
-- **Resumen de entrevista**:  
+- **Fin**:
+
+  
+**Resumen de entrevista**:
+  
 Se entrevistó a Luz Rupay, diseñadora, quien participó en una sesión de evaluación de la plataforma Keeplo. La conversación se centró en cómo la experiencia estaba pensada tanto para diseñadores como para compradores, y en qué medida sus funciones aportaban valor al proceso creativo y organizativo. En cuanto a la navegación general de la plataforma, Luz destacó que el flujo era claro y nada confuso, gracias a una barra de navegación que consideró útil para orientarse fácilmente. Según comentó, esto le permitió explorar Keeplo sin perderse y encontrar lo que necesitaba sin dificultad. Uno de los puntos donde propuso una mejora fue en la comparación entre los planes de comprador y diseñador, sugiriendo que esta diferencia podría destacarse mejor visualmente para que el usuario entienda rápidamente cuál opción es la ideal según su perfil. Desde su rol como diseñadora, valoró especialmente la función de guardar ideas y mantenerlas en orden, comentando que Keeplo le ofrecía una estructura ideal para tener sus proyectos organizados por tema o etapa. Propuso añadir un botón para que las colecciones pudieran hacerse públicas sin necesidad de compartir un link específico, lo cual facilitaría la difusión de su trabajo o inspiración de manera abierta. También resaltó como eficaz el proceso para eliminar colecciones o ítems, ya que la plataforma le pedía una confirmación antes de completar la acción, lo que evitaba errores. En línea con esto, celebró la funcionalidad de la papelera, que le permitía recuperar ítems eliminados por accidente, dándole seguridad y control sobre su contenido.Finalmente, Luz indicó que Keeplo le servía como un espacio confiable y práctico para tener sus ideas ordenadas y disponibles en cualquier momento que necesitara retomarlas, favoreciendo su flujo creativo y la gestión visual de sus proyectos.
 
 
@@ -1882,9 +1885,33 @@ En cuanto a la aplicación Keeplo, Kenny resaltó que el proceso para guardar nu
 
 - **Enlace de entrevista**:
 - **Inicio**: 
-- **Fin**: 
-- **Resumen de entrevista**:
+- **Fin**:
+  
+**Resumen de entrevista**:
+
 Se entrevistó a Sergio Aguirre, quien participó en una sesión de evaluación de la aplicación Keeplo. Su perspectiva aportó ideas valiosas desde el punto de vista de un comprador que busca mantener un orden eficiente en sus listas y decisiones de compra. Sergio comentó que el diseño de la plataforma le pareció preciso, ya que se centraba en resaltar los aspectos más importantes de la aplicación sin abrumar al usuario. Destacó que la navegación era clara y ordenada, permitiéndole moverse por las secciones sin dificultad. Aun así, señaló como punto de mejora que la experiencia visual podría optimizarse en dispositivos móviles, para ofrecer una presentación más fluida y adaptable. Desde su rol como comprador, valoró especialmente cómo Keeplo le permitía mantener organizadas sus listas de compras, facilitando el acceso a productos que deseaba adquirir más adelante. Sugerió añadir una opción de búsqueda alfabética, que le permitiría identificar sus colecciones con mayor rapidez, especialmente cuando se acumulan muchas. La funcionalidad para compartir colecciones le pareció muy útil, sobre todo porque le permitía colaborar con amigos o familiares al agregar ítems en conjunto y luego comparar opciones. Este aspecto colaborativo fue algo que destacó como esencial para quienes compran en grupo o planifican adquisiciones compartidas. En cuanto a la eliminación de elementos, mencionó que el sistema actual, con confirmación previa, era eficiente y seguro, minimizando errores. Además, celebró la utilidad de la papelera, que le permitía recuperar productos eliminados por accidente. Como sugerencia, propuso incluir un botón para restaurar todas las colecciones eliminadas, lo cual mejoraría la eficiencia cuando se necesita recuperar múltiples elementos. Finalmente, Sergio señaló que Keeplo lo ayudaba a gestionar sus compras futuras de manera más ordenada, evitando olvidos y manteniendo visible aquello que necesita adquirir. La plataforma, según dijo, cumple con su promesa de simplificar y organizar el proceso de compra personal.
+
+
+#### Entrevista 3
+
+- **Nombre**: Marcelo Fabián
+- **Apellidos**: Garro Vega
+- **Edad**: 22
+- **Lugar de residencia**: 
+- **Entrevistador**: George Aliaga 
+
+**Evidencia de entrevista**
+[![imageentre3.png](https://i.postimg.cc/BbtHJsnC/image.png)](https://postimg.cc/y34kTM9J)
+
+- **Enlace de entrevista**:
+- **Inicio**: 
+- **Fin**:
+  
+**Resumen de entrevista**:
+
+Se entrevistó a Marcelo Fabián Garro Vega, estudiante y trabajador en el servicio de Retail de Ecommerce, para evaluar la landing page y la aplicación web de Keeplo desde la perspectiva de un comprador en línea.
+En relación con la Landing Page, Marcelo consideró que la aplicación se entiende bastante bien desde la página principal, destacando el logo, el eslogan y las secciones que brindan una descripción clara de las funcionalidades y beneficios de Keeplo, especialmente para "compartir wishlists". Afirmó que la navegación es fluida y fácil de entender, resaltando la presencia de enlaces en el encabezado y la excelente accesibilidad mediante teclado (uso de Tab), lo que le permitió navegar sin el mouse. Como mejora, sugirió optimizar el eslogan de la portada para que la idea principal se capte más rápidamente. También notó que algunas secciones eran "demasiado grandes", ocupando toda la pantalla con poco contenido, lo que genera "mucho vacío" y podría ser mejorado visualmente. En general, como comprador en línea, Marcelo entendió claramente los beneficios de inscribirse en Keeplo.
+Respecto a la aplicación Keeplo, Marcelo encontró que el proceso para guardar una nueva colección era fácil y práctico, destacando la sencillez del formulario con pocos campos. De manera similar, el proceso para guardar un nuevo ítem fue percibido como muy fácil y práctico, implicando la URL y la imagen del producto. La función de compartir le pareció "muy útil", especialmente para organizar y compartir listas de compras para eventos (ej. una boda), permitiéndole compartir enlaces o QR con familiares. Sobre la estética y fluidez del proceso de eliminar, lo describió como "muy sencillo" y un "estándar" en otras aplicaciones, lo que facilita su uso. Las opciones de edición las consideró claras y prácticas, contribuyendo a una pantalla ordenada y sin información innecesaria. En cuanto a la utilidad de organizar productos en colecciones o subcolecciones, la consideró "muy útil" para cualquier tipo de organización, especialmente para eventos o compras masivas, ayudando a saber el propósito de cada colección. Finalmente, sobre la experiencia de guardar un producto desde una tienda en línea, Marcelo señaló que el flujo actual es "un poco extenso" (3 o 4 pasos), requiriendo copiar manualmente la URL, imagen y texto. Su principal sugerencia fue automatizar el llenado de campos (imagen, nombre, descripción) con solo pegar la URL, lo que reduciría significativamente los pasos y haría el proceso más eficiente. La función de la papelera le pareció "muy útil", especialmente para recuperar elementos eliminados por error, ya que su actividad de eliminación de productos es "bastante elevada" al desactualizarse colecciones.
 
   
 ### 5.3.3 Evaluaciones según heurísticas 
