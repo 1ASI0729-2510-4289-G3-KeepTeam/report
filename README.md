@@ -167,11 +167,13 @@
   
 [6. Conclusiones](#6-conclusiones)
 
-[7. Recomendaciones](#7-recomendaciones)
+[7. Video About the Team](#7-video-about-the-team)
 
-[8. Bibliografía](#8-bibliografía)
+[8. Recomendaciones](#8-recomendaciones)
 
-[9. Anexos](#9-anexos)
+[9. Bibliografía](#9-bibliografía)
+
+[10. Anexos](#10-anexos)
 
 TB1
 
@@ -1919,8 +1921,16 @@ El desarrollo del frontend de Keeplo respondió a la necesidad de ofrecer una ex
 
 La elección de Render como plataforma de despliegue facilitó considerablemente la publicación del frontend de Keeplo. Al permitir la conexión directa con repositorios y automatizar los procesos de integración, Render se posicionó como una solución eficaz para mantener el proyecto actualizado, accesible y estable. Esta elección tecnológica contribuyó a acortar los tiempos de despliegue y a garantizar una experiencia fluida en distintos entornos de uso.
 
+# 7. Video About The Team
 
-# 7. Recomendaciones
+![video about the team ss of youtube](assets/abt-the-team-ss.png)
+
+- [Link a Video About the Team en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ebz8rpkJ3TdPtQfA58uYwB0BAuJhDYSCi3dEnFduGSLSdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6tPW54](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ebz8rpkJ3TdPtQfA58uYwB0BAuJhDYSCi3dEnFduGSLSdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6tPW54)
+
+- [Link a Video About the Team en Youtube: https://youtu.be/a7vinekxhnw](https://youtu.be/a7vinekxhnw)
+
+
+# 8. Recomendaciones
 
 
 Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la plataforma, recomendamos realizar las siguientes acciones:
@@ -1929,13 +1939,13 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 - Desarrollar un algoritmo de auto-etiquetado, donde los “Wishes” puedan ser asignados automáticamente una etiqueta en el caso de no tener una etiqueta añadida manualmente, estas auto-etiquetas serían creadas a partir del nombre y descripción del “Wish”, facilitando la organización rápida de contenido y reduciendo el esfuerzo de acciones manuales por parte del usuario
 - Incorporar una funcionalidad de extra valor para los compradores, en la cual se les permite asignar un campo de valor, como lo es el precio, el cual funcionaria como un tag adicional y aparte, permitiendo ordenar y filtrar a partir del precio de un ítem, optimizando la comparación de precios entre productos similares.
 
-# 8. Bibliografía  
+# 9. Bibliografía  
      
    *¿Cuál es la función de la lista de deseo de una tienda online?* (2023, 1 junio). Sell Emprendepyme. [https://sell.emprendepyme.net/cual-es-la-funcion-de-la-lista-de-deseo-de-una-tienda-online.html](https://sell.emprendepyme.net/cual-es-la-funcion-de-la-lista-de-deseo-de-una-tienda-online.html)  
      
    Salinas Anaya, Y. D., Galván Rodríguez, D. G., Guzmán Prince, I., & Orrante Sakanassi, J. A. (2022). *El impacto del internet de todas las cosas (IoT) en la vida cotidiana.* Ciencia Latina Revista Científica Multidisciplinar, 6(2), 1369–1378. https://doi.org/10.37811/cl\_rcm.v6i2.1959  
      
-# 9. Anexos
+# 10. Anexos
 
 ## Anexo A: Links importantes
 
@@ -1981,7 +1991,12 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 
 ### Video About the Team
 
+- [Link a Video About the Team en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ebz8rpkJ3TdPtQfA58uYwB0BAuJhDYSCi3dEnFduGSLSdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6tPW54](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ebz8rpkJ3TdPtQfA58uYwB0BAuJhDYSCi3dEnFduGSLSdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6tPW54)
+
+- [Link a Video About the Team en Youtube: https://youtu.be/a7vinekxhnw](https://youtu.be/a7vinekxhnw)
+
 ### Video About the Product
+
 
 - [Link a Video About the Product en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EdEQsr7nuthMsiu8_jE9OOcBr3ptOgBNGKL5Lg1OxTwGEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=H2TqoD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EdEQsr7nuthMsiu8_jE9OOcBr3ptOgBNGKL5Lg1OxTwGEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=H2TqoD)
 
