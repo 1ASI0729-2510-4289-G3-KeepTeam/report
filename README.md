@@ -1936,7 +1936,6 @@ La elección de Render como plataforma de despliegue facilitó considerablemente
 
 # 8. Recomendaciones
 
-
 Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la plataforma, recomendamos realizar las siguientes acciones:
 
 - Incluir una funcionalidad donde los usuarios puedan guardar sus “Wish” a través de extensiones de navegador, permitiéndoles guardar ítems de manera inmediata mientras navegan, logrando evitar una desconexión de concentración, mejorando la eficacia y la rapidez con la que crean nuevos wishes
@@ -1954,12 +1953,17 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 ## Anexo A: Links importantes
 
 ### Entrevistas
-- [Primera entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EeNk9gGGXXZGste_XhDJuBgBNiGZS6d4YunpXqeBQtpRDQ?e=ZJtqMr)
-- [Segunda entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EVGJYmAlN5NPtdMpPKREaGIB8kXTSCgh1ujGvmjp3NPfcw?e=E11e1a)
-- [Tercera entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EVwOdiCdGNZMillGsKP4Z04B7adFHL6vvNtlzzKkxLkrGw?e=ybLGiq)
-- [Cuarta entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EZSQSpASULhCinUlOwe7xfABhfA6otlNqIQACcmBPEFBEA?e=LvfkLF)
-- [Quinta entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/Ecj5l57a8JBNob_bRwJ2t3wBRZj384NjkNyO_B6uo3Xehw?e=DNiL53)
-- [Sexta entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EdQQE2oyec1HohAyd--ZUU8BJanDA3Y3HSO3vP3hsTpMrQ?e=Ei2KrR)
+
+#### Entrevistas a segmentos objetivos
+
+- [Entrevistas a Compradores: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EXe6OhIXtblKsT2opoqwtusBGOqzPmlaZ2nFy-GUhQLaNg?e=9p8CVR](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EXe6OhIXtblKsT2opoqwtusBGOqzPmlaZ2nFy-GUhQLaNg?e=9p8CVR)
+
+- [Entrevista a Diseñadores: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/ETT-Y4hwZ3dOhbTL41ZnM_QBVFXD3A8NBi1W71INKC09GQ?e=eLUK08](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/ETT-Y4hwZ3dOhbTL41ZnM_QBVFXD3A8NBi1W71INKC09GQ?e=eLUK08)
+
+#### Entrevistas de validación
+
+- [Entrevistas a Compradores: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ec9mnTJR_pRIs1CZJQljK90BxlcxElkN5_toYE07AD7q4A?e=BSGYm8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ec9mnTJR_pRIs1CZJQljK90BxlcxElkN5_toYE07AD7q4A?e=BSGYm8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [Entrevistas a Diseñadores: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EannRcC4-ulNnEy2UziYkVUB8Cw4SpOz1v_43UtEKK5I1A?e=PaoU9z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EannRcC4-ulNnEy2UziYkVUB8Cw4SpOz1v_43UtEKK5I1A?e=PaoU9z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### User Persona
 - [User Persona - Diseñador](https://uxpressia.com/w/2JtXc/p/Qlp9Z)
