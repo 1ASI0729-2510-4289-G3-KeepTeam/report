@@ -1755,11 +1755,11 @@ Para el despliegue de nuestra aplicación web decidimos utilizar los servicios d
 
 #### 5.2.3.2 Aspect Leaders and Collaborators
 
-| Team Member (Last Name, First Name) | GitHub Username | Administracion de perfiles  Leader(L)/Colaborador(C) | Administracion de suscripciones | Gestion de colecciones | Gestion de items |
-| :---- | ----- |:-------------------------------------------------------|:-------------------|:-------------------------------|:-------------------------------------|:--------------------------------|
-| Sanchez Gonzales | [yigabriel](https://github.com/yigabriel) | L                                                      | C                  |                 C               | C                                    |                             |
-| Aliaga Pimentel, George Arturo  | [GeorAliaga](https://github.com/GeorAliaga) | C                                                      | L                  | L                              |                                      |                     C            | C
-| Muñoz Machuca, Maria Elena | [maria-mm0907](https://github.com/maria-mm0907) |   C                                                     | C                  | C                              | L                                    | L                               |
+| Team Member (Last Name, First Name)     | GitHub Username                                              | Administración de perfiles (L/C) | Administración de suscripciones | Gestión de colecciones | Gestión de ítems |
+|----------------------------------------|--------------------------------------------------------------|----------------------------------|-------------------------------|------------------------|------------------|
+| Sanchez Gonzales                       | [yigabriel](https://github.com/yigabriel)                   | L                                | C                             | C                      | C                |
+| Aliaga Pimentel, George Arturo         | [GeorAliaga](https://github.com/GeorAliaga)                 | C                                | L                             | L                      | C                |
+| Muñoz Machuca, Maria Elena             | [maria-mm0907](https://github.com/maria-mm0907)             | C                                | C                             | C                      | L                |
 
 
 
