@@ -1874,14 +1874,13 @@ En el **Registro de Entrevistas**, se documenta todo lo que dijeron los entrevis
 
 **Evidencia de entrevista**
 
-[![image.png](https://i.postimg.cc/vB3QfYgF/image.png)](https://postimg.cc/ph5bttJq)
+![entrevista screenshot](assets/validationInterviewsSS/adrianpaoli.png)
 
 **Enlace de entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EannRcC4-ulNnEy2UziYkVUB8Cw4SpOz1v_43UtEKK5I1A?e=PaoU9z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **Inicio:** 4:35
 
 **Fin:** 9:50
-
 
 **Resumen de entrevista**
 
@@ -1900,8 +1899,7 @@ La estética y fluidez del proceso de eliminar fueron bien recibidas, especialme
 - **Entrevistador**: Maria Elena Muñoz  
 
 **Evidencia de entrevista**
-![Screenshot 2025-06-20 223041](https://github.com/user-attachments/assets/ed745df1-8f07-4863-b910-35698295e5c1)
-
+![entrevista screenshot](assets/validationInterviewsSS/luzRupay.png)
 
 
 - **Enlace de entrevista**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EannRcC4-ulNnEy2UziYkVUB8Cw4SpOz1v_43UtEKK5I1A?e=PaoU9z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -1912,6 +1910,31 @@ La estética y fluidez del proceso de eliminar fueron bien recibidas, especialme
 **Resumen de entrevista**:
   
 Se entrevistó a Luz Rupay, diseñadora, quien participó en una sesión de evaluación de la plataforma Keeplo. La conversación se centró en cómo la experiencia estaba pensada tanto para diseñadores como para compradores, y en qué medida sus funciones aportaban valor al proceso creativo y organizativo. En cuanto a la navegación general de la plataforma, Luz destacó que el flujo era claro y nada confuso, gracias a una barra de navegación que consideró útil para orientarse fácilmente. Según comentó, esto le permitió explorar Keeplo sin perderse y encontrar lo que necesitaba sin dificultad. Uno de los puntos donde propuso una mejora fue en la comparación entre los planes de comprador y diseñador, sugiriendo que esta diferencia podría destacarse mejor visualmente para que el usuario entienda rápidamente cuál opción es la ideal según su perfil. Desde su rol como diseñadora, valoró especialmente la función de guardar ideas y mantenerlas en orden, comentando que Keeplo le ofrecía una estructura ideal para tener sus proyectos organizados por tema o etapa. Propuso añadir un botón para que las colecciones pudieran hacerse públicas sin necesidad de compartir un link específico, lo cual facilitaría la difusión de su trabajo o inspiración de manera abierta. También resaltó como eficaz el proceso para eliminar colecciones o ítems, ya que la plataforma le pedía una confirmación antes de completar la acción, lo que evitaba errores. En línea con esto, celebró la funcionalidad de la papelera, que le permitía recuperar ítems eliminados por accidente, dándole seguridad y control sobre su contenido.Finalmente, Luz indicó que Keeplo le servía como un espacio confiable y práctico para tener sus ideas ordenadas y disponibles en cualquier momento que necesitara retomarlas, favoreciendo su flujo creativo y la gestión visual de sus proyectos.
+
+#### Entrevista 3
+
+- **Nombre**: Chloe 
+- **Apellidos**: Holguin Marzo
+- **Edad**: 25
+- **Lugar de residencia**: San Isidro
+- **Entrevistador**: Gabriel Sanchez Gonzales
+
+**Evidencia de entrevista**
+![entrevista screenshot](assets/validationInterviewsSS/ane.png)
+
+
+- **Enlace de entrevista**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EannRcC4-ulNnEy2UziYkVUB8Cw4SpOz1v_43UtEKK5I1A?e=PaoU9z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+  
+- **Inicio**: 0:01
+- **Fin**: 4:35
+
+  
+**Resumen de entrevista**:
+
+Se entrevistó a Chloe Holguin Marzo, diseñadora gráfica de 25 años que evaluó la landing page y la aplicación web de Keeplo desde la perspectiva su perspectiva. Durante esta entrevista, Chloe compartió sus impresiones generales sobre la interfaz, usabilidad y funciones principales de la plataforma.
+En relación con la landing page, Chloe comentó que comprendió rápidamente la finalidad de la herramienta, comparándola con Pinterest, ya que le transmitió la idea de una plataforma para guardar y organizar referencias visuales o productos. Destacó el diseño visual, afirmando que los colores del logo combinaban bien con la estética general del sitio. También valoró la navegación sencilla, y consideró positivo que la página estuviera disponible tanto en inglés como en español, ya que amplía su accesibilidad. En términos generales, consideró que el mensaje visual y funcional era claro y no encontró elementos confusos o que requirieran mejoras.
+Al probar la aplicación, Chloe encontró que el proceso para guardar nuevos ítems le pareció útil y funcional, especialmente pensando en guardar enlaces de interés como conciertos o productos, aunque mencionó una falla puntual al intentar guardar un producto a nivel del guardado del item. A nivel de interacción, resaltó que la función de compartir, especialmente a través de códigos QR, le pareció muy práctica para enviarlo fácilmente a grupos o amigos. También destacó lo intuitivo del diseño, mencionando que la elección de íconos facilitaba esta tarea. Las opciones de edición le parecieron claras, incluso como alguien sin conocimientos técnicos avanzados. En cuanto a la organización de contenido, mencionó que crear y manejar colecciones y subcolecciones fue sencillo y ordenado. Finalmente, afirmó que como diseñadora veía valor en la plataforma, ya que le permitiría trabajar en equipo, compartir inspiración visual y mantenerse organizada en sus proyectos creativos.
+
 
 
 ### Segmento 2: Compradores en línea
@@ -1926,7 +1949,7 @@ Se entrevistó a Luz Rupay, diseñadora, quien participó en una sesión de eval
 
 **Evidencia de entrevista**
 
-[![image2.png](https://i.postimg.cc/kX2HvJ6N/image.png)](https://postimg.cc/QHrSXrqV)
+![entrevista screenshot](assets/validationInterviewsSS/kennyAlexander.png)
 
 * **Enlace de entrevista**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ec9mnTJR_pRIs1CZJQljK90BxlcxElkN5_toYE07AD7q4A?e=BSGYm8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
   
@@ -1948,7 +1971,8 @@ En cuanto a la aplicación Keeplo, Kenny resaltó que el proceso para guardar nu
 - **Entrevistador**: Maria Elena Muñoz  
 
 **Evidencia de entrevista**
-![image](https://github.com/user-attachments/assets/1083cdf9-6c4d-46f0-8c8d-edd60f785b13)
+
+![entrevista screenshot](assets/validationInterviewsSS/sergio.png)
 
 - **Enlace de entrevista**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ec9mnTJR_pRIs1CZJQljK90BxlcxElkN5_toYE07AD7q4A?e=BSGYm8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
 - **Inicio**: 11:04
@@ -1968,7 +1992,8 @@ Se entrevistó a Sergio Aguirre, quien participó en una sesión de evaluación 
 - **Entrevistador**: George Aliaga 
 
 **Evidencia de entrevista**
-[![imageentre3.png](https://i.postimg.cc/BbtHJsnC/image.png)](https://postimg.cc/y34kTM9J)
+
+![entrevista screenshot](assets/validationInterviewsSS/marcelo.png)
 
 - **Enlace de entrevista**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ec9mnTJR_pRIs1CZJQljK90BxlcxElkN5_toYE07AD7q4A?e=BSGYm8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
 - **Inicio**: 3:50
