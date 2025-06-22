@@ -150,14 +150,30 @@
     - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-
+  - [5.2.3 Sprint 3](#523-sprint-3)
+    - [5.2.3.1 Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2 Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+    - [5.2.3.3 Sprint Backlog 3](#5233-sprint-backlog-3)
+    - [5.2.3.4 Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+    - [5.2.3.5 Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6 Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7 Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8 Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+- [5.3 Validation Interviews](#53-validation-interviews)
+  - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
+   - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
+  - [5.3.3 Evaluaciones según heurísticas (2 problemas)](#533-evaluaciones-según-heurísticas-2-problemas)
+- [5.4 Video About-the-Product](#54-video-about-the-product)
+  
 [6. Conclusiones](#6-conclusiones)
 
-[7. Recomendaciones](#7-recomendaciones)
+[7. Video About the Team](#7-video-about-the-team)
 
-[8. Bibliografía](#8-bibliografía)
+[8. Recomendaciones](#8-recomendaciones)
 
-[9. Anexos](#9-anexos)
+[9. Bibliografía](#9-bibliografía)
+
+[10. Anexos](#10-anexos)
 
 TB1
 
@@ -746,7 +762,9 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 | US42 | Footer | Como visitante del segmento objetivo diseñador y comprador quiero ver información útil en el footer de la página para acceder rápidamente a redes sociales. | **Escenario 1: Consultar información desde el footer** <br> Dado que el visitante está en la parte inferior de la página <br> Cuando visualiza el footer <br> Entonces encontrará enlaces a redes sociales <br> | EP05 |
 | US43 | Cambio de lenguaje a ingles y español | Como visitante del segmento objetivo diseñador y comprador quiero cambiar el idioma del sitio entre inglés y español para entender mejor el contenido. | **Escenario 1: Visualizar en idioma de navegador de inglés o español** <br> Dado que el visitante tiene el idioma de su navegador configurado a ingles o espanol <br> Cuando entra a la landing page <br> Entonces todo el contenido del sitio se mostrará en el idioma del navegador. <br> <br> **Escenario 2: Visualizar en idioma de navegador de otro idioma** <br> Dado que el visitante tiene el idioma de su navegador configurado a uno que no es ingles o espanol <br> Cuando entra a la landing page <br> Entonces todo el contenido del sitio se mostrará en el idioma inglés por defecto. <br> <br> **Escenario 3: Cambiar el idioma del sitio** <br> Dado que el visitante se encuentra en la landing page <br> Cuando selecciona el botón “EN” o “ES” de la parte inferior derecha <br> Entonces todo el contenido del sitio se mostrará en el idioma elegido. | EP05 |
 | US44 | Atributos Aria | Como visitante del segmento objetivo diseñador y comprador con discapacidad quiero que el sitio sea accesible para navegarlo con lectores de pantalla. | **Escenario 1: Usar atributos ARIA para accesibilidad** <br> Dado que el visitante navega con un lector de pantalla <br> Cuando interactúa con los elementos de la interfaz <br> Entonces el lector de pantalla describirá correctamente los elementos gracias a los atributos ARIA. <br> | EP05 |
-| US45 | Cambio de lenguaje a ingles y español en aplicación | Como visitante y usuario del segmento objetivo diseñador y comprador quiero cambiar el idioma del sitio entre inglés y español para entender mejor el contenido. | **Escenario 1: Visualizar en idioma de navegador de inglés o español** <br> Dado que el visitante tiene el idioma de su navegador configurado a ingles o espanol <br> Cuando entra a la landing page <br> Entonces todo el contenido del sitio se mostrará en el idioma del navegador. <br> <br> **Escenario 2: Visualizar en idioma de navegador de otro idioma** <br> Dado que el visitante tiene el idioma de su navegador configurado a uno que no es ingles o espanol <br> Cuando entra a la landing page <br> Entonces todo el contenido del sitio se mostrará en el idioma inglés por defecto. <br> <br> **Escenario 3: Cambiar el idioma del sitio** <br> Dado que el visitante se encuentra en la landing page <br> Cuando selecciona el botón “EN” o “ES” de la parte inferior derecha <br> Entonces todo el contenido del sitio se mostrará en el idioma elegido. | EP06: |
+| US45 | Cambio de lenguaje a ingles y español en aplicación | Como usuario de ambos segmentos objetivos comprador y diseñador quiero poder cambiar el idioma del sitio entre inglés y español para comprender mejor el contenido según mi preferencia. | **Escenario 1: Cambio de idioma desde el menú** <br> Dado que el visitante accede al sitio web <br> Cuando selecciona la opción de idioma en el menú superior <br> Entonces todo el contenido del sitio se actualizará al idioma seleccionado, manteniendo la estructura visual. | EP05 |
+| US46 | Añadir video about the team | Como visitante de ambos segmentos objetivos quiero ver un video donde se muestre quiénes están detrás del proyecto para generar cercanía y credibilidad. | **Escenario 1:** **Reproducir video del equipo** <br> Dado que el visitante se desplaza a la sección del video about the team en la landing page <br> Cuando da clic en el botón de reproducir el video del equipo <br> Entonces se mostrará el video presentando a los miembros del equipo y su propósito. <br> | EP05 |
+| US47 | Añadir video about the product | Como visitante de ambos segmentos objetivos quiero ver un video que muestre sus características principales para entender su funcionalidad de forma rápida. | **Escenario 1: Reproducir video del producto** <br> Dado que el visitante se desplaza a la sección del video about the product en la landing page <br> Cuando da clic en el botón de reproducir el video del producto <br> Entonces el video se mostrará en una ventana emergente o sección integrada, permitiendo conocer visualmente cómo funciona el producto. | EP05 |
 
 ### 3.2.3 Technical Stories:
 
@@ -823,6 +841,8 @@ Technical:
 | 43 | US32 | Actualizar tarjeta de crédito asociada. | Cambiar datos de pago para suscripción. | 3 |
 | 44 | US45 | Cambio de lenguaje a inglés y español en aplicación. | Alternar idioma desde la app. | 5 |
 | 45 | US31 | Acceder a planes de suscripción premium. | Ver precios y beneficios, y suscribirse. | 5 |
+| 46 | US46 | Anadir video de about the team | Ver video de about the team | 3 |
+| 47 | US47 | Anadir video de about the product | Ver video de about the product  | 3 |
 
 # Capítulo IV: Product Design
 
@@ -1055,15 +1075,15 @@ Link Miro: https://miro.com/welcomeonboard/aXRqaHNteXl2dlUrQTVWQ2VYSnZYc0FjblY1M
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 
-![diagrama contexto](assets/c4/context.png)
+![diagrama de contexto](assets/contextDiagramv1.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-![diagrama contexto](assets/c4/container.png)
+![diagrama de contenedores](assets/containerDiagramv1.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 Frontend
-![diagrama contexto](assets/c4/comp-front.png)
+![diagrama contexto](assets/componentDiagramv1.png)
 Backend
 ![diagrama contexto](assets/c4/comp-back.png)
 
@@ -1202,9 +1222,11 @@ Link a C4: [Link a Structurizer](https://structurizr.com/share/87207/5b87183f-b1
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-![Keeplo-v2](assets/db-diagram.jpeg)
 
-[Enlace del diagrama de base de datos ](https://my.vertabelo.com/doc/lah8xd68anzS3iGZAssm1kXuLByWPuqi )
+![Keeplo-2025-05-26_16-59](https://github.com/user-attachments/assets/d7aaa9fc-e930-4fbf-b87e-2b2c9a873911)
+
+
+[Enlace del diagrama de base de datos ]([https://my.vertabelo.com/doc/lah8xd68anzS3iGZAssm1kXuLByWPuqi ](https://my.vertabelo.com/doc/pzHl6Xqb8nAH1OTw92cOjw17LIyV8NTN))
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -1450,7 +1472,7 @@ Se accedió al enlace generado para confirmar que la Landing Page se visualizaba
 | Sprint 1-1 Review Summary        | Se completó el diseño y desarrollo inicial de la landing page de Keeplo                                                                                 |
 | Sprint 1-1 Retrospective Summary | - Buena coordinación del equipo a través de Discord <br>- Mejor organización en la creación de carpetas para evitar conflictos al clonar el repositorio |
 | **Sprint Goal & User Stories**   |                                                                                                                                                         |
-| Sprint 1 Goal                    | Desarrollar una landing page innovadora e informativa para la aplicación Keeplo                                                                         |
+| Sprint 1 Goal                    | Transmitir de forma clara y atractiva el propósito de Keeplo a potenciales usuarios mediante una landing page informativa que fortalezca la imagen de la marca y estimule el interés por la plataforma.                                                                         |
 | Sprint 1 Velocity                | 39                                                                                                                                                      |
 | Sum of Story Points              | 39                                                                                                                                                      |
 
@@ -1563,11 +1585,11 @@ Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta 
 | Location                         | Llamada mediante Discord |
 | Prepared by                      | Gabriel Sanchez |
 | Attendees(to planning meeting)   | George Aliaga, Gabriel Sanchez y Maria Muñoz |
-| Sprint 2-2 Review Summary        |  Buena organización y coordinación del equipo mediante Discord y WhatsApp  Buena organización de carpetas en el repositorio para evitar conflictos al hacer merge  |
-| Sprint 2-2 Retrospective Summary |  Se completó el diseño y desarrollo del frontend de Keeplo  |
+| Sprint 2-1 Review Summary        |  Buena organización y coordinación del equipo mediante Discord y WhatsApp  Buena organización de carpetas en el repositorio para evitar conflictos al hacer merge  |
+| Sprint 2-1 Retrospective Summary |  Se completó el diseño y desarrollo del frontend de Keeplo  |
 | **Sprint Goal & User Stories**   |  |
-| Sprint 1 Goal                    | Corregir errores de la landing page e implementar el frontend de la aplicación Keeplo. |
-| Sprint 1 Velocity                |  40 |
+| Sprint 2 Goal                    | Mejorar la experiencia de los usuarios al interactuar con la plataforma de Keeplo, asegurando  un impresión profesional y ofreciendo una interfaz que permita a nuestros usuarios guardar y visualizar contenido |
+| Sprint 2 Velocity                |  40 |
 | Sum of Story Points              |  40 |
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
@@ -1711,13 +1733,421 @@ Para el despliegue de nuestra aplicación web decidimos utilizar los servicios d
 ![imagen insights github frontend](assets/sprint-2/insights/2.png)
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
-| Team Member (Last Name, First Name) | GitHub Username | Visualización de colecciones  Leader(L)/Colaborador(C) | Editar colecciones | Compartir items de colecciones | Autenticacion y registro de usuarios | Editar los perfiles de usuarios |
-| :---- | ----- |:-------------------------------------------------------|:-------------------|:-------------------------------|:-------------------------------------|:--------------------------------|
-| Sanchez Gonzales | [yigabriel](https://github.com/yigabriel) | L                                                      | C                  |                                | C                                    |                                 |
-| Aliaga Pimentel, George Arturo  | [GeorAliaga](https://github.com/GeorAliaga) | C                                                      | C                  | L                              |                                      |                                 |
-| Muñoz Machuca, Maria Elena | [maria-mm0907](https://github.com/maria-mm0907) |                                                        | L                  | L                              | L                                    | L                               |
+| Team Member (Last Name, First Name)     | GitHub Username                                              | Visualización de colecciones (L/C) | Editar colecciones | Compartir ítems de colecciones | Autenticación y registro de usuarios | Editar los perfiles de usuarios |
+|----------------------------------------|--------------------------------------------------------------|------------------------------------|--------------------|-------------------------------|-------------------------------------|---------------------------------|
+| Sanchez Gonzales                       | [yigabriel](https://github.com/yigabriel)                   | L                                  | C                  |                                | C                                   |                                 |
+| Aliaga Pimentel, George Arturo         | [GeorAliaga](https://github.com/GeorAliaga)                 | C                                  | C                  | L                              |                                     |                                 |
+| Muñoz Machuca, Maria Elena             | [maria-mm0907](https://github.com/maria-mm0907)             |                                    | L                  | L                              | L                                   | L                               |
 
 
+### 5.2.3 Sprint 3
+#### 5.2.3.1 Sprint Planning 3
+| Sprint #                         | 3                                                                                                                                                       |
+|:---------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**   |                                                                                                                                                         |
+| Date                             | 7/06/2025                                                                                                                                              |
+| Time                             | 8:00 PM                                                                                                                                                 |
+| Location                         | Llamada mediante Discord                                                                                                                                |
+| Prepared by                      | Gabriel Sanchez                                                                                                                                           |
+| Attendees(to planning meeting)   | George Aliaga, Gabriel Sanchez y Maria Muñoz                                                                                 |
+| Sprint 3-1 Review Summary        | Se completó la implementacion del frontend y parcialmente del backend. En este caso el feedback realizado por los usuarios cumplio con sus expectativas.                                                                                |
+| Sprint 3-1 Retrospective Summary | - Buena coordinación del equipo a través de Discord y Whatsapp<br>- Mejor organización en la creación de carpetas para evitar conflictos al clonar el repositorio<br> -|
+| **Sprint Goal & User Stories**   |                                                                                                                                                         |
+| Sprint 3 Goal                    | Establecer y desarrollar la designacion de responsabilidades entre usuarios y gestion de colecciones, para  permitir que Keeplo escale de manera apropiada y mejore la experiencia de usuario.                                                                         |
+| Sprint 3 Velocity                | 39                                                                                                                                                      |
+| Sum of Story Points              | 39                                                                                                                                                      |
+
+#### 5.2.3.2 Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name)     | GitHub Username                                              | Administración de perfiles (L/C) | Administración de suscripciones | Gestión de colecciones | Gestión de ítems |
+|----------------------------------------|--------------------------------------------------------------|----------------------------------|-------------------------------|------------------------|------------------|
+| Sanchez Gonzales                       | [yigabriel](https://github.com/yigabriel)                   | L                                | C                             | C                      | C                |
+| Aliaga Pimentel, George Arturo         | [GeorAliaga](https://github.com/GeorAliaga)                 | C                                | L                             | L                      | C                |
+| Muñoz Machuca, Maria Elena             | [maria-mm0907](https://github.com/maria-mm0907)             | C                                | C                             | C                      | L                |
+
+
+
+#### 5.2.3.3 Sprint Backlog 3
+
+| Sprint \# |  |  Sprint 3 |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | ----- | :---- | :---- |
+| **User Story** |  | **Work-Item / Task** |  |  |  |  |  |
+| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation  (Hours)** | **Assigned To** | **Status  (To-do /  InProcess /  ToReview /  Done)** |
+| US01 | Crear colecciones personalizadas | US01-1 | Crear colecciones personalizadas | Permite al usuario organizar sus intereses por categorías | 8 | Aliaga, Sanchez | Done |
+| US02 | Añadir ítems a una colección | US02-1 | Añadir ítems a una colección | Agregar elementos dentro de colecciones existentes | 6 | Sanchez | Done |
+| US09 | Subcarpetas en mis colecciones | US09-1 | Crear subcarpetas dentro de colecciones | Organización avanzada por subcategorías dentro de colecciones | 6 | Sanchez | Done |
+| US13 | Cambio de lenguaje a inglés y español | US13-1 | Implementar cambio de lenguaje | Cambio dinámico entre idiomas ES y EN en la aplicación | 6 | Sanchez, Aliaga | Done |
+| US15 | Eliminar colecciones e ítems | US15-1 | Eliminar colecciones | Funcionalidad para remover colecciones de forma permanente | 6 | Sanchez | Done |
+| US46 | Añadir video About the team | US46-1 | Video del equipo en landing | Mostrar el equipo detrás del producto para generar confianza | 4 | Sanchez | Done |
+| US47 | Añadir video About the product | US47-1 | Video del producto | Video explicativo del funcionamiento del producto en landing page | 4 | Sanchez | Done |
+
+#### 5.2.3.4 Development Evidence for Sprint Review
+
+| **Repository**                                                                 | **Branch**     | **Commit Id** | **Commit Message**                              | **Commit Message Body**                                | **Committed on (Date)** |
+|--------------------------------------------------------------------------------|----------------|----------------|--------------------------------------------------|----------------------------------------------------------|--------------------------|
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | wish-core      | d7f5a3b        | feat: add shared bounded context                 | feat: add shared bounded context                        | 16/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | wish-core      | a3b9e9c        | feat: add wishlist bounded context and collections domain | feat: add wishlist bounded context and collections domain | 18/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | wish-core      | 4c6fd82        | feat: add wishlist controller and resources      | feat: add wishlist controller and resources             | 18/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | wish-core      | 9fcba0e        | feat: add wishlist queries                       | feat: add wishlist queries                              | 18/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | wish-core      | ad8cbe3        | feat: update collections queries                 | feat: update collections queries                        | 18/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | wish-core      | e7bcf4a        | feat: add wish controller and resources          | feat: add wish controller and resources                 | 18/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | wish-core      | 03f6be4        | feat: add tags in collections                    | feat: add tags in collections                           | 18/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | wish-core      | 617fa25        | feat: add wish services of command and query     | feat: add wish services of command and query            | 21/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | wish-core      | 7bca48c        | feat: add delete wish and wishlist               | feat: add delete wish and wishlist                      | 21/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | wish-core      | c28be91        | feat: add tag into wishlist                      | feat: add tag into wishlist                             | 21/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | wish-core      | bd5c1f2        | fix: add tag into collection                     | fix: add tag into collection                            | 21/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | subscription   | 64ca4fe        | chore: initial commit                            | chore: initial commit                                   | 02/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | subscription   | 3b4e1d2        | feat: add domain user management service contracts | feat: add domain user management service contracts     | 03/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | subscription   | 9a2c8e7        | feat: add users repository                        | feat: add users repository                              | 03/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | subscription   | 1f76cd9        | feat: add command and query service implementations | feat: add command and query service implementations     | 03/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | subscription   | 5cf9e8d        | feat: add resource and assemblers for rest interface layer | feat: add resource and assemblers for rest interface layer | 03/06/2025           |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | subscription   | b61f8ad        | feat: userId value object implementation         | feat: userId value object implementation                | 04/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | subscription   | 45c3f0e        | fix: userManagement changed to users bounded context | fix: userManagement changed to users bounded context    | 07/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | subscription   | 2a6e4cf        | fix: userId Value Object not referenced          | fix: userId Value Object not referenced                 | 07/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | subscription   | f7d2c8b        | feat: add membership support                     | feat: add membership support                            | 09/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | subscription   | 03c5eb6        | feat: add card number value object               | feat: add card number value object                      | 09/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | subscription   | 16bdb62        | feat: add paymentcard entity and relations       | feat: add paymentcard entity and relations              | 09/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | subscription   | 90c2c3a        | feat: add subscription aggregate (memory) and relations | feat: add subscription aggregate (memory) and relations | 09/06/2025          |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | subscription   | 6ac6fe0        | fix: users join column                           | fix: users join column                                 | 09/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | subscription   | 389eb43        | feat: add subscription table                     | feat: add subscription table                            | 17/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | subscription   | 9842cf1        | fix: clear unused lines                          | fix: clear unused lines                                 | 17/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | subscription   | d4e2f88        | feat: integrate subscription module with IAM user | feat: integrate subscription module with IAM user       | 19/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | subscription   | 2f8e597        | feat: add payment card endpoint                  | feat: add payment card endpoint                         | 20/06/2025               |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | subscription   | f7ae4d1        | feat: add UpdateSubscriptionCommandFromResourceAssembler implementation | feat: add UpdateSubscriptionCommandFromResourceAssembler implementation | 20/06/2025  |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end                     | subscription   | c3bd671        | chore: add JavaDoc documentation on files        | chore: add JavaDoc documentation on files               | 20/06/2025               |
+
+
+#### 5.2.3.5 Execution Evidence for Sprint Review
+
+![evidence](assets/execution-evidence-sprint-3/executionevidence2.png)
+![evidence](assets/execution-evidence-sprint-3/executionevidence.png)
+
+#### 5.2.3.6 Services Documentation Evidence for Sprint Review
+
+La documentación y prueba de los endpoints se realizó utilizando el servicio de Swagger con Swagger-ui, permitiendo visualizar, consumir y validar la API de forma interactiva. 
+
+| Endpoint        | Operaciones   | Parámetros           | URL                                                       |
+|------------------|----------------|------------------------|------------------------------------------------------------|
+| Roles            | GET            | –                      | /api/v1/roles                                              |
+| Wishes           | POST           | –                      | /api/v1/wishes                                             |
+|                  | GET            | {wishId}               | /api/v1/wishes/{wishId}                                   |
+|                  | GET            | {collectionId}         | /api/v1/wishes/collection/{collectionId}                  |
+|                  | DELETE         | {wishId}               | /api/v1/wishes/wishes/{wishId}                            |
+| Authentication   | POST           | –                      | /api/v1/authentication/sign-up                            |
+|                  | POST           | –                      | /api/v1/authentication/sign-in                            |
+| Subscription     | PUT            | {subscriptionId}       | /api/v1/subscriptions/{subscriptionId}                    |
+|                  | POST           | –                      | /api/v1/subscriptions                                      |
+|                  | GET            | {userId}               | /api/v1/subscriptions/user/{userId}                       |
+| Wishlist         | GET            | –                      | /api/v1/collections                                        |
+|                  | POST           | –                      | /api/v1/collections                                        |
+|                  | POST           | {collectionId}         | /api/v1/collections/{collectionId}/tags                   |
+|                  | GET            | {collectionId}         | /api/v1/collections/{collectionId}                        |
+|                  | DELETE         | {collectionId}         | /api/v1/collections/{collectionId}                        |
+| Users            | GET            | –                      | /api/v1/users                                              |
+|                  | GET            | {userId}               | /api/v1/users/{userId}                                    |
+
+#### 5.2.3.7 Software Deployment Evidence for Sprint Review
+#### 5.2.3.8 Team Collaboration Insights during Sprint
+
+## 5.3 Validation Interviews
+
+### 5.3.1 Diseño de Entrevistas
+
+**General**
+
+Preguntas Generales:
+
+Nombres, apellidos, edad, distrito
+
+Landing Page:
+
+1. ¿Entiendes que hace esta aplicación con solo ver la página principal?  
+2. ¿Sientes que puedes navegar fácilmente por las secciones de la landing page?  
+3. ¿Hay algo que te confunde o no queda claro?¿Qué mejorarías del mensaje o diseño para hacerlo más claro?
+
+Application:
+
+4. ¿Cómo te resulta el proceso de guardar una nueva colección?  
+5. ¿Cómo te resulta el proceso de guardar un nuevo ítem?  
+6. ¿Compartes links o ideas con otros? ¿Cómo te parece la función de compartir en esta app?  
+7. ¿Cómo sientes la estética y fluidez del proceso de eliminar?  
+8. ¿Piensas que las opciones de edición son claras?  
+9. ¿Qué tan útil te resulta poder organizar tus productos en colecciones y subcolecciones?
+
+**Segmento 1: Diseñadores**
+
+Landing Page:
+
+1. Entiendes claramente los beneficios de inscribirte a Keeplo como diseñador?  
+2. ¿Sientes que la app está pensada para profesionales creativos como tú?
+
+Application:
+
+1. ¿En qué momento del proceso creativo crees que usarías Keeplo?  
+2. ¿Crees que tus inspiraciones puedan ser fácilmente guardadas?
+
+**Segmento 2: Compradores en línea**
+
+Landing Page:
+
+1. Entiendes claramente los beneficios de inscribirte a Keeplo como Comprador?  
+2. ¿La información te da confianza para guardar tus links de compras?
+
+Application:
+
+1. ¿Cómo te resultó guardar un producto desde una tienda en línea?  
+2. ¿Sueles eliminar productos que ya no vas a comprar? ¿Cómo te pareció la función de papelera?
+   
+### 5.3.2 Registro de Entrevistas
+
+En el **Registro de Entrevistas**, se documenta todo lo que dijeron los entrevistados y se organiza para poder analizar sus respuestas. Aquí se incluye información básica de cada participante, un resumen de sus respuestas y enlaces a los videos de las entrevistas. Este registro es muy útil para entender mejor lo que opinan los usuarios y, además, sirve de base para hacer mejoras en Keeplo, adaptando la plataforma a lo que realmente necesitan y valoran.
+
+### Segmento 1: Diseñadores
+
+#### Entrevista 1
+
+- **Nombre**: Adrian Paoli
+- **Apellidos**: Zapata Mongrut
+- **Edad**: 22
+- **Lugar de residencia**: Carabayllo
+- **Entrevistador**: George Aliaga
+
+**Evidencia de entrevista**
+
+![entrevista screenshot](assets/validationInterviewsSS/adrianpaoli.png)
+
+**Enlace de entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EannRcC4-ulNnEy2UziYkVUB8Cw4SpOz1v_43UtEKK5I1A?e=PaoU9z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Inicio:** 4:35
+
+**Fin:** 9:50
+
+**Resumen de entrevista**
+
+Se entrevistó a Adrian Zapata, un diseñador, quien participó en una sesión para evaluar la landing page y la aplicación web de Keeplo, con un enfoque particular en cómo la plataforma podría servir a profesionales creativos.
+En cuanto a la Landing Page, Adrian comprendió claramente la función de la aplicación con solo ver la página principal, destacando la presencia de accesos directos y descripciones claras. Afirmó que la navegación por las secciones es fácil y no saturada, conteniendo "lo poco y suficiente". No identificó confusiones o puntos de mejora significativos en el mensaje o diseño, más allá de "detalles mínimos de decoración", bajo la premisa de que "si algo funciona, ¿para qué cambiarlo?". Como diseñador, sintió que la aplicación está pensada para profesionales creativos como él, entendiendo los beneficios de inscribirse en Keeplo. La única posible limitación mencionada fue la necesidad de conexión a internet para tener las colecciones "a la mano".
+Respecto a la aplicación Keeplo, Adrian encontró que el proceso de guardar una nueva colección era rápido, especialmente al poder añadir tags para una búsqueda más ágil. Para las colecciones, sugirió la posibilidad de moverlas o agregar una categoría de "prioridades" (como un botón de favorito), lo que sería muy útil si se crean muchas, para acceder rápidamente a las más importantes. La función de compartir links o ideas le pareció muy útil para diseñadores, ya que permite compartir dibujos, diseños e inspiraciones, facilitando el intercambio de ideas y la inspiración mutua entre colegas.
+La estética y fluidez del proceso de eliminar fueron bien recibidas, especialmente la opción de recuperar elementos, lo cual consideró muy valioso para evitar pérdidas accidentales. Las opciones de edición las encontró claras, aunque sugirió que podrían mejorar en fluidez y ser "más rapiditas", pero sí son comprensibles para usuarios que no están "acostumbrados a pocos botones". La utilidad de organizar productos en colecciones y subcolecciones le pareció "muy útil", ya que permite tener todo organizado y etiquetado sin necesidad de navegar por múltiples carpetas. Finalmente, Adrian indicó que usaría Keeplo para sus proyectos personales y creativos, como historietas o cómics, separando y organizando diseños para ilustración, 3D o guion, lo que le permitiría tener sus inspiraciones y el resultado final "fácilmente guardados" y "a la mano" gracias a la organización y los tags.
+
+
+#### Entrevista 2
+
+- **Nombre**: Luz 
+- **Apellidos**: Rupay Hung
+- **Edad**: 22
+- **Lugar de residencia**: Cercado de Lima
+- **Entrevistador**: Maria Elena Muñoz  
+
+**Evidencia de entrevista**
+![entrevista screenshot](assets/validationInterviewsSS/luzRupay.png)
+
+
+- **Enlace de entrevista**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EannRcC4-ulNnEy2UziYkVUB8Cw4SpOz1v_43UtEKK5I1A?e=PaoU9z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- **Inicio**: 0:01
+- **Fin**: 4:35
+
+  
+**Resumen de entrevista**:
+  
+Se entrevistó a Luz Rupay, diseñadora, quien participó en una sesión de evaluación de la plataforma Keeplo. La conversación se centró en cómo la experiencia estaba pensada tanto para diseñadores como para compradores, y en qué medida sus funciones aportaban valor al proceso creativo y organizativo. En cuanto a la navegación general de la plataforma, Luz destacó que el flujo era claro y nada confuso, gracias a una barra de navegación que consideró útil para orientarse fácilmente. Según comentó, esto le permitió explorar Keeplo sin perderse y encontrar lo que necesitaba sin dificultad. Uno de los puntos donde propuso una mejora fue en la comparación entre los planes de comprador y diseñador, sugiriendo que esta diferencia podría destacarse mejor visualmente para que el usuario entienda rápidamente cuál opción es la ideal según su perfil. Desde su rol como diseñadora, valoró especialmente la función de guardar ideas y mantenerlas en orden, comentando que Keeplo le ofrecía una estructura ideal para tener sus proyectos organizados por tema o etapa. Propuso añadir un botón para que las colecciones pudieran hacerse públicas sin necesidad de compartir un link específico, lo cual facilitaría la difusión de su trabajo o inspiración de manera abierta. También resaltó como eficaz el proceso para eliminar colecciones o ítems, ya que la plataforma le pedía una confirmación antes de completar la acción, lo que evitaba errores. En línea con esto, celebró la funcionalidad de la papelera, que le permitía recuperar ítems eliminados por accidente, dándole seguridad y control sobre su contenido.Finalmente, Luz indicó que Keeplo le servía como un espacio confiable y práctico para tener sus ideas ordenadas y disponibles en cualquier momento que necesitara retomarlas, favoreciendo su flujo creativo y la gestión visual de sus proyectos.
+
+#### Entrevista 3
+
+- **Nombre**: Chloe 
+- **Apellidos**: Holguin Marzo
+- **Edad**: 25
+- **Lugar de residencia**: San Isidro
+- **Entrevistador**: Gabriel Sanchez Gonzales
+
+**Evidencia de entrevista**
+![entrevista screenshot](assets/validationInterviewsSS/ane.png)
+
+
+- **Enlace de entrevista**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EannRcC4-ulNnEy2UziYkVUB8Cw4SpOz1v_43UtEKK5I1A?e=PaoU9z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+  
+- **Inicio**: 0:01
+- **Fin**: 4:35
+
+  
+**Resumen de entrevista**:
+
+Se entrevistó a Chloe Holguin Marzo, diseñadora gráfica de 25 años que evaluó la landing page y la aplicación web de Keeplo desde la perspectiva su perspectiva. Durante esta entrevista, Chloe compartió sus impresiones generales sobre la interfaz, usabilidad y funciones principales de la plataforma.
+En relación con la landing page, Chloe comentó que comprendió rápidamente la finalidad de la herramienta, comparándola con Pinterest, ya que le transmitió la idea de una plataforma para guardar y organizar referencias visuales o productos. Destacó el diseño visual, afirmando que los colores del logo combinaban bien con la estética general del sitio. También valoró la navegación sencilla, y consideró positivo que la página estuviera disponible tanto en inglés como en español, ya que amplía su accesibilidad. En términos generales, consideró que el mensaje visual y funcional era claro y no encontró elementos confusos o que requirieran mejoras.
+Al probar la aplicación, Chloe encontró que el proceso para guardar nuevos ítems le pareció útil y funcional, especialmente pensando en guardar enlaces de interés como conciertos o productos, aunque mencionó una falla puntual al intentar guardar un producto a nivel del guardado del item. A nivel de interacción, resaltó que la función de compartir, especialmente a través de códigos QR, le pareció muy práctica para enviarlo fácilmente a grupos o amigos. También destacó lo intuitivo del diseño, mencionando que la elección de íconos facilitaba esta tarea. Las opciones de edición le parecieron claras, incluso como alguien sin conocimientos técnicos avanzados. En cuanto a la organización de contenido, mencionó que crear y manejar colecciones y subcolecciones fue sencillo y ordenado. Finalmente, afirmó que como diseñadora veía valor en la plataforma, ya que le permitiría trabajar en equipo, compartir inspiración visual y mantenerse organizada en sus proyectos creativos.
+
+
+
+### Segmento 2: Compradores en línea
+
+#### Entrevista 1
+
+- **Nombre**: Kenny Alexander
+- **Apellidos**: Ayme Cuba
+- **Edad**: 23
+- **Lugar de residencia**: San Miguel
+- **Entrevistador**: George Aliaga
+
+**Evidencia de entrevista**
+
+![entrevista screenshot](assets/validationInterviewsSS/kennyAlexander.png)
+
+* **Enlace de entrevista**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ec9mnTJR_pRIs1CZJQljK90BxlcxElkN5_toYE07AD7q4A?e=BSGYm8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
+  
+* **Inicio**: 0:00  
+* **Fin**: 03:42
+  
+**Resumen de entrevista**:
+
+Se entrevistó a Kenny Alexander Ayme Cuba, quien evaluó la funcionalidad de la landing page y la aplicación web de Keeplo. Durante la sesión, Kenny compartió sus impresiones y sugerencias basadas en su experiencia interactuando con la plataforma.
+Respecto a la Landing Page, Kenny encontró que era bastante intuitiva y de fácil uso, tanto para personas familiarizadas con la tecnología como para quienes no lo están. Destacó la fluidez de navegación, los colores, el contraste del menú y los botones, que consideró bien logrados. Mencionó la posibilidad de mejorar el diseño con la adición de botones para agregar ítems y colecciones directamente desde la landing page, lo cual le pareció una mejora recomendable. Como comprador en línea, Kenny afirmó que entendió claramente los beneficios de inscribirse, pero le gustaría ver el resultado final de la aplicación antes de decidir si pagaría por el servicio. Confirmó que la información ofrecía confianza para guardar sus links de compra.
+En cuanto a la aplicación Keeplo, Kenny resaltó que el proceso para guardar nuevas colecciones e ítems dentro de una colección le resultó bastante fácil y muy intuitivo. Describió la función de compartir como "genial", especialmente siendo una persona que disfruta de las compras en línea, ya que le permite compartir sus ideas y gustos. La estética y fluidez al eliminar elementos también le parecieron muy buenas, valorando el mensaje de confirmación que funciona como una "doble eliminación" (papelera), lo cual consideró muy útil para restaurar elementos si fuera necesario. Las opciones de edición las encontró claras y le gustó mucho la utilidad de organizar productos en colecciones y subcolecciones por ser "bastante ordenado", algo que valora mucho como comprador frecuente. Finalmente, el proceso de guardar un producto desde una tienda en línea (copiar y pegar un enlace) le pareció sumamente sencillo y accesible, incluso para usuarios con poca experiencia tecnológica.
+
+#### Entrevista 2
+
+- **Nombre**: Sergio
+- **Apellidos**: Aguirre
+- **Edad**: 20
+- **Lugar de residencia**: San Isidro
+- **Entrevistador**: Maria Elena Muñoz  
+
+**Evidencia de entrevista**
+
+![entrevista screenshot](assets/validationInterviewsSS/sergio.png)
+
+- **Enlace de entrevista**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ec9mnTJR_pRIs1CZJQljK90BxlcxElkN5_toYE07AD7q4A?e=BSGYm8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
+- **Inicio**: 11:04
+- **Fin**: 14:41
+  
+**Resumen de entrevista**:
+
+Se entrevistó a Sergio Aguirre, quien participó en una sesión de evaluación de la aplicación Keeplo. Su perspectiva aportó ideas valiosas desde el punto de vista de un comprador que busca mantener un orden eficiente en sus listas y decisiones de compra. Sergio comentó que el diseño de la plataforma le pareció preciso, ya que se centraba en resaltar los aspectos más importantes de la aplicación sin abrumar al usuario. Destacó que la navegación era clara y ordenada, permitiéndole moverse por las secciones sin dificultad. Aun así, señaló como punto de mejora que la experiencia visual podría optimizarse en dispositivos móviles, para ofrecer una presentación más fluida y adaptable. Desde su rol como comprador, valoró especialmente cómo Keeplo le permitía mantener organizadas sus listas de compras, facilitando el acceso a productos que deseaba adquirir más adelante. Sugerió añadir una opción de búsqueda alfabética, que le permitiría identificar sus colecciones con mayor rapidez, especialmente cuando se acumulan muchas. La funcionalidad para compartir colecciones le pareció muy útil, sobre todo porque le permitía colaborar con amigos o familiares al agregar ítems en conjunto y luego comparar opciones. Este aspecto colaborativo fue algo que destacó como esencial para quienes compran en grupo o planifican adquisiciones compartidas. En cuanto a la eliminación de elementos, mencionó que el sistema actual, con confirmación previa, era eficiente y seguro, minimizando errores. Además, celebró la utilidad de la papelera, que le permitía recuperar productos eliminados por accidente. Como sugerencia, propuso incluir un botón para restaurar todas las colecciones eliminadas, lo cual mejoraría la eficiencia cuando se necesita recuperar múltiples elementos. Finalmente, Sergio señaló que Keeplo lo ayudaba a gestionar sus compras futuras de manera más ordenada, evitando olvidos y manteniendo visible aquello que necesita adquirir. La plataforma, según dijo, cumple con su promesa de simplificar y organizar el proceso de compra personal.
+
+
+#### Entrevista 3
+
+- **Nombre**: Marcelo Fabián
+- **Apellidos**: Garro Vega
+- **Edad**: 22
+- **Lugar de residencia**: 
+- **Entrevistador**: George Aliaga 
+
+**Evidencia de entrevista**
+
+![entrevista screenshot](assets/validationInterviewsSS/marcelo.png)
+
+- **Enlace de entrevista**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ec9mnTJR_pRIs1CZJQljK90BxlcxElkN5_toYE07AD7q4A?e=BSGYm8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
+- **Inicio**: 3:50
+- **Fin**: 11:02
+  
+**Resumen de entrevista**:
+
+Se entrevistó a Marcelo Fabián Garro Vega, estudiante y trabajador en el servicio de Retail de Ecommerce, para evaluar la landing page y la aplicación web de Keeplo desde la perspectiva de un comprador en línea.
+En relación con la Landing Page, Marcelo consideró que la aplicación se entiende bastante bien desde la página principal, destacando el logo, el eslogan y las secciones que brindan una descripción clara de las funcionalidades y beneficios de Keeplo, especialmente para "compartir wishlists". Afirmó que la navegación es fluida y fácil de entender, resaltando la presencia de enlaces en el encabezado y la excelente accesibilidad mediante teclado (uso de Tab), lo que le permitió navegar sin el mouse. Como mejora, sugirió optimizar el eslogan de la portada para que la idea principal se capte más rápidamente. También notó que algunas secciones eran "demasiado grandes", ocupando toda la pantalla con poco contenido, lo que genera "mucho vacío" y podría ser mejorado visualmente. En general, como comprador en línea, Marcelo entendió claramente los beneficios de inscribirse en Keeplo.
+Respecto a la aplicación Keeplo, Marcelo encontró que el proceso para guardar una nueva colección era fácil y práctico, destacando la sencillez del formulario con pocos campos. De manera similar, el proceso para guardar un nuevo ítem fue percibido como muy fácil y práctico, implicando la URL y la imagen del producto. La función de compartir le pareció "muy útil", especialmente para organizar y compartir listas de compras para eventos (ej. una boda), permitiéndole compartir enlaces o QR con familiares. Sobre la estética y fluidez del proceso de eliminar, lo describió como "muy sencillo" y un "estándar" en otras aplicaciones, lo que facilita su uso. Las opciones de edición las consideró claras y prácticas, contribuyendo a una pantalla ordenada y sin información innecesaria. En cuanto a la utilidad de organizar productos en colecciones o subcolecciones, la consideró "muy útil" para cualquier tipo de organización, especialmente para eventos o compras masivas, ayudando a saber el propósito de cada colección. Finalmente, sobre la experiencia de guardar un producto desde una tienda en línea, Marcelo señaló que el flujo actual es "un poco extenso" (3 o 4 pasos), requiriendo copiar manualmente la URL, imagen y texto. Su principal sugerencia fue automatizar el llenado de campos (imagen, nombre, descripción) con solo pegar la URL, lo que reduciría significativamente los pasos y haría el proceso más eficiente. La función de la papelera le pareció "muy útil", especialmente para recuperar elementos eliminados por error, ya que su actividad de eliminación de productos es "bastante elevada" al desactualizarse colecciones.
+
+  
+### 5.3.3 Evaluaciones según heurísticas 
+
+<h4 align="center"><strong>Usability – Inclusive Design – Information Architecture</strong></h4>
+
+**CARRERA : Ingeniería de Software**
+
+**CURSO : Desarrollo de Aplicaciones Open Source**
+
+**SECCIÓN : 4289**
+
+**PROFESORES : Todos**
+
+**AUDITOR : KeepTeam**
+
+**CLIENTE(S) :** Luz Rupay Hung 
+
+***SITE o APP A EVALUAR:***
+
+Keeplo
+
+***TAREAS A EVALUAR:***
+
+*El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:*
+
+1. Log In
+2. Sign Up
+3. Perfiles
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Validación y Compra con Método de Pago
+
+   
+***ESCALA DE SEVERIDAD:***
+
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
+
+
+| Nivel | Descripción |
+| :---- | :---- |
+| 1 | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+***TABLA RESUMEN:***
+
+| \# | Problema | Escala de severidad | Heurística/Principio violada(o) |
+| :---: | ----- | ----- | :---- |
+| 1 | No hay un mensaje de error al equivocarse en un formulario | 1 | Usability: Prevención de errores |
+| 2 | Evitar mostrar opciones a las que el usuario no puede acceder | 2 | Usability: Prevención de errores |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |   |
+
+***DESCRIPCIÓN DE PROBLEMAS:***
+
+#### *PROBLEMA \#1:* No hay un mensaje de error al equivocarse en un formulario
+
+Severidad: 1
+
+Heurística violada: Prevención de errores
+
+**Problema:**
+
+Cuando el usuario rellena un formulario en la aplicación y comete un error como dejar un campo requerido vacío o ingresar un valor invalido, el sistema no muestra ningún mensaje de error de retroalimentación. Esto termina generando confusión al usuario porque no entiende qué está mal ni como corregirlo para continuar.
+
+![imagen problema 1](assets/heuristicasValidation/img19.jpg)
+
+**Recomendación:**
+
+*Incluir mensajes de errores de los campo de formularios, estos mensajes aparecen cuando el usuario intenta realizar una acción o inmediatamente cuando el error es cometido. Este mensaje indica que se debe corregir junto con el tipo de campo que acepta.* 
+
+![imagen solucion 1](assets/heuristicasValidation/img24.jpg)
+![imagen solucion 1](assets/heuristicasValidation/img23.jpg)
+
+#### *PROBLEMA \#2:* Evitar mostrar opciones a las que el usuario no puede acceder
+
+Severidad: 3
+
+Heurística violada: Prevención de errores
+
+**Problema:**
+
+Cuando el usuario se encuentra en la sección de inicio de sesión o registro de usuario, en la parte superior se muestra un header con las opciones de Dashboard, Plans, Trashcan, a pesar de no haber iniciado sesión. Esto puede llevar a una confusión por parte del usuario puesto que no se tiene un evento que se cumpla al momento de hacer clic en estas opciones produciendo un error.
+
+![imagen problema 2](assets/heuristicasValidation/img27.jpg)
+
+**Recomendación:**
+
+Ocultar las opciones que requieren que el usuario esté con una sesión iniciada. Estas opciones sólo se mostrarán en pantallas donde el usuario debe estar con la sesión iniciada.
+
+![imagen solucion 2](assets/heuristicasValidation/img30.jpg)
+
+## 5.4 Video About-the-Product
+
+![Screenshot de Video About the Product](assets/abt-the-team-ss.png)
+
+Link a Video About the Product en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EdEQsr7nuthMsiu8_jE9OOcBr3ptOgBNGKL5Lg1OxTwGEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=H2TqoD
+
+Link a Video About the Product en Youtube: https://youtu.be/1k5EaMVat8A?si=UwYtcRMYDvNhMQGY 
 
 # 6. Conclusiones
 
@@ -1742,9 +2172,16 @@ El desarrollo del frontend de Keeplo respondió a la necesidad de ofrecer una ex
 
 La elección de Render como plataforma de despliegue facilitó considerablemente la publicación del frontend de Keeplo. Al permitir la conexión directa con repositorios y automatizar los procesos de integración, Render se posicionó como una solución eficaz para mantener el proyecto actualizado, accesible y estable. Esta elección tecnológica contribuyó a acortar los tiempos de despliegue y a garantizar una experiencia fluida en distintos entornos de uso.
 
+# 7. Video About The Team
 
-# 7. Recomendaciones
+![video about the team ss of youtube](assets/abt-the-team-ss.png)
 
+- [Link a Video About the Team en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ebz8rpkJ3TdPtQfA58uYwB0BAuJhDYSCi3dEnFduGSLSdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6tPW54](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ebz8rpkJ3TdPtQfA58uYwB0BAuJhDYSCi3dEnFduGSLSdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6tPW54)
+
+- [Link a Video About the Team en Youtube: https://youtu.be/a7vinekxhnw](https://youtu.be/a7vinekxhnw)
+
+
+# 8. Recomendaciones
 
 Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la plataforma, recomendamos realizar las siguientes acciones:
 
@@ -1752,23 +2189,28 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 - Desarrollar un algoritmo de auto-etiquetado, donde los “Wishes” puedan ser asignados automáticamente una etiqueta en el caso de no tener una etiqueta añadida manualmente, estas auto-etiquetas serían creadas a partir del nombre y descripción del “Wish”, facilitando la organización rápida de contenido y reduciendo el esfuerzo de acciones manuales por parte del usuario
 - Incorporar una funcionalidad de extra valor para los compradores, en la cual se les permite asignar un campo de valor, como lo es el precio, el cual funcionaria como un tag adicional y aparte, permitiendo ordenar y filtrar a partir del precio de un ítem, optimizando la comparación de precios entre productos similares.
 
-# 8. Bibliografía  
+# 9. Bibliografía  
      
    *¿Cuál es la función de la lista de deseo de una tienda online?* (2023, 1 junio). Sell Emprendepyme. [https://sell.emprendepyme.net/cual-es-la-funcion-de-la-lista-de-deseo-de-una-tienda-online.html](https://sell.emprendepyme.net/cual-es-la-funcion-de-la-lista-de-deseo-de-una-tienda-online.html)  
      
    Salinas Anaya, Y. D., Galván Rodríguez, D. G., Guzmán Prince, I., & Orrante Sakanassi, J. A. (2022). *El impacto del internet de todas las cosas (IoT) en la vida cotidiana.* Ciencia Latina Revista Científica Multidisciplinar, 6(2), 1369–1378. https://doi.org/10.37811/cl\_rcm.v6i2.1959  
      
-# 9. Anexos
+# 10. Anexos
 
 ## Anexo A: Links importantes
 
 ### Entrevistas
-- [Primera entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EeNk9gGGXXZGste_XhDJuBgBNiGZS6d4YunpXqeBQtpRDQ?e=ZJtqMr)
-- [Segunda entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EVGJYmAlN5NPtdMpPKREaGIB8kXTSCgh1ujGvmjp3NPfcw?e=E11e1a)
-- [Tercera entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EVwOdiCdGNZMillGsKP4Z04B7adFHL6vvNtlzzKkxLkrGw?e=ybLGiq)
-- [Cuarta entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EZSQSpASULhCinUlOwe7xfABhfA6otlNqIQACcmBPEFBEA?e=LvfkLF)
-- [Quinta entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/Ecj5l57a8JBNob_bRwJ2t3wBRZj384NjkNyO_B6uo3Xehw?e=DNiL53)
-- [Sexta entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220864_upc_edu_pe/EdQQE2oyec1HohAyd--ZUU8BJanDA3Y3HSO3vP3hsTpMrQ?e=Ei2KrR)
+
+#### Entrevistas a segmentos objetivos
+
+- [Entrevistas a Compradores: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EXe6OhIXtblKsT2opoqwtusBGOqzPmlaZ2nFy-GUhQLaNg?e=9p8CVR](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EXe6OhIXtblKsT2opoqwtusBGOqzPmlaZ2nFy-GUhQLaNg?e=9p8CVR)
+
+- [Entrevista a Diseñadores: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/ETT-Y4hwZ3dOhbTL41ZnM_QBVFXD3A8NBi1W71INKC09GQ?e=eLUK08](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/ETT-Y4hwZ3dOhbTL41ZnM_QBVFXD3A8NBi1W71INKC09GQ?e=eLUK08)
+
+#### Entrevistas de validación
+
+- [Entrevistas a Compradores: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ec9mnTJR_pRIs1CZJQljK90BxlcxElkN5_toYE07AD7q4A?e=BSGYm8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ec9mnTJR_pRIs1CZJQljK90BxlcxElkN5_toYE07AD7q4A?e=BSGYm8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [Entrevistas a Diseñadores: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EannRcC4-ulNnEy2UziYkVUB8Cw4SpOz1v_43UtEKK5I1A?e=PaoU9z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EannRcC4-ulNnEy2UziYkVUB8Cw4SpOz1v_43UtEKK5I1A?e=PaoU9z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### User Persona
 - [User Persona - Diseñador](https://uxpressia.com/w/2JtXc/p/Qlp9Z)
@@ -1799,3 +2241,18 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 - [Link a video de exposión de TB1 en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EaGZUShoThhNvQY3adq7ZQUBg4-rlQKaWEKYWI-se-Ieyw?e=rFnFNl)
 ### Video de Exposición TP1
 - [Link a video de exposión de TP1 en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EemubQ53MS9OrhRkFP9DlyIBs8_WMB2Uhq8we4R88KOJrw?e=ix5op1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+## Anexo C: Videos de Proyecto
+
+### Video About the Team
+
+- [Link a Video About the Team en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ebz8rpkJ3TdPtQfA58uYwB0BAuJhDYSCi3dEnFduGSLSdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6tPW54](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ebz8rpkJ3TdPtQfA58uYwB0BAuJhDYSCi3dEnFduGSLSdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6tPW54)
+
+- [Link a Video About the Team en Youtube: https://youtu.be/a7vinekxhnw](https://youtu.be/a7vinekxhnw)
+
+### Video About the Product
+
+
+- [Link a Video About the Product en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EdEQsr7nuthMsiu8_jE9OOcBr3ptOgBNGKL5Lg1OxTwGEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=H2TqoD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EdEQsr7nuthMsiu8_jE9OOcBr3ptOgBNGKL5Lg1OxTwGEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=H2TqoD)
+
+- [Link a Video About the Product en Youtube: https://youtu.be/1k5EaMVat8A?si=UwYtcRMYDvNhMQGY](https://youtu.be/1k5EaMVat8A?si=UwYtcRMYDvNhMQGY )
