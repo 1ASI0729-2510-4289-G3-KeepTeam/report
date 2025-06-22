@@ -1092,7 +1092,11 @@ Link a C4: [Link a Structurizer](https://structurizr.com/share/87207/5b87183f-b1
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
-![Diagrama de clases](assets/class-diagram.png)
+[![class-diagram.png](https://i.postimg.cc/SskvCwkY/class-diagram.png)](https://postimg.cc/kVYsdYV7)
+
+#### 4.7.1.2 Frontend Class Diagram
+
+[![frontend-diagram.png](https://i.postimg.cc/sxCb6vYx/frontend-diagram.png)](https://postimg.cc/N9bNLGPv)
 
 ### 4.7.2. Class Dictionary
 
