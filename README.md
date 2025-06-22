@@ -3,7 +3,6 @@
   <strong style="font-size:25px;">Informe de Trabajo Final</strong>
 </h1>
 
----
 
 <p align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
 
@@ -52,6 +51,7 @@
 | Versión  | Fecha  | Autor                                                                             | Descripción de modificación |
 | :---- | :---- |:----------------------------------------------------------------------------------| :---- |
 | 1.0 | 25/04 | George Aliaga <br>Bryan Martinez <br>Maria Elena Muñoz <br>Luis Miguel Rojas <br>Sanchez Gonzales | Estructura del informe Capítulo I: Introducción <br>Capítulo II: Requirements Elicitation & Analysis <br>Capítulo III: Requirements Specification <br>Capítulo IV: Product Design <br>Capítulo V: Product Implementation & Deployment <br>Conclusiones <br>Recomendaciones <br>Anexos <br>Landing Page |
+| 2.0 | 13/05 | George Aliaga <br>Maria Elena Muñoz <br>Sanchez Gonzales                                  | Corrección Diagramas <br>Corrección User Stories <br>Corrección Entrevistas <br>Corrección Sprint Planning <br>Corrección Repositorios <br>Sprint 2 <br>Conclusiones <br> Web Application
 | 2.0 | 13/05 | George Aliaga <br>Maria Elena Muñoz <br>Sanchez Gonzales                                  | Corrección Diagramas <br>Corrección User Stories <br>Corrección Entrevistas <br>Corrección Sprint Planning <br>Corrección Repositorios <br>Sprint 2 <br>Conclusiones <br> Web Application
 
 
@@ -195,10 +195,38 @@ TP1
 
 # Student Outcome
 
-| Criterio específico | Acciones realizadas  | Conclusiones  |
-| :---- |:---|:------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Sanchez Gonzales** <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivos, Diseño de entrevistas, User Personas, User Task Matrix, Style Guidelines, Landing Page UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications Prototyping, Recomendaciones Programación de landing page.<br>**Sanchez Gonzales** <br>TP1<br>Durante el TP1 realice el Sprint Backlog 2 en conjunto con el Desarrollo de la Web Application <br> **Sanchez Gonzales** <br>TB2<br> Durante el TB2 realice el Sprint Backlog 3, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint, Diseño de Entrevistas de Validación, Video About-the-Product, Evaluaciones según heurísticas, Corrección de Landing Page, Front-end Y desarrollo de Back-end <br><br>**Rojas Piñero** <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Registro de entrevistas, Análisis de entrevistas, To-Be Scenario Mapping, User Stories, Product Backlog, Web Applications User Flow Diagrams, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, header para la landing page. <br><br>**George Aliaga** <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Antecedentes y problemática, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping, User Stories, Impact Mapping, Class Diagrams, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions. <br>George Aliaga<br>TP1<br>Durante el desarrollo de la TP1 realicé mis partes correspondientes del front-web como tambien el Execution Evidence for Sprint Review y los Services Documentation Evidence for Sprint Revie<br><br> <br><br>**Bryan Martinez** <br>TB1<br> Durante el desarrollo de la TB1 realicé las siguientes actividades: Descripción de la Startup, Análisis de competidores,Estrategias y tácticas frente a competidores,Needfinding,Ubiquitous Language,SEO tags and Meta Tags, Searching Systems,Navigation system,Class Dictionary,Aspect Leaders and Collaborators, Sprint Backblog 1, Avance de conclusiones. <br><br>**Maria Elena Muñoz Machuca** <br>TB1<br> A lo largo del desarrollo de la TB1 he desarrollado: organization systems, el labelling systems, database diagram, software deployment configuration, sprint 1, sprint planning, development evidence for sprint review y team collaboration insights during sprint y sección characteristics y why us del landing page.<br>TP1<br>A lo largo del TP desarrollé Sprint planning 2, Aspect leaders collaboration, Development evidence for sprint review, Feature user-authentication del frontweb y corrección del diagrama de base de datos.                                                   | **Sanchez Gonzales** <br>TB1<br> Al realizar estas actividades, en especial Segmentos objetivos, Landing Page UI Design y Web Applications demostré mi capacidad para comunicar ideas de diseño y desarrollo de forma clara y estructurada, adaptando mi lenguaje según el perfil del usuario dependiendo de sus necesidades y problemas. Esto me permitió transmitir con efectividad conceptos técnicos y de experiencia de usuario a diferentes audiencias puesto que tenía que usar un lenguaje que se pueda entender para todos al exponer estas secciones dentro del video de este TB. <br>**Sanchez Gonzales** <br>TP1<br>Durante el TP1, lideré la organización del Sprint Backlog 2, asignando tareas según las habilidades del equipo. Me comuniqué oralmente de forma efectiva con mis compañeros y colaboré activamente para lograr los objetivos del equipo.<br>**Sanchez Gonzales** <br>TB2<br>Durante la TB2 me comunique oralmente con mi grupo para organizar las tareas a realizar, empleando un lenguaje comprensible y ajustado. Además, utilice un lenguaje efectivo para el desarrollo del video about the product<br> <br><br>**Rojas Piñero** <br>TB1<br> En el desarrollo de actividades como Registro de entrevistas siento que mostré mi habilidad comunicativa al contarle a nuevas personas sobre nuestro proyecto. En actividades como User Flow Diagrams o To-Be Scenario Mapping, utilice mi capacidad de imaginar escenarios relacionados con el proyecto. Y en actividades como las User Stories y el Product Backlog pude poner en práctica mi análisis de requerimientos. <br><br>**George Aliaga** <br>TB1<br> En el desarrollo de actividades como Antecedentes y problemática sentí que demostré mi capacidad de comprensión y síntesis al analizar el contexto del proyecto. En actividades como Empathy Mapping, User Journey Mapping y As-is Scenario Mapping, pude aplicar mi empatía e imaginación para representar las experiencias reales de los usuarios. Y en actividades como User Stories, Impact Mapping y los Class Diagrams, logré poner en práctica mis habilidades de análisis y estructuración de requerimientos. Además, al trabajar en la configuración del entorno de desarrollo, la gestión del código fuente y la guía de estilos, reforcé mi atención al detalle y buenas prácticas de desarrollo.  <br>TP1<br>Durante el desarrollo de la TP1, mi enfoque principal en el front-web de Keeplo me permitió contribuir directamente a la experiencia del usuario a través de la implementación de funcionalidades clave como la visualización de colecciones y las opciones de compartir (enlace y QR). Mi trabajo en conjunto con el equipo para asegurar la correcta ejecución de estas características y la documentación del sprint demuestran mi capacidad para colaborar eficazmente y comunicar el progreso del desarrollo de manera clara.<br> <br><br>**Bryan Martinez** <br>TB1<br> En el desarrollo de actividades como las entrevistas para Needfinding, demostré mi habilidad comunicativa al explicar de forma clara y atractiva nuestro proyecto a distintas personas. Durante la presentación de la sección de competidores y estrategias, utilicé un lenguaje adaptado al público para asegurar que se comprendiera tanto el análisis como nuestras acciones futuras. Además, al exponer temas técnicos como el Ubiquitous Language, el Class Dictionary y el Navigation System, empleé una comunicación precisa y estructurada para facilitar la comprensión entre diferentes perfiles del equipo. Finalmente, en la exposición del Sprint Backlog 1 y el avance de conclusiones, combiné un lenguaje técnico y accesible para transmitir de manera efectiva los avances a todos los involucrados en el proyecto. <br><br>**Maria Elena Muñoz Machuca** <br>TB1<br> Al realizar las actividades de organization system, labelling system y la implementación de las secciones why us y characteristics de la landing page demostré mi lenguaje y forma de comunicar los avances del proyecto, asegurándome de que todos los participantes, independientemente de su rol, comprendieran los logros y decisiones tomadas. Estas experiencias evidencian mi capacidad para comunicarme con claridad y eficacia en diversos contextos y niveles de audiencia.<br>TP1 <br> Durante el TP fui encargada de desarrollar el feature de user authentication que se encarga de el ingreso a la pagina, su registro y editar su perfil. Me comuniqué oralmente con mis compañeros para resolver algunas dudas y poder colaborar y mejorar en mi feature correspondiente. |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Sanchez Gonzales** <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivos, Diseño de entrevistas, User Personas, User Task Matrix, Style Guidelines, Landing Page UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications Prototyping, Recomendaciones Programación de landing page.<br>**Sanchez Gonzales** <br>TP1<br>Durante el TP1 realice el Sprint Backlog 2 en conjunto con el Desarrollo de la Web Application <br> **Sanchez Gonzales** <br>TB2<br> Durante el TB2 realice el Sprint Backlog 3, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint, Diseño de Entrevistas de Validación, Video About-the-Product, Evaluaciones según heurísticas, Corrección de Landing Page, Front-end Y desarrollo de Back-end <br><br>**Rojas Piñero** <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Registro de entrevistas, Análisis de entrevistas, To-Be Scenario Mapping, User Stories, Product Backlog, Web Applications User Flow Diagrams, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, header para la landing page. <br><br>**George Aliaga** <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Antecedentes y problemática, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping, User Stories, Impact Mapping, Class Diagrams, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions. <br>George Aliaga<br>TP1<br>Durante el desarrollo de la TP1 realicé mis partes correspondientes del front-web como tambien el Execution Evidence for Sprint Review y los Services Documentation Evidence for Sprint Revie<br><br> <br><br>**Bryan Martinez** <br>TB1<br> Durante el desarrollo de la TB1 realicé las siguientes actividades: Descripción de la Startup, Análisis de competidores,Estrategias y tácticas frente a competidores,Needfinding,Ubiquitous Language,SEO tags and Meta Tags, Searching Systems,Navigation system,Class Dictionary,Aspect Leaders and Collaborators, Sprint Backblog 1, Avance de conclusiones. <br><br>**Maria Elena Muñoz Machuca** <br>TB1<br> A lo largo del desarrollo de la TB1 he desarrollado: organization systems, el labelling systems, database diagram, software deployment configuration, sprint 1, sprint planning, development evidence for sprint review y team collaboration insights during sprint y sección characteristics y why us del landing page.<br>TP<br> A lo largo del TP desarrollé Sprint planning 2, Aspect leaders collaboration, Development evidence for sprint review, Feature user-authentication del frontweb y corrección del diagrama de base de datos.                                                   | **Sanchez Gonzales** <br>TB1<br> A través de la documentación detallada que tuve que utilizar para cada actividad, logré comunicar por escrito de manera clara y precisa, adaptando el nivel de complejidad según el público objetivo que iba a leer cada sección. Utilizando términos complejos para describir secciones técnicas y términos fáciles de entender para secciones como UX/UI pensando que estas van a un público que no cuenta con un conocimiento en esos términos.<br>**Sanchez Gonzales** <br>TP1<br>Durante el TP1, me encargué de documentar el Sprint Backlog 2 y los avances del equipo. Me aseguré de redactar con claridad y adecuación para que tanto mis compañeros como los docentes pudieran entender el progreso y las tareas realizadas.<br>**Sanchez Gonzales**<br>TB2<br>A lo largo del desarrollo de la entrega del TB2, gracias a la entrega del Sprint Backlog, las Evaluaciones según heurísticas y los Diseños de entrevistas, comuniqué de forma escrita con claridad y precisión, ajustando el contenido técnico para el equipo y simplificando conceptos clave en los textos dirigidos a usuarios en las entrevistas. Esto me permitió transmitir la información según el nivel de comprensión de cada destinatario.<br> <br><br>**Rojas Piñero** <br>TB1<br> En el desarrollo de este proyecto tuve que aplicar mis habilidades de comunicación en el contexto requerido logrando implementar lenguaje más técnico si así era necesario para comunicarme con mis compañeros de grupo. De igual manera identificando un contexto en el cual las secciones de trabajo fueran dirigidas al público/usuarios debía implementar otro tipo de expresiones o lenguaje más claro de entender para ellos. <br><br>**George Aliaga** <br>TB1<br> En el desarrollo de las distintas actividades, me aseguré de adaptar mi forma de comunicar según el propósito y el público de cada documento. Al trabajar en tareas técnicas como los Class Diagrams, la configuración del entorno de desarrollo y la gestión del código fuente, empleé un lenguaje preciso y especializado para mantener la claridad técnica. Por otro lado, en actividades centradas en la experiencia del usuario como el Empathy Mapping, el User Journey Mapping y el As-is Scenario Mapping, utilicé una redacción más sencilla y cercana, con el objetivo de que cualquier persona, sin necesidad de conocimientos técnicos, pudiera comprender fácilmente la información presentada. <br>TP1<br>Al haber implementado la visualización de colecciones y las funcionalidades de compartir (enlace y QR) en el front-web de Keeplo, he demostrado mi capacidad para desarrollar características interactivas y centradas en el usuario. Mi colaboración con el equipo para la correcta ejecución y la documentación del sprint reflejan mi habilidad para contribuir al proyecto de manera efectiva y comunicar los avances de forma clara.<br> <br><br>**Bryan Martinez** <br>TB1<br> En el desarrollo de la TB1 y al realizar esta actividades he demostrado habilidades de redacción de documentación técnica que explica claramente las decisiones tomadas y los procesos utilizados, facilitando la comprensión tanto para miembros técnicos como para aquellos sin experiencia técnica. Por otro lado, en las evidencias presentadas para las revisiones del sprint, redacté informes estructurados y claros que permitieron a todos los integrantes del proyecto entender los avances y resultados obtenidos, independientemente de su rol. Estas experiencias reflejan mi capacidad para comunicar ideas y conceptos de manera precisa y adaptada a diversos contextos y niveles de audiencia. <br><br>**Maria Elena Muñoz Machuca** <br>TB1<br> Al haber redactado el organization systems, labelling system y sprint planning he demostrado habilidades de redacción de documentación técnica que explica claramente las decisiones tomadas y los procesos utilizados. Estas experiencias reflejan mi capacidad para comunicar ideas y conceptos de manera precisa y adaptada a diversos contextos y niveles de audiencia.  <br>TP<br>  Durante el TP, me encargue de documentar el sprint planning  2, esto nos ayudo a mantener los objetivos claros y poder organizarnos de la mejor manera. Asimismo, los aspect leader collaborations que nos permitieron reconocer en que aspectos cada integrante tenia más participación. Y finalmente el development evidence review que nos permitía ver las evidencias de el aporte de cada integrante. Me aseguré de redactar y plasmar estas evidencias para que mis compañeros puedan organizarse mejor y los docentes puedan evidenciar el trabajo colaborativo.                                          |
+<div style="display:none">
+  <style>
+    table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+    th, td { border: 1px solid #000; padding: 8px; vertical-align: top; word-wrap: break-word; }
+    td:nth-child(1) { width: 15%; }
+    td:nth-child(2) { width: 45%; }
+    td:nth-child(3) { width: 40%; }
+  </style>
+</div>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Criterio específico</th>
+      <th>Acciones realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
+      <td><b>Sanchez Gonzales</b> <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivos, Diseño de entrevistas, User Personas, User Task Matrix, Style Guidelines, Landing Page UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications Prototyping, Recomendaciones Programación de landing page.<br><b>Sanchez Gonzales</b> <br>TP1<br>Durante el TP1 realice el Sprint Backlog 2 en conjunto con el Desarrollo de la Web Application <br><b>Sanchez Gonzales</b> <br>TB2<br> Durante el TB2 realice el Sprint Backlog 3, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during <br> <br> <br> Sprint, Diseño de Entrevistas de Validación, Video About-the-Product, Evaluaciones según heurísticas, Corrección de Landing Page, Front-end Y desarrollo de Back-end <br><br><b>Rojas Piñero</b> <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Registro de entrevistas, Análisis de entrevistas, To-Be Scenario Mapping, User Stories, Product Backlog, Web Applications User Flow Diagrams, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, header para la landing page. <br><br><b>George Aliaga</b> <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Antecedentes y problemática, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping, User Stories, Impact Mapping, Class Diagrams, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions. <br>George Aliaga<br>TP1<br><br> <br> <br>Durante el desarrollo de la TP1 realicé mis partes correspondientes del front-web como tambien el Execution Evidence for Sprint Review y los Services Documentation Evidence for Sprint Revie<br><br><b>Bryan Martinez</b> <br>TB1<br> Durante el desarrollo de la TB1 realicé las siguientes actividades: Descripción de la Startup, Análisis de competidores, Estrategias y tácticas frente a competidores, Needfinding, Ubiquitous Language, SEO tags and Meta Tags, Searching Systems, Navigation system, Class Dictionary, Aspect Leaders and Collaborators, Sprint Backblog 1, Avance de conclusiones. <br><br><b>Maria Elena Muñoz Machuca</b> <br>TB1<br> A lo largo del desarrollo de la TB1 he desarrollado: organization systems, el labelling systems, database diagram, software deployment configuration, sprint 1, sprint planning, development evidence for sprint review y team collaboration insights during sprint y sección characteristics y why us del landing page.<br>TP1<br>A lo largo del TP desarrollé Sprint planning 2, Aspect leaders collaboration, Development evidence for sprint review, Feature user-authentication del frontweb y <br><br><br><br> corrección del diagrama de base de datos. <br>TB2<br>Durante el TB2 me encargué de documentar el sprint planning 3, la sección de aspect leaders collaborations y el development evidence review.</td>
+      <td><b>Sanchez Gonzales</b> <br>TB1<br> Al realizar estas actividades, en especial Segmentos objetivos, Landing Page UI Design y Web Applications demostré mi capacidad para comunicar ideas de diseño y desarrollo de forma clara y estructurada, adaptando mi lenguaje según el perfil del usuario dependiendo de sus necesidades y problemas. Esto me permitió transmitir con efectividad conceptos técnicos y de experiencia de usuario a diferentes audiencias puesto que tenía que usar un lenguaje que se pueda entender para todos al exponer estas secciones dentro del video de este TB. <br><b>Sanchez Gonzales</b> <br>TP1<br>Durante el TP1, lideré la organización del Sprint Backlog 2, asignando tareas según las habilidades del equipo. Me comuniqué oralmente de forma efectiva con mis compañeros y colaboré activamente para lograr los objetivos del equipo.<br><b>Sanchez Gonzales</b> <br>TB2<br>Durante la TB2 me comunique oralmente con mi grupo para organizar las tareas a realizar, empleando un lenguaje comprensible y ajustado. Además, utilice un lenguaje efectivo para el desarrollo del video about the product<br><br><b>Rojas Piñero</b> <br>TB1<br> En el desarrollo de actividades como Registro de entrevistas siento que mostré mi habilidad comunicativa al contarle a nuevas personas sobre nuestro proyecto. En actividades como User Flow Diagrams o To-Be Scenario Mapping, utilice mi capacidad de imaginar escenarios relacionados con el proyecto. Y en actividades como las User Stories y el Product Backlog pude poner en práctica mi análisis de requerimientos. <br><br><b>George Aliaga</b> <br>TB1<br> En el desarrollo de actividades como Antecedentes y problemática sentí que demostré mi capacidad de comprensión y síntesis al analizar el contexto del proyecto. En actividades como Empathy Mapping, User Journey Mapping y As-is Scenario Mapping, pude aplicar mi empatía e imaginación para representar las experiencias reales de los usuarios. Y en actividades como User Stories, Impact Mapping y los Class Diagrams, logré poner en práctica mis habilidades de análisis y estructuración de requerimientos. Además, al trabajar en la configuración del entorno de desarrollo, la gestión del código fuente y la guía de estilos, reforcé mi atención al detalle y buenas prácticas de desarrollo. <br>TP1<br>Durante el desarrollo de la TP1, mi enfoque principal en el front-web de Keeplo me permitió contribuir directamente a la experiencia del usuario a través de la implementación de funcionalidades clave como la visualización de colecciones y las opciones de compartir (enlace y QR). Mi trabajo en conjunto con el equipo para asegurar la correcta ejecución de estas características y la documentación del sprint demuestran mi capacidad para colaborar eficazmente y comunicar el progreso del desarrollo de manera clara.<br><br><b>Bryan Martinez</b> <br>TB1<br> En el desarrollo de actividades como las entrevistas para Needfinding, demostré mi habilidad comunicativa al explicar de forma clara y atractiva nuestro proyecto a distintas personas. Durante la presentación de la sección de competidores y estrategias, utilicé un lenguaje adaptado al público para asegurar que se comprendiera tanto el análisis como nuestras acciones futuras. Además, al exponer temas técnicos como el Ubiquitous Language, el Class Dictionary y el Navigation System, empleé una comunicación precisa y estructurada para facilitar la comprensión entre diferentes perfiles del equipo. Finalmente, en la exposición del Sprint Backlog 1 y el avance de conclusiones, combiné un lenguaje técnico y accesible para transmitir de manera efectiva los avances a todos los involucrados en el proyecto. <br><br><b>Maria Elena Muñoz Machuca</b> <br>TB1<br> Al realizar las actividades de organization system, labelling system y la implementación de las secciones why us y characteristics de la landing page demostré mi lenguaje y forma de comunicar los avances del proyecto, asegurándome de que todos los participantes, independientemente de su rol, comprendieran los logros y decisiones tomadas. Estas experiencias evidencian mi capacidad para comunicarme con claridad y eficacia en diversos contextos y niveles de audiencia.<br>TP1 <br> Durante el TP fui encargada de desarrollar el feature de user authentication que se encarga de el ingreso a la pagina, su registro y editar su perfil. Me comuniqué oralmente con mis compañeros para resolver algunas dudas y poder colaborar y mejorar en mi feature correspondiente.<br>TB2<br>Durante el TB2 me encargué de documentar el sprint planning 3, la sección de aspect leaders collaborations y el development evidence review. Al realizar estas tareas, enfoqué mi redacción en transmitir de manera clara las actividades, <br><br><br>roles y avances del equipo, permitiendo tanto a mis compañeros como a los docentes comprender el trabajo colaborativo ejecutado en esta etapa. Además, documenté las validation interviews, estructurando la información para facilitar su análisis y destacando los aportes clave recogidos de los usuarios entrevistados.</td>
+    </tr>
+    <tr>
+      <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
+      <td><b>Sanchez Gonzales</b> <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivos, Diseño de entrevistas, User Personas, User Task Matrix, Style Guidelines, Landing Page UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications Prototyping, Recomendaciones Programación de landing page.<br><b>Sanchez Gonzales</b> <br>TP1<br>Durante el TP1 realice el Sprint Backlog 2 en conjunto con el Desarrollo de la Web Application <br><b>Sanchez Gonzales</b> <br>TB2<br> Durante el TB2 realice el Sprint Backlog 3, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint, Diseño de Entrevistas de Validación, Video About-the-Product, Evaluaciones según heurísticas, Corrección de Landing Page, Front-end Y desarrollo de Back-end <br><br><b>Rojas Piñero</b> <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Registro de entrevistas, Análisis de entrevistas, To-Be Scenario Mapping, User Stories, Product Backlog, Web Applications User Flow Diagrams, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, header para la landing page. <br><br><b>George Aliaga</b> <br>TB1<br> Durante el desarrollo del TB1 realicé las siguientes actividades: Antecedentes y problemática, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping, User Stories, Impact Mapping, Class Diagrams, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions. <br>George Aliaga<br>TP1<br>Durante el desarrollo de la TP1 <br><br><br>realicé mis partes correspondientes del front-web como tambien el Execution Evidence for Sprint Review y los Services Documentation Evidence for Sprint Review<br><br><b>Bryan Martinez</b> <br>TB1<br> Durante el desarrollo de la TB1 realicé las siguientes actividades: Descripción de la Startup, Análisis de competidores, Estrategias y tácticas frente a competidores, Needfinding, Ubiquitous Language, SEO tags and Meta Tags, Searching Systems, Navigation system, Class Dictionary, Aspect Leaders and Collaborators, Sprint Backblog 1, Avance de conclusiones. <br><br><b>Maria Elena Muñoz Machuca</b> <br>TB1<br> A lo largo del desarrollo de la TB1 he desarrollado: organization systems, el labelling systems, database diagram, software deployment configuration, sprint 1, sprint planning, development evidence for sprint review y team collaboration insights during sprint y sección characteristics y why us del landing page.<br>TP<br> A lo largo del TP desarrollé Sprint planning 2, Aspect leaders collaboration, Development evidence for sprint review, Feature user-authentication del frontweb y corrección del diagrama de base de datos. <br>TB2 <br> <br>Durante el TB2 me encargué de documentar el sprint planning 3, la sección de aspect leaders collaborations y el development evidence review.</td>
+      <td><b>Sanchez Gonzales</b> <br>TB1<br> A través de la documentación detallada que tuve que utilizar para cada actividad, logré comunicar por escrito de manera clara y precisa, adaptando el nivel de complejidad según el público objetivo que iba a leer cada sección. Utilizando términos complejos para describir secciones técnicas y términos fáciles de entender para secciones como UX/UI pensando que estas van a un público que no cuenta con un conocimiento en esos términos.<br><b>Sanchez Gonzales</b> <br>TP1<br>Durante el TP1, me encargué de documentar el Sprint Backlog 2 y los avances del equipo. Me aseguré de redactar con claridad y adecuación para que tanto mis compañeros como los docentes pudieran entender el progreso y las tareas realizadas.<br><b>Sanchez Gonzales</b><br>TB2<br>A lo largo del desarrollo de la entrega del TB2, gracias a la entrega del Sprint Backlog, las Evaluaciones según heurísticas y los Diseños de entrevistas, comuniqué de forma escrita con claridad y precisión, ajustando el contenido técnico para el equipo y simplificando conceptos clave en los textos dirigidos a usuarios en las entrevistas. Esto me permitió transmitir la información según el nivel de comprensión de cada destinatario.<br><br><b>Rojas Piñero</b> <br>TB1<br> En el desarrollo de este proyecto tuve que aplicar mis habilidades de comunicación en el contexto requerido logrando implementar lenguaje más técnico si así era necesario para comunicarme con mis compañeros de grupo. De igual manera identificando un contexto en el cual las secciones de trabajo fueran dirigidas al público/usuarios debía implementar otro tipo de expresiones o lenguaje más claro de entender para ellos. <br><br><b>George Aliaga</b> <br>TB1<br> En el desarrollo de las distintas actividades, me aseguré de adaptar mi forma de comunicar según el propósito y el público de cada documento. Al trabajar en tareas técnicas como los Class Diagrams, la configuración del entorno de desarrollo y la gestión del código fuente, empleé un lenguaje preciso y especializado para mantener la claridad técnica. Por otro lado, en actividades centradas en la experiencia del usuario como el Empathy Mapping, el User Journey Mapping y el As-is Scenario Mapping, utilicé una redacción más sencilla y cercana, con el objetivo de que cualquier persona, sin necesidad de conocimientos técnicos, pudiera comprender fácilmente la información presentada. <br>TP1<br>Al haber implementado la visualización de colecciones y las funcionalidades de compartir (enlace y QR) en el front-web de Keeplo, he demostrado mi capacidad para desarrollar características interactivas y centradas en el usuario. Mi colaboración con el equipo para la correcta ejecución y la documentación del sprint reflejan mi habilidad para contribuir al proyecto de manera efectiva y comunicar los avances de forma clara.<br><br><b>Bryan Martinez</b> <br>TB1<br> En el desarrollo de la TB1 y al realizar esta actividades he demostrado habilidades de redacción de documentación técnica que explica claramente las decisiones tomadas y los procesos utilizados, facilitando la comprensión tanto para miembros técnicos como para aquellos sin experiencia técnica. Por otro lado, en las evidencias presentadas para las revisiones del sprint, redacté informes estructurados y claros que permitieron a todos los integrantes del proyecto entender los avances y resultados obtenidos, independientemente de su rol. Estas experiencias reflejan mi capacidad para comunicar ideas y conceptos de manera precisa y adaptada a diversos contextos y niveles de audiencia. <br><br><b>Maria Elena Muñoz Machuca</b> <br>TB1<br> Al haber redactado el organization systems, labelling system y sprint planning he demostrado habilidades de redacción de documentación técnica que explica claramente las decisiones tomadas y los procesos utilizados. Estas experiencias reflejan mi capacidad para comunicar ideas y conceptos de manera precisa y adaptada a diversos contextos y niveles de audiencia.  <br>TP<br>  Durante el TP, me encargue de documentar el sprint planning  2, esto nos ayudo a mantener los objetivos claros y poder organizarnos de la mejor manera. Asimismo, los aspect leader collaborations que nos permitieron reconocer en que aspectos cada integrante tenia más participación. Y finalmente el development evidence review que nos permitía ver las evidencias de el aporte de cada integrante. Me aseguré de redactar y plasmar estas evidencias para que mis compañeros puedan organizarse mejor y los docentes puedan evidenciar el trabajo colaborativo. <br>TB2<br>Durante el TB2 participé activamente en las reuniones de planificación y retrospectiva del sprint, así como en los espacios de coordinación del equipo. Me comuniqué con claridad para plantear sugerencias sobre la validación con usuarios, discutir decisiones del backend y resolver dudas relacionadas al diseño de colecciones e items. Estas interacciones reflejan mi capacidad para dialogar con distintos perfiles, desde desarrolladores hasta miembros centrados en UX, adaptando mi lenguaje a cada contexto y promoviendo una colaboración efectiva.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 # Capítulo I: Introducción   
 ## 1.1. Startup Profile
@@ -320,6 +348,8 @@ Los compradores buscan un lugar en el cual puedan guardar todos los objetos de i
   - **Edad:** Mayor a 18 años  
   - **Ubicación:** Lima, Peru  
   - **Nivel Socioeconomico:** Medio a alto
+
+<div style="page-break-after: always;"></div>
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -629,6 +659,8 @@ link a As-Is: [Link a Miro](https://miro.com/welcomeonboard/aGd3M3ludGRjbTNYOUdm
 * **Interfaz**: Espacio visual donde el usuario interactúa con las funciones del sistema.
 
 
+<div style="page-break-after: always;"></div>
+
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
@@ -797,52 +829,56 @@ Technical:
 | \# Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8\) |
 | ----: | :---- | :---- | :---- | :---: |
 | 1 | US01 | Crear colecciones personalizadas. | Permitir crear colecciones con nombre/descripción. | 3 |
-| 2 | US02 | Añadir ítems a una colección. | Agregar ítems a colecciones. | 3 |
-| 3 | US03 | Personalización de Ítems | Modificar detalles de ítems guardados. | 2 |
-| 4 | US06 | Acceso público a colecciones o ítems compartidos. | Acceso a items o colecciones compartidas por un usuario | 3 |
-| 5 | US07 | Visualización de mis colecciones. | Cambiar entre colecciones fácilmente desde el dashboard. | 3 |
-| 6 | US08 | Visualización de mis items. | Ver ítems. | 2 |
-| 7 | US09 | Subcarpetas en mis colecciones. | Crear subniveles dentro de una colección. | 5 |
-| 8 | US15 | Eliminar colecciones e ítems. | Eliminar colecciones con opción de recuperación. | 3 |
-| 9 | US16 | Etiquetado manual de ítems. | Añadir tags personalizados a ítems. | 2 |
-| 10 | US26 | Cambiar tema de colores del fondo de las colecciones | Personalizar fondo de colecciones. | 3 |
-| 11 | US27 | Restaurar colecciones eliminadas. | Recuperar colecciones desde la papelera. | 3 |
-| 12 | US04 | Compartir colección o ítem mediante código QR. | Generar un QR para compartir colecciones. | 3 |
-| 13 | US05 | Compartir colección o ítem mediante link. | Generar un link para compartir colecciones. | 2 |
-| 14 | US11 | Compartir con permisos granulares. | Controlar quién puede ver o editar las colecciones. | 5 |
-| 15 | US12 | Vista previa de colecciones compartidas. | Ver miniatura antes de acceder a una colección compartida. | 3 |
-| 16 | US14 | Exportar Colecciones a PDF. | Descargar colecciones como documento PDF. | 5 |
-| 17 | US17 | Compartir ítems individuales. | Compartir ítems específicos, no toda la colección. | 3 |
-| 18 | US18 | Límite de acceso temporal. | Compartir colecciones que expiren en cierto tiempo. | 5 |
-| 19 | US33 | Encriptación de colecciones compartidas. | Asegurar datos compartidos. | 5 |
-| 20 | US34 | Encriptación de ítems compartidos. | Proteger ítems compartidos con QR o link. | 5 |
-| 21 | US10 | Búsqueda semántica. | Buscar ítems por palabra clave, tag o tipo de contenido. | 5 |
-| 22 | US25 | Registrar cuenta. | Registro con correo. | 3 |
-| 23 | US35 | Iniciar sesión en cuenta. | Login con usuario y contraseña. | 2 |
-| 24 | US19 | Ver el nombre, logo y eslogan de la aplicación. | Mostrar identidad de la app. | 1 |
-| 25 | US20 | Visualizar principales funciones. | Mostrar lo que hace la app desde el landing page. | 2 |
-| 26 | US21 | Visualizar botón destacado “Empieza ahora” en la sección principal del landing. | Llamada a acción en la landing. | 1 |
-| 27 | US22 | Acceder a la página inicio de sesión desde el botón “Iniciar sesión”. | Acceder a login desde el header de landing page. | 1 |
-| 28 | US23 | Acceder a la página de registro de diseñador a través de botón “Empezar como diseñador”. | Registro directo como diseñador. | 2 |
-| 29 | US24 | Acceder a la página de registro de comprador a través de botón “Empezar como comprador”. | Registro rápido como comprador. | 2 |
-| 30 | US36 | Navigation Bar. | Barra de navegación para moverse por el sitio. | 3 |
-| 31 | US37 | Sección Hero. | Mensaje principal llamativo al entrar al sitio. | 2 |
-| 32 | US38 | Sección Estadísticas. | Mostrar datos clave de uso de la plataforma. | 5 |
-| 33 | US39 | Sección Ofrecemos. | Beneficios clave de la app en la landing. | 2 |
-| 34 | US40 | Sección Planes. | Comparar precios y beneficios. | 3 |
-| 35 | US41 | Sección Porque Nosotros. | Mostrar ventajas de Keeplo sobre otras opciones. | 2 |
-| 36 | US42 | Footer. | Pie de página con info y enlaces útiles. | 2 |
-| 37 | US43 | Cambio de lenguaje a inglés/español. | Alternar entre idiomas desde el sitio de landing. | 5 |
-| 38 | US44 | Atributos Aria. | Accesibilidad para usuarios con lectores de pantalla. | 5 |
-| 39 | US13 | Modo oscuro/accesibilidad. | Cambiar tema y ajustar texto para mejor lectura. | 3 |
-| 40 | US28 | Actualizar foto de perfil. | Cambiar la imagen del perfil del usuario. | 2 |
-| 41 | US29 | Modificar información personal. | Editar nombre, correo, teléfono, etc. | 3 |
-| 42 | US30 | Cambiar contraseña. | Actualizar contraseña desde la configuración. | 2 |
-| 43 | US32 | Actualizar tarjeta de crédito asociada. | Cambiar datos de pago para suscripción. | 3 |
-| 44 | US45 | Cambio de lenguaje a inglés y español en aplicación. | Alternar idioma desde la app. | 5 |
-| 45 | US31 | Acceder a planes de suscripción premium. | Ver precios y beneficios, y suscribirse. | 5 |
-| 46 | US46 | Anadir video de about the team | Ver video de about the team | 3 |
-| 47 | US47 | Anadir video de about the product | Ver video de about the product  | 3 |
+| 2 | US02 | Añadir ítems a una colección.  | Agregar ítems a colecciones. | 3 |
+| 3 | US18 | Desarrollar una API de cruds de colecciones | Endpoints para gestionar colecciones. | 5 |
+| 4 | US19 | Desarrollar una API cruds de ítems.  | Endpoints para gestionar ítems. | 5 |
+| 5 | US30 | Registrar cuenta. | Registro con correo. | 3 |
+| 6 | US40 | Iniciar sesión en cuenta.  | Login con usuario y contraseña. | 2 |
+| 7 | US04 | Compartir colección o ítem mediante código QR | Generar un QR para compartir colecciones. | 3 |
+| 8 | US05 | Compartir colección o ítem mediante link | Generar un link para compartir colecciones. | 2 |
+| 9 | US37 | Encriptación de colecciones compartidas | Asegurar datos compartidos. | 5 |
+| 10 | US24 | Ver el nombre, logo  y eslogan de la aplicación | Mostrar identidad de la app. | 1 |
+| 11 | US26 | Botón “Empieza ahora”. | Llamada a acción en la landing. | 1 |
+| 12 | US12 | Compartir con permisos granulares	 | Controlar quién puede ver o editar las colecciones.  | 5 |
+| 13 | US22	 | Compartir ítems individuales	 | Compartir ítems específicos, no toda la colección.  | 3 |
+| 14 | US17 | Etiquetado manual de ítems	 | Añadir tags personalizados a ítems.  | 2 |
+| 15 | US07 | Visualización de mis colecciones | Cambiar entre colecciones fácilmente desde el dashboard.  | 3 |
+| 16 | US35	 | Actualizar foto de perfil	 | Cambiar la imagen del perfil del usuario.  | 2 |
+| 17 | US09 | Subcarpetas en mis colecciones	 | Crear subniveles dentro de una colección.  | 5 |
+| 18 | US08	 | Visualización de mis items. | Ver ítems.  | 2 |
+| 19 | US34	 | Modificar información personal	 | Editar nombre, correo, teléfono, etc.  | 3 |
+| 20 | US25 | Visualizar principales funciones	 | Mostrar lo que hace la app desde el landing page.  | 2 |
+| 21 | US35 | Cambiar contraseña	 | Actualizar contraseña desde la configuración.  | 2 |
+| 22 | US20	 | Personalización de Ítems 	 | Modificar detalles de ítems guardados.  | 2 |
+| 23 | US27	 | Botón “Iniciar sesión” en landing	 | Acceder a login desde el header de landing page.  | 1 |
+| 24 | US29 | Botón “Empezar como comprador”	 | Registro rápido como comprador.  | 2 |
+| 25 | US31 | Cambiar tema de colores	 | Personalizar fondo de colecciones.  | 3 |
+| 26 | US10	 | Búsqueda semántica	 | Buscar ítems por palabra clave, tag o tipo de contenido.  | 5 |
+| 27 | US32	 | Restaurar colecciones eliminadas	 | Recuperar colecciones desde la papelera.  | 3 |
+| 28 | US21	 | API búsqueda por query	 | Obtener colecciones según filtros (texto, tags).  | 5 |
+| 29 | US13 | Vista previa de colecciones compartidas	 | Ver miniatura antes de acceder a una colección compartida.  | 3 |
+| 30 | US36	 | Actualizar tarjeta de crédito	 | Cambiar datos de pago para suscripción.  | 3 |
+| 31 | US36	 | Acceder a planes de suscripción premium	 | Ver precios y beneficios, y suscribirse.  | 5 |
+| 32 | US48 | Cambio de lenguaje a inglés/español	 | Alternar entre idiomas desde el sitio de landing.  | 5 |
+| 33 | US44	 | Sección Ofrecemos	 | Beneficios clave de la app en la landing.  | 2 |
+| 34 | US42 | Sección Hero	 | Mensaje principal llamativo al entrar al sitio.  | 2 |
+| 35 | US45 | Sección Planes	 | Comparar precios y beneficios.  | 3 |
+| 36 | US41	 | Navigation Bar	 | Barra de navegación para moverse por el sitio.  | 3 |
+| 37 | US14	 | Modo oscuro/accesibilidad	 | Cambiar tema y ajustar texto para mejor lectura.  | 3 |
+| 38 | US39 | Encriptación de ítems compartidos	 | Proteger ítems compartidos con QR o link.  | 5 |
+| 39 | US23 | Límite de acceso temporal	 | Compartir colecciones que expiren en cierto tiempo.  | 5 |
+| 40 | US11 | API gestión de perfiles	 | Endpoints para crear/editar perfiles y diferenciar roles.  | 5 |
+| 41 | US46 | Sección Porque Nosotros	 | Mostrar ventajas de Keeplo sobre otras opciones.  | 2 |
+| 42 | US28 | Botón “Empezar como diseñador”	 | Registro directo como diseñador.  | 2 |
+| 43 | US43 | Sección Estadísticas	 | Mostrar datos clave de uso de la plataforma.  | 5 |
+| 44 | US49 | Atributos Aria	 | Accesibilidad para usuarios con lectores de pantalla.  | 5 |
+| 45 | US15 | Exportar Colecciones a PDF	 | Descargar colecciones como documento PDF.  | 5 |
+| 46 | US47 | Footer	 | Pie de página con info y enlaces útiles.  | 2 |
+| 47 | US16 | Eliminar colecciones	 | Eliminar colecciones con opción de recuperación.	 | 3 |
+| 48 | US06 | Acceso público a colecciones o ítems compartidos. | Acceso a items o colecciones compartidas por un usuario | 3 |
+| 49 | US33 | Actualizar foto de perfil  | Actualizar la foto de perfil del usuario | 3 |
+
+<div style="page-break-after: always;"></div>
 
 # Capítulo IV: Product Design
 
@@ -983,26 +1019,35 @@ El sistema de búsqueda presente en el diseño se basa en una única barra de b�
 ### 4.3.1. Landing Page Wireframe
 **Mobile:**
 
-<img src="assets/landingpageWireMockUp/Wireframe%20Landing%20PageLandingPage.png" height="1000"/>
+<img src="assets/landingpageWireMockUp/Wireframe%20Landing%20PageLandingPage.png" height="800"/>
+
+<div style="page-break-after: always;"></div>
 
 **Desktop:**
 
-<img src="assets/landingpageWireMockUp/WireFrame%20Landing%20PageLandingPage(1).png" height="1000"/>
+<img src="assets/landingpageWireMockUp/WireFrame%20Landing%20PageLandingPage(1).png" height="800"/>
+
+<div style="page-break-after: always;"></div>
 
 ### 4.3.2. Landing Page Mock-up
+
 **Mobile:**
 
-<img src="assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage-1.png" height="1000"/>
+<img src="assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage-1.png" height="800"/>
 
 Link a landing page: [Figma Landing Page](https://www.figma.com/design/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=662-263&t=pMqV3oN4AieCUZ1h-1)
 
+<div style="page-break-after: always;"></div>
+
 **Desktop:**
 
-<img src="assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage.png" height="1000"/>
+<img src="assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage.png" height="800"/>
+
+<div style="page-break-after: always;"></div>
 
 ## 4.4. Web Applications UX/UI Design
 
-<img src="assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage.png" height="1000"/>
+<img src="assets/landingpageWireMockUp/Mock-Up%20Landing%20PageLandingPage.png" height="800"/>
 
 ### 4.4.1. Web Applications Wireframes
 
@@ -1227,10 +1272,9 @@ Link a C4: [Link a Structurizer](https://structurizr.com/share/87207/5b87183f-b1
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
-![Keeplo-2025-05-26_16-59](https://github.com/user-attachments/assets/d7aaa9fc-e930-4fbf-b87e-2b2c9a873911)
+[Enlace del diagrama de base de datos ](https://my.vertabelo.com/doc/lah8xd68anzS3iGZAssm1kXuLByWPuqi )
 
-
-[Enlace del diagrama de base de datos ]([https://my.vertabelo.com/doc/lah8xd68anzS3iGZAssm1kXuLByWPuqi ](https://my.vertabelo.com/doc/pzHl6Xqb8nAH1OTw92cOjw17LIyV8NTN))
+<div style="page-break-after: always;"></div>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -2226,6 +2270,10 @@ El desarrollo del frontend de Keeplo respondió a la necesidad de ofrecer una ex
 
 La elección de Render como plataforma de despliegue facilitó considerablemente la publicación del frontend de Keeplo. Al permitir la conexión directa con repositorios y automatizar los procesos de integración, Render se posicionó como una solución eficaz para mantener el proyecto actualizado, accesible y estable. Esta elección tecnológica contribuyó a acortar los tiempos de despliegue y a garantizar una experiencia fluida en distintos entornos de uso.
 
+<div style="page-break-after: always;"></div>
+
+# 7. Recomendaciones
+
 # 7. Video About The Team
 
 ![video about the team ss of youtube](assets/abt-the-team-ss.png)
@@ -2242,6 +2290,8 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 - Incluir una funcionalidad donde los usuarios puedan guardar sus “Wish” a través de extensiones de navegador, permitiéndoles guardar ítems de manera inmediata mientras navegan, logrando evitar una desconexión de concentración, mejorando la eficacia y la rapidez con la que crean nuevos wishes
 - Desarrollar un algoritmo de auto-etiquetado, donde los “Wishes” puedan ser asignados automáticamente una etiqueta en el caso de no tener una etiqueta añadida manualmente, estas auto-etiquetas serían creadas a partir del nombre y descripción del “Wish”, facilitando la organización rápida de contenido y reduciendo el esfuerzo de acciones manuales por parte del usuario
 - Incorporar una funcionalidad de extra valor para los compradores, en la cual se les permite asignar un campo de valor, como lo es el precio, el cual funcionaria como un tag adicional y aparte, permitiendo ordenar y filtrar a partir del precio de un ítem, optimizando la comparación de precios entre productos similares.
+
+<div style="page-break-after: always;"></div>
 
 # 9. Bibliografía  
      
@@ -2286,7 +2336,10 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 ### Web Application
 - [Aplicación Web desplegada](https://delightful-glacier-04ad1371e.6.azurestaticapps.net)
 
----
+### Repositorio BackEnd
+- [Aplicación Web desplegada](https://delightful-glacier-04ad1371e.6.azurestaticapps.net)
+
+<div style="page-break-after: always;"></div>
 
 ## Anexo B: Videos de Exposiciones
 
@@ -2295,18 +2348,5 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 - [Link a video de exposión de TB1 en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EaGZUShoThhNvQY3adq7ZQUBg4-rlQKaWEKYWI-se-Ieyw?e=rFnFNl)
 ### Video de Exposición TP1
 - [Link a video de exposión de TP1 en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EemubQ53MS9OrhRkFP9DlyIBs8_WMB2Uhq8we4R88KOJrw?e=ix5op1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-## Anexo C: Videos de Proyecto
-
-### Video About the Team
-
-- [Link a Video About the Team en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ebz8rpkJ3TdPtQfA58uYwB0BAuJhDYSCi3dEnFduGSLSdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6tPW54](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ebz8rpkJ3TdPtQfA58uYwB0BAuJhDYSCi3dEnFduGSLSdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6tPW54)
-
-- [Link a Video About the Team en Youtube: https://youtu.be/a7vinekxhnw](https://youtu.be/a7vinekxhnw)
-
-### Video About the Product
-
-
-- [Link a Video About the Product en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EdEQsr7nuthMsiu8_jE9OOcBr3ptOgBNGKL5Lg1OxTwGEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=H2TqoD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EdEQsr7nuthMsiu8_jE9OOcBr3ptOgBNGKL5Lg1OxTwGEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=H2TqoD)
-
-- [Link a Video About the Product en Youtube: https://youtu.be/1k5EaMVat8A?si=UwYtcRMYDvNhMQGY](https://youtu.be/1k5EaMVat8A?si=UwYtcRMYDvNhMQGY )
+### Video de Exposición TB2
+- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EXeLZmq8bVBNjZItoaBtP3cBoebI-z6HyCndfzP-zl-i6w?e=16C6mt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EXeLZmq8bVBNjZItoaBtP3cBoebI-z6HyCndfzP-zl-i6w?e=16C6mt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
