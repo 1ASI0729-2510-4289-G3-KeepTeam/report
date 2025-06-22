@@ -1098,6 +1098,10 @@ Link a C4: [Link a Structurizer](https://structurizr.com/share/87207/5b87183f-b1
 
 [![frontend-diagram.png](https://i.postimg.cc/sxCb6vYx/frontend-diagram.png)](https://postimg.cc/N9bNLGPv)
 
+#### 4.7.1.3 Backend Class Diagram
+
+[![backend-class-diagram.png](https://i.postimg.cc/prdkHzPT/backend-class-diagram.png)](https://postimg.cc/WFQ0mDFL)
+
 ### 4.7.2. Class Dictionary
 
 **Users**
