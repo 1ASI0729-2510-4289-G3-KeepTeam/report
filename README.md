@@ -1799,6 +1799,65 @@ Application:
 2. ¿Sueles eliminar productos que ya no vas a comprar? ¿Cómo te pareció la función de papelera?
    
 ### 5.3.2 Registro de Entrevistas
+
+En el **Registro de Entrevistas**, se documenta todo lo que dijeron los entrevistados y se organiza para poder analizar sus respuestas. Aquí se incluye información básica de cada participante, un resumen de sus respuestas y enlaces a los videos de las entrevistas. Este registro es muy útil para entender mejor lo que opinan los usuarios y, además, sirve de base para hacer mejoras en *Keeplo*, adaptando la plataforma a lo que realmente necesitan y valoran.
+
+**Segmento 1: Diseñadores**
+
+**Entrevista 1**
+
+**Nombre: Adrian Paoli**
+
+**Apellidos: Zapata Mongrut**
+
+**Edad: 22**
+
+**Lugar de residencia: Carabayllo**
+
+**Entrevistador: George Aliaga**
+
+**Evidencia de entrevista**
+
+![][image1]
+
+**Enlace de entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EannRcC4-ulNnEy2UziYkVUB8Cw4SpOz1v_43UtEKK5I1A?e=PaoU9z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Inicio:** 4:35
+
+**Fin:** 9:50
+
+**Resumen de entrevista**
+
+Se entrevistó a Adrian Zapata, un diseñador, quien participó en una sesión para evaluar la landing page y la aplicación web de Keeplo, con un enfoque particular en cómo la plataforma podría servir a profesionales creativos. En cuanto a la Landing Page, Adrian comprendió claramente la función de la aplicación con solo ver la página principal, destacando la presencia de accesos directos y descripciones claras. Afirmó que la navegación por las secciones es fácil y no saturada, conteniendo "lo poco y suficiente". No identificó confusiones o puntos de mejora significativos en el mensaje o diseño, más allá de "detalles mínimos de decoración", bajo la premisa de que "si algo funciona, ¿para qué cambiarlo?". Como diseñador, sintió que la aplicación está pensada para profesionales creativos como él, entendiendo los beneficios de inscribirse en Keeplo. La única posible limitación mencionada fue la necesidad de conexión a internet para tener las colecciones "a la mano". Respecto a la aplicación Keeplo, Adrian encontró que el proceso de guardar una nueva colección era rápido, especialmente al poder añadir tags para una búsqueda más ágil. Para las colecciones, sugirió la posibilidad de moverlas o agregar una categoría de "prioridades" (como un botón de favorito), lo que sería muy útil si se crean muchas, para acceder rápidamente a las más importantes. La función de compartir links o ideas le pareció muy útil para diseñadores, ya que permite compartir dibujos, diseños e inspiraciones, facilitando el intercambio de ideas y la inspiración mutua entre colegas. La estética y fluidez del proceso de eliminar fueron bien recibidas, especialmente la opción de recuperar elementos, lo cual consideró muy valioso para evitar pérdidas accidentales. Las opciones de edición las encontró claras, aunque sugirió que podrían mejorar en fluidez y ser "más rapiditas", pero sí son comprensibles para usuarios que no están "acostumbrados a pocos botones". La utilidad de organizar productos en colecciones y subcolecciones le pareció "muy útil", ya que permite tener todo organizado y etiquetado sin necesidad de navegar por múltiples carpetas. Finalmente, Adrian indicó que usaría Keeplo para sus proyectos personales y creativos, como historietas o cómics, separando y organizando diseños para ilustración, 3D o guion, lo que le permitiría tener sus inspiraciones y el resultado final "fácilmente guardados" y "a la mano" gracias a la organización y los tags.
+
+**Segmento 2: Compradores en línea**
+
+**Entrevista 1**
+
+* **Nombre**: Kenny Alexander  
+* **Apellidos**: Ayme Cuba  
+* **Edad**: 23  
+* **Lugar de residencia**: San Miguel  
+* **Entrevistador**: George Aliaga
+
+**Evidencia de entrevista**
+
+*![][image2]*
+
+* **Enlace de entrevista**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ec9mnTJR_pRIs1CZJQljK90BxlcxElkN5_toYE07AD7q4A?e=BSGYm8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
+  
+* **Inicio**: 0:00  
+* **Fin**: 03:42
+
+**Resumen de entrevista**
+
+Se entrevistó a Kenny Alexander Ayme Cuba, quien evaluó la funcionalidad de la landing page y la aplicación web de Keeplo. Durante la sesión, Kenny compartió sus impresiones y sugerencias basadas en su experiencia interactuando con la plataforma.
+
+Respecto a la Landing Page, Kenny encontró que era bastante intuitiva y de fácil uso, tanto para personas familiarizadas con la tecnología como para quienes no lo están. Destacó la fluidez de navegación, los colores, el contraste del menú y los botones, que consideró bien logrados. Mencionó la posibilidad de mejorar el diseño con la adición de botones para agregar ítems y colecciones directamente desde la landing page, lo cual le pareció una mejora recomendable. Como comprador en línea, Kenny afirmó que entendió claramente los beneficios de inscribirse, pero le gustaría ver el resultado final de la aplicación antes de decidir si pagaría por el servicio. Confirmó que la información ofrecía confianza para guardar sus links de compra.
+
+En cuanto a la aplicación Keeplo, Kenny resaltó que el proceso para guardar nuevas colecciones e ítems dentro de una colección le resultó bastante fácil y muy intuitivo. Describió la función de compartir como "genial", especialmente siendo una persona que disfruta de las compras en línea, ya que le permite compartir sus ideas y gustos. La estética y fluidez al eliminar elementos también le parecieron muy buenas, valorando el mensaje de confirmación que funciona como una "doble eliminación" (papelera), lo cual consideró muy útil para restaurar elementos si fuera necesario. Las opciones de edición las encontró claras y le gustó mucho la utilidad de organizar productos en colecciones y subcolecciones por ser "bastante ordenado", algo que valora mucho como comprador frecuente. Finalmente, el proceso de guardar un producto desde una tienda en línea (copiar y pegar un enlace) le pareció sumamente sencillo y accesible, incluso para usuarios con poca experiencia tecnológica.
+
+
 ### 5.3.3 Evaluaciones según heurísticas 
 
 <h4 align="center"><strong>Usability – Inclusive Design – Information Architecture</strong></h4>
