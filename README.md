@@ -1130,7 +1130,7 @@ Link Miro: https://miro.com/welcomeonboard/aXRqaHNteXl2dlUrQTVWQ2VYSnZYc0FjblY1M
 Frontend
 ![diagrama contexto](assets/componentDiagramv1.png)
 Backend
-![diagrama contexto](assets/c4/comp-back.png)
+![diagrama contexto](assets/backendComponentv1.png)
 
 Link a C4: [Link a Structurizer](https://structurizr.com/share/87207/5b87183f-b13d-403d-a0bd-be6b565d1c8f )
 
