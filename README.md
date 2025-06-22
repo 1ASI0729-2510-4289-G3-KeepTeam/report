@@ -1768,6 +1768,19 @@ Para el despliegue de nuestra aplicación web decidimos utilizar los servicios d
 
 
 #### 5.2.3.3 Sprint Backlog 3
+
+| Sprint \# |  |  Sprint 3 |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | ----- | :---- | :---- |
+| **User Story** |  | **Work-Item / Task** |  |  |  |  |  |
+| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation  (Hours)** | **Assigned To** | **Status  (To-do /  InProcess /  ToReview /  Done)** |
+| US01 | Crear colecciones personalizadas | US01-1 | Crear colecciones personalizadas | Permite al usuario organizar sus intereses por categorías | 8 | Aliaga, Sanchez | Done |
+| US02 | Añadir ítems a una colección | US02-1 | Añadir ítems a una colección | Agregar elementos dentro de colecciones existentes | 6 | Sanchez | Done |
+| US09 | Subcarpetas en mis colecciones | US09-1 | Crear subcarpetas dentro de colecciones | Organización avanzada por subcategorías dentro de colecciones | 6 | Sanchez | Done |
+| US13 | Cambio de lenguaje a inglés y español | US13-1 | Implementar cambio de lenguaje | Cambio dinámico entre idiomas ES y EN en la aplicación | 6 | Sanchez, Aliaga | Done |
+| US15 | Eliminar colecciones e ítems | US15-1 | Eliminar colecciones | Funcionalidad para remover colecciones de forma permanente | 6 | Sanchez | Done |
+| US46 | Añadir video About the team | US46-1 | Video del equipo en landing | Mostrar el equipo detrás del producto para generar confianza | 4 | Sanchez | Done |
+| US47 | Añadir video About the product | US47-1 | Video del producto | Video explicativo del funcionamiento del producto en landing page | 4 | Sanchez | Done |
+
 #### 5.2.3.4 Development Evidence for Sprint Review
 
 | **Repository**                                                                 | **Branch**     | **Commit Id** | **Commit Message**                              | **Commit Message Body**                                | **Committed on (Date)** |
