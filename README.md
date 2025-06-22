@@ -1227,10 +1227,10 @@ Link a C4: [Link a Structurizer](https://structurizr.com/share/87207/5b87183f-b1
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
-![Keeplo-2025-05-26_16-59](https://github.com/user-attachments/assets/d7aaa9fc-e930-4fbf-b87e-2b2c9a873911)
+![Keeplo-2025-06-22_11-00](assets/Keeplo-2025-06-22_11-00.png)
 
 
-[Enlace del diagrama de base de datos ]([https://my.vertabelo.com/doc/lah8xd68anzS3iGZAssm1kXuLByWPuqi ](https://my.vertabelo.com/doc/pzHl6Xqb8nAH1OTw92cOjw17LIyV8NTN))
+[Enlace del diagrama de base de datos ]([https://my.vertabelo.com/doc/pzHl6Xqb8nAH1OTw92cOjw17LIyV8NTN ](https://my.vertabelo.com/doc/pzHl6Xqb8nAH1OTw92cOjw17LIyV8NTN))
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
