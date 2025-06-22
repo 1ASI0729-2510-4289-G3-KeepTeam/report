@@ -1806,6 +1806,29 @@ Para el despliegue de nuestra aplicación web decidimos utilizar los servicios d
 
 #### 5.2.3.5 Execution Evidence for Sprint Review
 #### 5.2.3.6 Services Documentation Evidence for Sprint Review
+
+La documentación y prueba de los endpoints se realizó utilizando el servicio de Swagger con Swagger-ui, permitiendo visualizar, consumir y validar la API de forma interactiva. 
+
+| Endpoint        | Operaciones   | Parámetros           | URL                                                       |
+|------------------|----------------|------------------------|------------------------------------------------------------|
+| Roles            | GET            | –                      | /api/v1/roles                                              |
+| Wishes           | POST           | –                      | /api/v1/wishes                                             |
+|                  | GET            | {wishId}               | /api/v1/wishes/{wishId}                                   |
+|                  | GET            | {collectionId}         | /api/v1/wishes/collection/{collectionId}                  |
+|                  | DELETE         | {wishId}               | /api/v1/wishes/wishes/{wishId}                            |
+| Authentication   | POST           | –                      | /api/v1/authentication/sign-up                            |
+|                  | POST           | –                      | /api/v1/authentication/sign-in                            |
+| Subscription     | PUT            | {subscriptionId}       | /api/v1/subscriptions/{subscriptionId}                    |
+|                  | POST           | –                      | /api/v1/subscriptions                                      |
+|                  | GET            | {userId}               | /api/v1/subscriptions/user/{userId}                       |
+| Wishlist         | GET            | –                      | /api/v1/collections                                        |
+|                  | POST           | –                      | /api/v1/collections                                        |
+|                  | POST           | {collectionId}         | /api/v1/collections/{collectionId}/tags                   |
+|                  | GET            | {collectionId}         | /api/v1/collections/{collectionId}                        |
+|                  | DELETE         | {collectionId}         | /api/v1/collections/{collectionId}                        |
+| Users            | GET            | –                      | /api/v1/users                                              |
+|                  | GET            | {userId}               | /api/v1/users/{userId}                                    |
+
 #### 5.2.3.7 Software Deployment Evidence for Sprint Review
 #### 5.2.3.8 Team Collaboration Insights during Sprint
 
