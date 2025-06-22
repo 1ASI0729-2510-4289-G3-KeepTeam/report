@@ -1769,6 +1769,8 @@ Para el despliegue de nuestra aplicación web decidimos utilizar los servicios d
 
 #### 5.2.3.3 Sprint Backlog 3
 
+![](assets/sprint3-backlog.png)
+
 | Sprint \# |  |  Sprint 3 |  |  |  |  |  |
 | :---- | :---- | :---- | :---- | :---- | ----- | :---- | :---- |
 | **User Story** |  | **Work-Item / Task** |  |  |  |  |  |
