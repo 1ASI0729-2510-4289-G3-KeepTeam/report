@@ -2030,7 +2030,7 @@ Se entrevistó a Sergio Aguirre, quien participó en una sesión de evaluación 
 - **Nombre**: Marcelo Fabián
 - **Apellidos**: Garro Vega
 - **Edad**: 22
-- **Lugar de residencia**: 
+- **Lugar de residencia**: Surquillo
 - **Entrevistador**: George Aliaga 
 
 **Evidencia de entrevista**
@@ -2062,7 +2062,11 @@ Respecto a la aplicación Keeplo, Marcelo encontró que el proceso para guardar 
 
 **AUDITOR : KeepTeam**
 
-**CLIENTE(S) :** Luz Rupay Hung 
+**CLIENTE(S) :**
+* Luz Rupay Hung
+* Adrian Zapata
+* Kenny Ayme
+* Marcelo Garro
 
 ***SITE o APP A EVALUAR:***
 
@@ -2075,7 +2079,9 @@ Keeplo
 1. Log In
 2. Sign Up
 3. Perfiles
-
+4. Colecciones
+5. Items
+   
 No están incluidas en esta versión de la evaluación las siguientes tareas:
 
 1. Validación y Compra con Método de Pago
@@ -2099,8 +2105,8 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 | :---: | ----- | ----- | :---- |
 | 1 | No hay un mensaje de error al equivocarse en un formulario | 1 | Usability: Prevención de errores |
 | 2 | Evitar mostrar opciones a las que el usuario no puede acceder | 2 | Usability: Prevención de errores |
-|  |  |  |  |
-|  |  |  |  |
+| 3 | Ausencia de una opción clara para cerrar sesión | 3 | Usability: Control y libertad del usuario |
+| 4 | El color elegido para la colección no se visualiza | 3  | Usability: Visibilidad del estado del sistema |
 |  |  |  |  |
 |  |  |  |   |
 
@@ -2142,6 +2148,48 @@ Cuando el usuario se encuentra en la sección de inicio de sesión o registro de
 Ocultar las opciones que requieren que el usuario esté con una sesión iniciada. Estas opciones sólo se mostrarán en pantallas donde el usuario debe estar con la sesión iniciada.
 
 ![imagen solucion 2](assets/heuristicasValidation/img30.jpg)
+
+#### *PROBLEMA \#3:* Ausencia de una opción clara para cerrar sesión
+
+Severidad: 2
+
+Heurística violada: Control y libertad del usuario
+
+
+**Problema:**
+
+Los usuarios que han iniciado sesión no encuentran una opción visible o intuitiva para cerrar su sesión. Esto genera incertidumbre sobre cómo desvincular su cuenta del dispositivo actual y limita su control sobre la privacidad de su sesión.
+
+[![imageproblema3.png](https://i.postimg.cc/Y03VWcrX/image.png)](https://postimg.cc/5QXphRFv)
+
+**Recomendación:**
+
+Incluir un botón de "Cerrar Sesión" fácilmente accesible, preferiblemente en el menú del perfil del usuario o en un lugar destacado del encabezado/pie de página una vez que la sesión ha sido iniciada. Esto proporcionará al usuario un control claro y directo sobre su estado de sesión.
+
+
+[![imagesolucion3.png](https://i.postimg.cc/Jn8PcTdS/image.png)](https://postimg.cc/sBnY3JzJ)
+
+
+#### *PROBLEMA \#4:* El color elegido para la colección no se visualiza
+
+Severidad: 3
+
+Heurística violada: Visibilidad del estado del sistema
+
+
+**Problema:**
+
+Al crear o editar una colección, el usuario tiene la opción de seleccionar un color para el contenedor de la misma. Sin embargo, después de realizar la selección y guardar los cambios, el color elegido no se aplica ni se muestra visualmente en el contenedor de la colección. Esto genera confusión y frustración en el usuario, ya que el sistema no refleja el cambio que se supone debería haber ocurrido.
+
+[![image4.png](https://i.postimg.cc/K8gfXX6d/image.png)](https://postimg.cc/cv0wYz4m)
+
+**Recomendación:**
+
+Asegurar que el color seleccionado por el usuario para una colección se visualice de manera inmediata y correcta en el contenedor correspondiente una vez que se ha guardado. El sistema debe proporcionar retroalimentación visual clara sobre el estado y las propiedades de los elementos creados o modificados por el usuario.
+
+
+[![image4.png](https://i.postimg.cc/m2K3yXPV/image.png)](https://postimg.cc/KRrgZ5rg)
+
 
 ## 5.4 Video About-the-Product
 
