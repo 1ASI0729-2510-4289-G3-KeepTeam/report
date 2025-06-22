@@ -1753,6 +1753,15 @@ Para el despliegue de nuestra aplicación web decidimos utilizar los servicios d
 | Sum of Story Points              | 39                                                                                                                                                      |
 
 #### 5.2.3.2 Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | GitHub Username | Administracion de perfiles  Leader(L)/Colaborador(C) | Administracion de suscripciones | Gestion de colecciones | Gestion de items |
+| :---- | ----- |:-------------------------------------------------------|:-------------------|:-------------------------------|:-------------------------------------|:--------------------------------|
+| Sanchez Gonzales | [yigabriel](https://github.com/yigabriel) | L                                                      | C                  |                 C               | C                                    |                             |
+| Aliaga Pimentel, George Arturo  | [GeorAliaga](https://github.com/GeorAliaga) | C                                                      | L                  | L                              |                                      |                     C            | C
+| Muñoz Machuca, Maria Elena | [maria-mm0907](https://github.com/maria-mm0907) |   C                                                     | C                  | C                              | L                                    | L                               |
+
+
+
 #### 5.2.3.3 Sprint Backlog 3
 #### 5.2.3.4 Development Evidence for Sprint Review
 #### 5.2.3.5 Execution Evidence for Sprint Review
