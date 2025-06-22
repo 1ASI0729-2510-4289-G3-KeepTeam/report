@@ -45,6 +45,7 @@
 
 <p align="center">Junio 2025-1</p>
 
+<div style="page-break-after: always;"></div>
 
 # Registro de Versiones del Informe
 
@@ -52,12 +53,14 @@
 | :---- | :---- |:----------------------------------------------------------------------------------| :---- |
 | 1.0 | 25/04 | George Aliaga <br>Bryan Martinez <br>Maria Elena Muñoz <br>Luis Miguel Rojas <br>Sanchez Gonzales | Estructura del informe Capítulo I: Introducción <br>Capítulo II: Requirements Elicitation & Analysis <br>Capítulo III: Requirements Specification <br>Capítulo IV: Product Design <br>Capítulo V: Product Implementation & Deployment <br>Conclusiones <br>Recomendaciones <br>Anexos <br>Landing Page |
 | 2.0 | 13/05 | George Aliaga <br>Maria Elena Muñoz <br>Sanchez Gonzales                                  | Corrección Diagramas <br>Corrección User Stories <br>Corrección Entrevistas <br>Corrección Sprint Planning <br>Corrección Repositorios <br>Sprint 2 <br>Conclusiones <br> Web Application
-| 2.0 | 13/05 | George Aliaga <br>Maria Elena Muñoz <br>Sanchez Gonzales                                  | Corrección Diagramas <br>Corrección User Stories <br>Corrección Entrevistas <br>Corrección Sprint Planning <br>Corrección Repositorios <br>Sprint 2 <br>Conclusiones <br> Web Application
+| 3.0 | 13/05 | George Aliaga <br>Maria Elena Muñoz <br>Sanchez Gonzales                                  | Corrección Diagramas <br>Corrección User Stories <br>Corrección Entrevistas <br>Corrección Sprint Planning <br>Corrección Repositorios <br>Sprint 2 <br>Conclusiones <br> Web Application
 
 
 # Project Report Collaboration Insights
 
 ![insight report](assets/insight-report.png)
+
+<div style="page-break-after: always;"></div>
 
 # Contenido
 
@@ -192,6 +195,16 @@ TP1
 | Sanchez Gonzales | Sprint Backlog 2 <br> Correcciones de TB1 <br>Desarrollo de Web Application                                    |
 | Maria Muñoz      | Execution Evidence <br>Services Documentation <br>Conclusiones<br>Desarrollo de Web Application                |
 | George Aliaga    | Sprint Planning 2<br>Aspect Leaders and Collaborators<br>Development Evidence<br>Desarrollo de Web Application |
+
+TB2
+
+| Integrante       | Tareas Asignadas                                                                                               |
+|:-----------------|:---------------------------------------------------------------------------------------------------------------|
+| Sanchez Gonzales | Entrevistas de Validación <br> Heuristicas <br> Sprint Backlog <br> Programación de Backend  <br> Corrección de Frontend  <br> Diseño de Entrevistas <br> Video About-the-ProductApplication                                    |
+| Maria Muñoz      | Sprint Planning 3  <br>  Aspect Leaders and Collaborators  <br>  Development Evidence for Sprint Review  <br> Programación de Aplicación Web  <br> Heuristicas  <br> Programación de Backend  <br> Corrección de Frontend                |
+| George Aliaga    | Entrevistas de Validación <br> Heuristicas <br> Programación de Backend <br> Corrección de Frontend <br> Conclusiones |
+
+<div style="page-break-after: always;"></div>
 
 # Student Outcome
 
@@ -1272,7 +1285,9 @@ Link a C4: [Link a Structurizer](https://structurizr.com/share/87207/5b87183f-b1
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
-[Enlace del diagrama de base de datos ](https://my.vertabelo.com/doc/lah8xd68anzS3iGZAssm1kXuLByWPuqi )
+
+
+[Enlace del diagrama de base de datos: ]()
 
 <div style="page-break-after: always;"></div>
 
@@ -2155,8 +2170,7 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 | 2 | Evitar mostrar opciones a las que el usuario no puede acceder | 2 | Usability: Prevención de errores |
 | 3 | Ausencia de una opción clara para cerrar sesión | 3 | Usability: Control y libertad del usuario |
 | 4 | El color elegido para la colección no se visualiza | 3  | Usability: Visibilidad del estado del sistema |
-|  |  |  |  |
-|  |  |  |   |
+
 
 ***DESCRIPCIÓN DE PROBLEMAS:***
 
@@ -2247,6 +2261,8 @@ Link a Video About the Product en Microsoft Stream: https://upcedupe-my.sharepoi
 
 Link a Video About the Product en Youtube: https://youtu.be/1k5EaMVat8A?si=UwYtcRMYDvNhMQGY 
 
+<div style="page-break-after: always;"></div>
+
 # 6. Conclusiones
 
 
@@ -2271,9 +2287,6 @@ El desarrollo del frontend de Keeplo respondió a la necesidad de ofrecer una ex
 La elección de Render como plataforma de despliegue facilitó considerablemente la publicación del frontend de Keeplo. Al permitir la conexión directa con repositorios y automatizar los procesos de integración, Render se posicionó como una solución eficaz para mantener el proyecto actualizado, accesible y estable. Esta elección tecnológica contribuyó a acortar los tiempos de despliegue y a garantizar una experiencia fluida en distintos entornos de uso.
 
 <div style="page-break-after: always;"></div>
-
-# 7. Recomendaciones
-
 # 7. Video About The Team
 
 ![video about the team ss of youtube](assets/abt-the-team-ss.png)
@@ -2282,6 +2295,7 @@ La elección de Render como plataforma de despliegue facilitó considerablemente
 
 - [Link a Video About the Team en Youtube: https://youtu.be/a7vinekxhnw](https://youtu.be/a7vinekxhnw)
 
+<div style="page-break-after: always;"></div>
 
 # 8. Recomendaciones
 
