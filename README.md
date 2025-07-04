@@ -2248,9 +2248,18 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 # 9. Bibliografía  
      
    *¿Cuál es la función de la lista de deseo de una tienda online?* (2023, 1 junio). Sell Emprendepyme. [https://sell.emprendepyme.net/cual-es-la-funcion-de-la-lista-de-deseo-de-una-tienda-online.html](https://sell.emprendepyme.net/cual-es-la-funcion-de-la-lista-de-deseo-de-una-tienda-online.html)  
+
+   DeBeasi, R & Holmes, J. (2018, 6 de noviembre). _Domain Driven Design, Tackling Complexity in the Heart of Software_. 
+
+   McCay, A. (2023). _How to create an impact map in 7 easy steps: A complete guide + examples_. https://uxpressia.com/blog/build-impact-map-4-easy-steps
      
-   Salinas Anaya, Y. D., Galván Rodríguez, D. G., Guzmán Prince, I., & Orrante Sakanassi, J. A. (2022). *El impacto del internet de todas las cosas (IoT) en la vida cotidiana.* Ciencia Latina Revista Científica Multidisciplinar, 6(2), 1369–1378. https://doi.org/10.37811/cl\_rcm.v6i2.1959  
-     
+   Salinas Anaya, Y. D., Galván Rodríguez, D. G., Guzmán Prince, I., & Orrante Sakanassi, J. A. (2022). *El impacto del internet de todas las cosas (IoT) en la vida cotidiana.* Ciencia Latina Revista Científica Multidisciplinar, 6(2), 1369–
+   1378. https://doi.org/10.37811/cl\_rcm.v6i2.1959  
+
+   _What are wish lists and why are they important?_. (2024, 25 febrero). BigCommerce. https://www.bigcommerce.com/glossary/what-are-wish-lists-and-why-are-they-important/
+   
+   _What is Wishlist? - Why Wishlist is Important Feature in Ecommerce_. (2017, 1 abril). Oberlo. https://www.oberlo.com/ecommerce-wiki/wishlists
+
 # 10. Anexos
 
 ## Anexo A: Links importantes
