@@ -58,15 +58,22 @@
 
 # Project Report Collaboration Insights
 
-TB1
+**TB1**
 
-TP1
+![insight](assets/insightsDocs/tb1.png)
 
-TB2
+**TP1**
 
-TF
+![insight](assets/insightsDocs/tp1.png)
 
-![insight report](assets/insight-report.png)
+**TB2**
+
+![insight](assets/insightsDocs/tb2.png)
+
+**TF**
+
+![insight](assets/insightsDocs/tf.png)
+
 
 <div style="page-break-after: always;"></div>
 
@@ -2283,11 +2290,11 @@ Asegurar que el color seleccionado por el usuario para una colección se visuali
 
 ## 5.4 Video About-the-Product
 
-![Screenshot de Video About the Product](assets/abt-the-team-ss.png)
+![Screenshot de Video About the Product](assets/abt-the-product.png)
 
-Link a Video About the Product en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EdEQsr7nuthMsiu8_jE9OOcBr3ptOgBNGKL5Lg1OxTwGEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=H2TqoD
+[Link a Video About the Product en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EUL9D9JX4UJKtH1aFLdWKj4BP5VWmZvDmK9sG0EIsULHpQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2JoPQj](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EUL9D9JX4UJKtH1aFLdWKj4BP5VWmZvDmK9sG0EIsULHpQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2JoPQj)
 
-Link a Video About the Product en Youtube: https://youtu.be/1k5EaMVat8A?si=UwYtcRMYDvNhMQGY 
+[Link a Video About the Product en Youtube: https://youtu.be/YzJpnE_HMsM?si=IVAD1xKy1W2ANy-J](https://youtu.be/YzJpnE_HMsM?si=IVAD1xKy1W2ANy-J)
 
 <div style="page-break-after: always;"></div>
 
@@ -2315,13 +2322,14 @@ El desarrollo del frontend de Keeplo respondió a la necesidad de ofrecer una ex
 La elección de Render como plataforma de despliegue facilitó considerablemente la publicación del frontend de Keeplo. Al permitir la conexión directa con repositorios y automatizar los procesos de integración, Render se posicionó como una solución eficaz para mantener el proyecto actualizado, accesible y estable. Esta elección tecnológica contribuyó a acortar los tiempos de despliegue y a garantizar una experiencia fluida en distintos entornos de uso.
 
 <div style="page-break-after: always;"></div>
+
 # 7. Video About The Team
 
 ![video about the team ss of youtube](assets/abt-the-team-ss.png)
 
-- [Link a Video About the Team en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ebz8rpkJ3TdPtQfA58uYwB0BAuJhDYSCi3dEnFduGSLSdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6tPW54](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/Ebz8rpkJ3TdPtQfA58uYwB0BAuJhDYSCi3dEnFduGSLSdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6tPW54)
+- [Link a Video About the Team en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EaY8mfVqhChOlX3vT5l0jnABZ8Fc-hWAaR8QGRs7d88klg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QlEHMO](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EaY8mfVqhChOlX3vT5l0jnABZ8Fc-hWAaR8QGRs7d88klg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QlEHMO)
 
-- [Link a Video About the Team en Youtube: https://youtu.be/a7vinekxhnw](https://youtu.be/a7vinekxhnw)
+- [Link a Video About the Team en Youtube: https://youtu.be/bPTRRhwHj3o?si=Y11eZbQ0oV7OPT8z](https://youtu.be/bPTRRhwHj3o?si=Y11eZbQ0oV7OPT8z)
 
 <div style="page-break-after: always;"></div>
 
@@ -2382,6 +2390,18 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 ### BackEnd
 - [Backend desplegado](https://back-end-6f02.onrender.com)
 
+### Video About the team
+
+- [Video about the team en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EaY8mfVqhChOlX3vT5l0jnABZ8Fc-hWAaR8QGRs7d88klg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QlEHMO)
+- [Video about the team en youtube](https://youtu.be/bPTRRhwHj3o?si=Y11eZbQ0oV7OPT8z)
+
+### Video about the product
+
+- [Link a Video About the Product en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EUL9D9JX4UJKtH1aFLdWKj4BP5VWmZvDmK9sG0EIsULHpQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2JoPQj)
+
+- [Link a Video About the Product en Youtube](https://youtu.be/YzJpnE_HMsM?si=IVAD1xKy1W2ANy-J)
+
+
 <div style="page-break-after: always;"></div>
 
 ## Anexo B: Videos de Exposiciones
@@ -2413,6 +2433,7 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 ### Repositorio Backend
 
 [Repositorio Backend](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end)
-### Repositorio DbJson Server
 
-[Repositorio DbJson Server](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/db-json-server-keeplo)
+### Repositorio DBJson Server
+
+[Repositorio DBJson Server](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/db-json-server-keeplo)
