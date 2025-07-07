@@ -1965,6 +1965,15 @@ Adicionalmente, se completó la configuración y el deployment de la base de dat
 | Sum of Story Points | 40 |
 
 #### 5.2.4.2 Aspect Leaders and Collaborators
+Durante el Sprint 4, el equipo de desarrollo centró sus esfuerzos en la implementación de seguridad con tokens, control de funcionalidades basado en tipos de membresía, exportación de colecciones en PDF y el proceso de compra de planes. Estos aspectos fueron clave para fortalecer la escalabilidad y sostenibilidad del modelo de negocio de Keeplo. La siguiente matriz muestra el liderazgo y colaboración de cada miembro en los principales componentes funcionales del Sprint.
+
+| Team Member (Last Name, First Name) | GitHub Username | Seguridad con tokens | Control de acceso por membresía | Compra de membresías | Exportación en PDF | Refactor backend por dominio |
+|:-----------------------------------|:----------------|:----------------------|:-------------------------------|:---------------------|:-------------------|:-----------------------------|
+| Sánchez Gonzales, Gabriel          | [yigabriel](https://github.com/yigabriel) | C | C | C | C | **L** |
+| Aliaga Pimentel, George Arturo     | [GeorAliaga](https://github.com/GeorAliaga) | **L** | **L** | C | **L** | C |
+| Muñoz Machuca, María Elena         | [maria-mm0907](https://github.com/maria-mm0907) | C | C | **L** | C | C |
+
+
 #### 5.2.4.3 Sprint Backlog 4
 
 | Sprint \# |  | Sprint 4 |  |  |  |  |  |
