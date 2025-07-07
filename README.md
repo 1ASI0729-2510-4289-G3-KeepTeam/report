@@ -177,6 +177,15 @@
     - [5.2.3.6 Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
     - [5.2.3.7 Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
     - [5.2.3.8 Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.2.4 Sprint 4](#524-sprint-4)
+    - [5.2.4.1 Sprint Planning 4](#5241-sprint-planning-4)
+    - [5.2.4.2 Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+    - [5.2.4.3 Sprint Backlog 4](#5243-sprint-backlog-4)
+    - [5.2.4.4 Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+    - [5.2.4.5 Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+    - [5.2.4.6 Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7 Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8 Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 - [5.3 Validation Interviews](#53-validation-interviews)
   - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
    - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -1921,7 +1930,56 @@ La documentación y prueba de los endpoints se realizó utilizando el servicio d
 |                  | GET            | {userId}               | /api/v1/users/{userId}                                    |
 
 #### 5.2.3.7 Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 3 se llevó a cabo el despliegue de los componentes principales del backend del sistema. En primer lugar, se realizó exitosamente el =deployment del backend en la plataforma Render (OnRender). 
+
+Adicionalmente, se completó la configuración y el deployment de la base de datos MySQL en la nube mediante Azure, utilizando un Azure MySQL Flexible Server. 
+
+![Link de despliegue de backend en onrender](https://back-end-6f02.onrender.com)
+
+![](assets/deploymentEvidenceSprint3/1.png)
+![](assets/deploymentEvidenceSprint3/2.png)
+![](assets/deploymentEvidenceSprint3/3.png)
+
 #### 5.2.3.8 Team Collaboration Insights during Sprint
+
+![](assets/deploymentEvidenceSprint3/12.png)
+
+![](assets/deploymentEvidenceSprint3/13.png)
+
+### 5.2.4 Sprint 4
+#### 5.2.4.1 Sprint Planning 4
+#### 5.2.4.2 Aspect Leaders and Collaborators
+#### 5.2.4.3 Sprint Backlog 4
+
+| Sprint \# |  | Sprint 4 |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---: | :---- | :---- |
+| **User Story** |  | **Work-Item / Task** |  |  |  |  |  |
+| **Id** | **Título** | **Id** | **Título** | **Descripción** | **Estimación (Horas)** | **Asignado a** | **Estado (To-do / InProcess / ToReview / Done)** |
+| US04 | Compartir ítem mediante código QR | US04-1 | Modificar método de compartir mediante QR | Actualizar el método de generación de código QR para compartir ítems | 4 | Aliaga | Done |
+| US38 | Acceder a planes de suscripción premium | US38-1 | Hacer botones accesibles | Mejorar la accesibilidad de los botones relacionados con planes premium | 4 | Muñoz | Done |
+| US38 | Acceder a planes de suscripción premium | US38-2 | Pantalla para ingresar la suscripción y tarjeta | Crear interfaz para introducir datos de suscripción y tarjeta de crédito | 6 | Muñoz | Done |
+| US38 | Acceder a planes de suscripción premium | US38-3 | Mostrar plan actualizado en pantalla de usuario | Mostrar correctamente el estado de la suscripción activa en la interfaz | 4 | Muñoz | Done |
+| US38 | Acceder a planes de suscripción premium | US38-4 | Cambiar entre suscripciones | Permitir al usuario cambiar de plan de suscripción desde la interfaz | 5 | Muñoz | Done |
+| US36 | Actualizar tarjeta de crédito asociada | US36-1 | Actualizar tarjeta | Desarrollar opción para actualizar los datos de la tarjeta registrada | 4 | Muñoz | Done |
+| US16 | Iniciar sesión en cuenta | US16-1 | Guardar tokens de usuario | Guardar token JWT tras iniciar sesión para mantener la sesión activa | 4 | Sanchez | Done |
+| US12 | Exportar colecciones a PDF | US12-1 | Exportar a PDF | Crear funcionalidad para exportar una colección a formato PDF | 6 | Aliaga | Done |
+| US12 | Exportar colecciones a PDF | US12-2 | Guardar PDF en archivo | Guardar el archivo PDF generado en el almacenamiento local del dispositivo | 4 | Aliaga | Done |
+| US05 | Compartir ítem mediante link | US05-1 | Añadir función de compartir ítem | Implementar función para compartir ítems a través de un enlace | 5 | Aliaga | Done |
+| US05 | Compartir ítem mediante link | US05-2 | Añadir pantalla para copiar link de ítem | Crear pantalla que muestre el link generado y permita copiarlo | 4 | Aliaga | Done |
+| TS01 | Autenticación de usuarios | TS01-1 | Endpoint de login | Servicio REST para autenticar usuarios y emitir token | 8 | Aliaga | Done |
+| TS01 | Autenticación de usuarios | TS01-3 | Endpoint para obtener datos de usuarios | Servicio REST para retornar información del usuario autenticado | 6 | Aliaga, Sanchez | Done |
+| TS02 | Gestión de colecciones (API) | TS02-1 | Endpoint para obtener colecciones por User ID | Servicio REST para obtener todas las colecciones asociadas a un usuario | 8 | Sanchez | Done |
+| TS02 | Gestión de colecciones (API) | TS02-2 | Endpoint para obtener colecciones por Parent Collection ID | Servicio REST para obtener subcolecciones de una colección padre | 6 | Sanchez | Done |
+| TS03 | Gestión de ítems (API) | TS03-1 | Endpoint para agregar un tag a un wish | Servicio REST para asociar una etiqueta a un ítem | 4 | Sanchez | Done |
+| TS03 | Gestión de ítems (API) | TS03-2 | Endpoint para eliminar todos los tags asociados a un deseo | Servicio REST para eliminar todas las etiquetas de un ítem | 4 | Sanchez | Done |
+| TS03 | Gestión de ítems (API) | TS03-3 | Endpoint para listar deseos por colección | Servicio REST para listar todos los ítems dentro de una colección | 6 | Sanchez | Done |
+
+#### 5.2.4.4 Development Evidence for Sprint Review
+#### 5.2.4.5 Execution Evidence for Sprint Review
+#### 5.2.4.6 Services Documentation Evidence for Sprint Review
+#### 5.2.4.7 Software Deployment Evidence for Sprint Review
+#### 5.2.4.8 Team Collaboration Insights during Sprint
 
 ## 5.3 Validation Interviews
 
