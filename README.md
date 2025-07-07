@@ -1521,20 +1521,22 @@ Se accedió al enlace generado para confirmar que la Landing Page se visualizaba
 
 #### 5.2.1.1. Sprint Planning 1
 
-| Sprint #                         | 1                                                                                                                                                       |
-|:---------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Sprint Planning Background**   |                                                                                                                                                         |
-| Date                             | 20/04/2025                                                                                                                                              |
-| Time                             | 8:00 PM                                                                                                                                                 |
-| Location                         | Llamada mediante Discord                                                                                                                                |
-| Prepared by                      | George Aliaga                                                                                                                                           |
-| Attendees(to planning meeting)   | George Aliaga, Gabriel Sanchez, Bryan Martinez, Luis Rojas, Maria Muñoz                                                                                 |
-| Sprint 1-1 Review Summary        | Se completó el diseño y desarrollo inicial de la landing page de Keeplo                                                                                 |
-| Sprint 1-1 Retrospective Summary | - Buena coordinación del equipo a través de Discord <br>- Mejor organización en la creación de carpetas para evitar conflictos al clonar el repositorio |
-| **Sprint Goal & User Stories**   |                                                                                                                                                         |
-| Sprint 1 Goal                    | Transmitir de forma clara y atractiva el propósito de Keeplo a potenciales usuarios mediante una landing page informativa que fortalezca la imagen de la marca y estimule el interés por la plataforma.                                                                         |
-| Sprint 1 Velocity                | 39                                                                                                                                                      |
-| Sum of Story Points              | 39                                                                                                                                                      |
+
+
+| Sprint # | 1 |
+|:-----------------------------|:----------------------------------------------------------------------------------------|
+| Sprint Planning Background | En este sprint, el objetivo principal fue desarrollar una landing page funcional que refleje la identidad y propuesta de valor de Keeplo. Esto serviría como punto de partida para atraer usuarios y validar el concepto inicial. |
+| Date | 2025-04-20 |
+| Time | 8:00 PM |
+| Location | Llamada mediante Discord |
+| Prepared By | George Aliaga |
+| Attendees | George Aliaga, Gabriel Sánchez, Bryan Martínez, Luis Rojas, María Muñoz |
+| Sprint 0 – 1 Review Summary | Se completó el diseño y desarrollo de la landing page de Keeplo. El resultado presentó una imagen profesional y clara del propósito de la aplicación, generando interés inicial por parte de usuarios potenciales. |
+| Sprint 0 – 1 Retrospective Summary | - Excelente coordinación inicial del equipo vía Discord.<br> - Organización eficiente de carpetas para evitar conflictos de código.<br> - Uso compartido de herramientas como Figma y GitHub facilitó la integración visual y de código. |
+| Sprint 1 Goal | Our focus is on delivering a professional and informative landing page.<br>We believe it delivers initial brand credibility and user interest to potential new users.<br>This will be confirmed when users interact with the page and understand the purpose of Keeplo. |
+| Sprint 1 Velocity | 39 |
+| Sum of Story Points | 39 |
+
 
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
@@ -1637,20 +1639,19 @@ Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta 
 
 #### 5.2.2.1. Sprint Planning 2
 
-| Sprint #                         | 2 |
-|:---------------------------------| :---- |
-| **Sprint Planning Background**   |  |
-| Date                             | 9/05/2025 |
-| Time                             | 8:00 PM |
-| Location                         | Llamada mediante Discord |
-| Prepared by                      | Gabriel Sanchez |
-| Attendees(to planning meeting)   | George Aliaga, Gabriel Sanchez y Maria Muñoz |
-| Sprint 2-1 Review Summary        |  Buena organización y coordinación del equipo mediante Discord y WhatsApp  Buena organización de carpetas en el repositorio para evitar conflictos al hacer merge  |
-| Sprint 2-1 Retrospective Summary |  Se completó el diseño y desarrollo del frontend de Keeplo  |
-| **Sprint Goal & User Stories**   |  |
-| Sprint 2 Goal                    | Mejorar la experiencia de los usuarios al interactuar con la plataforma de Keeplo, asegurando  un impresión profesional y ofreciendo una interfaz que permita a nuestros usuarios guardar y visualizar contenido |
-| Sprint 2 Velocity                |  40 |
-| Sum of Story Points              |  40 |
+| Sprint # | 2 |
+|:-----------------------------|:----------------------------------------------------------------------------------------|
+| Sprint Planning Background | Este sprint tuvo como objetivo implementar el frontend principal de la aplicación, enfocándose en la experiencia de usuario para visualizar y gestionar colecciones. Se buscó asegurar una interfaz intuitiva que motive el uso recurrente. |
+| Date | 2025-05-09 |
+| Time | 8:00 PM |
+| Location | Llamada mediante Discord |
+| Prepared By | Gabriel Sánchez |
+| Attendees | George Aliaga, Gabriel Sánchez, María Muñoz |
+| Sprint 1 Review Summary | Se completó el desarrollo del frontend de Keeplo. Los usuarios pudieron interactuar con las funcionalidades iniciales para guardar y visualizar colecciones, y mostraron satisfacción con la interfaz. |
+| Sprint 1 Retrospective Summary | - Mejora significativa en la organización del repositorio.<br> - Coordinación efectiva a través de Discord y WhatsApp.<br> - División adecuada de tareas frontend para avanzar en paralelo. |
+| Sprint 2 Goal | Our focus is on building a functional frontend for collection management.<br>We believe it delivers a clear and engaging experience to early users.<br>This will be confirmed when users are able to view, create and interact with collections smoothly. |
+| Sprint 2 Velocity | 40 |
+| Sum of Story Points | 40 |
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 | Team Member (Last Name, First Name) | GitHub Username | Visualización de colecciones  Leader(L)/Colaborador(C) | Editar colecciones | Compartir items de colecciones | Autenticacion y registro de usuarios | Editar los perfiles de usuarios |
@@ -1802,20 +1803,19 @@ Para el despliegue de nuestra aplicación web decidimos utilizar los servicios d
 
 ### 5.2.3 Sprint 3
 #### 5.2.3.1 Sprint Planning 3
-| Sprint #                         | 3                                                                                                                                                       |
-|:---------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Sprint Planning Background**   |                                                                                                                                                         |
-| Date                             | 7/06/2025                                                                                                                                              |
-| Time                             | 8:00 PM                                                                                                                                                 |
-| Location                         | Llamada mediante Discord                                                                                                                                |
-| Prepared by                      | Gabriel Sanchez                                                                                                                                           |
-| Attendees(to planning meeting)   | George Aliaga, Gabriel Sanchez y Maria Muñoz                                                                                 |
-| Sprint 3-1 Review Summary        | Se completó la implementacion del frontend y parcialmente del backend. En este caso el feedback realizado por los usuarios cumplio con sus expectativas.                                                                                |
-| Sprint 3-1 Retrospective Summary | - Buena coordinación del equipo a través de Discord y Whatsapp<br>- Mejor organización en la creación de carpetas para evitar conflictos al clonar el repositorio<br> -|
-| **Sprint Goal & User Stories**   | Consolidar los módulos backend esenciales de Keeplo, incluyendo la gestión de deseos (Wishcore), suscripciones, usuarios y pagos, con el fin de establecer la base funcional del modelo de negocio basado en membresías, y asegurar una experiencia de usuario escalable, fluida y personalizada.                                                                                                                                                        |
-| Sprint 3 Goal                    | Establecer y desarrollar la designacion de responsabilidades entre usuarios y gestion de colecciones, para  permitir que Keeplo escale de manera apropiada y mejore la experiencia de usuario.                                                                         |
-| Sprint 3 Velocity                | 39                                                                                                                                                      |
-| Sum of Story Points              | 39                                                                                                                                                      |
+| Sprint # | 3 |
+|:-----------------------------|:----------------------------------------------------------------------------------------|
+| Sprint Planning Background | Este sprint buscó consolidar la lógica de negocio mediante el desarrollo de los principales módulos del backend, incluyendo la gestión de deseos, colecciones, usuarios, suscripciones y pagos. Esto sienta las bases del modelo de negocio basado en membresías. |
+| Date | 2025-07-06 |
+| Time | 8:00 PM |
+| Location | Llamada mediante Discord |
+| Prepared By | Gabriel Sánchez |
+| Attendees | George Aliaga, Gabriel Sánchez, María Muñoz |
+| Sprint 2 Review Summary | Se completó la integración parcial backend-frontend. Las funciones desarrolladas permitieron gestionar colecciones y deseos, y establecer la lógica de membresía. El feedback fue positivo en cuanto a la utilidad de estas funciones. |
+| Sprint 2 Retrospective Summary | - Mayor autonomía entre miembros al dividir responsabilidades por módulos.<br> - Se consolidó la estructura por dominios en el backend.<br> - Se identificaron mejoras pendientes en seguridad y escalabilidad. |
+| Sprint 3 Goal | Our focus is on consolidating backend features for wishes, collections, users, subscriptions, and payment processing.<br>We believe it delivers the technical foundation for our membership business model to users.<br>This will be confirmed when users can interact with collections and subscriptions according to their plan. |
+| Sprint 3 Velocity | 39 |
+| Sum of Story Points | 39 |
 
 #### 5.2.3.2 Aspect Leaders and Collaborators
 
@@ -1949,6 +1949,21 @@ Adicionalmente, se completó la configuración y el deployment de la base de dat
 
 ### 5.2.4 Sprint 4
 #### 5.2.4.1 Sprint Planning 4
+
+| Sprint # | 4 |
+|:-----------------------------|:----------------------------------------------------------------------------------------|
+| Sprint Planning Background | Este sprint se centrará en fortalecer la seguridad de la plataforma, establecer restricciones de acceso según la membresía y habilitar funciones exclusivas como la exportación de colecciones en PDF. Además, se habilitará la compra de membresías. |
+| Date | 2025-07-14 |
+| Time | 8:00 PM |
+| Location | Llamada mediante Discord |
+| Prepared By | Gabriel Sanchez |
+| Attendees | George Aliaga, Gabriel Sánchez, María Muñoz |
+| Sprint 3 Review Summary | Los módulos funcionales del backend fueron integrados y se estableció la lógica de membresías. Los usuarios ya pueden gestionar colecciones con límites según su plan. |
+| Sprint 3 Retrospective Summary | - Se identificó la necesidad de proteger los endpoints con autenticación.<br> - Se discutió la importancia de segmentar claramente los beneficios de cada tipo de plan.<br> - Se acordó mejorar la utilidad para el usuario con funciones adicionales como exportar contenido. |
+| Sprint 4 Goal | Our focus is on securing access and enhancing feature control with tokens and membership-based permissions.<br>We believe it delivers trust, exclusivity and monetization potential to both free and premium users.<br>This will be confirmed when members can securely purchase a plan and access premium features like PDF export. |
+| Sprint 4 Velocity | 40 |
+| Sum of Story Points | 40 |
+
 #### 5.2.4.2 Aspect Leaders and Collaborators
 #### 5.2.4.3 Sprint Backlog 4
 
