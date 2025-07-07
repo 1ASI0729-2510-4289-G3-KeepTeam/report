@@ -2000,6 +2000,26 @@ Durante el Sprint 4, el equipo de desarrollo centró sus esfuerzos en la impleme
 | TS03 | Gestión de ítems (API) | TS03-3 | Endpoint para listar deseos por colección | Servicio REST para listar todos los ítems dentro de una colección | 6 | Sanchez | Done |
 
 #### 5.2.4.4 Development Evidence for Sprint Review
+Durante este sprint se lograron avances significativos en los tres productos principales de la solución: Landing Page, Web Applications y Web Services. Se implementaron nuevas funcionalidades, correcciones de errores y mejoras en la experiencia de usuario, seguridad y documentación. A continuación, se presentan los commits más relevantes asociados a cada repositorio, organizados por rama y fecha.
+
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on(Date)** |
+|----------------|------------|----------------|---------------------|--------------------------|------------------------|
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/backend | develop | 0bef06f| feat: change password | feat: change password | 07/07/2025 |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/backend | develop | 7c59a8f | feat: add documentation in wishlist bounded | feat: add documentation in wishlist bounded | 07/07/2025 |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/backend | develop | 4ca221d | feat: add collection restrictions by plan | feat: add collection restrictions by plan | 06/07/2025 |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/backend | develop | 1d8c4be | fix: tag adding to wish | fix: tag adding to wish | 05/07/2025 |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/backend | develop | e2f911c | feat: add wish_tags delete command | feat: add wish_tags delete command | 05/07/2025 |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/backend | develop | 7ab3e6d | feat: set user in subscription | feat: set user in subscription | 05/07/2025 |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/backend | develop | b42a9c1 | feat: added "Tags" for Get Wishes | feat: added "Tags" for Get Wishes | 04/07/2025 |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/backend | iam-acl | 0dfe827 | feat(iam-acl): add user put and delete | feat(iam-acl): add user put and delete | 03/07/2025 |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/backend | wishcore | aa9d73f | feat: added PUT for the entire wish-core | feat: added PUT for the entire wish-core | 03/07/2025 |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/backend | wishcore | c3e1f2a | fix: wrong java class name | fix: wrong java class name | 02/07/2025 |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/backend | develop | 5db9e01 | feat: integrate subscription module with IAM user | feat: integrate subscription module with IAM user | 19/06/2025 |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/backend | develop | 8f27b6c | feat: add tag into wishlist | feat: add tag into wishlist | 21/06/2025 |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/backend | develop | 1ae92dc | feat: add wish services of command and query | feat: add wish services of command and query | 21/06/2025 |
+| https://github.com/1ASI0729-2510-4289-G3-KeepTeam/backend | develop | fa1849b | fix: issue where payment card always returned to null when membership is free | fix: issue where payment card always returned to null when membership is free | 22/06/2025 |
+
+
 #### 5.2.4.5 Execution Evidence for Sprint Review
 #### 5.2.4.6 Services Documentation Evidence for Sprint Review
 #### 5.2.4.7 Software Deployment Evidence for Sprint Review
