@@ -652,61 +652,59 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 | US08 | Subcarpetas en mis colecciones. |
 | US09 | Eliminar colecciones e ítems. |
 | US10 | Etiquetado manual de ítems. |
-| US11 | Cambiar tema de colores del fondo de las colecciones |
-| US12 | Restaurar colecciones eliminadas. |
+| US11 | Restaurar colecciones eliminadas. |
 
 | EP02: Compartir colecciones. | |
 | :---- | :---- |
 | User Story ID | Título |
 | US04 | Compartir ítem mediante código QR. |
 | US05 | Compartir ítem mediante link. |
-| US13 | Exportar Colecciones a PDF. |
+| US12 | Exportar Colecciones a PDF. |
 
 | EP03: Sistema de búsqueda | |
 | :---- | :---- |
 | User Story ID | Título |
-| US14 | Búsqueda semántica. |
+| US13 | Búsqueda semántica. |
 
 | EP04: Registro y autenticación | |
 | :---- | :---- |
 | User Story ID | Título |
-| US15 | Registrar Cuenta |
-| US16 | Iniciar sesión en cuenta. |
+| US14 | Registrar Cuenta |
+| US15 | Iniciar sesión en cuenta. |
 
 | EP05: Experiencia e interacción con la landing page. | |
 | :---- | :---- |
 | User Story ID | Título |
-| US17 | Ver el nombre, logo y eslogan de la aplicación |
-| US18 | Visualizar principales funciones |
-| US19 | Visualizar botón destacado “Empieza ahora” en la sección principal del landing |
-| US20 | Acceder a la página inicio de sesión desde el botón “Iniciar sesión” |
-| US21 | Acceder a la página de registro de diseñador a través de botón “Empezar como diseñador” |
-| US22 | Acceder a la página de registro de comprador a través de botón “Empezar como comprador” |
-| US23 | Navigation Bar |
-| US24 | Seccion Hero |
-| US25 | Seccion Estadisticas |
-| US26 | Sección Ofrecemos |
-| US27 | Sección Planes |
-| US28 | Sección Porque Nosotros |
-| US29 | Footer |
-| US30 | Cambio de lenguaje a ingles y español |
-| US31 | Atributos Aria |
+| US16 | Ver el nombre, logo y eslogan de la aplicación |
+| US17 | Visualizar principales funciones |
+| US18 | Visualizar botón destacado “Empieza ahora” en la sección principal del landing |
+| US19 | Acceder a la página inicio de sesión desde el botón “Iniciar sesión” |
+| US20 | Acceder a la página de registro de diseñador a través de botón “Empezar como diseñador” |
+| US21 | Acceder a la página de registro de comprador a través de botón “Empezar como comprador” |
+| US22 | Navigation Bar |
+| US23 | Seccion Hero |
+| US24 | Seccion Estadisticas |
+| US25 | Sección Ofrecemos |
+| US26 | Sección Planes |
+| US27 | Sección Porque Nosotros |
+| US28 | Footer |
+| US29 | Cambio de lenguaje a ingles y español |
+| US30 | Atributos Aria |
 
 | EP06: Actualizaciones del sistema. | |
 | :---- | :---- |
 | User Story ID | Título |
-| US32 | Modo oscuro/accesibilidad. |
-| US33 | Actualizar foto de perfil |
-| US34 | Modificar información personal (nombre, correo, etc.) |
-| US35 | Cambiar contraseña. |
-| US36 | Actualizar tarjeta de crédito asociada. |
-| US37 | Cambio de lenguaje a ingles y español en aplicación |
+| US31 | Modo oscuro/accesibilidad. |
+| US32 | Actualizar foto de perfil |
+| US33 | Modificar información personal (nombre, correo, etc.) |
+| US34 | Cambiar contraseña. |
+| US35 | Actualizar tarjeta de crédito asociada. |
+| US36 | Cambio de lenguaje a ingles y español en aplicación |
 
 | EP07: Planes de suscripción | |
 | :---- | :---- |
 | User Story ID | Título |
-| US38 | Acceder a planes de suscripción premium |
-
+| US37 | Acceder a planes de suscripción premium |
 
 ### 3.2.2 User Stories
 
@@ -722,34 +720,33 @@ El mapeo del escenario futuro (To-Be Scenario) es una herramienta crucial para v
 | US08 | Subcarpetas en mis colecciones. | Como usuario de ambos segmentos objetivos comprador y diseñador, quiero crear subcarpetas dentro de mis colecciones, para organizar referencias por proyectos o categorías específicas. | **Escenario 1: Creación de subcarpeta.**<br> Dado que el diseñador se encuentra dentro de una colección específica<br> Cuando el diseñador haga clic en el botón "Nueva subcarpeta"<br> Entonces podrá ingresar un nombre para la subcarpeta y crearla dentro de la colección actual.<br><br>  **Escenario 2: Herencia de permisos.**<br>  Dado que una colección tiene configurados permisos específicos<br> Cuando el diseñador cree una nueva subcarpeta dentro de esa colección<br> Entonces la subcarpeta heredará automáticamente los mismos permisos que la colección principal.	 | EP01 |
 | US09 | Eliminar colecciones e ítems. | Como  usuario  de ambos segmentos objetivos comprador y diseñador, quiero eliminar colecciones e ítems que ya no necesito, para mantener mi espacio organizado. | **Escenario 1\. Eliminación con confirmación.** <br> Dado que el comprador está visualizando una de sus colecciones o ítems dentro de la papelera <br> Cuando presione el botón de "Eliminar" <br> Entonces se mostrará un mensaje de confirmación solicitando que confirme la eliminación **Escenario 2\. Eliminación definitiva** Dado que el comprador está visualizando una de sus colecciones o ítems dentro de la papelera <br> Y presionó el botón de "Eliminar" <br> Cuando presione el botón de "Continuar Eliminación" <br> Entonces se borra el item o colección de la base de datos | EP01 |
 | US10 | Etiquetado manual de ítems. | Como  usuario  de ambos segmentos objetivos comprador y diseñador, quiero añadir tags personalizados a mis ítems, para clasificarlos con mis propios criterios. | **Escenario 1: Añadir tags desde el detalle del ítem.**  Dado que el usuario está en la sección de edición de un ítem <br> Cuando escriba o seleccione un tag personalizado <br> Entonces el ítem será categorizado con ese tag <br> <br> **Escenario 2: Búsqueda por tags personalizados.** <br> Dado que el comprador ha etiquetado ítems con tags personalizados <br> Cuando utilice el buscador e ingrese un tag <br> Entonces se mostrarán todos los ítems que contienen ese tag | EP01 |
-| US11 | Cambiar tema de colores del fondo de las colecciones | Como visitante del segmento objetivo diseñador y comprador, quiero personalizar los colores principales de mis colecciones, para que coincida con mi identidad visual.  | **Escenario 1:** **Selección de paleta** <br> Dado que el diseñador está en la pestaña de edición de las colecciones <br> Cuando haga clic en alguna de las opciones de colores de colección <br> Entonces el color del fondo de la colección se cambiará <br> <br> **Escenario 2:** **Guardar selección de paleta** <br> Dado que el diseñador está en la pestaña de edición de las colecciones <br> Y da clic en alguna de las opciones de colores de colección <br> Cuando haga clic al botón de guardar Entonces el color del fondo de la colección se guardará | EP01 |
-| US12 | Restaurar colecciones eliminadas.  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero recuperar colecciones borradas accidentalmente desde una papelera, para evitar pérdidas accidentales de información.  | **Escenario 1: Recuperar colección** <br> Dado que el usuario accede a la "Papelera" <br> Cuando selecciona una colección y hace clic en "Restaurar" <br> Entonces la colección volverá a su ubicación original. | EP01 |
-| US13 | Exportar Colecciones a PDF. | Como diseñador, quiero exportar colecciones como PDF, para presentarlas a clientes.  | **Escenario 1: Exportación exitosa.**  <br>Dado que el usuario está ubicado en una colección especifica <br> Cuando el usuario selecciona la opción "Exportar como PDF" <br> Entonces el archivo se descarga con imágenes y metadatos.  | EP02 |
-| US14 | Búsqueda semántica. | Como  usuario de ambos segmentos objetivos comprador y diseñador, quiero buscar ítems por palabras clave, tags o tipo de contenido, para encontrar rápidamente lo que necesito. | **Escenario 1: Búsqueda por tag.**<br> Dado que el usuario está en la barra de busqueda <br> Cuando escribe "\#" y un nombre de un tag en la barra de búsqueda <br> Entonces el sistema muestra todos los ítems etiquetados. <br> **Escenario 2: Búsqueda por keywords.** Dado que el usuario está en la barra de busqueda <br> Cuando escribe el nombre de una colección o ítem a buscar en la barra de búsqueda <br> Entonces el sistema muestra todos los ítems etiquetados. | EP03 |
-| US15 | Registrar Cuenta | Como visitante del segmento objetivo diseñador y comprador, quiero registrarme usando mi correo para poder acceder a las funcionalidades de la plataforma.  | **Escenario 1: Registro con correo** <br> Dado que el visitante selecciona la opción "Registrarse" <br> Cuando ingresa su correo electrónico y los datos solicitados <br> Entonces el sistema registrará su cuenta y le permitirá iniciar sesión  | EP04 |
-| US16 | Iniciar sesión en cuenta. | Como usuario  de ambos segmentos objetivos comprador y diseñador quiero iniciar sesión con mi usuario y contraseña para acceder a mi cuenta. | **Escenario 1: El usuario desea iniciar sesión.**<br> Dado que el usuario se encuentra en la pantalla de inicio de sesión <br> Cuando introduce su nombre de usuario o correo y su contraseña <br> Entonces el sistema valida las credenciales y, si son correctas, inicia sesión automáticamente en la cuenta del usuario | EP04 |
-| US17 | Ver el nombre, logo  y eslogan de la aplicación | Como visitante del segmento objetivo diseñador y comprador, quiero poder visualizar el nombre y eslogan de la aplicación para saber de qué se trata a primera vista | **Escenario 1: Ver logo en header** <br> Dado que el visitante se encuentra en la página del landing page de Keeplo <br> Cuando el visitante mire hacia la parte del header <br> Entonces el visitante podrá visualizar el logo de Keeplo arriba a la izquierda. <br> <br> **Escenario 2: Ver logo y slogan principal** Dado que el visitante se encuentra en la página del landing page de Keeplo <br> Cuando el visitante mire la sección principal <br> Entonces visualizará el logo de Keeplo y su eslogan  | EP05 |
-| US18 | Visualizar principales funciones | Como visitante del segmento objetivo de diseñador y comprador, quiero poder ver las funcionalidades que ofrece la aplicación para saber que beneficios puedo tener | **Escenario 1: Ver funcionalidades de Keeplo** <br> Dado que el visitante accede al landing page de Keeplo <br> Cuando el visitante observa la sección "Qué es Keeplo" desplazándose hacia abajo. <br> Entonces podrá visualizar tarjetas con con descripciones acerca de lo que se ofrece dentro de la aplicación. <br> <br> **Escenario 2: Ver beneficios para diseñadores** <br> Dado que el visitante del segmento objetivo de diseñadores se encuentra en la landing page <br> Cuando el visitante del segmento objetivo de diseñadores baje a la sección de planes <br> Entonces verá los beneficios para los diseñadores. <br> <br> **Escenario 3: Ver beneficios para compradores** <br> Dado que el visitante del segmento objetivo de compradores y se encuentra en la landing page <br> Cuando el visitante del segmento objetivo de compradores baje a la sección de planes <br> Entonces verá los beneficios para los compradores. | EP05 |
-| US19 | Visualizar botón destacado “Empieza ahora” en la sección principal del landing | Como visitante del segmento objetivo de diseñadores y compradores, quiero ver un botón llamativo de “Empieza ahora” en la sección principal para comenzar el proceso de registro sin perder tiempo. | **Escenario 1: Presionar botón empieza ahora** <br> Dado que el visitante se encuentra en la sección principal del landing page  <br> Y ubica el botón con el texto “Empezar ahora” <br> Cuando hace clic en el botón con el texto “Empezar ahora” <br>Entonces será redirigido a la página de registro de la aplicación. | EP05 |
-| US20 | Acceder a la página inicio de sesión desde el botón “Iniciar sesión” | Como visitante del segmento objetivo de diseñadores y compradores, quiero ver un botón llamativo de “Iniciar sesión” en el header para comenzar el proceso de inicio de sesión sin perder tiempo. | **Escenario 1: Presionar botón Iniciar Sesión** <br> Dado que el visitante se encuentra en la sección principal del landing page  <br> Y se dirige al header para clickear el botón con el texto “Iniciar Sesión” <br> Cuando hace clic en el botón con el texto “Iniciar sesión” <br>Entonces será redirigido a la página de inicio de sesión de la aplicación. | EP05 |
-| US21 | Acceder a la página de registro de diseñador a través de botón “Empezar como diseñador” | Como visitante del segmento objetivo de diseñadores, quiero poder registrarme rápidamente como un diseñador para comenzar el proceso de registro sin perder tiempo.   | **Escenario 1: Presionar botón “Empezar como diseñador”** <br> Dado que el visitante se encuentra en la sección de planes <br> Y ubica el botón “Empezar como diseñador” <br> Cuando hace clic en el botón “Empezar como diseñador”. <br> Entonces será redirigido a la página de registro como diseñador de la aplicación | EP05 |
-| US22 | Acceder a la página de registro de comprador a través de botón “Empezar como comprador” | Como visitante del segmento objetivo de comprador, quiero poder registrarme rápidamente como un comprador para comenzar el proceso de registro sin perder tiempo. | **Escenario 1: Presionar botón “Empezar como comprador”** <br> Dado que el visitante se encuentra en la sección de precios y tarifas Y ubica el botón “Empezar como comprador” <br> Cuando hace clic en el botón “Empezar como comprador”. <br> Entonces será redirigido a la página de registro como comprador de la aplicación | EP05 |
-| US23 | Navigation Bar | Como visitante del segmento objetivo diseñador y comprador quiero acceder a la barra de navegación para moverse rápidamente a cualquier sección de la página. | **Escenario 1: Ver la barra de navegación en la parte superior** <br> Dado que el visitante está en la landing page <br> Cuando hace clic en el enlace de navegación <br> Entonces el visitante será redirigido a la sección correspondiente de la misma página. | EP05 |
-| US24 | Seccion Hero | Como visitante del segmento objetivo diseñador y comprador quiero ver un mensaje llamativo y claro al entrar, para entender de inmediato el propósito de Keeplo. | **Escenario 1: Visualizar la sección hero al ingresar al sitio** <br> Dado que el visitante entra por primera vez a la landing page <br> Cuando la página carga completamente <br> Entonces el visitante verá un mensaje principal con título, descripción y botón de acción. | EP05 |
-| US25 | Seccion Estadisticas | Como visitante del segmento objetivo diseñador y comprador quiero ver estadísticas clave del uso de Keeplo para confiar más en el producto. | **Escenario 1: Consultar estadísticas del uso del servicio** <br> Dado que el visitante está navegando en la landing page <br> Cuando se desplaza hasta la sección de estadísticas <br> Entonces verá contadores con datos estadisticos del uso de Keeplo. | EP05 |
-| US26 | Sección Ofrecemos | Como visitante del segmento objetivo diseñador y comprador quiero conocer qué funcionalidades ofrece Keeplo para evaluar si cubre mis necesidades. | **Escenario 1: Ver los beneficios de Keeplo** <br> Dado que el visitante está en la landing page <br> Cuando llega a la sección de Que Ofrecemos <br> Entonces visualizará los principales beneficios y herramientas que ofrece la aplicación. | EP05 |
-| US27 | Sección Planes | Como visitante del segmento objetivo diseñador y comprador quiero comparar los planes disponibles para decidir si debo suscribirme | **Escenario 1: Comparar planes y precios** <br> Dado que el visitante navega hasta la sección de planes <br> Cuando visualiza las opciones disponibles <br> Entonces verá los precios, características y botones de suscripción de cada plan. | EP05 |
-| US28 | Sección Porque Nosotros | Como visitante del segmento objetivo diseñador y comprador quiero saber por qué debería elegir Keeplo sobre otras opciones para tomar una decisión informada. | **Escenario 1: Conocer los diferenciales de Keeplo** <br> Dado que el visitante está en la landing page <br> Y llega a la sección “Por qué nosotros” <br> Cuando lee el contenido de esa sección <br> Entonces comprenderá las ventajas y razones por las que Keeplo es una buena elección. | EP05 |
-| US29 | Footer | Como visitante del segmento objetivo diseñador y comprador quiero ver información útil en el footer de la página para acceder rápidamente a redes sociales. | **Escenario 1: Consultar información desde el footer** <br> Dado que el visitante está en la parte inferior de la página <br> Cuando visualiza el footer <br> Entonces encontrará enlaces a redes sociales <br> | EP05 |
-| US30 | Cambio de lenguaje a ingles y español | Como visitante del segmento objetivo diseñador y comprador quiero cambiar el idioma del sitio entre inglés y español para entender mejor el contenido. | **Escenario 1: Visualizar en idioma de navegador de inglés o español** <br> Dado que el visitante tiene el idioma de su navegador configurado a ingles o espanol <br> Cuando entra a la landing page <br> Entonces todo el contenido del sitio se mostrará en el idioma del navegador. <br> <br> **Escenario 2: Visualizar en idioma de navegador de otro idioma** <br> Dado que el visitante tiene el idioma de su navegador configurado a uno que no es ingles o espanol <br> Cuando entra a la landing page <br> Entonces todo el contenido del sitio se mostrará en el idioma inglés por defecto. <br> <br> **Escenario 3: Cambiar el idioma del sitio** <br> Dado que el visitante se encuentra en la landing page <br> Cuando selecciona el botón “EN” o “ES” de la parte inferior derecha <br> Entonces todo el contenido del sitio se mostrará en el idioma elegido. | EP05 |
-| US31 | Atributos Aria | Como visitante del segmento objetivo diseñador y comprador con discapacidad quiero que el sitio sea accesible para navegarlo con lectores de pantalla. | **Escenario 1: Usar atributos ARIA para accesibilidad** <br> Dado que el visitante navega con un lector de pantalla <br> Cuando interactúa con los elementos de la interfaz <br> Entonces el lector de pantalla describirá correctamente los elementos gracias a los atributos ARIA. <br> | EP05 |
-| US32 | Modo oscuro/accesibilidad. | Como  usuario  de ambos segmentos objetivos comprador y diseñador, quiero cambiar el tema de la interfaz a modo oscuro, para mayor comodidad visual. | **Escenario 1: Activación de modo oscuro.**  <br> Dado que el usuario accede a Configuración <br> Cuando selecciona "Modo Oscuro" <br> Entonces la interfaz cambia inmediatamente. | EP06 |
-| US33 | Actualizar foto de perfil  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero cambiar mi foto de perfil para personalizar mi cuenta  | **Escenario 1: Subir nueva imagen** <br> Dado que el usuario accede a "Mi Perfil" > "Editar" <br> Cuando selecciona "Cambiar foto" y sube una imagen desde su dispositivo <br> Entonces la nueva foto se mostrará en su perfil y colecciones compartidas.  | EP06 |
-| US34 | Modificar información personal (nombre, correo, etc.)  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero editar mis datos personales para mantener mi cuenta actualizada.  | **Escenario 1: Actualizar correo electrónico** Dado que el usuario está en "Configuración" > "Datos personales" <br> Cuando edita su correo electrónico y hace clic en "Guardar" <br> Entonces el sistema enviará un email de confirmación y actualizará la información. | EP06 |
-| US35 | Cambiar contraseña.  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero actualizar mi contraseña para proteger mi cuenta.  | **Escenario 1: Contraseña actualizada** <br> Dado que el usuario ingresa las opciones de su perfil y clickea el botón de “Cambiar Contraseña” <br> Cuando introduce su contraseña actual y la nueva contraseña (dos veces) <br> Entonces el sistema validará que coincidan y aplicará el cambio al confirmar. | EP06 |
-| US36 | Actualizar tarjeta de crédito asociada.  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero modificar los datos de mi tarjeta de crédito para asegurar que los pagos mensuales no fallen.  | **Escenario 1: Cambiar tarjeta activa**<br> Dado que el usuario accede a su perfil<br> Cuando selecciona "Editar información de  tarjeta" e ingresa los nuevos datos<br> Entonces el sistema validará la tarjeta y mostrará un mensaje de confirmación: "¡Tarjeta actualizada correctamente!". <br><br> **Escenario 2: Error en datos de tarjeta**<br> Dado que el usuario ingresa un número de tarjeta inválido<br> Cuando intenta guardar los cambios<br> Entonces el sistema mostrará: "Verifica los datos de tu tarjeta e inténtalo nuevamente". | EP06 |
-| US37 | Cambio de lenguaje a ingles y español en aplicación | Como usuario de ambos segmentos objetivos comprador y diseñador quiero poder cambiar el idioma del sitio entre inglés y español para comprender mejor el contenido según mi preferencia. | **Escenario 1: Cambio de idioma desde el menú** <br> Dado que el visitante accede al sitio web <br> Cuando selecciona la opción de idioma en el menú superior <br> Entonces todo el contenido del sitio se actualizará al idioma seleccionado, manteniendo la estructura visual. | EP06 |
-| US38 | Acceder a planes de suscripción premium  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero explorar los beneficios y precios del plan premium para decidir si actualizo mi cuenta.  | **Escenario 1: Ver planes disponibles** Dado que el usuario ha iniciado sesión <br> Cuando navega a "Planes"  <br> Entonces verá una comparativa de planes (Free / Plus / Infinito) con precios y beneficios destacados.  <br> <br> **Escenario 2: Seleccionar Plan Plus** <br> Dado que el usuario está en la página de suscripción <br> Cuando hace clic en el botón "Mejorar ahora" en uno de los planes <br> Y da en el botón pagar <br> Entonces se redirigirá a un formulario seguro para ingresar sus datos de pago.  <br> <br> **Escenario 2: Seleccionar Plan Infinito** <br> Dado que ha rellenado el formulario seguro para ingresar sus datos de pago <br> Y da en el botón pagar <br> Cuando la aplicación confirma el pago <br> Entonces la cuenta del usuario cambiará y se le brindaran los beneficios del plan  | EP07 |
+| US11 | Restaurar colecciones eliminadas.  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero recuperar colecciones borradas accidentalmente desde una papelera, para evitar pérdidas accidentales de información.  | **Escenario 1: Recuperar colección** <br> Dado que el usuario accede a la "Papelera" <br> Cuando selecciona una colección y hace clic en "Restaurar" <br> Entonces la colección volverá a su ubicación original. | EP01 |
+| US12 | Exportar Colecciones a PDF. | Como diseñador, quiero exportar colecciones como PDF, para presentarlas a clientes.  | **Escenario 1: Exportación exitosa.**  <br>Dado que el usuario está ubicado en una colección especifica <br> Cuando el usuario selecciona la opción "Exportar como PDF" <br> Entonces el archivo se descarga con imágenes y metadatos.  | EP02 |
+| US13 | Búsqueda semántica. | Como  usuario de ambos segmentos objetivos comprador y diseñador, quiero buscar ítems por palabras clave, tags o tipo de contenido, para encontrar rápidamente lo que necesito. | **Escenario 1: Búsqueda por tag.**<br> Dado que el usuario está en la barra de busqueda <br> Cuando escribe "\#" y un nombre de un tag en la barra de búsqueda <br> Entonces el sistema muestra todos los ítems etiquetados. <br> **Escenario 2: Búsqueda por keywords.** Dado que el usuario está en la barra de busqueda <br> Cuando escribe el nombre de una colección o ítem a buscar en la barra de búsqueda <br> Entonces el sistema muestra todos los ítems etiquetados. | EP03 |
+| US14 | Registrar Cuenta | Como visitante del segmento objetivo diseñador y comprador, quiero registrarme usando mi correo para poder acceder a las funcionalidades de la plataforma.  | **Escenario 1: Registro con correo** <br> Dado que el visitante selecciona la opción "Registrarse" <br> Cuando ingresa su correo electrónico y los datos solicitados <br> Entonces el sistema registrará su cuenta y le permitirá iniciar sesión  | EP04 |
+| US15 | Iniciar sesión en cuenta. | Como usuario  de ambos segmentos objetivos comprador y diseñador quiero iniciar sesión con mi usuario y contraseña para acceder a mi cuenta. | **Escenario 1: El usuario desea iniciar sesión.**<br> Dado que el usuario se encuentra en la pantalla de inicio de sesión <br> Cuando introduce su nombre de usuario o correo y su contraseña <br> Entonces el sistema valida las credenciales y, si son correctas, inicia sesión automáticamente en la cuenta del usuario | EP04 |
+| US16 | Ver el nombre, logo  y eslogan de la aplicación | Como visitante del segmento objetivo diseñador y comprador, quiero poder visualizar el nombre y eslogan de la aplicación para saber de qué se trata a primera vista | **Escenario 1: Ver logo en header** <br> Dado que el visitante se encuentra en la página del landing page de Keeplo <br> Cuando el visitante mire hacia la parte del header <br> Entonces el visitante podrá visualizar el logo de Keeplo arriba a la izquierda. <br> <br> **Escenario 2: Ver logo y slogan principal** Dado que el visitante se encuentra en la página del landing page de Keeplo <br> Cuando el visitante mire la sección principal <br> Entonces visualizará el logo de Keeplo y su eslogan  | EP05 |
+| US17 | Visualizar principales funciones | Como visitante del segmento objetivo de diseñador y comprador, quiero poder ver las funcionalidades que ofrece la aplicación para saber que beneficios puedo tener | **Escenario 1: Ver funcionalidades de Keeplo** <br> Dado que el visitante accede al landing page de Keeplo <br> Cuando el visitante observa la sección "Qué es Keeplo" desplazándose hacia abajo. <br> Entonces podrá visualizar tarjetas con con descripciones acerca de lo que se ofrece dentro de la aplicación. <br> <br> **Escenario 2: Ver beneficios para diseñadores** <br> Dado que el visitante del segmento objetivo de diseñadores se encuentra en la landing page <br> Cuando el visitante del segmento objetivo de diseñadores baje a la sección de planes <br> Entonces verá los beneficios para los diseñadores. <br> <br> **Escenario 3: Ver beneficios para compradores** <br> Dado que el visitante del segmento objetivo de compradores y se encuentra en la landing page <br> Cuando el visitante del segmento objetivo de compradores baje a la sección de planes <br> Entonces verá los beneficios para los compradores. | EP05 |
+| US18 | Visualizar botón destacado “Empieza ahora” en la sección principal del landing | Como visitante del segmento objetivo de diseñadores y compradores, quiero ver un botón llamativo de “Empieza ahora” en la sección principal para comenzar el proceso de registro sin perder tiempo. | **Escenario 1: Presionar botón empieza ahora** <br> Dado que el visitante se encuentra en la sección principal del landing page  <br> Y ubica el botón con el texto “Empezar ahora” <br> Cuando hace clic en el botón con el texto “Empezar ahora” <br>Entonces será redirigido a la página de registro de la aplicación. | EP05 |
+| US19 | Acceder a la página inicio de sesión desde el botón “Iniciar sesión” | Como visitante del segmento objetivo de diseñadores y compradores, quiero ver un botón llamativo de “Iniciar sesión” en el header para comenzar el proceso de inicio de sesión sin perder tiempo. | **Escenario 1: Presionar botón Iniciar Sesión** <br> Dado que el visitante se encuentra en la sección principal del landing page  <br> Y se dirige al header para clickear el botón con el texto “Iniciar Sesión” <br> Cuando hace clic en el botón con el texto “Iniciar sesión” <br>Entonces será redirigido a la página de inicio de sesión de la aplicación. | EP05 |
+| US20 | Acceder a la página de registro de diseñador a través de botón “Empezar como diseñador” | Como visitante del segmento objetivo de diseñadores, quiero poder registrarme rápidamente como un diseñador para comenzar el proceso de registro sin perder tiempo.   | **Escenario 1: Presionar botón “Empezar como diseñador”** <br> Dado que el visitante se encuentra en la sección de planes <br> Y ubica el botón “Empezar como diseñador” <br> Cuando hace clic en el botón “Empezar como diseñador”. <br> Entonces será redirigido a la página de registro como diseñador de la aplicación | EP05 |
+| US21 | Acceder a la página de registro de comprador a través de botón “Empezar como comprador” | Como visitante del segmento objetivo de comprador, quiero poder registrarme rápidamente como un comprador para comenzar el proceso de registro sin perder tiempo. | **Escenario 1: Presionar botón “Empezar como comprador”** <br> Dado que el visitante se encuentra en la sección de precios y tarifas Y ubica el botón “Empezar como comprador” <br> Cuando hace clic en el botón “Empezar como comprador”. <br> Entonces será redirigido a la página de registro como comprador de la aplicación | EP05 |
+| US22 | Navigation Bar | Como visitante del segmento objetivo diseñador y comprador quiero acceder a la barra de navegación para moverse rápidamente a cualquier sección de la página. | **Escenario 1: Ver la barra de navegación en la parte superior** <br> Dado que el visitante está en la landing page <br> Cuando hace clic en el enlace de navegación <br> Entonces el visitante será redirigido a la sección correspondiente de la misma página. | EP05 |
+| US23 | Seccion Hero | Como visitante del segmento objetivo diseñador y comprador quiero ver un mensaje llamativo y claro al entrar, para entender de inmediato el propósito de Keeplo. | **Escenario 1: Visualizar la sección hero al ingresar al sitio** <br> Dado que el visitante entra por primera vez a la landing page <br> Cuando la página carga completamente <br> Entonces el visitante verá un mensaje principal con título, descripción y botón de acción. | EP05 |
+| US24 | Seccion Estadisticas | Como visitante del segmento objetivo diseñador y comprador quiero ver estadísticas clave del uso de Keeplo para confiar más en el producto. | **Escenario 1: Consultar estadísticas del uso del servicio** <br> Dado que el visitante está navegando en la landing page <br> Cuando se desplaza hasta la sección de estadísticas <br> Entonces verá contadores con datos estadisticos del uso de Keeplo. | EP05 |
+| US25 | Seccion Ofrecemos | Como visitante del segmento objetivo diseñador y comprador quiero conocer qué funcionalidades ofrece Keeplo para evaluar si cubre mis necesidades. | **Escenario 1: Ver los beneficios de Keeplo** <br> Dado que el visitante está en la landing page <br> Cuando llega a la sección de Que Ofrecemos <br> Entonces visualizará los principales beneficios y herramientas que ofrece la aplicación. | EP05 |
+| US26 | Sección Planes | Como visitante del segmento objetivo diseñador y comprador quiero comparar los planes disponibles para decidir si debo suscribirme | **Escenario 1: Comparar planes y precios** <br> Dado que el visitante navega hasta la sección de planes <br> Cuando visualiza las opciones disponibles <br> Entonces verá los precios, características y botones de suscripción de cada plan. | EP05 |
+| US27 | Sección Porque Nosotros | Como visitante del segmento objetivo diseñador y comprador quiero saber por qué debería elegir Keeplo sobre otras opciones para tomar una decisión informada. | **Escenario 1: Conocer los diferenciales de Keeplo** <br> Dado que el visitante está en la landing page <br> Y llega a la sección “Por qué nosotros” <br> Cuando lee el contenido de esa sección <br> Entonces comprenderá las ventajas y razones por las que Keeplo es una buena elección. | EP05 |
+| US28 | Footer | Como visitante del segmento objetivo diseñador y comprador quiero ver información útil en el footer de la página para acceder rápidamente a redes sociales. | **Escenario 1: Consultar información desde el footer** <br> Dado que el visitante está en la parte inferior de la página <br> Cuando visualiza el footer <br> Entonces encontrará enlaces a redes sociales <br> | EP05 |
+| US29 | Cambio de lenguaje a ingles y español | Como visitante del segmento objetivo diseñador y comprador quiero cambiar el idioma del sitio entre inglés y español para entender mejor el contenido. | **Escenario 1: Visualizar en idioma de navegador de inglés o español** <br> Dado que el visitante tiene el idioma de su navegador configurado a ingles o espanol <br> Cuando entra a la landing page <br> Entonces todo el contenido del sitio se mostrará en el idioma del navegador. <br> <br> **Escenario 2: Visualizar en idioma de navegador de otro idioma** <br> Dado que el visitante tiene el idioma de su navegador configurado a uno que no es ingles o espanol <br> Cuando entra a la landing page <br> Entonces todo el contenido del sitio se mostrará en el idioma inglés por defecto. <br> <br> **Escenario 3: Cambiar el idioma del sitio** <br> Dado que el visitante se encuentra en la landing page <br> Cuando selecciona el botón “EN” o “ES” de la parte inferior derecha <br> Entonces todo el contenido del sitio se mostrará en el idioma elegido. | EP05 |
+| US30 | Atributos Aria | Como visitante del segmento objetivo diseñador y comprador con discapacidad quiero que el sitio sea accesible para navegarlo con lectores de pantalla. | **Escenario 1: Usar atributos ARIA para accesibilidad** <br> Dado que el visitante navega con un lector de pantalla <br> Cuando interactúa con los elementos de la interfaz <br> Entonces el lector de pantalla describirá correctamente los elementos gracias a los atributos ARIA. <br> | EP05 |
+| US31 | Modo oscuro/accesibilidad. | Como  usuario  de ambos segmentos objetivos comprador y diseñador, quiero cambiar el tema de la interfaz a modo oscuro, para mayor comodidad visual. | **Escenario 1: Activación de modo oscuro.**  <br> Dado que el usuario accede a Configuración <br> Cuando selecciona "Modo Oscuro" <br> Entonces la interfaz cambia inmediatamente. | EP06 |
+| US32 | Actualizar foto de perfil  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero cambiar mi foto de perfil para personalizar mi cuenta  | **Escenario 1: Subir nueva imagen** <br> Dado que el usuario accede a "Mi Perfil" > "Editar" <br> Cuando selecciona "Cambiar foto" y sube una imagen desde su dispositivo <br> Entonces la nueva foto se mostrará en su perfil y colecciones compartidas.  | EP06 |
+| US33 | Modificar información personal (nombre, correo, etc.)  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero editar mis datos personales para mantener mi cuenta actualizada.  | **Escenario 1: Actualizar correo electrónico** Dado que el usuario está en "Configuración" > "Datos personales" <br> Cuando edita su correo electrónico y hace clic en "Guardar" <br> Entonces el sistema enviará un email de confirmación y actualizará la información. | EP06 |
+| US34 | Cambiar contraseña.  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero actualizar mi contraseña para proteger mi cuenta.  | **Escenario 1: Contraseña actualizada** <br> Dado que el usuario ingresa las opciones de su perfil y clickea el botón de “Cambiar Contraseña” <br> Cuando introduce su contraseña actual y la nueva contraseña (dos veces) <br> Entonces el sistema validará que coincidan y aplicará el cambio al confirmar. | EP06 |
+| US35 | Actualizar tarjeta de crédito asociada.  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero modificar los datos de mi tarjeta de crédito para asegurar que los pagos mensuales no fallen.  | **Escenario 1: Cambiar tarjeta activa**<br> Dado que el usuario accede a su perfil<br> Cuando selecciona "Editar información de  tarjeta" e ingresa los nuevos datos<br> Entonces el sistema validará la tarjeta y mostrará un mensaje de confirmación: "¡Tarjeta actualizada correctamente!". <br><br> **Escenario 2: Error en datos de tarjeta**<br> Dado que el usuario ingresa un número de tarjeta inválido<br> Cuando intenta guardar los cambios<br> Entonces el sistema mostrará: "Verifica los datos de tu tarjeta e inténtalo nuevamente". | EP06 |
+| US36 | Cambio de lenguaje a ingles y español en aplicación | Como usuario de ambos segmentos objetivos comprador y diseñador quiero poder cambiar el idioma del sitio entre inglés y español para comprender mejor el contenido según mi preferencia. | **Escenario 1: Cambio de idioma desde el menú** <br> Dado que el visitante accede al sitio web <br> Cuando selecciona la opción de idioma en el menú superior <br> Entonces todo el contenido del sitio se actualizará al idioma seleccionado, manteniendo la estructura visual. | EP06 |
+| US37 | Acceder a planes de suscripción premium  | Como usuario  de ambos segmentos objetivos comprador y diseñador, quiero explorar los beneficios y precios del plan premium para decidir si actualizo mi cuenta.  | **Escenario 1: Ver planes disponibles** Dado que el usuario ha iniciado sesión <br> Cuando navega a "Planes"  <br> Entonces verá una comparativa de planes (Free / Plus / Infinito) con precios y beneficios destacados.  <br> <br> **Escenario 2: Seleccionar Plan Plus** <br> Dado que el usuario está en la página de suscripción <br> Cuando hace clic en el botón "Mejorar ahora" en uno de los planes <br> Y da en el botón pagar <br> Entonces se redirigirá a un formulario seguro para ingresar sus datos de pago.  <br> <br> **Escenario 2: Seleccionar Plan Infinito** <br> Dado que ha rellenado el formulario seguro para ingresar sus datos de pago <br> Y da en el botón pagar <br> Cuando la aplicación confirma el pago <br> Entonces la cuenta del usuario cambiará y se le brindaran los beneficios del plan  | EP07 |
 ### 3.2.3 Technical Stories:
 
 Technical:
@@ -788,38 +785,37 @@ Technical:
 | 6 | US08 | Subcarpetas en mis colecciones. | Crear subniveles dentro de una colección. | 5 |
 | 7 | US09 | Eliminar colecciones e ítems. | Eliminar colecciones con opción de recuperación. | 3 |
 | 8 | US10 | Etiquetado manual de ítems. | Añadir tags personalizados a ítems. | 2 |
-| 9 | US11 | Cambiar tema de colores del fondo de las colecciones | Personalizar fondo de colecciones. | 3 |
-| 10 | US12 | Restaurar colecciones eliminadas. | Recuperar colecciones desde la papelera. | 3 |
-| 11 | US04 | Compartir ítem mediante código QR. | Generar un QR para compartir ítems. | 3 |
-| 12 | US05 | Compartir ítem mediante link. | Generar un link para compartir ítems. | 2 |
-| 13 | US13 | Exportar Colecciones a PDF. | Descargar colecciones como documento PDF. | 5 |
-| 14 | US14 | Búsqueda semántica. | Buscar ítems por palabra clave, tag o tipo de contenido. | 5 |
-| 15 | US15 | Registrar Cuenta | Registro con correo. | 3 |
-| 16 | US16 | Iniciar sesión en cuenta. | Login con usuario y contraseña. | 2 |
-| 17 | US17 | Ver el nombre, logo y eslogan de la aplicación | Mostrar identidad de la app. | 1 |
-| 18 | US18 | Visualizar principales funciones | Mostrar lo que hace la app desde el landing page. | 2 |
-| 19 | US19 | Visualizar botón destacado “Empieza ahora” en la sección principal del landing | Llamada a acción en la landing. | 1 |
-| 20 | US20 | Acceder a la página inicio de sesión desde el botón “Iniciar sesión” | Acceder a login desde el header de landing page. | 1 |
-| 21 | US21 | Acceder a la página de registro de diseñador a través de botón “Empezar como diseñador” | Registro directo como diseñador. | 2 |
-| 22 | US22 | Acceder a la página de registro de comprador a través de botón “Empezar como comprador” | Registro rápido como comprador. | 2 |
-| 23 | US23 | Navigation Bar | Barra de navegación para moverse por el sitio. | 3 |
-| 24 | US24 | Sección Hero | Mensaje principal llamativo al entrar al sitio. | 2 |
-| 25 | US25 | Sección Estadísticas | Mostrar datos clave de uso de la plataforma. | 5 |
-| 26 | US26 | Sección Ofrecemos | Beneficios clave de la app en la landing. | 2 |
-| 27 | US27 | Sección Planes | Comparar precios y beneficios. | 3 |
-| 28 | US28 | Sección Porque Nosotros | Mostrar ventajas de Keeplo sobre otras opciones. | 2 |
-| 29 | US29 | Footer | Pie de página con info y enlaces útiles. | 2 |
-| 30 | US30 | Cambio de lenguaje a inglés y español | Alternar entre idiomas desde el sitio de landing. | 5 |
-| 31 | US31 | Atributos Aria | Accesibilidad para usuarios con lectores de pantalla. | 5 |
-| 32 | US32 | Modo oscuro/accesibilidad. | Cambiar tema y ajustar texto para mejor lectura. | 3 |
-| 33 | US33 | Actualizar foto de perfil | Cambiar la imagen del perfil del usuario. | 2 |
-| 34 | US34 | Modificar información personal (nombre, correo, etc.) | Editar nombre, correo, teléfono, etc. | 3 |
-| 35 | US35 | Cambiar contraseña. | Actualizar contraseña desde la configuración. | 2 |
-| 36 | US36 | Actualizar tarjeta de crédito asociada. | Cambiar datos de pago para suscripción. | 3 |
-| 37 | US37 | Cambio de lenguaje a inglés y español en aplicación | Alternar idioma desde la app. | 5 |
-| 38 | US38 | Acceder a planes de suscripción premium | Ver precios y beneficios, y suscribirse. | 5 |
-| 39 | US39 | Añadir video de about the team | Ver video about the team. | 3 |
-| 40 | US40 | Añadir video de about the product | Ver video de about the product. | 3 |
+| 9 | US11 | Restaurar colecciones eliminadas. | Recuperar colecciones desde la papelera. | 3 |
+| 10 | US04 | Compartir ítem mediante código QR. | Generar un QR para compartir ítems. | 3 |
+| 11 | US05 | Compartir ítem mediante link. | Generar un link para compartir ítems. | 2 |
+| 12 | US12 | Exportar Colecciones a PDF. | Descargar colecciones como documento PDF. | 5 |
+| 13 | US13 | Búsqueda semántica. | Buscar ítems por palabra clave, tag o tipo de contenido. | 5 |
+| 14 | US14 | Registrar Cuenta | Registro con correo. | 3 |
+| 15 | US15 | Iniciar sesión en cuenta. | Login con usuario y contraseña. | 2 |
+| 16 | US16 | Ver el nombre, logo y eslogan de la aplicación | Mostrar identidad de la app. | 1 |
+| 17 | US17 | Visualizar principales funciones | Mostrar lo que hace la app desde el landing page. | 2 |
+| 18 | US18 | Visualizar botón destacado “Empieza ahora” en la sección principal del landing | Llamada a acción en la landing. | 1 |
+| 19 | US19 | Acceder a la página inicio de sesión desde el botón “Iniciar sesión” | Acceder a login desde el header de landing page. | 1 |
+| 20 | US20 | Acceder a la página de registro de diseñador a través de botón “Empezar como diseñador” | Registro directo como diseñador. | 2 |
+| 21 | US21 | Acceder a la página de registro de comprador a través de botón “Empezar como comprador” | Registro rápido como comprador. | 2 |
+| 22 | US22 | Navigation Bar | Barra de navegación para moverse por el sitio. | 3 |
+| 23 | US23 | Sección Hero | Mensaje principal llamativo al entrar al sitio. | 2 |
+| 24 | US24 | Sección Estadísticas | Mostrar datos clave de uso de la plataforma. | 5 |
+| 25 | US25 | Sección Ofrecemos | Beneficios clave de la app en la landing. | 2 |
+| 26 | US26 | Sección Planes | Comparar precios y beneficios. | 3 |
+| 27 | US27 | Sección Porque Nosotros | Mostrar ventajas de Keeplo sobre otras opciones. | 2 |
+| 28 | US28 | Sección Footer | Pie de página con info y enlaces útiles. | 2 |
+| 29 | US29 | Cambio de lenguaje a inglés y español | Alternar entre idiomas desde el sitio de landing. | 5 |
+| 30 | US30 | Atributos Aria | Accesibilidad para usuarios con lectores de pantalla. | 5 |
+| 31 | US31 | Modo oscuro/accesibilidad. | Cambiar tema y ajustar texto para mejor lectura. | 3 |
+| 32 | US32 | Actualizar foto de perfil | Cambiar la imagen del perfil del usuario. | 2 |
+| 33 | US33 | Modificar información personal (nombre, correo, etc.) | Editar nombre, correo, teléfono, etc. | 3 |
+| 34 | US34 | Cambiar contraseña. | Actualizar contraseña desde la configuración. | 2 |
+| 35 | US35 | Actualizar tarjeta de crédito asociada. | Cambiar datos de pago para suscripción. | 3 |
+| 36 | US36 | Cambio de lenguaje a inglés y español en aplicación | Alternar idioma desde la app. | 5 |
+| 37 | US37 | Acceder a planes de suscripción premium | Ver precios y beneficios, y suscribirse. | 5 |
+| 38 | US38 | Añadir video de about the team | Ver video about the team. | 3 |
+| 39 | US39 | Añadir video de about the product | Ver video de about the product. | 3 |
 
 
 # Capítulo IV: Product Design
