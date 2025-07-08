@@ -53,8 +53,8 @@
 | :---- | :---- |:----------------------------------------------------------------------------------| :---- |
 | 1.0 | 25/04 | George Aliaga <br>Bryan Martinez <br>Maria Elena Muñoz <br>Luis Miguel Rojas <br>Sanchez Gonzales | Estructura del informe Capítulo I: Introducción <br>Capítulo II: Requirements Elicitation & Analysis <br>Capítulo III: Requirements Specification <br>Capítulo IV: Product Design <br>Capítulo V: Product Implementation & Deployment <br>Conclusiones <br>Recomendaciones <br>Anexos <br>Landing Page |
 | 2.0 | 13/05 | George Aliaga <br>Maria Elena Muñoz <br>Sanchez Gonzales                                  | Corrección Diagramas <br>Corrección User Stories <br>Corrección Entrevistas <br>Corrección Sprint Planning <br>Corrección Repositorios <br>Sprint 2 <br>Conclusiones <br> Web Application
-| 3.0 | 22/06 | George Aliaga <br>Maria Elena Muñoz <br>Sanchez Gonzales                                  | Corrección Diagramas <br>Corrección User Stories <br>Corrección Entrevistas <br>Corrección Sprint Planning <br>Corrección Repositorios <br>Sprint 2 <br>Conclusiones <br> Web Application
-| 4.0 | 06/07 | George Aliaga <br>Maria Elena Muñoz <br>Sanchez Gonzales                                  | Corrección de documentación <br> Implementación de Features <br> Correción Sprint Planning<br> Correción de Diagrama de Base de Datos <br> Correción de Diagrama de Clases de Backend <br> Adición de bibliografías <br> Correción <br>Anexos Complementarios
+| 3.0 | 22/06 | George Aliaga <br>Maria Elena Muñoz <br>Sanchez Gonzales                                  | Corrección Diagramas <br>Corrección User Stories <br>Corrección Entrevistas <br>Corrección Sprint Planning <br>Corrección Repositorios <br>Sprint 3 <br>Conclusiones <br> Web Application
+| 4.0 | 06/07 | George Aliaga <br>Maria Elena Muñoz <br>Sanchez Gonzales                                  | Corrección de documentación <br> Implementación de Features <br> Correción Sprint Planning<br> Correción de Diagrama de Base de Datos <br> Correción de Diagrama de Clases de Backend <br> Adición de bibliografías <br> Correción <br>Sprint 4<br>Anexos Complementarios
 
 # Project Report Collaboration Insights
 
@@ -227,6 +227,8 @@ TB2
 | Sanchez Gonzales | Entrevistas de Validación <br> Heuristicas <br> Sprint Backlog <br> Programación de Backend  <br> Corrección de Frontend  <br> Diseño de Entrevistas <br> Video About-the-ProductApplication                                    |
 | Maria Muñoz      | Sprint Planning 3  <br>  Aspect Leaders and Collaborators  <br>  Development Evidence for Sprint Review  <br> Programación de Aplicación Web  <br> Heuristicas  <br> Programación de Backend  <br> Corrección de Frontend                |
 | George Aliaga    | Entrevistas de Validación <br> Heuristicas <br> Programación de Backend <br> Corrección de Frontend <br> Conclusiones |
+
+TF
 
 <div style="page-break-after: always;"></div>
 
@@ -2377,27 +2379,6 @@ Incluir un botón de "Cerrar Sesión" fácilmente accesible, preferiblemente en 
 [![imagesolucion3.png](https://i.postimg.cc/Jn8PcTdS/image.png)](https://postimg.cc/sBnY3JzJ)
 
 
-#### *PROBLEMA \#4:* El color elegido para la colección no se visualiza
-
-Severidad: 3
-
-Heurística violada: Visibilidad del estado del sistema
-
-
-**Problema:**
-
-Al crear o editar una colección, el usuario tiene la opción de seleccionar un color para el contenedor de la misma. Sin embargo, después de realizar la selección y guardar los cambios, el color elegido no se aplica ni se muestra visualmente en el contenedor de la colección. Esto genera confusión y frustración en el usuario, ya que el sistema no refleja el cambio que se supone debería haber ocurrido.
-
-[![image4.png](https://i.postimg.cc/K8gfXX6d/image.png)](https://postimg.cc/cv0wYz4m)
-
-**Recomendación:**
-
-Asegurar que el color seleccionado por el usuario para una colección se visualice de manera inmediata y correcta en el contenedor correspondiente una vez que se ha guardado. El sistema debe proporcionar retroalimentación visual clara sobre el estado y las propiedades de los elementos creados o modificados por el usuario.
-
-
-[![image4.png](https://i.postimg.cc/m2K3yXPV/image.png)](https://postimg.cc/KRrgZ5rg)
-
-
 ## 5.4 Video About-the-Product
 
 ![Screenshot de Video About the Product](assets/abt-the-product.png)
@@ -2553,6 +2534,6 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 
 [Repositorio Backend](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/back-end)
 
-### Repositorio DBJson Server
+### Repositorio DbJson Server
 
-[Repositorio DBJson Server](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/db-json-server-keeplo)
+[Repositorio DbJson Server](https://github.com/1ASI0729-2510-4289-G3-KeepTeam/db-json-server-keeplo)
