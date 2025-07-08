@@ -2039,6 +2039,122 @@ Durante este sprint se lograron avances significativos en los tres productos pri
 
 #### 5.2.4.6 Services Documentation Evidence for Sprint Review
 
+Esta sección detalla la evidencia de documentación y despliegue para los servicios desarrollados durante el sprint. Hemos utilizado varias herramientas para asegurar una documentación API completa, un despliegue de backend sin problemas y un alojamiento eficiente de medios.
+
+### Documentación de API con Swagger
+Para proporcionar una documentación clara e interactiva para nuestras APIs de backend, integramos Swagger. Swagger genera automáticamente una interfaz fácil de usar que permite a los desarrolladores y a las partes interesadas comprender, visualizar e interactuar con los endpoints de la API.
+
+## Authentication
+### POST: Sign Up
+[![signup.png](https://i.postimg.cc/02QwpNph/image.png)](https://postimg.cc/5jhyJbKm)
+
+### POST: Sign In
+[![signin.png](https://i.postimg.cc/8zvsHfsX/image.png)](https://postimg.cc/DS22fZr1)
+
+
+
+## Users
+### GET: Obtener todos los usuarios
+[![getuser.png](https://i.postimg.cc/5yGN5fJM/image.png)](https://postimg.cc/4H6gskn8)
+
+### GET: Obtener usuario por ID
+[![getuserbyid.png](https://i.postimg.cc/T2HwvJDH/image.png)](https://postimg.cc/vDfMW9XW)
+
+### PUT: Modificar usuario específico
+[![updateuser.png](https://i.postimg.cc/fRMTxqny/image.png)](https://postimg.cc/KRs2bNYh)
+
+### PATCH: Cambiar contraseña de usuario específico
+[![changepass.png](https://i.postimg.cc/d38wCr5G/image.png)](https://postimg.cc/m12vfzfr)
+
+
+
+## Payment Cards
+### POST: Crear una nueva tarjeta de pago
+[![image.png](https://i.postimg.cc/mZjWMLjx/image.png)](https://postimg.cc/CdR2pV9J)
+
+### GET: Obtener tarjeta de usuario específico
+[![image.png](https://i.postimg.cc/Dwt9F8vG/image.png)](https://postimg.cc/87mKmkrk)
+
+### PUT: Modificar tarjeta de usuario específico
+[![image.png](https://i.postimg.cc/NfX8SMzS/image.png)](https://postimg.cc/6y9GG9wf)
+
+
+
+## Membership
+### GET: Obtener todas las membresias existentes
+[![image.png](https://i.postimg.cc/yYHRRhVd/image.png)](https://postimg.cc/ThthMD5M)
+
+
+## Subscription
+
+### POST: Añadir una suscripción a un usuario 
+[![image.png](https://i.postimg.cc/R0Ztpv8n/image.png)](https://postimg.cc/TKBhpvTR)
+
+### GET: Obtener suscripción de un usuario
+[![image.png](https://i.postimg.cc/zvKHHvL4/image.png)](https://postimg.cc/8fkzq1mb)
+
+### PUT: Modificar suscripción de un usuario
+[![image.png](https://i.postimg.cc/0QrBvR6z/image.png)](https://postimg.cc/sQdcPL4z)
+
+## Wishlist
+### POST: Crear una nueva colección 
+[![image.png](https://i.postimg.cc/RFnLGM6L/image.png)](https://postimg.cc/tZp64Gzs)
+
+### GET: Obtener todas las colecciones
+[![image.png](https://i.postimg.cc/Yq7zfBpQ/image.png)](https://postimg.cc/9zx9CSwf)
+
+### GET: Obtener colecciones de un usuario 
+[![image.png](https://i.postimg.cc/QMvpFR49/image.png)](https://postimg.cc/qtXtYZd4)
+
+### GET: Obtener colleciones por ID de Parent Collection
+[![image.png](https://i.postimg.cc/Jzk71vkd/image.png)](https://postimg.cc/VJzPg74j)
+
+### GET: Obtener una colección por ID
+[![image.png](https://i.postimg.cc/RFVznDWm/image.png)](https://postimg.cc/GBNfWzPg)
+
+### PUT: Actualizar una colección existente
+[![image.png](https://i.postimg.cc/859NQbCV/image.png)](https://postimg.cc/MM7h1VRs)
+
+
+## Wishes
+### GET: Listar deseos por colección
+[![image.png](https://i.postimg.cc/mgvYDv6c/image.png)](https://postimg.cc/0zCMXBvx)
+
+### POST: Crear un nuevo deseo
+[![image.png](https://i.postimg.cc/C11xV1Hb/image.png)](https://postimg.cc/Ny3c6Qn0)
+
+### POST: Añadir un tag al deseo
+[![image.png](https://i.postimg.cc/28pLnQ7J/image.png)](https://postimg.cc/JtqhLBgc)
+
+### GET: Obtener un deseo por ID
+[![image.png](https://i.postimg.cc/pd1przds/image.png)](https://postimg.cc/XZdVDZd5)
+
+### PUT: Actualizar un deseo existente
+[![image.png](https://i.postimg.cc/QtGZfdYX/image.png)](https://postimg.cc/Z9cQR4hg)
+
+### DELETE: Eliminar todos los tags asociados a un deseo
+[![image.png](https://i.postimg.cc/dtHMzBNN/image.png)](https://postimg.cc/N5HPX1cR)
+
+### DELETE: Eliminar un deseo por ID
+[![image.png](https://i.postimg.cc/pX6WDRvd/image.png)](https://postimg.cc/D813hV8V)
+
+### Despliegue del Frontend con Azure
+Para el despliegue de nuestra aplicación de frontend, hemos optado por Microsoft Azure. Azure es una plataforma integral de servicios en la nube que ofrece una amplia gama de soluciones, incluyendo hosting de aplicaciones web con alta disponibilidad y escalabilidad. Esto nos permite garantizar que nuestra interfaz de usuario esté siempre accesible y funcione de manera óptima para los usuarios finales.
+
+[![image.png](https://i.postimg.cc/XJR0qcyc/image.png)](https://postimg.cc/ZBxQDNHC)
+
+El FrontEnd es visible en el siguiente link: <a href="https://delightful-glacier-04ad1371e.6.azurestaticapps.net/login">Web Application</a>.
+
+### Despliegue del Backend con Render
+Nuestros servicios de backend están desplegados y alojados en Render. Render es una plataforma en la nube que proporciona una solución sencilla y escalable para desplegar aplicaciones web, APIs y bases de datos. Su facilidad de uso y los despliegues automáticos desde nuestro sistema de control de versiones (GitHub) agilizan nuestro flujo de trabajo de desarrollo.
+
+[![image.png](https://i.postimg.cc/mr1Xkx3J/image.png)](https://postimg.cc/1gPc7jjr)
+
+Para visualizar la Api, ingrese al siguiente link: <a href="https://back-end-6f02.onrender.com/swagger-ui/index.html">Keeplo Api</a>.
+
+
+### Alojamiento de Imágenes con Cloudinary
+Para el almacenamiento y la entrega eficientes de imágenes, utilizamos Cloudinary. Cloudinary es una plataforma de gestión de medios basada en la nube que ofrece funciones robustas para cargar, manipular, optimizar y entregar imágenes y videos. Esto descarga el almacenamiento de medios de nuestro servidor backend, mejorando el rendimiento y la escalabilidad.
 
 
 #### 5.2.4.7 Software Deployment Evidence for Sprint Review
