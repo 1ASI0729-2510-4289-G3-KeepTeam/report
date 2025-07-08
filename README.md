@@ -54,25 +54,27 @@
 | 1.0 | 25/04 | George Aliaga <br>Bryan Martinez <br>Maria Elena Muñoz <br>Luis Miguel Rojas <br>Sanchez Gonzales | Estructura del informe Capítulo I: Introducción <br>Capítulo II: Requirements Elicitation & Analysis <br>Capítulo III: Requirements Specification <br>Capítulo IV: Product Design <br>Capítulo V: Product Implementation & Deployment <br>Conclusiones <br>Recomendaciones <br>Anexos <br>Landing Page |
 | 2.0 | 13/05 | George Aliaga <br>Maria Elena Muñoz <br>Sanchez Gonzales                                  | Corrección Diagramas <br>Corrección User Stories <br>Corrección Entrevistas <br>Corrección Sprint Planning <br>Corrección Repositorios <br>Sprint 2 <br>Conclusiones <br> Web Application
 | 3.0 | 22/06 | George Aliaga <br>Maria Elena Muñoz <br>Sanchez Gonzales                                  | Corrección Diagramas <br>Corrección User Stories <br>Corrección Entrevistas <br>Corrección Sprint Planning <br>Corrección Repositorios <br>Sprint 3 <br>Conclusiones <br> Web Application
-| 4.0 | 06/07 | George Aliaga <br>Maria Elena Muñoz <br>Sanchez Gonzales                                  | Corrección de documentación <br> Implementación de Features <br> Correción Sprint Planning<br> Correción de Diagrama de Base de Datos <br> Correción de Diagrama de Clases de Backend <br> Adición de bibliografías <br> Correción <br>Sprint 4<br>Anexos Complementarios
+| 4.0 | 07/07 | George Aliaga <br>Maria Elena Muñoz <br>Sanchez Gonzales                                  | Corrección de documentación <br> Implementación de Features <br> Correción Sprint Planning<br> Correción de Diagrama de Base de Datos <br> Correción de Diagrama de Clases de Backend <br> Adición de bibliografías <br> Correción <br>Sprint 4<br>Anexos Complementarios
+
+<div style="page-break-after: always;"></div>
 
 # Project Report Collaboration Insights
 
 **TB1**
 
-![insight](assets/insightsDocs/tb1.png)
+<img src="assets/insightsDocs/tb1.png" alt="insight" width="300">
 
 **TP1**
 
-![insight](assets/insightsDocs/tp1.png)
+<img src="assets/insightsDocs/tp1.png" alt="insight" width="300">
 
 **TB2**
 
-![insight](assets/insightsDocs/tb2.png)
+<img src="assets/insightsDocs/tb2.png" alt="insight" width="300">
 
 **TF**
 
-![insight](assets/insightsDocs/tf.png)
+<img src="assets/insightsDocs/tf.png" alt="insight" width="300">
 
 
 <div style="page-break-after: always;"></div>
@@ -228,7 +230,7 @@
 | Maria Muñoz      | Sprint Planning 3  <br>  Aspect Leaders and Collaborators  <br>  Development Evidence for Sprint Review  <br> Programación de Aplicación Web  <br> Heuristicas  <br> Programación de Backend  <br> Corrección de Frontend                |
 | George Aliaga    | Entrevistas de Validación <br> Heuristicas <br> Programación de Backend <br> Corrección de Frontend <br> Conclusiones |
 
-*TF*
+*TF1*
 
 | Integrante                         | Tareas Asignadas                                                                                                                                          |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1158,9 +1160,21 @@ Link a C4: [Link a Structurizer](https://structurizr.com/share/87207/5b87183f-b1
 
 [![frontend-diagram.png](https://i.postimg.cc/sxCb6vYx/frontend-diagram.png)](https://postimg.cc/N9bNLGPv)
 
+[Link para visualizar imagen completa de diagrama de clase de Frontend](https://postimg.cc/N9bNLGPv)
+
+##### Capturas de Pantalla de Diagrama de Clase con Zoom
+
+![](assets/zoomDiagramas/front/public.png)
+![](assets/zoomDiagramas/front/shared.png)
+![](assets/zoomDiagramas/front/user.png)
+![](assets/zoomDiagramas/front/collections1.png)
+![](assets/zoomDiagramas/front/collections2.png)
+
 #### 4.7.1.3 Backend Class Diagram
 
 [![backend-class-diagram.png](https://i.postimg.cc/c4JYDfHh/backend-class-diagram.png)](https://postimg.cc/F127zd0k)
+
+
 
 ### 4.7.2. Class Dictionary
 
@@ -1291,10 +1305,10 @@ Link a C4: [Link a Structurizer](https://structurizr.com/share/87207/5b87183f-b1
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
-![Keeplo-2025-06-22_11-00](assets/Keeplo-2025-06-22_11-00.png)
+![Keeplo-2025-06-22_11-00](assets/dbDiagram.png)
 
 
-[Enlace del diagrama de base de datos ]([https://my.vertabelo.com/doc/pzHl6Xqb8nAH1OTw92cOjw17LIyV8NTN ](https://my.vertabelo.com/doc/pzHl6Xqb8nAH1OTw92cOjw17LIyV8NTN))
+[Enlace del diagrama de base de datos](https://my.vertabelo.com/doc/R44OTpP3BaafWbBuGSFovfPCSO2LDbPt)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -1941,7 +1955,7 @@ Durante el Sprint 3 se llevó a cabo el despliegue de los componentes principale
 
 Adicionalmente, se completó la configuración y el deployment de la base de datos MySQL en la nube mediante Azure, utilizando un Azure MySQL Flexible Server. 
 
-![Link de despliegue de backend en onrender](https://back-end-6f02.onrender.com)
+[Link de despliegue de backend en onrender](https://back-end-6f02.onrender.com)
 
 ![](assets/deploymentEvidenceSprint3/1.png)
 ![](assets/deploymentEvidenceSprint3/2.png)
@@ -2435,8 +2449,6 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 | :---: | ----- | ----- | :---- |
 | 1 | No hay un mensaje de error al equivocarse en un formulario | 1 | Usability: Prevención de errores |
 | 2 | Evitar mostrar opciones a las que el usuario no puede acceder | 2 | Usability: Prevención de errores |
-| 3 | Ausencia de una opción clara para cerrar sesión | 3 | Usability: Control y libertad del usuario |
-| 4 | El color elegido para la colección no se visualiza | 3  | Usability: Visibilidad del estado del sistema |
 
 
 ***DESCRIPCIÓN DE PROBLEMAS:***
@@ -2483,20 +2495,6 @@ Ocultar las opciones que requieren que el usuario esté con una sesión iniciada
 Severidad: 2
 
 Heurística violada: Control y libertad del usuario
-
-
-**Problema:**
-
-Los usuarios que han iniciado sesión no encuentran una opción visible o intuitiva para cerrar su sesión. Esto genera incertidumbre sobre cómo desvincular su cuenta del dispositivo actual y limita su control sobre la privacidad de su sesión.
-
-[![imageproblema3.png](https://i.postimg.cc/Y03VWcrX/image.png)](https://postimg.cc/5QXphRFv)
-
-**Recomendación:**
-
-Incluir un botón de "Cerrar Sesión" fácilmente accesible, preferiblemente en el menú del perfil del usuario o en un lugar destacado del encabezado/pie de página una vez que la sesión ha sido iniciada. Esto proporcionará al usuario un control claro y directo sobre su estado de sesión.
-
-
-[![imagesolucion3.png](https://i.postimg.cc/Jn8PcTdS/image.png)](https://postimg.cc/sBnY3JzJ)
 
 
 ## 5.4 Video About-the-Product
@@ -2595,6 +2593,7 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 
 ### Flujos y Prototipos
 - [User Flow Diagrams (Miro)](https://miro.com/welcomeonboard/aXRqaHNteXl2dlUrQTVWQ2VYSnZYc0FjblY1MTc1bEd3bklqcjdobEh4TWxCa1NFbEpBRkZkalF3WkppTjIwNXVXSElLY215aEl6c216VUN2VjU5dXVhV1hKTE84SUppTWM2SDhmaHNUVnJ0MXJZNnorMnVIUk9YV2RaRmVpYTJyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=117657769779)
+  
 - [Prototipo en Figma](https://www.figma.com/proto/QmmzmtCb8pCD996oJcV43F/Open-Source---Keeplo?node-id=135-228&t=4qndhMek0CzRLY0i-1&scaling=min-zoom&content-scaling=fixed&page-id=13%3A501&starting-point-node-id=58%3A23&show-proto-sidebar=1)
 
 ### Domain-Driven Software Architecture / C4 Diagrams
@@ -2608,7 +2607,7 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 - [Aplicación Web desplegada](https://delightful-glacier-04ad1371e.6.azurestaticapps.net)
 
 ### BackEnd
-- [Backend desplegado](https://back-end-6f02.onrender.com)
+- [Backend desplegado](back-end-6f02.onrender.com/swagger-ui/index.html)
 
 ### Video About the team
 
@@ -2629,10 +2628,15 @@ Posterior a la entrega de este trabajo, para el funcionamiento y mejora de la pl
 
 ### Video de Exposición TB1
 - [Link a video de exposión de TB1 en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EaGZUShoThhNvQY3adq7ZQUBg4-rlQKaWEKYWI-se-Ieyw?e=rFnFNl)
+  
 ### Video de Exposición TP1
 - [Link a video de exposión de TP1 en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EemubQ53MS9OrhRkFP9DlyIBs8_WMB2Uhq8we4R88KOJrw?e=ix5op1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+  
 ### Video de Exposición TB2
 - [Link a video de exposión de TB2 en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EXeLZmq8bVBNjZItoaBtP3cBoebI-z6HyCndfzP-zl-i6w?e=16C6mt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+### Video de Exposición TF1
+- [Link a video de exposión de TF1 en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EVePC2e-VkxFkBKm1rKZ6IYBWLECQk8f-ZsEeq3_a626mQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=66hKaG)
 
 <div style="page-break-after: always;"></div>
 
