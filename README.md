@@ -1539,9 +1539,7 @@ Se accedió al enlace generado para confirmar que la Landing Page se visualizaba
 | Location | Llamada mediante Discord |
 | Prepared By | George Aliaga |
 | Attendees | George Aliaga, Gabriel Sánchez, Bryan Martínez, Luis Rojas, María Muñoz |
-| Sprint 0 – 1 Review Summary | Se completó el diseño y desarrollo de la landing page de Keeplo. El resultado presentó una imagen profesional y clara del propósito de la aplicación, generando interés inicial por parte de usuarios potenciales. |
-| Sprint 0 – 1 Retrospective Summary | - Excelente coordinación inicial del equipo vía Discord.<br> - Organización eficiente de carpetas para evitar conflictos de código.<br> - Uso compartido de herramientas como Figma y GitHub facilitó la integración visual y de código. |
-| Sprint 1 Goal | Our focus is on delivering a professional and informative landing page.<br>We believe it delivers initial brand credibility and user interest to potential new users.<br>This will be confirmed when users interact with the page and understand the purpose of Keeplo. |
+| Sprint 1 Goal | Nuestro objetivo es ofrecer una página de destino profesional e informativa. <br> Creemos que esto aporta credibilidad inicial a la marca y despierta el interés de los nuevos usuarios potenciales. <br> Esto se confirmará cuando los usuarios interactúen con la página y comprendan el propósito de Keeplo. |
 | Sprint 1 Velocity | 39 |
 | Sum of Story Points | 39 |
 
@@ -1655,9 +1653,9 @@ Para este primer sprint nos enfocamos en el desarrollo de la landing page, esta 
 | Location | Llamada mediante Discord |
 | Prepared By | Gabriel Sánchez |
 | Attendees | George Aliaga, Gabriel Sánchez, María Muñoz |
-| Sprint 1 Review Summary | Se completó el desarrollo del frontend de Keeplo. Los usuarios pudieron interactuar con las funcionalidades iniciales para guardar y visualizar colecciones, y mostraron satisfacción con la interfaz. |
+| Sprint 1 Review Summary | Se completó el desarrollo de la landing page de Keeplo. Los usuarios pudieron ver las funcionalidades con las que contaria el proyecto |
 | Sprint 1 Retrospective Summary | - Mejora significativa en la organización del repositorio.<br> - Coordinación efectiva a través de Discord y WhatsApp.<br> - División adecuada de tareas frontend para avanzar en paralelo. |
-| Sprint 2 Goal | Our focus is on building a functional frontend for collection management.<br>We believe it delivers a clear and engaging experience to early users.<br>This will be confirmed when users are able to view, create and interact with collections smoothly. |
+| Sprint 2 Goal | Nuestro objetivo es crear una interfaz frontend funcional para la gestión de colecciones.<br> Creemos que ofrece una experiencia clara y atractiva a los primeros usuarios.<br> Esto se confirmará cuando los usuarios puedan ver, crear e interactuar con las colecciones sin problemas. |
 | Sprint 2 Velocity | 40 |
 | Sum of Story Points | 40 |
 
@@ -1819,9 +1817,9 @@ Para el despliegue de nuestra aplicación web decidimos utilizar los servicios d
 | Location | Llamada mediante Discord |
 | Prepared By | Gabriel Sánchez |
 | Attendees | George Aliaga, Gabriel Sánchez, María Muñoz |
-| Sprint 2 Review Summary | Se completó la integración parcial backend-frontend. Las funciones desarrolladas permitieron gestionar colecciones y deseos, y establecer la lógica de membresía. El feedback fue positivo en cuanto a la utilidad de estas funciones. |
+| Sprint 2 Review Summary | Se completó la integración parcial frontend. Las funciones desarrolladas permitieron gestionar colecciones y deseos. Se pudo probar su uso a traves de datos de una dbjson |
 | Sprint 2 Retrospective Summary | - Mayor autonomía entre miembros al dividir responsabilidades por módulos.<br> - Se consolidó la estructura por dominios en el backend.<br> - Se identificaron mejoras pendientes en seguridad y escalabilidad. |
-| Sprint 3 Goal | Our focus is on consolidating backend features for wishes, collections, users, subscriptions, and payment processing.<br>We believe it delivers the technical foundation for our membership business model to users.<br>This will be confirmed when users can interact with collections and subscriptions according to their plan. |
+| Sprint 3 Goal | Nos centramos en consolidar las funciones de backend para deseos, colecciones, usuarios, suscripciones y procesamiento de pagos. <br>Creemos que esto proporciona la base técnica para nuestro modelo de negocio de membresía a los usuarios. <br>Esto se confirmará cuando los usuarios puedan interactuar con las colecciones y suscripciones según su plan.|
 | Sprint 3 Velocity | 39 |
 | Sum of Story Points | 39 |
 
@@ -1966,9 +1964,9 @@ Adicionalmente, se completó la configuración y el deployment de la base de dat
 | Location | Llamada mediante Discord |
 | Prepared By | Gabriel Sanchez |
 | Attendees | George Aliaga, Gabriel Sánchez, María Muñoz |
-| Sprint 3 Review Summary | Los módulos funcionales del backend fueron integrados y se estableció la lógica de membresías. Los usuarios ya pueden gestionar colecciones con límites según su plan. |
+| Sprint 3 Review Summary | Los módulos funcionales del backend fueron integrados y se estableció la lógica de membresías. Los usuarios ya pueden gestionar colecciones y sus items dentro de estas. |
 | Sprint 3 Retrospective Summary | - Se identificó la necesidad de proteger los endpoints con autenticación.<br> - Se discutió la importancia de segmentar claramente los beneficios de cada tipo de plan.<br> - Se acordó mejorar la utilidad para el usuario con funciones adicionales como exportar contenido. |
-| Sprint 4 Goal | Nos enfocamos en asegurar el acceso y mejorar el control de las funciones con tokens y permisos basados en la membresía. Creemos que esto genera confianza, exclusividad y potencial de monetización tanto para los usuarios gratuitos como para los premium.<br>Esto se confirmará cuando los miembros puedan adquirir un plan de forma segura y acceder a funciones premium como la exportación a PDF. |
+| Sprint 4 Goal | Nos enfocamos en asegurar el acceso y mejorar el control de las funciones con tokens y permisos basados en la membresía. <br> Creemos que esto genera confianza, exclusividad y potencial de monetización tanto para los usuarios gratuitos como para los premium.<br>Esto se confirmará cuando los miembros puedan adquirir un plan de forma segura y acceder a funciones premium como la exportación a PDF. |
 | Sprint 4 Velocity | 40 |
 | Sum of Story Points | 40 |
 
