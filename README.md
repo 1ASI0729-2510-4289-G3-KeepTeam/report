@@ -1960,7 +1960,7 @@ Adicionalmente, se completó la configuración y el deployment de la base de dat
 | Attendees | George Aliaga, Gabriel Sánchez, María Muñoz |
 | Sprint 3 Review Summary | Los módulos funcionales del backend fueron integrados y se estableció la lógica de membresías. Los usuarios ya pueden gestionar colecciones con límites según su plan. |
 | Sprint 3 Retrospective Summary | - Se identificó la necesidad de proteger los endpoints con autenticación.<br> - Se discutió la importancia de segmentar claramente los beneficios de cada tipo de plan.<br> - Se acordó mejorar la utilidad para el usuario con funciones adicionales como exportar contenido. |
-| Sprint 4 Goal | Our focus is on securing access and enhancing feature control with tokens and membership-based permissions.<br>We believe it delivers trust, exclusivity and monetization potential to both free and premium users.<br>This will be confirmed when members can securely purchase a plan and access premium features like PDF export. |
+| Sprint 4 Goal | Nos enfocamos en asegurar el acceso y mejorar el control de las funciones con tokens y permisos basados en la membresía. Creemos que esto genera confianza, exclusividad y potencial de monetización tanto para los usuarios gratuitos como para los premium.<br>Esto se confirmará cuando los miembros puedan adquirir un plan de forma segura y acceder a funciones premium como la exportación a PDF. |
 | Sprint 4 Velocity | 40 |
 | Sum of Story Points | 40 |
 
@@ -2021,9 +2021,43 @@ Durante este sprint se lograron avances significativos en los tres productos pri
 
 
 #### 5.2.4.5 Execution Evidence for Sprint Review
+
+![](assets/executionEvidence/1.png)
+![](assets/executionEvidence/2.png)
+![](assets/executionEvidence/3.png)
+![](assets/executionEvidence/4.png)
+![](assets/executionEvidence/5.png)
+![](assets/executionEvidence/6.png)
+
 #### 5.2.4.6 Services Documentation Evidence for Sprint Review
+
+
+
 #### 5.2.4.7 Software Deployment Evidence for Sprint Review
+
+Durante este Sprint, completamos exitosamente el deployment del backend y se encuentra actualmente alojado en Render. Para la base de datos, utilizamos un Azure Database for MySQL, que actúa como nuestro servidor de datos principal en producción.
+
+El backend está documentado usando Swagger, lo cual nos permite exponer y probar nuestra API de manera clara y estructurada durante el desarrollo y en producción.
+
+Además, estamos configurando un Azure Web App Service para desplegar el frontend, con el objetivo de tener pronto un entorno completo accesible públicamente para demostraciones y pruebas integradas.
+
+Con esto, aseguramos que las funcionalidades desarrolladas durante el Sprint 4 están disponibles en entornos reales y listos para ser evaluados por los interesados.
+
+![](assets/deploymentEvidenceSprint4/1.png)
+![](assets/deploymentEvidenceSprint4/3.png)
+![](assets/deploymentEvidenceSprint4/4.png)
+![](assets/deploymentEvidenceSprint4/5.png)
+
+
 #### 5.2.4.8 Team Collaboration Insights during Sprint
+
+##### Insights Frontend
+
+![](assets/insightsSprint4/front.png)
+
+##### Insights Backend
+
+![](assets/insightsSprint4/back.png)
 
 ## 5.3 Validation Interviews
 
