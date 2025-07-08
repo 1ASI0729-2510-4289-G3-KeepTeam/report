@@ -1152,7 +1152,7 @@ Link a C4: [Link a Structurizer](https://structurizr.com/share/87207/5b87183f-b1
 
 #### 4.7.1.3 Backend Class Diagram
 
-[![backend-class-diagram.png](https://i.postimg.cc/prdkHzPT/backend-class-diagram.png)](https://postimg.cc/WFQ0mDFL)
+[![backend-class-diagram.png](https://i.postimg.cc/c4JYDfHh/backend-class-diagram.png)](https://postimg.cc/F127zd0k)
 
 ### 4.7.2. Class Dictionary
 
